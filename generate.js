@@ -5,8 +5,8 @@ function thousands(x) {
 fs.readdir('data', function(err, files) {
 	for(file of files) {
 		const level = file.split('.')[0];
-		let any = 'Poly Bridge 2 - '+level+' any% leaderboards, updated '+new Date().toISOString()+"\n\n";
-		let unb = 'Poly Bridge 2 - '+level+' unbreaking leaderboards, updated '+new Date().toISOString()+"\n\n";
+		let any = 'Poly Bridge 2 - '+level.toUpperCase()+' any% leaderboards, updated '+new Date().toISOString()+"\n\n";
+		let unb = 'Poly Bridge 2 - '+level.toUpperCase()+' unbreaking leaderboards, updated '+new Date().toISOString()+"\n\n";
 		console.log(level);
 		let data = fs.readFileSync('data/'+file);
 		let lb = JSON.parse(data);
