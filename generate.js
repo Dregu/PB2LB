@@ -193,7 +193,7 @@ fs.readdir('data', function(err, files) {
 			n++;
 			any += line+"\n";
 		}
-		fs.writeFile('leaderboards/'+level+"_any.txt", any, function (err) {
+		fs.writeFile('leaderboards/'+level.toLowerCase()+"_any.txt", any, function (err) {
 			if (err) return console.log(err);
 		});
 
@@ -204,7 +204,7 @@ fs.readdir('data', function(err, files) {
 			n++;
 			unb += line+"\n";
 		}
-		fs.writeFile('leaderboards/'+level+"_unbreaking.txt", unb, function (err) {
+		fs.writeFile('leaderboards/'+level.toLowerCase()+"_unbreaking.txt", unb, function (err) {
 			if (err) return console.log(err);
 		});
 	}
