@@ -15,7 +15,7 @@ const identifiers = {
 "3c": ["Vezab","Arl3V","b83PV","A5GZV","bqYMb","AGDon","ApQ9n","ApQ2n","AgrJb","bdaqA","Agrrb","b7lxA","bmK2n","Vl5Rb","bOpmA","nRM7A"],
 "4c": ["b7ljA","bOpaA","Aa5OA","VwMpA","A0ZaV","bqYob","A5GJV","b3WDb","nXZzb","nRM8A","AGD6n","AB19b","Vez1b","bmK9n","AoqpV","Vl5gb"],
 "5c": ["bx3E5","nLar9","bdaJr","b8zGP","AgrJr","ArdM3","ApQj2","VzJ2G","VJGKB","V45eQ","Av8NP","bNdLo","b2Z5w","nQm4e","V6BRD","VPeKo"],
-"6":  ["bOeMR","A5XOx","nR5Re","bm2OL","b7WRR","Vl2Wp","VeDY5","AGvLD","AaE79","bqe7e","b3Y34","nXvLa","ABND7","Vwa8y","A0QrO","Aor26"]
+"6":  ["bOeMR","A5XOx","nR5Re","bm2OL","b7WRR","nXvLa","Vl2Wp","VeDY5","AGvLD","ABND7","AaE79","b3Y34","bqe7e","Vwa8y","A0QrO","Aor26"]
 }
 
 function getLevel(id, name, url) {

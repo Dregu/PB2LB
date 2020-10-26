@@ -184,9 +184,9 @@ fs.readdir('data', function(err, files) {
 	for(file of files) {
 		const level = file.split('.')[0].toUpperCase();
 		let name = levels[level];
-		if(!name && level.startsWith('w')) {
+		if(!name && level.startsWith('W')) {
 			name = 'Weekly Challenge #'+level.substr(1);
-		} else {
+		} else if(!name) {
 			name = '???';
 		}
 		console.log(level, name);
