@@ -68,7 +68,7 @@ async function getChallengeIds() {
 async function getChallenges() {
 	let weeklys = await getChallengeIds();
 	for(week of weeklys) {
-		await getLevel(week.id, 'w'+week.week, download_challenges_url);
+		await getLevel(week.id, 'w'+String(week.week).padStart(4, '0'), download_challenges_url);
 	}
 }
 async function update() {
