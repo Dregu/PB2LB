@@ -15,6 +15,8 @@ jobs:
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
     - name: Create local changes
       run: |
+        mkdir -p data
+        mkdir -p leaderboards
         node update.js
         node generate.js
     - name: Commit files
