@@ -1,4 +1,4 @@
-name: Update weekly
+name: Update daily
 on:
   schedule:
     - cron: '59 23 * * *'
