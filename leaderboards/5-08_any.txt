@@ -1,6 +1,6 @@
 Poly Bridge 2 - 5-08 "Bus Routes" any% leaderboard (* = breaks)
-Updated 2021-03-23T04:53:32.729Z
-1000/7342 unique ranks shown
+Updated 2021-03-24T00:01:02.283Z
+1000/7352 unique ranks shown
 
     1. $11,740 7777Alex7777
     2. $11,784 Roevhaal
@@ -28,14 +28,14 @@ Updated 2021-03-23T04:53:32.729Z
    24. $17,146 ~ Smithy ~
    25. $17,755 Grimforse
    26. $17,803 stephanierousseau
-   27. $18,181 YC_M
-   28. $18,478 Zen
-   29. $18,967 geroniberry
-   30. $19,104 bammusic4u
-   31. $19,138 Luuroon
-   32. $19,344 palfly15
-   33. $19,381 gamespilgame
-   34. $19,432 Fathom
+  *27. $17,999 Fathom
+   28. $18,181 YC_M
+   29. $18,478 Zen
+   30. $18,967 geroniberry
+   31. $19,104 bammusic4u
+   32. $19,138 Luuroon
+   33. $19,344 palfly15
+   34. $19,381 gamespilgame
    35. $19,432 Bibbb
    36. $19,432 cavetroll
    37. $19,891 513942169
@@ -674,8 +674,8 @@ Updated 2021-03-23T04:53:32.729Z
   670. $52,707 MobyDew
   671. $52,729 Dylan the Nerd
   672. $52,731 reichu
- *673. $52,747 aug920
-  674. $52,747 tuftoark
+  673. $52,747 tuftoark
+ *674. $52,747 aug920
   675. $52,757 F-Tang Shadow
   676. $52,760 stoeckl.cl
  *677. $52,761 noname
