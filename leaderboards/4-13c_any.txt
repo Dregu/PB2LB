@@ -1,12 +1,12 @@
 Poly Bridge 2 - 4-13C "Diagonal Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-03-24T00:01:02.206Z
-1000/2931 unique ranks shown
+Updated 2021-03-25T00:34:13.354Z
+1000/2932 unique ranks shown
 
-   *1. $2,469  7777Alex7777
+   *1. $2,450  Fathom
    *2. $2,469  Zen
    *3. $2,469  somefakegamer
-   *4. $2,525  palfly15
-   *5. $2,588  Fathom
+   *4. $2,469  7777Alex7777
+   *5. $2,525  palfly15
    *6. $2,699  MOD
    *7. $2,996  Trygeve
    *8. $3,015  9k5
@@ -90,7 +90,7 @@ Updated 2021-03-24T00:01:02.206Z
    86. $23,330 Maarto
   *87. $23,360 alex
   *88. $23,453 BuildingDR
-   89. $23,460 jeremywinick
+  *89. $23,460 jeremywinick
   *90. $23,461 jason.fritsch18
    91. $23,468 pufaxx
   *92. $23,515 Seldaphar
@@ -262,8 +262,8 @@ Updated 2021-03-24T00:01:02.206Z
  *258. $30,367 Maruka
   259. $30,477 adikus
  *260. $30,498 CeeJay
- *261. $30,548 enderquest
-  262. $30,548 Anson10260
+  261. $30,548 Anson10260
+ *262. $30,548 enderquest
   263. $30,620 supremechalupa
   264. $30,630 ✪ tom1911
  *265. $30,639 b0n3
@@ -334,8 +334,8 @@ Updated 2021-03-24T00:01:02.206Z
   330. $32,500 Triss :)
   331. $32,590 Teywer
   332. $32,594 ilia.gureev
- *333. $32,655 DerMarwin
- *334. $32,655 TheHiv3_m1nd
+ *333. $32,655 TheHiv3_m1nd
+ *334. $32,655 DerMarwin
   335. $32,684 LilyWinter
  *336. $32,696 Broodje Bal
   337. $32,698 CasualSanta
@@ -416,7 +416,7 @@ Updated 2021-03-24T00:01:02.206Z
   412. $34,844 Thunderblade73
   413. $34,847 Moly!
   414. $34,860 iressle
- *415. $34,944 Offspec
+  415. $34,944 Offspec
   416. $34,972 jjmartin
  *417. $34,973 Kraechel
  *418. $34,977 KidMessiah
@@ -483,7 +483,7 @@ Updated 2021-03-24T00:01:02.206Z
   479. $36,321 Adamsaxe
   480. $36,348 cade
  *481. $36,350 shavrin777
- *482. $36,379 KettleMan
+  482. $36,379 KettleMan
  *483. $36,453 Bellei
   484. $36,454 Succ
   485. $36,464 CApybaraLORDgOD
@@ -515,7 +515,7 @@ Updated 2021-03-24T00:01:02.206Z
  *511. $37,238 jtfritz1999
   512. $37,247 Theoddredhead
   513. $37,252 Jupiter
-  514. $37,283 nabster
+ *514. $37,283 nabster
   515. $37,326 niels7796
   516. $37,341 loriscao
   517. $37,403 Meanen
@@ -529,8 +529,8 @@ Updated 2021-03-24T00:01:02.206Z
   525. $37,576 K1ll M3 Pl5
   526. $37,577 jtrimbl3
  *527. $37,579 Jbot
- *528. $37,653 Whyit1
- *529. $37,653 FastidiousPanda
+ *528. $37,653 FastidiousPanda
+ *529. $37,653 Whyit1
   530. $37,658 justinfreak
  *531. $37,663 Eberhart
   532. $37,673 benjamin2027
@@ -918,7 +918,7 @@ Updated 2021-03-24T00:01:02.206Z
   914. $46,433 DrunkenFlamenc
   915. $46,458 CantTouchDis
   916. $46,463 Beelzebub
-  917. $46,465 Patrick
+ *917. $46,465 Patrick
   918. $46,481 TreyBombay
   919. $46,484 Potato
   920. $46,497 Brentwould
@@ -1001,4 +1001,4 @@ Updated 2021-03-24T00:01:02.206Z
   997. $48,009 Everblaze
  *998. $48,018 piccolo_SPA
   999. $48,020 tosh
- 1000. $48,026 TucLTU
+*1000. $48,026 jcricheson
