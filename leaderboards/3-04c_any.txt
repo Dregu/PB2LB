@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-04C "Double Down" any% leaderboard (* = breaks)
-Updated 2021-03-31T00:01:11.189Z
-1000/4316 unique ranks shown
+Updated 2021-04-01T00:26:36.385Z
+1000/4317 unique ranks shown
 
    *1. $13,265 Jhay80416
     2. $14,240 Bellair08
@@ -48,13 +48,13 @@ Updated 2021-03-31T00:01:11.189Z
   *44. $17,864 Herneerius
   *45. $17,886 Cix
   *46. $17,905 Arbeitsloser Trümmertürke
-   47. $17,961 Croney
+  *47. $17,961 Croney
    48. $18,005 Marcel
   *49. $18,162 alicele14
   *50. $18,212 Lima
   *51. $18,226 Thoomor
   *52. $18,241 mraow~
-  *53. $18,466 Go Seigen
+   53. $18,466 Go Seigen
    54. $18,496 bastian.bello.c
   *55. $18,500 fomolom
   *56. $18,547 Honn
@@ -114,8 +114,8 @@ Updated 2021-03-31T00:01:11.189Z
  *110. $21,743 Not_brick
   111. $21,749 lukas.bornheim
  *112. $21,776 Noisyboy
- *113. $21,817 Knugen
-  114. $21,817 iressle
+  113. $21,817 iressle
+ *114. $21,817 Knugen
  *115. $21,855 GKHallGamer
  *116. $21,866 Bull Moose
  *117. $22,004 Teh
@@ -218,7 +218,7 @@ Updated 2021-03-31T00:01:11.189Z
  *214. $27,498 Sn1kers00 | ♦♠♦
  *215. $27,550 Dimma the Wifebeater
   216. $27,553 jamiegbreault
-  217. $27,676 aajw0308
+ *217. $27,676 aajw0308
   218. $27,695 XIEPER
  *219. $27,708 rolek2
   220. $27,751 [BT] Smithers
@@ -290,7 +290,7 @@ Updated 2021-03-31T00:01:11.189Z
  *286. $29,382 Pat
   287. $29,402 MTyne
  *288. $29,416 jcrowley30
-  289. $29,423 Aqenbpuu
+ *289. $29,423 Aqenbpuu
   290. $29,434 Sexy Boy Industries [woop]
   291. $29,443 mopure33266
  *292. $29,451 AwesomeHolden6
@@ -414,8 +414,8 @@ Updated 2021-03-31T00:01:11.189Z
   410. $31,095 Knoxy
   411. $31,107 pegarneau
   412. $31,118 Hipsterfred
-  413. $31,128 Ethan
- *414. $31,128 [PFGUs]Poisoned Fox
+ *413. $31,128 [PFGUs]Poisoned Fox
+  414. $31,128 Ethan
   415. $31,135 Teflon(てふろん）
   416. $31,140 duckman
   417. $31,146 tojapietia
@@ -509,8 +509,8 @@ Updated 2021-03-31T00:01:11.189Z
   505. $31,973 Drake84
  *506. $31,978 baukelh
  *507. $31,998 Crunchlaw
- *508. $32,004 JoyDAsh
- *509. $32,004 Roquefort Legato
+ *508. $32,004 Roquefort Legato
+ *509. $32,004 JoyDAsh
   510. $32,009 Maky_(HUN)
   511. $32,010 Pantharmaul
  *512. $32,028 tentin quarantino
@@ -536,12 +536,12 @@ Updated 2021-03-31T00:01:11.189Z
   532. $32,123 elli_rynbw
   533. $32,127 tadashif4053
   534. $32,129 90nine
- *535. $32,130 Kyle
-  536. $32,130 breadeaterlol
-  537. $32,130 dridhaswana2
-  538. $32,130 rainy
-  539. $32,130 Valquoi
-  540. $32,130 Matty90509
+  535. $32,130 breadeaterlol
+  536. $32,130 dridhaswana2
+  537. $32,130 rainy
+  538. $32,130 Valquoi
+  539. $32,130 Matty90509
+ *540. $32,130 Kyle
   541. $32,132 雨宫美咲
   542. $32,133 jorkrohn
   543. $32,134 MGE Gang
@@ -550,8 +550,8 @@ Updated 2021-03-31T00:01:11.189Z
   546. $32,147 Mannor
   547. $32,148 Sentur
   548. $32,151 Styoupeur
- *549. $32,151 sleepyy.
-  550. $32,151 toqlc4179
+  549. $32,151 toqlc4179
+ *550. $32,151 sleepyy.
   551. $32,183 Danyal
   552. $32,190 hippolippo
   553. $32,192 Will2875
@@ -562,7 +562,7 @@ Updated 2021-03-31T00:01:11.189Z
   558. $32,217 AgileSpace
   559. $32,223 Andre
   560. $32,225 W@rri0r
- *561. $32,226 eriks5955
+  561. $32,226 eriks5955
   562. $32,230 MØØSH
   563. $32,230 Cep
   564. $32,231 malizma333
@@ -579,8 +579,8 @@ Updated 2021-03-31T00:01:11.189Z
   575. $32,294 Combustion_
   576. $32,302 Kenton
   577. $32,309 hjerppe
-  578. $32,322 fmhorsman
- *579. $32,322 Teragorn
+ *578. $32,322 Teragorn
+  579. $32,322 fmhorsman
   580. $32,339 Chaosopher
  *581. $32,342 oegg
   582. $32,345 popapea
@@ -596,7 +596,7 @@ Updated 2021-03-31T00:01:11.189Z
   592. $32,419 Phraxious
   593. $32,431 Kuhler Emil
   594. $32,435 joemcgrattan2
-  595. $32,436 jaredkazoo
+ *595. $32,436 jaredkazoo
   596. $32,444 metalpimple
   597. $32,451 Duyzee
   598. $32,464 SJZombie
@@ -785,8 +785,8 @@ Updated 2021-03-31T00:01:11.189Z
   781. $33,674 SNN9823
   782. $33,675 lagerqvist Adam
   783. $33,678 Shane
-  784. $33,681 Wickerznn ⚫⃤
- *785. $33,681 sukonbu0517
+ *784. $33,681 sukonbu0517
+  785. $33,681 Wickerznn ⚫⃤
   786. $33,691 Audity
   787. $33,693 Pamani
   788. $33,694 pete
