@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-16 "Don't Leave Me" any% leaderboard (* = breaks)
-Updated 2021-04-01T00:26:36.610Z
-1000/22591 unique ranks shown
+Updated 2021-04-02T00:34:16.512Z
+1000/22614 unique ranks shown
 
    *1. $16,543 Trygeve
    *2. $16,666 Bellair08
@@ -30,7 +30,7 @@ Updated 2021-04-01T00:26:36.610Z
    26. $22,081 Kjell
    27. $22,120 Professional Chicken
   *28. $22,124 torry
-   29. $22,147 Kuma
+  *29. $22,147 Kuma
    30. $22,163 alex
    31. $22,174 iso Compass
    32. $22,210 jakobberchtold
@@ -103,21 +103,21 @@ Updated 2021-04-01T00:26:36.610Z
    99. $24,284 Bibbb
   100. $24,312 Combustion_
   101. $24,315 stinod2
- *102. $24,352 waldo_phill
- *103. $24,371 to915
-  104. $24,374 BaconPancakes
-  105. $24,387 CavoX5
-  106. $24,459 TrakDah
- *107. $24,484 gamespilgame
+ *102. $24,328 stephanierousseau
+ *103. $24,352 waldo_phill
+ *104. $24,371 to915
+  105. $24,374 BaconPancakes
+  106. $24,387 CavoX5
+  107. $24,459 TrakDah
  *108. $24,484 geroniberry
-  109. $24,486 bastian.bello.c
-  110. $24,492 VillePillePäronPung
-  111. $24,506 TheSadSlinky
-  112. $24,554 bestRanar
-  113. $24,559 Yaky
-  114. $24,573 Voxadi
-  115. $24,589 MuscleMuscleDigDa
-  116. $24,600 stephanierousseau
+ *109. $24,484 gamespilgame
+  110. $24,486 bastian.bello.c
+  111. $24,492 VillePillePäronPung
+  112. $24,506 TheSadSlinky
+  113. $24,554 bestRanar
+  114. $24,559 Yaky
+  115. $24,573 Voxadi
+  116. $24,589 MuscleMuscleDigDa
  *117. $24,605 FLEXIANA
   118. $24,606 NinjaBRK
   119. $24,632 Totori
@@ -258,8 +258,8 @@ Updated 2021-04-01T00:26:36.610Z
   254. $26,204 Treharr
   255. $26,217 silverSeb
   256. $26,227 Leevi
-  257. $26,229 Pilou
- *258. $26,229 Kreeony
+ *257. $26,229 Kreeony
+  258. $26,229 Pilou
   259. $26,230 jeremywinick
   260. $26,245 El Mauricio
   261. $26,251 fitzgibb
@@ -370,7 +370,7 @@ Updated 2021-04-01T00:26:36.610Z
   366. $27,366 maffers
   367. $27,373 Morilli
   368. $27,396 presshaustablets
-  369. $27,399 Bram2323
+ *369. $27,399 Bram2323
  *370. $27,400 Sandro
  *371. $27,421 llama
   372. $27,422 Diego Brando
@@ -749,8 +749,8 @@ Updated 2021-04-01T00:26:36.610Z
   745. $29,501 P4T
   746. $29,502 Tachys
   747. $29,502 Fatboy
-  748. $29,512 ealexz
- *749. $29,512 danielwindridges
+ *748. $29,512 danielwindridges
+  749. $29,512 ealexz
   750. $29,514 AZ-LT
   751. $29,540 Anton
   752. $29,546 ed.fenton
@@ -843,8 +843,8 @@ Updated 2021-04-01T00:26:36.610Z
   839. $29,872 neo_gr
   840. $29,872 GChilley
   841. $29,880 toimiski
- *842. $29,883 Kengarr
- *843. $29,883 ferdifishy_
+ *842. $29,883 ferdifishy_
+ *843. $29,883 Kengarr
   844. $29,886 Bosc
   845. $29,888 BoldHarry
   846. $29,889 Tinymight
@@ -882,11 +882,11 @@ Updated 2021-04-01T00:26:36.610Z
   878. $29,978 Onion
  *879. $29,981 Jack✫
   880. $29,982 ✪ CrazyAsian
-  881. $29,984 MiseryMonkey
- *882. $29,984 Meta70
+ *881. $29,984 Meta70
+  882. $29,984 MiseryMonkey
   883. $29,986 Totulhu
- *884. $29,987 Tactical Insomnia
-  885. $29,987 Lupo
+  884. $29,987 Lupo
+ *885. $29,987 Tactical Insomnia
   886. $29,990 Alo & Sport
   887. $29,992 Icy Unicorn
   888. $29,994 PflanzenLP
@@ -948,8 +948,8 @@ Updated 2021-04-01T00:26:36.610Z
   944. $30,243 superfeng99
   945. $30,243 goergel
   946. $30,248 Thoradrin
-  947. $30,251 Gulder
- *948. $30,251 3rdkindpark
+ *947. $30,251 3rdkindpark
+  948. $30,251 Gulder
  *949. $30,255 Lunk
   950. $30,258 carpejdm
   951. $30,265 boeringuy
@@ -982,8 +982,8 @@ Updated 2021-04-01T00:26:36.610Z
   978. $30,377 Pengujedi
  *979. $30,381 Noa Andersson
   980. $30,389 asdf1463
-  981. $30,391 player1
- *982. $30,391 renault 9 1HP 1600CC valor DM
+ *981. $30,391 renault 9 1HP 1600CC valor DM
+  982. $30,391 player1
  *983. $30,393 shalay2
   984. $30,396 Doble Jota
  *985. $30,398 libecrola
