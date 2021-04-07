@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-03 "Sloped Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-04-06T00:26:37.786Z
-1000/32375 unique ranks shown
+Updated 2021-04-07T00:26:23.657Z
+1000/32396 unique ranks shown
 
    *1. $6,969  somefakegamer
    *2. $6,969  minecat
@@ -351,7 +351,7 @@ Updated 2021-04-06T00:26:37.786Z
   347. $29,328 jimmyscully
   348. $29,329 dorel_sofer_pe_glont69
   349. $29,329 j.westerbos
-  350. $29,331 Mac
+ *350. $29,331 Mac
   351. $29,339 Icy Unicorn
   352. $29,341 evandennewitz
   353. $29,350 rx7man
@@ -393,8 +393,8 @@ Updated 2021-04-06T00:26:37.786Z
   389. $29,567 chupa71
   390. $29,588 MianMiao
   391. $29,589 Martin
- *392. $29,610 Helper_Monkey
-  393. $29,610 Karmiilla
+  392. $29,610 Karmiilla
+ *393. $29,610 Helper_Monkey
   394. $29,615 tom.brabbin
   395. $29,623 jeremywinick
   396. $29,624 Friar Laurence
@@ -612,8 +612,8 @@ Updated 2021-04-06T00:26:37.786Z
   608. $31,035 Galock
   609. $31,038 Amadeus
  *610. $31,053 pete
- *611. $31,055 Bram2323
-  612. $31,055 DeScheleVogel
+  611. $31,055 DeScheleVogel
+ *612. $31,055 Bram2323
   613. $31,060 Tubson
   614. $31,061 Beesechurger
   615. $31,065 cimi1715
@@ -686,8 +686,8 @@ Updated 2021-04-06T00:26:37.786Z
   682. $31,443 rabidus
   683. $31,445 powan
   684. $31,446 SirPig
- *685. $31,449 AZ-LT
- *686. $31,449 Knufire
+ *685. $31,449 Knufire
+ *686. $31,449 AZ-LT
   687. $31,451 Farøn
   688. $31,455 Businessman
   689. $31,458 grebnek
@@ -822,7 +822,7 @@ Updated 2021-04-06T00:26:37.786Z
   818. $31,987 Kimnet328
   819. $31,992 Mr_Schrecklich
   820. $31,994 Fireel
-  821. $31,996 Thisisdumb41
+ *821. $31,996 Thisisdumb41
   822. $31,997 Dabbi
   823. $31,999 DS-Ghostman
   824. $32,002 IanSar
