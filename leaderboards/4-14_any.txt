@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-14 "Big Rigs" any% leaderboard (* = breaks)
-Updated 2021-04-10T00:26:02.879Z
-1000/22229 unique ranks shown
+Updated 2021-04-11T00:28:27.278Z
+1000/22260 unique ranks shown
 
    *1. $4,369  Zen
    *2. $10,510 GuacamoleLover27
@@ -24,7 +24,7 @@ Updated 2021-04-10T00:26:02.879Z
   *20. $29,893 Tactical Insomnia
    21. $31,158 Kalorienreduziert
    22. $31,230 TheRocket
-   23. $31,236 DaveMcW
+  *23. $31,236 DaveMcW
   *24. $31,252 Luuroon
   *25. $31,310 michaelandbrother
    26. $31,585 Herneerius
@@ -393,7 +393,7 @@ Updated 2021-04-10T00:26:02.879Z
   389. $40,692 madmax95
   390. $40,693 ☣ KILLERZΣUS ☣
   391. $40,701 carewolf
-  392. $40,704 bille
+ *392. $40,704 bille
   393. $40,748 Whyit1
   394. $40,844 CS2100
   395. $40,858 Z-Axis
@@ -583,7 +583,7 @@ Updated 2021-04-10T00:26:02.879Z
   579. $42,979 qzhangli
  *580. $42,982 Momo
   581. $42,989 DragoWhooves
-  582. $42,991 sim1manson
+ *582. $42,991 sim1manson
   583. $43,019 Saint Miller
   584. $43,028 JamieCook
   585. $43,032 Arak'nae
@@ -701,7 +701,7 @@ Updated 2021-04-10T00:26:02.879Z
   697. $43,970 fuppywith
  *698. $43,979 esp1410
   699. $43,983 Jemkat
- *700. $43,996 Suti
+  700. $43,996 Suti
  *701. $43,997 Teh
   702. $44,006 Bellei
   703. $44,009 AdmiralChu
@@ -769,7 +769,7 @@ Updated 2021-04-10T00:26:02.879Z
   765. $44,415 XIEPER
   766. $44,437 Aklhys
   767. $44,439 DEUTSCHLAND7007
- *768. $44,441 Sticky Kitty!
+  768. $44,441 Sticky Kitty!
   769. $44,453 SSJ2 Gohan
  *770. $44,456 Zamzibar
   771. $44,464 BMNascimento
@@ -798,8 +798,8 @@ Updated 2021-04-10T00:26:02.879Z
   794. $44,643 whatever
   795. $44,647 J黑
   796. $44,648 bfninjamonkey
- *797. $44,648 TheDynamicRam
-  798. $44,648 Shanghai
+  797. $44,648 Shanghai
+ *798. $44,648 TheDynamicRam
   799. $44,653 Darthvillager
   800. $44,662 JamerTheGamer
   801. $44,664 marcusm0419
@@ -958,8 +958,8 @@ Updated 2021-04-10T00:26:02.879Z
   954. $45,527 ashulato
  *955. $45,532 Камушек
   956. $45,551 danshafaker1
-  957. $45,559 varohaub
- *958. $45,559 timfozothy
+ *957. $45,559 timfozothy
+  958. $45,559 varohaub
   959. $45,564 SRA
   960. $45,565 3622692141
   961. $45,569 brutae
@@ -982,23 +982,23 @@ Updated 2021-04-10T00:26:02.879Z
   978. $45,694 finichan
   979. $45,697 James Cameron
   980. $45,704 Micsi
- *981. $45,708 bryced16122001
-  982. $45,722 maydanb
-  983. $45,738 clemens.purkart
-  984. $45,739 boublez
-  985. $45,740 Botoxthief
-  986. $45,747 Chase1mod
-  987. $45,749 ima scrub
-  988. $45,757 cophus
-  989. $45,767 SOWWRY!
-  990. $45,770 Key
-  991. $45,773 Sneakyy
-  992. $45,775 coleslaw
-  993. $45,776 BOT Edλn ¯\_(ツ)_/¯
-  994. $45,781 aiden
-  995. $45,800 Iron4Hill
-  996. $45,819 The Kraken
-  997. $45,823 Virus.exe
-  998. $45,834 storm1surge
-  999. $45,837 Neill
- 1000. $45,846 Zulthorne
+  981. $45,705 dsrtstrkr
+ *982. $45,708 bryced16122001
+  983. $45,722 maydanb
+  984. $45,738 clemens.purkart
+  985. $45,739 boublez
+  986. $45,740 Botoxthief
+  987. $45,747 Chase1mod
+  988. $45,749 ima scrub
+  989. $45,757 cophus
+  990. $45,767 SOWWRY!
+  991. $45,770 Key
+  992. $45,773 Sneakyy
+  993. $45,775 coleslaw
+  994. $45,776 BOT Edλn ¯\_(ツ)_/¯
+  995. $45,781 aiden
+  996. $45,800 Iron4Hill
+  997. $45,819 The Kraken
+  998. $45,823 Virus.exe
+  999. $45,834 storm1surge
+ 1000. $45,837 Neill
