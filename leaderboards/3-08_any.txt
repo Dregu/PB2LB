@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-08 "Crossed Paths" any% leaderboard (* = breaks)
-Updated 2021-04-18T00:01:12.232Z
-1000/44616 unique ranks shown
+Updated 2021-04-20T00:25:47.811Z
+1000/44669 unique ranks shown
 
    *1. $2,782  Lagiiiie
    *2. $4,931  Fathom
@@ -58,7 +58,7 @@ Updated 2021-04-18T00:01:12.232Z
    54. $11,686 I Noah Guy
    55. $11,737 2051894467
    56. $11,855 QuantiumIm
-  *57. $11,879 4hud
+   57. $11,879 4hud
    58. $11,997 jimmyscully
   *59. $12,047 theo.louesdon
    60. $12,099 SaltySeal
@@ -73,7 +73,7 @@ Updated 2021-04-18T00:01:12.232Z
    69. $12,957 Supernye
    70. $12,987 Tehninza
   *71. $13,004 Nöten
-   72. $13,093 Adjoint
+  *72. $13,093 Adjoint
    73. $13,098 Sev
    74. $13,131 jb_77
    75. $13,214 joshwoz118
@@ -145,9 +145,9 @@ Updated 2021-04-18T00:01:12.232Z
   141. $15,672 jakemccullagh
  *142. $15,684 Horixens
   143. $15,684 rileymcaz
-  144. $15,700 DuuSuu
-  145. $15,700 Hacker Duck
-  146. $15,721 bille
+  144. $15,700 Hacker Duck
+  145. $15,700 DuuSuu
+ *146. $15,721 bille
   147. $15,735 davidantabi
   148. $15,746 Wadusher
   149. $15,761 E.
@@ -160,8 +160,8 @@ Updated 2021-04-18T00:01:12.232Z
   156. $15,889 Bem
   157. $15,896 Yaky
   158. $15,910 Commit sudoku
-  159. $15,930 wikkit
-  160. $15,930 Verbose Verbatim
+  159. $15,930 Verbose Verbatim
+  160. $15,930 wikkit
   161. $15,942 R
   162. $15,972 Jormungandr
   163. $15,981 Sjabling
@@ -260,7 +260,7 @@ Updated 2021-04-18T00:01:12.232Z
   256. $17,405 Hannah
   257. $17,412 Michlop
   258. $17,415 Zynthian
- *259. $17,416 M47145dg
+  259. $17,416 M47145dg
   260. $17,428 cam
   261. $17,435 mocjunk
   262. $17,437 ✕ T-800 ✕
@@ -279,7 +279,7 @@ Updated 2021-04-18T00:01:12.232Z
  *275. $17,639 satochyy
   276. $17,642 smokedscrod
  *277. $17,644 saker1
- *278. $17,656 simon.drlink
+  278. $17,656 simon.drlink
   279. $17,656 Revolves
  *280. $17,675 nigile
   281. $17,683 UkiArcticFox
@@ -319,13 +319,13 @@ Updated 2021-04-18T00:01:12.232Z
   315. $17,952 TheSadSlinky
  *316. $17,960 rx7man
   317. $17,960 Phloofy
-  318. $17,963 Anesthetics.
- *319. $17,963 joshuak1899
+ *318. $17,963 joshuak1899
+  319. $17,963 Anesthetics.
   320. $17,980 romyk
   321. $17,983 nhaven14
   322. $17,991 17uu
   323. $17,996 liwo255
-  324. $17,997 Debz
+ *324. $17,997 Debz
   325. $17,997 erik.jacobsson88
   326. $17,999 enya
   327. $17,999 Pokii
@@ -407,8 +407,8 @@ Updated 2021-04-18T00:01:12.232Z
   403. $18,545 plush
   404. $18,546 The Gruffalo
  *405. $18,551 tinypenguin000
-  406. $18,555 O Maluco em pedaços
-  407. $18,555 TucLTU
+  406. $18,555 TucLTU
+  407. $18,555 O Maluco em pedaços
   408. $18,564 jame
  *409. $18,580 Platypus
  *410. $18,583 1638809263
@@ -432,8 +432,8 @@ Updated 2021-04-18T00:01:12.232Z
  *428. $18,661 Shikto
   429. $18,668 myself757
   430. $18,672 king_bibishweter
-  431. $18,678 Elvishbarbecue
-  432. $18,678 Skarb Życia
+  431. $18,678 Skarb Życia
+  432. $18,678 Elvishbarbecue
  *433. $18,682 TouchTheDog
   434. $18,684 zig2003zak
   435. $18,687 Chris_Cookies8
@@ -481,16 +481,16 @@ Updated 2021-04-18T00:01:12.232Z
   477. $18,957 DerVierus
  *478. $18,958 StumpyWumpy
   479. $18,959 lerock77
-  480. $18,969 Patches
- *481. $18,969 Miyako
+ *480. $18,969 Miyako
+  481. $18,969 Patches
   482. $18,970 Kasi
   483. $18,976 LooperNor
   484. $18,977 TurtleByte
  *485. $18,983 Xavier the Savior
   486. $18,985 Spug
   487. $18,994 Johare
-  488. $18,999 witchcat27
-  489. $18,999 Sjm91
+  488. $18,999 Sjm91
+  489. $18,999 witchcat27
   490. $19,002 Oiseau
   491. $19,010 clydesdalefan
   492. $19,017 Zeltec
@@ -572,8 +572,8 @@ Updated 2021-04-18T00:01:12.232Z
   568. $19,387 Griffin
   569. $19,389 AlpacaQQ
   570. $19,395 malde
-  571. $19,401 Ｍａｉｏｎａｕｔａ
-  572. $19,401 Livendel
+  571. $19,401 Livendel
+  572. $19,401 Ｍａｉｏｎａｕｔａ
   573. $19,405 jbe22
   574. $19,407 MOTEL F. ALVA
   575. $19,408 Jake
@@ -644,8 +644,8 @@ Updated 2021-04-18T00:01:12.232Z
   640. $19,657 Tyrone
   641. $19,664 lwj
   642. $19,670 Salamandre
-  643. $19,676 BamseBæst
- *644. $19,676 nathan.spend
+ *643. $19,676 nathan.spend
+  644. $19,676 BamseBæst
   645. $19,678 ruslan.195
   646. $19,681 Oops I Baked a Pie
   647. $19,681 ✪ Eto♪
@@ -692,8 +692,8 @@ Updated 2021-04-18T00:01:12.232Z
   688. $19,831 イミコズ
   689. $19,843 Forte_
   690. $19,849 samuelpeden
-  691. $19,852 cooperjramos
-  692. $19,852 Cspar
+  691. $19,852 Cspar
+  692. $19,852 cooperjramos
   693. $19,852 Phoetaim
   694. $19,854 AMDHome
   695. $19,857 ♪swiggity
@@ -709,8 +709,8 @@ Updated 2021-04-18T00:01:12.232Z
   705. $19,900 jongunzerg
   706. $19,901 h.lahdelma
   707. $19,902 Nova_
-  708. $19,909 eric03
- *709. $19,909 Skywalkertrem
+ *708. $19,909 Skywalkertrem
+  709. $19,909 eric03
   710. $19,910 stab-anders
   711. $19,912 Dwdzijó
   712. $19,914 SSSSilencee
@@ -718,8 +718,8 @@ Updated 2021-04-18T00:01:12.232Z
   714. $19,921 Divine
   715. $19,922 Shane
   716. $19,922 Turnip
-  717. $19,923 Glithicus
-  718. $19,923 robd.lives
+  717. $19,923 robd.lives
+  718. $19,923 Glithicus
   719. $19,923 Wulrus
   720. $19,933 BadJujumagumbo
   721. $19,943 iso Compass
@@ -729,26 +729,26 @@ Updated 2021-04-18T00:01:12.232Z
  *725. $19,956 Arapscal
  *726. $19,963 beriangratian
   727. $19,968 ItMe404
-  728. $19,969 Mesmerize
-  729. $19,969 BrianTho2010
+  728. $19,969 BrianTho2010
+  729. $19,969 Mesmerize
   730. $19,969 382845377
   731. $19,971 swag.otis
   732. $19,977 Capybara
  *733. $19,981 jdog33340
   734. $19,982 Ewok
-  735. $19,987 tristanfogt1418
-  736. $19,987 Pit
-  737. $19,988 透明膠帶
-  738. $19,988 1940168104
+  735. $19,987 Pit
+  736. $19,987 tristanfogt1418
+  737. $19,988 1940168104
+  738. $19,988 透明膠帶
   739. $19,990 spirit9
   740. $19,990 CapSora
   741. $19,992 taechuK
-  742. $19,995 nbonaparte105
-  743. $19,995 de5k1o1
-  744. $19,998 DieselJN
-  745. $19,998 Xylated
-  746. $19,999 rob_brinkman1987
-  747. $19,999 caldermarshall
+  742. $19,995 de5k1o1
+  743. $19,995 nbonaparte105
+  744. $19,998 Xylated
+  745. $19,998 DieselJN
+  746. $19,999 caldermarshall
+  747. $19,999 rob_brinkman1987
   748. $20,000 Walter Gameing
   749. $20,001 wooster000
   750. $20,013 PRC*LongmenInt'I.065
@@ -818,14 +818,14 @@ Updated 2021-04-18T00:01:12.232Z
   814. $20,207 sLiCe
  *815. $20,215 Rapidz Tempest
   816. $20,215 Rackham
-  817. $20,217 DarkFireAUS
-  818. $20,217 adammethven37
+  817. $20,217 adammethven37
+  818. $20,217 DarkFireAUS
   819. $20,219 |FAQ-YU| Fishezzz
   820. $20,219 Jetstreamer
   821. $20,224 Mr_Schrecklich
-  822. $20,227 bitjetson
-  823. $20,227 Co
-  824. $20,227 Aetherllama
+  822. $20,227 Co
+  823. $20,227 Aetherllama
+  824. $20,227 bitjetson
   825. $20,234 lukeflaxman02
  *826. $20,238 bnaberhuis
   827. $20,244 Bleb
@@ -879,8 +879,8 @@ Updated 2021-04-18T00:01:12.232Z
   875. $20,372 Sjaudicle
   876. $20,372 397829399
   877. $20,373 Mr Mz
-  878. $20,374 BlueFox
-  879. $20,374 weijore
+  878. $20,374 weijore
+  879. $20,374 BlueFox
   880. $20,375 Ethosaurus_Rex
   881. $20,383 Conor
   882. $20,384 Proto
@@ -923,9 +923,9 @@ Updated 2021-04-18T00:01:12.232Z
   919. $20,517 C²²H²ºO¹³
   920. $20,523 jan.haavkes
   921. $20,532 Stick
-  922. $20,535 Lucallia
-  923. $20,535 benoitfavre
-  924. $20,535 jrnuke
+  922. $20,535 jrnuke
+  923. $20,535 Lucallia
+  924. $20,535 benoitfavre
   925. $20,537 Sir.SpaceSloth
   926. $20,538 魂牽於夢
   927. $20,538 6545430
@@ -942,8 +942,8 @@ Updated 2021-04-18T00:01:12.232Z
   938. $20,576 jbeiden53590
   939. $20,587 leMi
   940. $20,587 Narvien
-  941. $20,590 Lampy
- *942. $20,590 predvodnik
+ *941. $20,590 predvodnik
+  942. $20,590 Lampy
   943. $20,593 Necrotechian
   944. $20,594 Dovahkiin Ninja
   945. $20,598 The Engineer
@@ -975,9 +975,9 @@ Updated 2021-04-18T00:01:12.232Z
   971. $20,677 911wasbadass
   972. $20,687 SlickRick66
   973. $20,687 epicx4
-  974. $20,695 KaydenFox
-  975. $20,695 Makanet
-  976. $20,695 Matitty
+  974. $20,695 Makanet
+  975. $20,695 Matitty
+  976. $20,695 KaydenFox
   977. $20,699 Alex D'Aoust
   978. $20,709 Darkice40
   979. $20,709 Tired
