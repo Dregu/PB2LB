@@ -1,11 +1,11 @@
 Poly Bridge 2 - 4-08C "Thread the Needle" any% leaderboard (* = breaks)
-Updated 2021-04-28T00:26:42.386Z
-1000/3529 unique ranks shown
+Updated 2021-04-29T00:25:03.431Z
+1000/3530 unique ranks shown
 
    *1. $1,531  BaconPancakes
     2. $1,672  nVentex
    *3. $1,767  Trygeve
-    4. $1,878  BEEF
+   *4. $1,878  BEEF
    *5. $1,950  9k5
    *6. $1,984  Bellair08
    *7. $1,992  Fathom
@@ -30,7 +30,7 @@ Updated 2021-04-28T00:26:42.386Z
   *26. $2,868  Scurflemadur
    27. $2,959  Soba
   *28. $3,050  Cix
-   29. $3,057  adambrianschmidt
+  *29. $3,057  adambrianschmidt
    30. $3,077  Me 10 Jin
   *31. $3,145  Loner
   *32. $3,186  BushySushi
@@ -227,7 +227,7 @@ Updated 2021-04-28T00:26:42.386Z
   223. $7,670  Bandwidth Bandit
   224. $7,698  SRA
   225. $7,741  tuftoark
-  226. $7,772  ~ Smithy ~
+ *226. $7,772  ~ Smithy ~
   227. $7,782  DARN
  *228. $7,788  Larger Than Average Brain Player
  *229. $7,807  jonas.beachy
@@ -258,8 +258,8 @@ Updated 2021-04-28T00:26:42.386Z
  *254. $8,165  thueman
   255. $8,170  PROwill3
   256. $8,172  magaly_mondaca
-  257. $8,198  W@rri0r
- *258. $8,198  Leftclick
+ *257. $8,198  Leftclick
+  258. $8,198  W@rri0r
  *259. $8,209  genevieve.m.draper
  *260. $8,211  Delta_Mage
  *261. $8,246  Jassuuuuu
@@ -271,15 +271,15 @@ Updated 2021-04-28T00:26:42.386Z
  *267. $8,293  bati
   268. $8,306  flustered
   269. $8,324  Erik the best
- *270. $8,356  kraal
-  271. $8,356  Cremefraiche
+  270. $8,356  Cremefraiche
+ *271. $8,356  kraal
  *272. $8,369  bysscorre
  *273. $8,370  ellisk1
   274. $8,398  jakob.infuehr
  *275. $8,412  West
   276. $8,416  CursorCoercer
-  277. $8,429  CantTouchDis
- *278. $8,429  Sockum
+ *277. $8,429  Sockum
+  278. $8,429  CantTouchDis
   279. $8,440  snova0112
  *280. $8,445  FoonTheRaccoon
   281. $8,450  QuantiumIm
@@ -334,8 +334,8 @@ Updated 2021-04-28T00:26:42.386Z
  *330. $8,922  Baaf
   331. $8,923  TitiMcFly_
  *332. $8,939  ☣ KILLERZΣUS ☣
- *333. $8,940  GChilley
- *334. $8,940  jeremywinick
+ *333. $8,940  jeremywinick
+ *334. $8,940  GChilley
  *335. $8,947  matthewsabio
   336. $8,972  snorkel_head
  *337. $8,981  Vïnora
@@ -502,8 +502,8 @@ Updated 2021-04-28T00:26:42.386Z
  *498. $10,618 tylerdg22
   499. $10,620 drjbananas
  *500. $10,634 Bun5gPlays
- *501. $10,638 A spy in the haus
-  502. $10,638 HypersonicPineapple
+  501. $10,638 HypersonicPineapple
+ *502. $10,638 A spy in the haus
   503. $10,642 Jakobs
  *504. $10,644 enderquest
   505. $10,650 Totulhu
@@ -513,8 +513,8 @@ Updated 2021-04-28T00:26:42.386Z
  *509. $10,659 Uwma Senhur
  *510. $10,678 ynnxm
   511. $10,696 firestar7211
-  512. $10,702 Chappy
- *513. $10,702 adamjpoole
+ *512. $10,702 adamjpoole
+  513. $10,702 Chappy
   514. $10,703 kzvts123
   515. $10,707 XPatt
   516. $10,725 Curuda
@@ -672,8 +672,8 @@ Updated 2021-04-28T00:26:42.386Z
   668. $11,674 Thudios
  *669. $11,678 LOtown
   670. $11,686 PeterHoHK
- *671. $11,687 Oehoe de uil
- *672. $11,687 Pam Plemousse
+ *671. $11,687 Pam Plemousse
+ *672. $11,687 Oehoe de uil
   673. $11,690 Rudy
   674. $11,719 ThatBloodyPanda
   675. $11,740 SwordlessMimeTown
@@ -704,8 +704,8 @@ Updated 2021-04-28T00:26:42.386Z
   700. $11,883 Meerkat890
   701. $11,889 LFB
  *702. $11,898 craftingtacos
- *703. $11,906 dtee3
-  704. $11,906 Con-Man Moran
+  703. $11,906 Con-Man Moran
+ *704. $11,906 dtee3
   705. $11,908 guaranteed_whales
  *706. $11,911 Road to beat Squishy
  *707. $11,931 marleowa02
@@ -757,8 +757,8 @@ Updated 2021-04-28T00:26:42.386Z
   753. $12,151 HidaryX
  *754. $12,160 CodeRider101
  *755. $12,164 abidhilmi403
-  756. $12,179 Bajerlykke
- *757. $12,179 Kastrull
+ *756. $12,179 Kastrull
+  757. $12,179 Bajerlykke
   758. $12,184 tomaschonnie
   759. $12,189 Hey all you cool cats n kittens
   760. $12,190 KettleMan
@@ -939,8 +939,8 @@ Updated 2021-04-28T00:26:42.386Z
   935. $12,933 N1234
   936. $12,934 MuscleMuscleDigDa
  *937. $12,935 CCDouble
-  938. $12,947 Fl1m
- *939. $12,947 VeggieBurrito
+ *938. $12,947 VeggieBurrito
+  939. $12,947 Fl1m
  *940. $12,948 Chav Hunter v2
   941. $12,954 JonJon
   942. $12,956 tbsf
@@ -984,8 +984,8 @@ Updated 2021-04-28T00:26:42.386Z
   980. $13,115 meat_master
   981. $13,115 Mommy
   982. $13,124 おいちゃん
-  983. $13,129 привет я душный
- *984. $13,129 nozoo4u
+ *983. $13,129 nozoo4u
+  984. $13,129 привет я душный
  *985. $13,136 TheAzianHacker
   986. $13,137 mikeled
  *987. $13,139 Mirinekcz
