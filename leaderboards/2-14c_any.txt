@@ -1,6 +1,6 @@
 Poly Bridge 2 - 2-14C "Dip N' Draw" any% leaderboard (* = breaks)
-Updated 2021-05-05T00:00:54.856Z
-1000/5356 unique ranks shown
+Updated 2021-05-06T00:01:38.448Z
+1000/5357 unique ranks shown
 
     1. $12,595 CursorCoercer
     2. $15,589 alex
@@ -121,7 +121,7 @@ Updated 2021-05-05T00:00:54.856Z
   117. $23,961 Ogremor
   118. $23,981 QuantiumIm
   119. $23,983 daniel.mittermaier
- *120. $23,984 cooperjramos
+  120. $23,984 cooperjramos
  *121. $23,989 lancekro
   122. $24,020 lcmbo
   123. $24,047 hanniballar
@@ -129,7 +129,7 @@ Updated 2021-05-05T00:00:54.856Z
  *125. $24,115 Patches
   126. $24,131 Looming
   127. $24,167 Scotty
-  128. $24,186 henpenben
+ *128. $24,186 henpenben
  *129. $24,188 Gotbeef
   130. $24,188 nVentex
   131. $24,198 Blind Square
@@ -193,7 +193,7 @@ Updated 2021-05-05T00:00:54.856Z
  *189. $25,293 everydaystranger
   190. $25,339 anijoker
  *191. $25,365 Zaphod Beeblebrox
-  192. $25,369 Pengujedi
+ *192. $25,369 Pengujedi
   193. $25,372 Krashafa
  *194. $25,399 SzGamer227
   195. $25,421 BlueFjP
@@ -260,7 +260,7 @@ Updated 2021-05-05T00:00:54.856Z
   256. $26,399 tylerdg22
   257. $26,404 jame
   258. $26,405 Scurflemadur
- *259. $26,407 yoavr123
+  259. $26,407 yoavr123
   260. $26,408 パンプキンちゃん
   261. $26,414 k.a.huckshold
   262. $26,425 Kidsune
@@ -331,8 +331,8 @@ Updated 2021-05-05T00:00:54.856Z
   327. $27,257 Moja
   328. $27,258 CroissantWithCheese
   329. $27,266 bwong31415
-  330. $27,272 Creedrah
- *331. $27,272 Marcus4
+ *330. $27,272 Marcus4
+  331. $27,272 Creedrah
   332. $27,294 Herr Hövels
   333. $27,318 PROwill3
   334. $27,318 peng_yun1205
@@ -512,8 +512,8 @@ Updated 2021-05-05T00:00:54.856Z
   508. $28,797 Jesus Ordoñez
   509. $28,821 Reggirts
   510. $28,825 FoonTheRaccoon
- *511. $28,845 alontalia4
-  512. $28,845 720 Foam Cuts
+  511. $28,845 720 Foam Cuts
+ *512. $28,845 alontalia4
   513. $28,847 The Universe
   514. $28,850 AsKalas
   515. $28,856 dog
@@ -576,7 +576,7 @@ Updated 2021-05-05T00:00:54.856Z
   572. $29,244 Epik_Unifish
   573. $29,249 HowieFTW
   574. $29,256 Alex
-  575. $29,260 Jambo
+ *575. $29,260 Jambo
   576. $29,260 j.bottomley87595
   577. $29,275 SwagMiester
   578. $29,276 uniuno
@@ -954,51 +954,51 @@ Updated 2021-05-05T00:00:54.856Z
   950. $31,534 Hajen
   951. $31,537 Kelmix
   952. $31,542 fudgefool98
-  953. $31,546 BoyAtHisDesk
-  954. $31,575 GREAT SCOTT
-  955. $31,576 D3MONIC
-  956. $31,592 苏嗝拉底
-  957. $31,614 Cockus Destructus
- *958. $31,614 Sith Phil Less
-  959. $31,622 ChichumungaIII
-  960. $31,625 YKitten
-  961. $31,630 x401
-  962. $31,631 warfaremaniac24
- *963. $31,635 Fucking Tom
-  964. $31,636 Moisticles
-  965. $31,638 Howard Beale
-  966. $31,649 McGuppins
-  967. $31,652 JakeTheSnake_333
- *968. $31,663 MoohDaCow
-  969. $31,674 Kevin
-  970. $31,685 K9Claw
-  971. $31,687 J0daa
-  972. $31,687 Häst pls
- *973. $31,694 Joe
-  974. $31,696 Totulhu
-  975. $31,698 Anesthetics.
-  976. $31,699 hawkeyeblock
-  977. $31,700 UrbanEngineer
-  978. $31,702 Dimma the Wifebeater
-  979. $31,708 zinon2
-  980. $31,708 Denonicros
-  981. $31,708 Wildst
-  982. $31,714 elisholst
-  983. $31,722 thelavalamp202
-  984. $31,726 gijshomminga7
-  985. $31,741 mineball115
-  986. $31,747 bigbadbedwetter
-  987. $31,762 nick.pilsbury
-  988. $31,768 johnsonofdonut
-  989. $31,771 lonetong
-  990. $31,772 Dodddo2
-  991. $31,778 Exyator
- *992. $31,781 Finkstar
-  993. $31,783 SuperGamerDude
-  994. $31,790 fatilla
-  995. $31,790 Mickey
-  996. $31,824 MiniMeMuffin
-  997. $31,825 Arrokoth
-  998. $31,829 Kyrian
-  999. $31,830 inq
- 1000. $31,833 Gortalion
+  953. $31,543 TurtleDruid
+  954. $31,546 BoyAtHisDesk
+  955. $31,575 GREAT SCOTT
+  956. $31,576 D3MONIC
+  957. $31,592 苏嗝拉底
+  958. $31,614 Cockus Destructus
+ *959. $31,614 Sith Phil Less
+  960. $31,622 ChichumungaIII
+  961. $31,625 YKitten
+  962. $31,630 x401
+  963. $31,631 warfaremaniac24
+ *964. $31,635 Fucking Tom
+  965. $31,636 Moisticles
+  966. $31,638 Howard Beale
+  967. $31,649 McGuppins
+  968. $31,652 JakeTheSnake_333
+ *969. $31,663 MoohDaCow
+  970. $31,674 Kevin
+  971. $31,685 K9Claw
+  972. $31,687 J0daa
+  973. $31,687 Häst pls
+ *974. $31,694 Joe
+  975. $31,696 Totulhu
+  976. $31,698 Anesthetics.
+  977. $31,699 hawkeyeblock
+  978. $31,700 UrbanEngineer
+  979. $31,702 Dimma the Wifebeater
+  980. $31,708 zinon2
+  981. $31,708 Denonicros
+  982. $31,708 Wildst
+  983. $31,714 elisholst
+  984. $31,722 thelavalamp202
+  985. $31,726 gijshomminga7
+  986. $31,741 mineball115
+  987. $31,747 bigbadbedwetter
+  988. $31,762 nick.pilsbury
+  989. $31,768 johnsonofdonut
+  990. $31,771 lonetong
+  991. $31,772 Dodddo2
+  992. $31,778 Exyator
+ *993. $31,781 Finkstar
+  994. $31,783 SuperGamerDude
+  995. $31,790 fatilla
+  996. $31,790 Mickey
+  997. $31,824 MiniMeMuffin
+  998. $31,825 Arrokoth
+  999. $31,829 Kyrian
+ 1000. $31,830 inq
