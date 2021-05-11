@@ -1,6 +1,6 @@
 Poly Bridge 2 - 5-04 "Acceleration" any% leaderboard (* = breaks)
-Updated 2021-05-09T00:02:19.565Z
-1000/6641 unique ranks shown
+Updated 2021-05-11T00:01:04.346Z
+1000/6648 unique ranks shown
 
    *1. $2,987  CursorCoercer
    *2. $4,220  Fathom
@@ -364,8 +364,8 @@ Updated 2021-05-09T00:02:19.565Z
   360. $30,166 mrhleask
   361. $30,220 Zom
  *362. $30,267 흑우쉑
-  363. $30,280 Waddz781
-  364. $30,280 FoonTheRaccoon
+  363. $30,280 FoonTheRaccoon
+  364. $30,280 Waddz781
   365. $30,343 Ex gon give it to ya
   366. $30,351 Gumii
   367. $30,360 gpisthebest
@@ -464,8 +464,8 @@ Updated 2021-05-09T00:02:19.565Z
   460. $31,785 Kaesemann
   461. $31,822 Ryś
   462. $31,843 Suppenteller32
-  463. $31,860 XENOCiiDE
- *464. $31,860 WANHA KARVAINEN KISSAN KISKOJA
+ *463. $31,860 WANHA KARVAINEN KISSAN KISKOJA
+  464. $31,860 XENOCiiDE
   465. $31,880 chenail.liam
   466. $31,891 Chickan ?!
   467. $31,902 Entropic Defibrillator
@@ -641,8 +641,8 @@ Updated 2021-05-09T00:02:19.565Z
   637. $34,188 Esa4K UHD
   638. $34,192 R
   639. $34,192 Johnney Apple Tree
-  640. $34,206 justaime
-  641. $34,206 Rhubarb314
+  640. $34,206 Rhubarb314
+  641. $34,206 justaime
   642. $34,222 Wolfeter
   643. $34,223 Berixis
   644. $34,225 tori804
@@ -929,8 +929,8 @@ Updated 2021-05-09T00:02:19.565Z
   925. $38,405 yespes12345
   926. $38,406 Xena-8791
   927. $38,422 향로봉대대
- *928. $38,425 white_angel2
-  929. $38,425 Willcraft25
+  928. $38,425 Willcraft25
+ *929. $38,425 white_angel2
   930. $38,427 andy.gardner
   931. $38,444 hawkeyeblock
   932. $38,466 Fluffy Bun
@@ -964,41 +964,41 @@ Updated 2021-05-09T00:02:19.565Z
   960. $38,915 Hentoad1
   961. $38,932 Yaky
   962. $38,938 MBS4444
-  963. $38,985 syh911
-  964. $38,988 .boi
-  965. $39,050 Gnodax
-  966. $39,055 ElChupanibre
-  967. $39,088 trentdiesel.tr
-  968. $39,090 Durek
-  969. $39,100 Sensei_Kal
-  970. $39,109 D141D
-  971. $39,111 Funkasaurus Flex
-  972. $39,124 Bling_T
-  973. $39,131 sngho1102
-  974. $39,138 Poto
-  975. $39,151 invictus0x0
-  976. $39,155 https://youtu.be/lKEqU2itOiw
-  977. $39,196 BlueFlame
-  978. $39,212 『#』
-  979. $39,218 Zandax
-  980. $39,219 TheWatchingDog | Yusuf
-  981. $39,273 ThatCrazyFrog
-  982. $39,276 mikhail.lukash1
-  983. $39,285 ;p; Sirus_The_Worst™
-  984. $39,295 Billdaburger
-  985. $39,307 sgianninijr
-  986. $39,307 Mad Dogg
-  987. $39,325 samt_2006
-  988. $39,339 tryc
-  989. $39,346 DoDo
-  990. $39,366 equayanderson
-  991. $39,376 henpenben
-  992. $39,399 matthias
-  993. $39,414 RAJUL1SC
-  994. $39,458 Squiff
-  995. $39,487 jamiegbreault
-  996. $39,498 NATHAN_HL
-  997. $39,502 No problem.
-  998. $39,505 파이리(물 속성)
-  999. $39,513 jstan2017
- 1000. $39,533 I don't wanna do this anymore 🎮
+  963. $38,952 Valnix
+  964. $38,985 syh911
+  965. $38,988 .boi
+  966. $39,050 Gnodax
+  967. $39,055 ElChupanibre
+  968. $39,088 trentdiesel.tr
+  969. $39,090 Durek
+  970. $39,100 Sensei_Kal
+  971. $39,109 D141D
+  972. $39,111 Funkasaurus Flex
+  973. $39,124 Bling_T
+  974. $39,131 sngho1102
+  975. $39,138 Poto
+  976. $39,151 invictus0x0
+  977. $39,155 https://youtu.be/lKEqU2itOiw
+  978. $39,196 BlueFlame
+  979. $39,212 『#』
+  980. $39,218 Zandax
+  981. $39,219 TheWatchingDog | Yusuf
+  982. $39,273 ThatCrazyFrog
+  983. $39,276 mikhail.lukash1
+  984. $39,285 ;p; Sirus_The_Worst™
+  985. $39,295 Billdaburger
+  986. $39,307 sgianninijr
+  987. $39,307 Mad Dogg
+  988. $39,325 samt_2006
+  989. $39,339 tryc
+  990. $39,346 DoDo
+  991. $39,366 equayanderson
+  992. $39,376 henpenben
+  993. $39,399 matthias
+  994. $39,414 RAJUL1SC
+  995. $39,458 Squiff
+  996. $39,487 jamiegbreault
+  997. $39,498 NATHAN_HL
+  998. $39,502 No problem.
+  999. $39,505 파이리(물 속성)
+ 1000. $39,513 jstan2017

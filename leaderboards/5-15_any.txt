@@ -1,6 +1,6 @@
 Poly Bridge 2 - 5-15 "Double Duty" any% leaderboard (* = breaks)
-Updated 2021-05-09T00:02:19.641Z
-1000/5647 unique ranks shown
+Updated 2021-05-11T00:01:04.416Z
+1000/5658 unique ranks shown
 
    *1. $15,585 Bellair08
     2. $15,585 Roevhaal
@@ -40,10 +40,10 @@ Updated 2021-05-09T00:02:19.641Z
    36. $33,323 Heater
    37. $33,400 sethandtiki
   *38. $33,449 Zen
-  *39. $33,495 cavetroll
-  *40. $33,495 Bibbb
-  *41. $33,495 gamespilgame
-  *42. $33,495 Fathom
+  *39. $33,495 gamespilgame
+  *40. $33,495 Fathom
+  *41. $33,495 Bibbb
+  *42. $33,495 cavetroll
    43. $33,530 滑地上之小稽
    44. $33,732 Jhay80416
    45. $33,810 9k5
@@ -105,8 +105,8 @@ Updated 2021-05-09T00:02:19.641Z
   101. $43,741 Apicedda
   102. $43,997 Kieselmeister
  *103. $44,038 fay
- *104. $44,056 adambrianschmidt
-  105. $44,056 gashpot
+  104. $44,056 gashpot
+ *105. $44,056 adambrianschmidt
   106. $44,199 tylerdg22
  *107. $44,277 Zen Ti
   108. $44,279 oubeidong
@@ -465,8 +465,8 @@ Updated 2021-05-09T00:02:19.641Z
   461. $59,645 Snorb
   462. $59,651 trpark90
   463. $59,721 jas61292
- *464. $59,784 obxd005
-  465. $59,784 nicolas.mrt1
+  464. $59,784 nicolas.mrt1
+ *465. $59,784 obxd005
   466. $59,786 inv > Smesh
  *467. $59,799 Japanese ElvisS
   468. $59,811 dmx0987654321
@@ -612,8 +612,8 @@ Updated 2021-05-09T00:02:19.641Z
  *608. $63,699 bitomarci
   609. $63,742 somefakegamer
  *610. $63,744 chixenlegjo
- *611. $63,793 zia
- *612. $63,793 Cheesus
+ *611. $63,793 Cheesus
+ *612. $63,793 zia
   613. $63,801 Me 10 Jin
   614. $63,808 Derpy
   615. $63,809 Special Noone
@@ -646,8 +646,8 @@ Updated 2021-05-09T00:02:19.641Z
   642. $64,695 +25 Only
   643. $64,702 AshBill
   644. $64,723 Orzulak_
-  645. $64,727 GarlicChives
- *646. $64,727 ellisk1
+ *645. $64,727 ellisk1
+  646. $64,727 GarlicChives
  *647. $64,732 PROwill3
   648. $64,736 Maistas
   649. $64,739 lbrinkey01
@@ -668,7 +668,7 @@ Updated 2021-05-09T00:02:19.641Z
   664. $64,909 Unholy
   665. $64,911 3MidgetsInATrenchcoat
   666. $64,935 wickes
- *667. $64,951 Wada Bueno
+  667. $64,951 Wada Bueno
   668. $64,984 DragonTamer98
   669. $64,990 Way_of_Cows
  *670. $65,012 zezetel
@@ -685,8 +685,8 @@ Updated 2021-05-09T00:02:19.641Z
  *681. $65,195 dub89
  *682. $65,198 Kamerat
   683. $65,215 randomalyzer
-  684. $65,226 sondret5
- *685. $65,226 Berixis
+ *684. $65,226 Berixis
+  685. $65,226 sondret5
   686. $65,228 Defund the Police
   687. $65,235 le caca
  *688. $65,245 _Dan2908_
@@ -770,8 +770,8 @@ Updated 2021-05-09T00:02:19.641Z
   766. $66,932 Player26
   767. $66,938 Michael
   768. $66,943 FSR
-  769. $66,944 kokomaster2002
- *770. $66,944 osbambus
+ *769. $66,944 osbambus
+  770. $66,944 kokomaster2002
   771. $66,977 atsumi49
  *772. $67,084 MrMickeyMcgee
  *773. $67,114 jabbathepug722
@@ -941,7 +941,7 @@ Updated 2021-05-09T00:02:19.641Z
   937. $70,258 Wollensokje
   938. $70,261 sbwags
   939. $70,315 Boblobb14
-  940. $70,327 Larger Than Average Brain Player
+ *940. $70,327 Larger Than Average Brain Player
  *941. $70,329 joshwoz118
  *942. $70,402 wlimpie
  *943. $70,427 pajo9509
