@@ -1,6 +1,6 @@
 Poly Bridge 2 - 5-01 "Falling Into Place" any% leaderboard (* = breaks)
-Updated 2021-05-12T00:03:26.667Z
-1000/15381 unique ranks shown
+Updated 2021-05-13T00:13:21.998Z
+1000/15391 unique ranks shown
 
    *1. $777    9k5
    *2. $928    Zen
@@ -55,8 +55,8 @@ Updated 2021-05-12T00:03:26.667Z
    51. $29,297 CHICKENFACE97
    52. $29,471 ♥ ネップ ♥
    53. $29,550 jonaTHOT
-   54. $29,640 non victus
-  *55. $29,640 Hot Cold Shoto
+  *54. $29,640 Hot Cold Shoto
+   55. $29,640 non victus
    56. $29,814 santos.f.marcelo
   *57. $29,975 Shadow134
    58. $29,998 ado
@@ -85,8 +85,8 @@ Updated 2021-05-12T00:03:26.667Z
    81. $32,252 bastian.bello.c
   *82. $32,284 dwyoung205
   *83. $32,315 电脑玩家卢本伟
-  *84. $32,316 popcorniosaurus
-  *85. $32,316 emosewamky
+  *84. $32,316 emosewamky
+  *85. $32,316 popcorniosaurus
    86. $32,406 Sorter
   *87. $32,566 sampo.palokangas
    88. $32,662 Trashman Kod
@@ -260,7 +260,7 @@ Updated 2021-05-12T00:03:26.667Z
   256. $37,303 통통이
  *257. $37,306 원군
   258. $37,315 delightfulgiraffe
-  259. $37,347 ellesandalo
+ *259. $37,347 ellesandalo
   260. $37,374 Yaky
   261. $37,374 pongus
   262. $37,417 Beast 101
@@ -418,8 +418,8 @@ Updated 2021-05-12T00:03:26.667Z
   414. $39,915 blitzfan31
   415. $39,921 Draradech
  *416. $39,932 vikdaboss
- *417. $39,956 vaporizer
-  418. $39,956 sg
+  417. $39,956 sg
+ *418. $39,956 vaporizer
   419. $39,957 Ogre Bard
   420. $39,960 bastisas
   421. $39,979 piewilldie
@@ -428,8 +428,8 @@ Updated 2021-05-12T00:03:26.667Z
   424. $39,999 Laxattak
   425. $40,016 chairdude21
   426. $40,020 Burbasuar
-  427. $40,068 XeroEffect
- *428. $40,068 Chipper
+ *427. $40,068 Chipper
+  428. $40,068 XeroEffect
   429. $40,114 애용!
   430. $40,155 gavin.muranaka
   431. $40,184 desti
@@ -581,8 +581,8 @@ Updated 2021-05-12T00:03:26.667Z
   577. $41,912 wcopeland25
   578. $41,922 hmse0631
   579. $41,934 damose
-  580. $41,945 cmccann1578
- *581. $41,945 davidjohnclark
+ *580. $41,945 davidjohnclark
+  581. $41,945 cmccann1578
  *582. $41,946 honest Abe
  *583. $41,948 Everdever
   584. $41,951 biorni999
@@ -654,8 +654,8 @@ Updated 2021-05-12T00:03:26.667Z
   650. $42,564 ReformedGod
  *651. $42,571 f15active
   652. $42,587 sbwags
- *653. $42,588 instant karma
-  654. $42,588 Chappi
+  653. $42,588 Chappi
+ *654. $42,588 instant karma
   655. $42,592 Pyth0n
   656. $42,624 HappyFeet
   657. $42,628 GR 25
@@ -669,7 +669,7 @@ Updated 2021-05-12T00:03:26.667Z
   665. $42,680 Christo
   666. $42,683 RealBoyBot
  *667. $42,683 bellytheman
- *668. $42,686 hhking
+  668. $42,686 hhking
   669. $42,696 elisholst
   670. $42,709 sondret5
   671. $42,710 AlienC4
@@ -678,8 +678,8 @@ Updated 2021-05-12T00:03:26.667Z
   674. $42,732 Dj Doof
  *675. $42,740 Katholic
   676. $42,747 SPR4YnPRAY
-  677. $42,761 Biskit
- *678. $42,761 D141D
+ *677. $42,761 D141D
+  678. $42,761 Biskit
   679. $42,761 w00zy
   680. $42,764 Leo_Chan
   681. $42,772 G&P Xor
@@ -689,8 +689,8 @@ Updated 2021-05-12T00:03:26.667Z
   685. $42,839 BlackFrost
  *686. $42,846 KettleMan
   687. $42,849 Percy8001
- *688. $42,856 UnLuckyLyeet
-  689. $42,856 caetanorocha1113
+  688. $42,856 caetanorocha1113
+ *689. $42,856 UnLuckyLyeet
   690. $42,861 harshparmarzw
   691. $42,884 CavoX5
  *692. $42,886 Hifume
@@ -859,8 +859,8 @@ Updated 2021-05-12T00:03:26.667Z
   855. $44,384 blessed appeL
  *856. $44,388 danmax97
   857. $44,390 Mjoelnir
-  858. $44,403 Vossie_nl
- *859. $44,403 Spooky K.
+ *858. $44,403 Spooky K.
+  859. $44,403 Vossie_nl
   860. $44,407 ascii_avenger
   861. $44,409 radoslaw.burny
   862. $44,414 ThatguySam
@@ -917,14 +917,14 @@ Updated 2021-05-12T00:03:26.667Z
   913. $44,857 HappyCow19
   914. $44,859 tel320
   915. $44,860 wonsnot
- *916. $44,866 nicholaskirkpatrick06
-  917. $44,866 Santiago
+  916. $44,866 Santiago
+ *917. $44,866 nicholaskirkpatrick06
  *918. $44,876 hebgeennaam1
  *919. $44,877 Jab05
   920. $44,930 daseisen82
   921. $44,938 park002
- *922. $44,945 gurkhan
- *923. $44,945 雕牌洗衣液
+ *922. $44,945 雕牌洗衣液
+ *923. $44,945 gurkhan
  *924. $44,948 ma23
   925. $44,979 mathieuvanrossum
   926. $44,982 Djoser
