@@ -1,13 +1,13 @@
 Poly Bridge 2 - 4-13C "Diagonal Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-05-13T00:13:21.964Z
-1000/2998 unique ranks shown
+Updated 2021-05-14T00:14:16.772Z
+1000/3001 unique ranks shown
 
-   *1. $2,444  7777Alex7777
-   *2. $2,444  Zen
+   *1. $2,444  Zen
+   *2. $2,444  7777Alex7777
    *3. $2,448  somefakegamer
    *4. $2,450  Fathom
-   *5. $2,525  palfly15
-   *6. $2,525  Cookieblues
+   *5. $2,525  Cookieblues
+   *6. $2,525  palfly15
    *7. $2,699  MOD
    *8. $2,996  Trygeve
    *9. $3,015  9k5
@@ -16,8 +16,8 @@ Updated 2021-05-13T00:13:21.964Z
   *12. $3,692  Crimson
   *13. $3,743  ~ Smithy ~
   *14. $3,763  CursorCoercer
-  *15. $3,890  Alison
-  *16. $3,890  mooseman0423
+  *15. $3,890  mooseman0423
+  *16. $3,890  Alison
   *17. $3,890  minecat
   *18. $4,693  Toto00
   *19. $8,208  gamespilgame
@@ -93,7 +93,7 @@ Updated 2021-05-13T00:13:21.964Z
    89. $23,330 Maarto
   *90. $23,360 alex
   *91. $23,453 BuildingDR
-  *92. $23,460 jeremywinick
+   92. $23,460 jeremywinick
   *93. $23,461 jason.fritsch18
    94. $23,468 pufaxx
   *95. $23,515 Seldaphar
@@ -360,11 +360,11 @@ Updated 2021-05-13T00:13:21.964Z
   356. $32,889 dhartwell
   357. $33,017 daniel.gilesthornbory
   358. $33,073 LFB
- *359. $33,101 BeljihnWahfl
+  359. $33,101 BeljihnWahfl
  *360. $33,140 adamjpoole
   361. $33,155 FoxOmission
   362. $33,168 That Guy
-  363. $33,226 Drake84
+ *363. $33,226 Drake84
   364. $33,323 jesse
   365. $33,351 Maironne
   366. $33,355 Schnubbelheinski
@@ -429,7 +429,7 @@ Updated 2021-05-13T00:13:21.964Z
   425. $34,844 Thunderblade73
   426. $34,847 Moly!
   427. $34,860 iressle
- *428. $34,944 Offspec
+  428. $34,944 Offspec
   429. $34,972 jjmartin
  *430. $34,973 Kraechel
  *431. $34,977 KidMessiah
@@ -498,7 +498,7 @@ Updated 2021-05-13T00:13:21.964Z
   494. $36,321 Adamsaxe
   495. $36,348 cade
  *496. $36,350 shavrin777
- *497. $36,379 KettleMan
+  497. $36,379 KettleMan
  *498. $36,453 Bellei
   499. $36,454 Succ
   500. $36,464 CApybaraLORDgOD
@@ -530,13 +530,13 @@ Updated 2021-05-13T00:13:21.964Z
  *526. $37,238 jtfritz1999
   527. $37,247 Theoddredhead
   528. $37,252 Jupiter
-  529. $37,283 nabster
+ *529. $37,283 nabster
   530. $37,326 niels7796
   531. $37,341 loriscao
   532. $37,403 Meanen
   533. $37,412 nathanK
  *534. $37,425 Winsley
- *535. $37,435 OverTheTop423
+  535. $37,435 OverTheTop423
  *536. $37,445 gerhard.nida
  *537. $37,447 liam
   538. $37,506 Baldur
@@ -864,8 +864,8 @@ Updated 2021-05-13T00:13:21.964Z
   860. $44,729 Sothyl
  *861. $44,736 Patches
  *862. $44,755 Baked Cheese
- *863. $44,777 Noah2NT
-  864. $44,777 万吨匿名信
+  863. $44,777 万吨匿名信
+ *864. $44,777 Noah2NT
   865. $44,793 BronBerry
  *866. $44,816 bee0215
   867. $44,830 burritobrown
@@ -938,7 +938,7 @@ Updated 2021-05-13T00:13:21.964Z
   934. $46,433 DrunkenFlamenc
   935. $46,458 CantTouchDis
   936. $46,463 Beelzebub
-  937. $46,465 Patrick
+ *937. $46,465 Patrick
   938. $46,481 TreyBombay
   939. $46,484 Potato
   940. $46,497 Brentwould
