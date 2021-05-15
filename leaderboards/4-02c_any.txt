@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-02C "Collision Warning" any% leaderboard (* = breaks)
-Updated 2021-05-14T00:14:16.651Z
-1000/3535 unique ranks shown
+Updated 2021-05-15T00:14:01.377Z
+1000/3538 unique ranks shown
 
    *1. $1,636  cfloyd2002
    *2. $1,638  Trygeve
@@ -33,21 +33,21 @@ Updated 2021-05-14T00:14:16.651Z
    29. $3,499  XxTrollFacexX
   *30. $3,549  Katamari (old)
    31. $3,561  Confirm NotJonah
-  *32. $3,577  Roevhaal
-  *33. $3,616  xuve2
-  *34. $3,643  Enchanted Spider
-  *35. $3,650  palfly15
-  *36. $3,713  Jhay80416
-   37. $3,758  Heater
-  *38. $3,771  olivapaa
-  *39. $3,772  adambrianschmidt
-  *40. $3,775  PuffTheDragon
-  *41. $3,778  lukas.bornheim
-  *42. $3,799  4hud
-  *43. $3,812  Cix
-   44. $3,850  Jormungandr
-   45. $3,863  jarwin
-  *46. $3,946  Fathom
+  *32. $3,569  Fathom
+  *33. $3,577  Roevhaal
+  *34. $3,616  xuve2
+  *35. $3,643  Enchanted Spider
+  *36. $3,650  palfly15
+  *37. $3,713  Jhay80416
+   38. $3,758  Heater
+  *39. $3,771  olivapaa
+  *40. $3,772  adambrianschmidt
+  *41. $3,775  PuffTheDragon
+  *42. $3,778  lukas.bornheim
+  *43. $3,799  4hud
+  *44. $3,812  Cix
+   45. $3,850  Jormungandr
+   46. $3,863  jarwin
   *47. $3,964  Honn
    48. $4,035  Croney
    49. $4,051  Kalorienreduziert
@@ -61,8 +61,8 @@ Updated 2021-05-14T00:14:16.651Z
    57. $4,344  aferalsheep
    58. $4,349  Kingly Red Lion Guy
   *59. $4,354  cam
-  *60. $4,385  Jumpyball16
-  *61. $4,385  liam
+  *60. $4,385  liam
+  *61. $4,385  Jumpyball16
    62. $4,396  Sorter
    63. $4,427  At424
    64. $4,435  cilet
@@ -78,8 +78,8 @@ Updated 2021-05-14T00:14:16.651Z
    74. $4,643  Coniferkiller
   *75. $4,643  Noahsorou
    76. $4,644  420 FaZe it
-  *77. $4,661  staubman1
-  *78. $4,661  Nova_789
+  *77. $4,661  Nova_789
+  *78. $4,661  staubman1
    79. $4,673  TheWeber
    80. $4,699  Sam
   *81. $4,700  nVentex
@@ -90,8 +90,8 @@ Updated 2021-05-14T00:14:16.651Z
    86. $4,753  Igloo
    87. $4,790  schaufan
   *88. $4,799  david.c.hagglund
-  *89. $4,804  Lord_F8L
-  *90. $4,804  SCHM1TTY
+  *89. $4,804  SCHM1TTY
+  *90. $4,804  Lord_F8L
   *91. $4,840  arlo.mooney
    92. $4,867  Sothyl
    93. $4,899  CeeJay
@@ -299,11 +299,11 @@ Updated 2021-05-14T00:14:16.651Z
  *295. $7,587  滑地上之小稽
   296. $7,599  thueman
   297. $7,610  Μην παροχής συμβουλών
- *298. $7,611  LaserLinX
-  299. $7,611  MuscleMuscleDigDa
+  298. $7,611  MuscleMuscleDigDa
+ *299. $7,611  LaserLinX
   300. $7,613  ✪ tom1911
-  301. $7,619  inv > Smesh
- *302. $7,619  FrankNirvana
+ *301. $7,619  FrankNirvana
+  302. $7,619  inv > Smesh
   303. $7,622  PROwill3
   304. $7,636  syrusxavier713
   305. $7,636  DJ Khaled
@@ -410,8 +410,8 @@ Updated 2021-05-14T00:14:16.651Z
   406. $8,725  Kosher Karambwan
   407. $8,737  Swiftus
   408. $8,740  cavetroll
-  409. $8,744  owenap2007
- *410. $8,744  colinblue57
+ *409. $8,744  colinblue57
+  410. $8,744  owenap2007
   411. $8,745  Lenny!
   412. $8,754  lassetasse
  *413. $8,759  Imagine Pears
@@ -543,8 +543,8 @@ Updated 2021-05-14T00:14:16.651Z
   539. $9,476  DerMarwin
   540. $9,476  Legal NarcoticX
  *541. $9,477  JRod2296
-  542. $9,480  Vexto_23
- *543. $9,480  denta0056
+ *542. $9,480  denta0056
+  543. $9,480  Vexto_23
   544. $9,481  DualCoreCPU
   545. $9,486  Dom
   546. $9,490  Chyon
@@ -772,9 +772,9 @@ Updated 2021-05-14T00:14:16.651Z
   768. $10,457 Jeevus
   769. $10,457 Comrade Conrad
   770. $10,461 抱歉不予顯示
- *771. $10,483 Fritösenfett Fred
-  772. $10,483 Sir Doom Nooble
- *773. $10,483 Sloth
+ *771. $10,483 Sloth
+ *772. $10,483 Fritösenfett Fred
+  773. $10,483 Sir Doom Nooble
  *774. $10,489 Kastrull
  *775. $10,500 frotnight funy
   776. $10,502 Arckon
@@ -787,8 +787,8 @@ Updated 2021-05-14T00:14:16.651Z
   783. $10,517 adamladam484
   784. $10,521 TesllaTea マックス
   785. $10,528 tekPwn
-  786. $10,537 BronBerry
- *787. $10,537 Bairdy
+ *786. $10,537 Bairdy
+  787. $10,537 BronBerry
   788. $10,540 wrestlingroks
   789. $10,550 lukas.speckbacher
   790. $10,553 theo.louesdon
@@ -820,8 +820,8 @@ Updated 2021-05-14T00:14:16.651Z
   816. $10,661 servank
   817. $10,663 jolacub1
   818. $10,669 WARdd
- *819. $10,672 xDJICDx
-  820. $10,672 obsidious
+  819. $10,672 obsidious
+ *820. $10,672 xDJICDx
   821. $10,674 Retrolith
   822. $10,675 Mailmanator
   823. $10,681 Jeff
@@ -920,8 +920,8 @@ Updated 2021-05-14T00:14:16.651Z
   916. $11,027 DudeGuy04
   917. $11,039 yadielruiz823
  *918. $11,041 Carole Fuggin Baskin
- *919. $11,048 Kauko
-  920. $11,048 oof
+  919. $11,048 oof
+ *920. $11,048 Kauko
   921. $11,058 Cainos
   922. $11,058 cool_da
  *923. $11,058 Parttime Toast
@@ -951,8 +951,8 @@ Updated 2021-05-14T00:14:16.651Z
   947. $11,132 TrayWasTaken
   948. $11,133 lukas
   949. $11,134 kyle_K_dragon
-  950. $11,134 dmtjmurphy
- *951. $11,134 Destroyer2802
+ *950. $11,134 Destroyer2802
+  951. $11,134 dmtjmurphy
   952. $11,137 toga
   953. $11,139 Tacticalibre
   954. $11,145 TomKazi
