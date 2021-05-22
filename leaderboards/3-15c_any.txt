@@ -1,9 +1,9 @@
 Poly Bridge 2 - 3-15C "Looper's Revenge" any% leaderboard (* = breaks)
-Updated 2021-05-21T00:14:09.834Z
-1000/3249 unique ranks shown
+Updated 2021-05-22T00:15:17.199Z
+1000/3251 unique ranks shown
 
-   *1. $8,880  Cookieblues
-   *2. $8,880  Noahsorou
+   *1. $8,880  Noahsorou
+   *2. $8,880  Cookieblues
    *3. $10,639 Zen
     4. $15,792 Realyum
     5. $20,677 Soba
@@ -22,7 +22,7 @@ Updated 2021-05-21T00:14:09.834Z
   *18. $28,294 lukas.bornheim
    19. $28,623 Simon241199
   *20. $28,787 Croney
-  *21. $28,800 Jacowboy
+   21. $28,800 Jacowboy
    22. $29,300 Jhay80416
   *23. $29,655 jonaTHOT
    24. $29,699 9k5
@@ -42,13 +42,13 @@ Updated 2021-05-21T00:14:09.834Z
    38. $32,038 kraal
    39. $32,716 DildoBike
   *40. $32,848 bille
-  *41. $32,862 CursorCoercer
-  *42. $32,862 Roevhaal
-  *43. $32,862 Lagiiiie
-  *44. $32,862 Icysnowman
+  *41. $32,862 Roevhaal
+  *42. $32,862 Lagiiiie
+  *43. $32,862 Icysnowman
+  *44. $32,862 CursorCoercer
   *45. $32,999 MOD
    46. $33,267 bastian.bello.c
-   47. $33,443 XxTrollFacexX
+  *47. $33,443 XxTrollFacexX
    48. $33,444 cilet
    49. $33,475 Invasian
    50. $33,572 Looming
@@ -389,8 +389,8 @@ Updated 2021-05-21T00:14:09.834Z
   385. $62,040 Totulhu
  *386. $62,042 FrankNirvana
   387. $62,049 90nine
- *388. $62,068 VegitoRS
-  389. $62,068 sus
+  388. $62,068 sus
+ *389. $62,068 VegitoRS
   390. $62,069 jonah.freeland
   391. $62,091 BlorkBorkey
   392. $62,101 Bandwidth Bandit
@@ -955,50 +955,50 @@ Updated 2021-05-21T00:14:09.834Z
  *951. $75,648 King Dyllan
   952. $75,674 rileycomstock
   953. $75,692 Atomguy
- *954. $75,736 SJZombie
-  955. $75,742 WEE SNAW
-  956. $75,750 Bulletpruuv
-  957. $75,755 cROCfff
-  958. $75,769 禾子
-  959. $75,786 DaggerDoom
-  960. $75,799 Estuine
- *961. $75,800 theo.louesdon
-  962. $75,805 ThatBloodyPanda
- *963. $75,825 Astrodaly
- *964. $75,846 farmkidextream
- *965. $75,869 Fractyll
-  966. $75,870 Jeevus
-  967. $75,871 Okoye's #1
-  968. $75,904 Jonny Cage
-  969. $75,905 MysticKale
-  970. $75,909 Yaky
- *971. $75,923 Wizzy-chan
-  972. $75,941 Suppenteller32
-  973. $75,984 cornshitfuck
-  974. $75,986 waxton
-  975. $76,000 Azinegamer
-  976. $76,005 Aodhan
-  977. $76,008 kzvts123
-  978. $76,028 Dayman
-  979. $76,063 Hacker Duck
- *980. $76,099 Envy
-  981. $76,105 Teh
-  982. $76,106 non victus
-  983. $76,138 dragevann
-  984. $76,148 ShrexyBeast
-  985. $76,156 bruhroid.h.exe
- *986. $76,169 timmyaustin29.as
-  987. $76,176 Ostabo
-  988. $76,208 dolfbier
-  989. $76,254 Rcade
-  990. $76,290 matthewgrant11
-  991. $76,318 Maarto
-  992. $76,324 Rudy
-  993. $76,338 XLR
-  994. $76,341 SaucyStanley
-  995. $76,341 marcelvalize
-  996. $76,350 Lorz
-  997. $76,386 Big Al Chimpo
-  998. $76,407 Dr. Pepper MD
- *999. $76,433 pisscunt the motherfucker
- 1000. $76,524 Sammith
+  954. $75,717 MONGOOSE
+ *955. $75,736 SJZombie
+  956. $75,742 WEE SNAW
+  957. $75,750 Bulletpruuv
+  958. $75,755 cROCfff
+  959. $75,769 禾子
+  960. $75,786 DaggerDoom
+  961. $75,799 Estuine
+ *962. $75,800 theo.louesdon
+  963. $75,805 ThatBloodyPanda
+ *964. $75,825 Astrodaly
+ *965. $75,846 farmkidextream
+ *966. $75,869 Fractyll
+  967. $75,870 Jeevus
+  968. $75,871 Okoye's #1
+  969. $75,904 Jonny Cage
+  970. $75,905 MysticKale
+  971. $75,909 Yaky
+ *972. $75,923 Wizzy-chan
+  973. $75,941 Suppenteller32
+  974. $75,984 cornshitfuck
+  975. $75,986 waxton
+  976. $76,000 Azinegamer
+  977. $76,005 Aodhan
+  978. $76,008 kzvts123
+  979. $76,028 Dayman
+  980. $76,063 Hacker Duck
+ *981. $76,099 Envy
+  982. $76,105 Teh
+  983. $76,106 non victus
+  984. $76,138 dragevann
+  985. $76,148 ShrexyBeast
+  986. $76,156 bruhroid.h.exe
+ *987. $76,169 timmyaustin29.as
+  988. $76,176 Ostabo
+  989. $76,208 dolfbier
+  990. $76,254 Rcade
+  991. $76,290 matthewgrant11
+  992. $76,318 Maarto
+  993. $76,324 Rudy
+  994. $76,338 XLR
+  995. $76,341 SaucyStanley
+  996. $76,341 marcelvalize
+  997. $76,350 Lorz
+  998. $76,386 Big Al Chimpo
+  999. $76,407 Dr. Pepper MD
+*1000. $76,433 pisscunt the motherfucker
