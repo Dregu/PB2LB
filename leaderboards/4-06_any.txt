@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-06 "Safety Gap" any% leaderboard (* = breaks)
-Updated 2021-05-23T00:16:17.188Z
-1000/26481 unique ranks shown
+Updated 2021-05-25T00:14:59.614Z
+1000/26503 unique ranks shown
 
     1. $3,889  Roevhaal
     2. $3,941  geroniberry
@@ -74,7 +74,7 @@ Updated 2021-05-23T00:16:17.188Z
    70. $9,638  augieinpdx
    71. $9,652  tinypenguin000
   *72. $9,660  TheSadSlinky
-  *73. $9,666  ph0
+   73. $9,666  ph0
   *74. $9,677  ole.van.tiel
    75. $9,683  HappyPiggy
   *76. $9,694  Hnnter
@@ -109,7 +109,7 @@ Updated 2021-05-23T00:16:17.188Z
  *105. $10,349 kraal
  *106. $10,374 DŔΛZYӾƬѴ
   107. $10,379 mooseman0423
-  108. $10,439 Soba
+ *108. $10,439 Soba
  *109. $10,441 whamer100
   110. $10,447 jjones18
   111. $10,449 iiEffectz
@@ -170,8 +170,8 @@ Updated 2021-05-23T00:16:17.188Z
   166. $11,529 Charles_F_Adams
   167. $11,569 nhaven14
  *168. $11,577 cmccann1578
- *169. $11,605 Cracklepappy
-  170. $11,605 ⛧łmbo⛧
+  169. $11,605 ⛧łmbo⛧
+ *170. $11,605 Cracklepappy
   171. $11,623 Polymyr
   172. $11,628 Parzival
  *173. $11,691 TesllaTea マックス
@@ -182,7 +182,7 @@ Updated 2021-05-23T00:16:17.188Z
   178. $11,812 FiTy
  *179. $11,819 bees
   180. $11,839 Recket
-  181. $11,857 Dubious
+ *181. $11,857 Dubious
   182. $11,864 Aregada
   183. $11,872 bastian.bello.c
   184. $11,882 Kowely
@@ -390,60 +390,60 @@ Updated 2021-05-23T00:16:17.188Z
   386. $16,494 ultimatedgambler
  *387. $16,514 Boat
   388. $16,519 J_Hodgie
- *389. $16,589 NanoCE
- *390. $16,597 The All-Powerful Qwan
- *391. $16,597 Hiby
-  392. $16,620 Dente
-  393. $16,656 OiOiSavoy
-  394. $16,684 Kingcow101
-  395. $16,719 Noa Andersson
-  396. $16,734 Anders
-  397. $16,749 Ares
- *398. $16,764 Niilo
-  399. $16,765 Marozino
-  400. $16,775 Sirius
- *401. $16,785 Citrus7788
-  402. $16,838 Kiilworthy
-  403. $16,844 ΩΩΩHappyFace:)
-  404. $16,856 mtnorth
-  405. $16,859 racebmx
-  406. $16,921 Trollhand
-  407. $16,938 miniaturezarkzark1
-  408. $16,942 TiLt_Yagio
- *409. $16,978 kilian
- *410. $16,980 Kurtzo
-  411. $17,033 Kint
-  412. $17,037 BrUraniumH
-  413. $17,039 wilting652
-  414. $17,049 00ruishu
-  415. $17,136 cfloyd2002
- *416. $17,165 Cydrosil
- *417. $17,165 Fluent Diarrhea
-  418. $17,175 marmaco
-  419. $17,180 Ykd
-  420. $17,203 Bohemian5
-  421. $17,212 tinytomblack
- *422. $17,230 Ash Kerwood
-  423. $17,247 FlammableZelda
-  424. $17,270 Otonashi
-  425. $17,270 Brodo Faggins
-  426. $17,270 jeg_er_en_bjørn
-  427. $17,270 euan9douglas
-  428. $17,270 CodingTom
-  429. $17,270 Quarteresque
-  430. $17,311 hankanghyun
- *431. $17,315 FruitJS
-  432. $17,336 Skretchii
-  433. $17,347 plusbeats
-  434. $17,361 Reto
-  435. $17,367 Bloodwurst
- *436. $17,379 Daffut
-  437. $17,383 TheCarrotGod
-  438. $17,419 Creedrah
-  439. $17,517 Geir Henrik
-  440. $17,525 Tempest
-  441. $17,527 Layup
-  442. $17,596 114623050
+  389. $16,574 114623050
+ *390. $16,589 NanoCE
+ *391. $16,597 The All-Powerful Qwan
+ *392. $16,597 Hiby
+  393. $16,620 Dente
+  394. $16,656 OiOiSavoy
+  395. $16,684 Kingcow101
+  396. $16,719 Noa Andersson
+  397. $16,734 Anders
+  398. $16,749 Ares
+ *399. $16,764 Niilo
+  400. $16,765 Marozino
+  401. $16,775 Sirius
+ *402. $16,785 Citrus7788
+  403. $16,838 Kiilworthy
+  404. $16,844 ΩΩΩHappyFace:)
+  405. $16,856 mtnorth
+  406. $16,859 racebmx
+  407. $16,921 Trollhand
+  408. $16,938 miniaturezarkzark1
+  409. $16,942 TiLt_Yagio
+ *410. $16,978 kilian
+ *411. $16,980 Kurtzo
+  412. $17,033 Kint
+  413. $17,037 BrUraniumH
+  414. $17,039 wilting652
+  415. $17,049 00ruishu
+  416. $17,136 cfloyd2002
+ *417. $17,165 Cydrosil
+ *418. $17,165 Fluent Diarrhea
+  419. $17,175 marmaco
+  420. $17,180 Ykd
+  421. $17,203 Bohemian5
+  422. $17,212 tinytomblack
+ *423. $17,230 Ash Kerwood
+  424. $17,247 FlammableZelda
+  425. $17,270 Otonashi
+  426. $17,270 Brodo Faggins
+  427. $17,270 jeg_er_en_bjørn
+  428. $17,270 euan9douglas
+  429. $17,270 CodingTom
+  430. $17,270 Quarteresque
+  431. $17,311 hankanghyun
+ *432. $17,315 FruitJS
+  433. $17,336 Skretchii
+  434. $17,347 plusbeats
+  435. $17,361 Reto
+  436. $17,367 Bloodwurst
+ *437. $17,379 Daffut
+  438. $17,383 TheCarrotGod
+  439. $17,419 Creedrah
+  440. $17,517 Geir Henrik
+  441. $17,525 Tempest
+  442. $17,527 Layup
   443. $17,622 fitzgibb
   444. $17,625 zMg
   445. $17,642 mraow~
@@ -525,8 +525,8 @@ Updated 2021-05-23T00:16:17.188Z
   521. $19,839 Guacamole Hobo
  *522. $19,844 ǝɯɐlℲ
  *523. $19,857 Surprised Pikachu
- *524. $19,870 Pivoo
-  525. $19,870 Suti
+  524. $19,870 Suti
+ *525. $19,870 Pivoo
   526. $19,910 Spetz
   527. $19,918 785679710
   528. $19,923 maxhaibara97
@@ -566,8 +566,8 @@ Updated 2021-05-23T00:16:17.188Z
   562. $20,470 Terrigible
   563. $20,470 wardziak1
   564. $20,536 听冬岩尘开
- *565. $20,553 AAAAAHHHHH
- *566. $20,553 joel.tornhult
+ *565. $20,553 joel.tornhult
+ *566. $20,553 AAAAAHHHHH
   567. $20,560 cam
   568. $20,585 SubZer0
   569. $20,594 Seawolf
@@ -714,8 +714,8 @@ Updated 2021-05-23T00:16:17.188Z
   710. $22,362 laurie_oa
   711. $22,363 Krodis
   712. $22,393 YYX
-  713. $22,443 Mini Panic
- *714. $22,443 Lich
+ *713. $22,443 Lich
+  714. $22,443 Mini Panic
   715. $22,445 P1RV
   716. $22,470 alextroycampbell
   717. $22,473 Jezza
@@ -800,8 +800,8 @@ Updated 2021-05-23T00:16:17.188Z
   796. $23,428 woooowamazingplayerplayingshit
   797. $23,434 alexwillstun
   798. $23,436 Brett6238
- *799. $23,439 lilpizzalabongo
-  800. $23,439 GreyGamer
+  799. $23,439 GreyGamer
+ *800. $23,439 lilpizzalabongo
   801. $23,442 Vandassar
   802. $23,449 fezman
   803. $23,461 Zen Ti
@@ -816,8 +816,8 @@ Updated 2021-05-23T00:16:17.188Z
   812. $23,562 Tensa
   813. $23,569 williamaprabowo
   814. $23,572 wmBommel
- *815. $23,573 htN
-  816. $23,573 zabirskie
+  815. $23,573 zabirskie
+ *816. $23,573 htN
   817. $23,581 DJtheDentist
   818. $23,584 明明是我先
   819. $23,614 Slothen Skinbay.com
@@ -943,8 +943,8 @@ Updated 2021-05-23T00:16:17.188Z
   939. $24,933 Sleepyhead
  *940. $24,937 Momo
   941. $24,973 MellowyYellowy
- *942. $24,992 frogbelly008
- *943. $24,992 Szymin
+ *942. $24,992 Szymin
+ *943. $24,992 frogbelly008
   944. $24,994 Jerome
   945. $24,995 Rixhard
  *946. $24,999 Kuma

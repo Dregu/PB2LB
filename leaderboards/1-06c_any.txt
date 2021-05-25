@@ -1,9 +1,9 @@
 Poly Bridge 2 - 1-06C "First Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-05-23T00:16:16.724Z
-1000/15034 unique ranks shown
+Updated 2021-05-25T00:14:59.072Z
+1000/15052 unique ranks shown
 
-   *1. $696    Trygeve
-   *2. $696    somefakegamer
+   *1. $669    somefakegamer
+   *2. $696    Trygeve
    *3. $1,268  Cookieblues
    *4. $1,605  akkun_ouo
    *5. $1,619  palfly15
@@ -29,13 +29,13 @@ Updated 2021-05-23T00:16:16.724Z
   *25. $2,134  gamespilgame
   *26. $2,147  jtornqvist
   *27. $2,167  Heater
-  *28. $2,220  ~ Smithy ~
-  *29. $2,220  Icysnowman
-  *30. $2,287  mooseman0423
-  *31. $2,287  Enchanted Spider
-  *32. $2,287  maash
+  *28. $2,220  Icysnowman
+  *29. $2,220  ~ Smithy ~
+  *30. $2,287  maash
+  *31. $2,287  mooseman0423
+  *32. $2,287  Codeman999
   *33. $2,287  fantakilla
-  *34. $2,287  Codeman999
+  *34. $2,287  Enchanted Spider
   *35. $3,425  goldenpggie
    36. $4,527  St3rd_
    37. $4,556  抱歉不予顯示
@@ -137,8 +137,8 @@ Updated 2021-05-23T00:16:16.724Z
   133. $5,423  Morgothor
   134. $5,424  The_Vaccine
  *135. $5,425  Inferior Asian
-  136. $5,430  ms0719584
- *137. $5,430  torry
+ *136. $5,430  torry
+  137. $5,430  ms0719584
   138. $5,446  Tarontos
   139. $5,453  Venin
   140. $5,468  ShadeyBounty
@@ -367,8 +367,8 @@ Updated 2021-05-23T00:16:16.724Z
   363. $9,116  Ħasħɇđ ⱣøŧȺŧøɇs
   364. $9,120  Orbifold
   365. $9,121  레이치
- *366. $9,122  lollyH2O
-  367. $9,122  Xeeloth
+  366. $9,122  Xeeloth
+ *367. $9,122  lollyH2O
   368. $9,126  cmikaiti
   369. $9,130  Azean
   370. $9,138  dvanhinthum
@@ -379,7 +379,7 @@ Updated 2021-05-23T00:16:16.724Z
   375. $9,158  Fuuya
   376. $9,162  matttev
   377. $9,169  Amiyakrizi
- *378. $9,174  jonas.beachy
+  378. $9,174  jonas.beachy
  *379. $9,174  Woof.
   380. $9,177  HappyFishboy
   381. $9,185  jdogg565
@@ -538,10 +538,10 @@ Updated 2021-05-23T00:16:16.724Z
   534. $9,600  cheesybunghole
   535. $9,600  twitch-Khaddy42
   536. $9,601  umeshu
- *537. $9,602  Ewallux
-  538. $9,602  Quality
-  539. $9,602  bfninjamonkey
- *540. $9,602  woooowamazingplayerplayingshit
+ *537. $9,602  woooowamazingplayerplayingshit
+ *538. $9,602  Ewallux
+  539. $9,602  Quality
+  540. $9,602  bfninjamonkey
   541. $9,604  157268943
   542. $9,608  arneman44
   543. $9,610  Hampa
@@ -734,7 +734,7 @@ Updated 2021-05-23T00:16:16.724Z
   730. $9,996  GraySocks
   731. $9,997  Göbinator
   732. $9,998  Elvishbarbecue
-  733. $9,998  8th coming of Jesus
+ *733. $9,998  8th coming of Jesus
  *734. $9,999  YottaCat
   735. $10,000 tegl
   736. $10,000 Mr. Jelly Bean
@@ -770,15 +770,15 @@ Updated 2021-05-23T00:16:16.724Z
   766. $10,079 Satcher
  *767. $10,081 thoasbeon
   768. $10,086 fluffy fluffy bunny
- *769. $10,087 Tommi_cz
-  770. $10,087 Haime_rej
+  769. $10,087 Haime_rej
+ *770. $10,087 Tommi_cz
  *771. $10,089 Teh
   772. $10,092 Babou
   773. $10,095 bee
   774. $10,098 White
   775. $10,099 rmdailey85
- *776. $10,099 nVentex
-  777. $10,099 hmx0311
+  776. $10,099 hmx0311
+ *777. $10,099 nVentex
   778. $10,101 Special Noone
   779. $10,102 yhxxtsy
   780. $10,102 jeroen.mulkers
@@ -786,8 +786,8 @@ Updated 2021-05-23T00:16:16.724Z
   782. $10,104 Tillain
   783. $10,107 moosemoss
   784. $10,108 Sjakie
- *785. $10,110 TimboRimbo
-  786. $10,110 manojmact
+  785. $10,110 manojmact
+ *786. $10,110 TimboRimbo
   787. $10,112 konkave
   788. $10,113 veggie stix
   789. $10,114 Shaun135
@@ -838,9 +838,9 @@ Updated 2021-05-23T00:16:16.724Z
   834. $10,172 BiggsBoson
   835. $10,172 ekard_drake
   836. $10,175 Sorter
-  837. $10,182 Champagne
- *838. $10,182 Palandos
- *839. $10,182 qiuqiuhulstrom
+ *837. $10,182 Palandos
+ *838. $10,182 qiuqiuhulstrom
+  839. $10,182 Champagne
   840. $10,183 ST4K3RS
   841. $10,183 Outrageus
   842. $10,189 AERO
@@ -873,9 +873,9 @@ Updated 2021-05-23T00:16:16.724Z
   869. $10,249 小k
   870. $10,250 |Bread|
   871. $10,251 Potato_Soup
- *872. $10,252 timfozothy
-  873. $10,252 leMi
-  874. $10,252 007-007
+  872. $10,252 leMi
+  873. $10,252 007-007
+ *874. $10,252 timfozothy
   875. $10,253 Deathtal
   876. $10,253 jcs244
   877. $10,253 EntropicMage
@@ -921,8 +921,8 @@ Updated 2021-05-23T00:16:16.724Z
   917. $10,330 artur.platzek
   918. $10,334 sethandtiki
   919. $10,336 cintya7777
-  920. $10,337 Bobby Boi
- *921. $10,337 JimothyCricket
+ *920. $10,337 JimothyCricket
+  921. $10,337 Bobby Boi
   922. $10,339 Blaz McBlazington
   923. $10,342 Ground15
   924. $10,343 vreugd5
