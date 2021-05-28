@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-07C "Taxi Task" any% leaderboard (* = breaks)
-Updated 2021-05-27T00:23:16.578Z
-1000/13164 unique ranks shown
+Updated 2021-05-28T00:24:31.600Z
+1000/13168 unique ranks shown
 
    *1. $2,886 CursorCoercer
    *2. $3,154 Trygeve
@@ -32,16 +32,16 @@ Updated 2021-05-27T00:23:16.578Z
    28. $5,830 Gaotosky10
    29. $5,831 Heater
    30. $5,831 TucLTU
-  *31. $5,832 Tiaga
-   32. $5,832 Dwerto
+   31. $5,832 Dwerto
+  *32. $5,832 Tiaga
    33. $5,832 BaconPancakes
    34. $5,834 Hoopou
    35. $5,834 OCAdam
    36. $5,836 willwang343
    37. $5,836 pkmarcotte
    38. $5,836 genevieve.m.draper
-  *39. $5,837 AsaOfHearts
-   40. $5,837 gold torizo
+   39. $5,837 gold torizo
+  *40. $5,837 AsaOfHearts
    41. $5,838 rakankma
    42. $5,838 Conqu3red
    43. $5,838 MOD
@@ -49,10 +49,10 @@ Updated 2021-05-27T00:23:16.578Z
    45. $5,839 Red Shoehart
    46. $5,839 9k5
   *47. $5,840 Tomimator
-  *48. $5,841 minecat
-   49. $5,841 Hnusný Slimák
-   50. $5,841 non victus
-  *51. $5,841 Dubious
+   48. $5,841 Hnusný Slimák
+  *49. $5,841 Dubious
+  *50. $5,841 minecat
+   51. $5,841 non victus
    52. $5,841 inv > Smesh
    53. $5,842 Mr. Clean | _james#1711
    54. $5,842 Enchanted Spider
@@ -70,8 +70,8 @@ Updated 2021-05-27T00:23:16.578Z
    66. $5,847 Bibbb
    67. $5,847 poipoi300
   *68. $5,847 mazdapivot
-  *69. $5,848 Xena-8791
-   70. $5,848 therrieur
+   69. $5,848 therrieur
+  *70. $5,848 Xena-8791
    71. $5,849 Confirm NotJonah
    72. $5,849 WirJun
    73. $5,851 mooseman0423
@@ -94,8 +94,8 @@ Updated 2021-05-27T00:23:16.578Z
    90. $5,857 Aiferion
    91. $5,859 ThatDamnJackal
   *92. $5,859 Zharra
-  *93. $5,860 Kordy
-   94. $5,860 Mitch
+   93. $5,860 Mitch
+  *94. $5,860 Kordy
    95. $5,861 Noahsorou
    96. $5,861 redfox
    97. $5,861 Icysnowman
@@ -112,8 +112,8 @@ Updated 2021-05-27T00:23:16.578Z
   108. $5,870 KoopaKoopa3
   109. $5,871 Honn
   110. $5,872 jinyumei99088
-  111. $5,873 sureshotcam
- *112. $5,873 Tix
+ *111. $5,873 Tix
+  112. $5,873 sureshotcam
   113. $5,873 Slick
   114. $5,873 Zornitsa
   115. $5,873 Dummy Thicc Watermelon
@@ -123,19 +123,19 @@ Updated 2021-05-27T00:23:16.578Z
   119. $5,874 Lindoo
   120. $5,874 hsphere
   121. $5,874 Jhay80416
-  122. $5,875 POLAR
-  123. $5,875 Bellair08
- *124. $5,875 TheUnbeatableFrog
+ *122. $5,875 TheUnbeatableFrog
+  123. $5,875 POLAR
+  124. $5,875 Bellair08
   125. $5,876 Aurora <3
-  126. $5,877 Pengujedi
+ *126. $5,877 Pengujedi
   127. $5,877 Squog
   128. $5,878 jeremywinick
   129. $5,878 Tarontos
   130. $5,878 Elemental Corgi
-  131. $5,878 Michuley
-  132. $5,878 Me 10 Jin
-  133. $5,878 Nacin
- *134. $5,878 clownlord06
+ *131. $5,878 clownlord06
+  132. $5,878 Michuley
+  133. $5,878 Me 10 Jin
+  134. $5,878 Nacin
   135. $5,879 harryschaefer
   136. $5,879 Pineappleboi96
   137. $5,879 Mr.ThisGuy
@@ -153,9 +153,9 @@ Updated 2021-05-27T00:23:16.578Z
   149. $5,883 yoavr123
   150. $5,883 dan
   151. $5,883 cataclysm
- *152. $5,883 Frits
-  153. $5,883 Lampy
- *154. $5,883 Sofie
+  152. $5,883 Lampy
+ *153. $5,883 Sofie
+ *154. $5,883 Frits
   155. $5,884 DildoBike
   156. $5,884 Papi Gelapi
   157. $5,884 immo
@@ -234,11 +234,11 @@ Updated 2021-05-27T00:23:16.578Z
   230. $6,883 Daniel Thomas Patrick Candler
  *231. $6,909 Bandito dorito
   232. $6,923 HiredToKill_12
- *233. $6,928 Friar Laurence
- *234. $6,928 A Doctor Pepper
+ *233. $6,928 A Doctor Pepper
+ *234. $6,928 Friar Laurence
   235. $6,941 Dougman2
-  236. $6,964 ZanyZando
- *237. $6,964 MATTHIAS
+ *236. $6,964 MATTHIAS
+  237. $6,964 ZanyZando
   238. $6,967 gbhg666
   239. $6,968 abc_lx
   240. $6,970 Fai
@@ -313,8 +313,8 @@ Updated 2021-05-27T00:23:16.578Z
   309. $7,847 Wollensokje
   310. $7,849 Sexy Boy Industries [woop]
   311. $7,852 TheSadSlinky
-  312. $7,853 Agent Toasty
- *313. $7,853 M47145dg
+ *312. $7,853 M47145dg
+  313. $7,853 Agent Toasty
   314. $7,857 gotU
   315. $7,858 Jormungandr
   316. $7,862 Kapo
@@ -435,8 +435,8 @@ Updated 2021-05-27T00:23:16.578Z
  *431. $8,070 Yaky
   432. $8,071 Soya 소야
   433. $8,071 Desty
- *434. $8,072 klrwayant083
-  435. $8,072 Babou
+  434. $8,072 Babou
+ *435. $8,072 klrwayant083
   436. $8,073 B1nk
   437. $8,073 CFF-Andre
   438. $8,074 HellBllaze
@@ -504,7 +504,7 @@ Updated 2021-05-27T00:23:16.578Z
   500. $8,137 Waifu Art Thou Romeo
   501. $8,137 Leve
   502. $8,137 mw.moller89
- *503. $8,139 ma23
+  503. $8,139 ma23
   504. $8,139 xDerAlmanPanzer
  *505. $8,141 Hiro
   506. $8,142 Guy Gibson
@@ -607,8 +607,8 @@ Updated 2021-05-27T00:23:16.578Z
   603. $8,222 Care.Less
   604. $8,222 ✪ Owli
   605. $8,222 jdogg565
-  606. $8,223 Zynthian
- *607. $8,223 woooowamazingplayerplayingshit
+ *606. $8,223 woooowamazingplayerplayingshit
+  607. $8,223 Zynthian
   608. $8,224 N1234
   609. $8,226 KingMario
   610. $8,226 nmcconn3
@@ -626,9 +626,9 @@ Updated 2021-05-27T00:23:16.578Z
   622. $8,234 Shieber
   623. $8,236 Lemon Grenadine
   624. $8,237 alec.mitchellthomson
-  625. $8,238 Rela
-  626. $8,238 Walbyoff
- *627. $8,238 Corgle
+ *625. $8,238 Corgle
+  626. $8,238 Rela
+  627. $8,238 Walbyoff
   628. $8,239 Jarg Salt
   629. $8,240 sky
   630. $8,240 Seven
@@ -708,15 +708,15 @@ Updated 2021-05-27T00:23:16.578Z
   704. $8,295 cube
   705. $8,296 Banus
   706. $8,297 scrubers
-  707. $8,297 JJ_oshea
- *708. $8,297 Lucy Goosey
+ *707. $8,297 Lucy Goosey
+  708. $8,297 JJ_oshea
   709. $8,298 Entropic Defibrillator
   710. $8,298 Scotty
   711. $8,298 Yolnex
   712. $8,299 mdocod
- *713. $8,300 すみ
-  714. $8,300 Armin lass et
-  715. $8,300 Lima
+  713. $8,300 Armin lass et
+  714. $8,300 Lima
+ *715. $8,300 すみ
   716. $8,301 Sticky Kitty!
   717. $8,301 Funkeee
   718. $8,302 Teywer
@@ -749,8 +749,8 @@ Updated 2021-05-27T00:23:16.578Z
   745. $8,318 Griffinz7
   746. $8,318 jimwells
   747. $8,319 Negritito
- *748. $8,319 walter
-  749. $8,319 Sodamann
+  748. $8,319 Sodamann
+ *749. $8,319 walter
   750. $8,320 RosesDawn
   751. $8,320 tylerdg22
   752. $8,320 TakenoAki
@@ -776,8 +776,8 @@ Updated 2021-05-27T00:23:16.578Z
   772. $8,338 Aminalul
   773. $8,339 SmoothTrooper
   774. $8,341 DrGo0fy
-  775. $8,342 shainze
- *776. $8,342 ricksaramoore
+ *775. $8,342 ricksaramoore
+  776. $8,342 shainze
   777. $8,343 Zynth
   778. $8,343 meatloaf42
   779. $8,344 Asterius
@@ -892,8 +892,8 @@ Updated 2021-05-27T00:23:16.578Z
   888. $8,405 Rich
   889. $8,406 G33nid33
   890. $8,406 3524569097
- *891. $8,406 diederTheBeader
- *892. $8,406 chicken
+ *891. $8,406 chicken
+ *892. $8,406 diederTheBeader
  *893. $8,408 pietschie
   894. $8,408 Tortuga
   895. $8,409 Wholesome Bober | Road2DMG
@@ -912,14 +912,14 @@ Updated 2021-05-27T00:23:16.578Z
   908. $8,414 biorni999
   909. $8,414 Gimbo1112
   910. $8,415 Jemkat
- *911. $8,415 Delta_Mage
-  912. $8,415 Матченововский
+  911. $8,415 Матченововский
+ *912. $8,415 Delta_Mage
   913. $8,415 mnbv102723
   914. $8,416 C00KIE
   915. $8,416 cmikaiti
   916. $8,417 Bubi
-  917. $8,417 leoncorkidi
- *918. $8,417 Santiago
+ *917. $8,417 Santiago
+  918. $8,417 leoncorkidi
   919. $8,420 fantakilla
   920. $8,420 GonzoBlue
   921. $8,421 Viridian
@@ -994,8 +994,8 @@ Updated 2021-05-27T00:23:16.578Z
   990. $8,465 Blakeman76
   991. $8,466 Kamiran
   992. $8,467 NIK_48
-  993. $8,467 niff-Tea_UK
- *994. $8,467 Endskill
+ *993. $8,467 Endskill
+  994. $8,467 niff-Tea_UK
   995. $8,468 Djeece
   996. $8,468 RoRoDragon
   997. $8,469 Napoleonic99
