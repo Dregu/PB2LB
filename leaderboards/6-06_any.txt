@@ -1,6 +1,6 @@
 Poly Bridge 2 - 6-06 "Spring Loaded" any% leaderboard (* = breaks)
-Updated 2021-05-28T00:24:32.195Z
-771/917 unique ranks shown
+Updated 2021-05-29T00:33:35.436Z
+772/919 unique ranks shown
 
    *1. $333     Bellair08
    *2. $399     9k5
@@ -697,79 +697,80 @@ Updated 2021-05-28T00:24:32.195Z
   693. $99,424  TheFeuerzeug
   694. $99,438  FEDEX134
   695. $99,458  necro191
-  696. $99,487  merwinfamily77
-  697. $99,497  heogeon5
-  698. $99,500  Malgotgame
-  699. $99,533  uyutaso
-  700. $99,540  Player
-  701. $99,556  12ohkay
-  702. $99,571  Wollensokje
-  703. $99,579  crazydiamonde
-  704. $99,593  アヒル隊長(復活)
-  705. $99,604  Soba
-  706. $99,605  TheRainCrow
-  707. $99,622  tomka700
-  708. $99,622  MeTheCrasher
-  709. $99,622  dudqja
-  710. $99,629  Aregada
-  711. $99,635  CasualSanta
-  712. $99,639  TheGoldenShotgun
-  713. $99,696  raosun19981007
-  714. $99,705  Colon_Pee
-  715. $99,715  Ziomalo Gaming
-  716. $99,728  Snorb
-  717. $99,747  xXSIRNOOBXx
-  718. $99,748  Rcade
-  719. $99,764  YouMeenJae
-  720. $99,768  davidwiederholt
-  721. $99,787  EwokFURY
-  722. $99,798  GREENMAN
-  723. $99,814  Headless Leviathan
-  724. $99,815  Alexander barbarinko
-  725. $99,822  Yaky
-  726. $99,823  Maistas
-  727. $99,827  Klongo
-  728. $99,830  Nobody
-  729. $99,834  SuryaGamingVROH
-  730. $99,841  wallyworld
-  731. $99,846  Seo_Yipo
-  732. $99,850  hintonej
-  733. $99,853  JustJames
-  734. $99,855  zeroEnter
-  735. $99,875  Sloane
-  736. $99,875  Knoxy
-  737. $99,877  Jeevus
-  738. $99,882  jcskhs
-  739. $99,890  WeveBigGun
-  740. $99,917  Daybou
-  741. $99,927  hakejb1
-  742. $99,933  Godlard
-  743. $99,933  pjy20180
-  744. $99,939  jiwon94
-  745. $99,961  saram
-  746. $99,969  Dave
-  747. $99,969  Spoosky
-  748. $99,970  d_ozenne
-  749. $99,974  rejudas
-  750. $99,976  aajw0308
-  751. $99,980  hippolippo
-  752. $99,984  MinedApple
-  753. $99,985  Kalorienreduziert
-  754. $99,993  martín
-  755. $99,995  waterphone1004
-  756. $99,996  yuna12527
-  757. $99,999  timohoogendoorn2
-  758. $100,000 JimothyCricket
- *759. $117,370 wilting652
-  760. $120,526 Bellei
-  761. $124,855 Kayjaad
-  762. $145,241 Pointlesscastaway
-  763. $150,951 chung bengus
- *764. $152,051 Grumbledook
- *765. $159,367 Dexow
-  766. $159,877 Alias_Fakename
-  767. $167,655 Morgothor
-  768. $175,371 MeisterProper
-  769. $180,062 Miner_vdv
- *770. $196,283 jbloemscheer
- *771. $197,099 Beijamin Arrola
+ *696. $99,485  20477622
+  697. $99,487  merwinfamily77
+  698. $99,497  heogeon5
+  699. $99,500  Malgotgame
+  700. $99,533  uyutaso
+  701. $99,540  Player
+  702. $99,556  12ohkay
+  703. $99,571  Wollensokje
+  704. $99,579  crazydiamonde
+  705. $99,593  アヒル隊長(復活)
+  706. $99,604  Soba
+  707. $99,605  TheRainCrow
+  708. $99,622  tomka700
+  709. $99,622  MeTheCrasher
+  710. $99,622  dudqja
+  711. $99,629  Aregada
+  712. $99,635  CasualSanta
+  713. $99,639  TheGoldenShotgun
+  714. $99,696  raosun19981007
+  715. $99,705  Colon_Pee
+  716. $99,715  Ziomalo Gaming
+  717. $99,728  Snorb
+  718. $99,747  xXSIRNOOBXx
+  719. $99,748  Rcade
+  720. $99,764  YouMeenJae
+  721. $99,768  davidwiederholt
+  722. $99,787  EwokFURY
+  723. $99,798  GREENMAN
+  724. $99,814  Headless Leviathan
+  725. $99,815  Alexander barbarinko
+  726. $99,822  Yaky
+  727. $99,823  Maistas
+  728. $99,827  Klongo
+  729. $99,830  Nobody
+  730. $99,834  SuryaGamingVROH
+  731. $99,841  wallyworld
+  732. $99,846  Seo_Yipo
+  733. $99,850  hintonej
+  734. $99,853  JustJames
+  735. $99,855  zeroEnter
+  736. $99,875  Sloane
+  737. $99,875  Knoxy
+  738. $99,877  Jeevus
+  739. $99,882  jcskhs
+  740. $99,890  WeveBigGun
+  741. $99,917  Daybou
+  742. $99,927  hakejb1
+  743. $99,933  Godlard
+  744. $99,933  pjy20180
+  745. $99,939  jiwon94
+  746. $99,961  saram
+  747. $99,969  Dave
+  748. $99,969  Spoosky
+  749. $99,970  d_ozenne
+  750. $99,974  rejudas
+  751. $99,976  aajw0308
+  752. $99,980  hippolippo
+  753. $99,984  MinedApple
+  754. $99,985  Kalorienreduziert
+  755. $99,993  martín
+  756. $99,995  waterphone1004
+  757. $99,996  yuna12527
+  758. $99,999  timohoogendoorn2
+  759. $100,000 JimothyCricket
+ *760. $117,370 wilting652
+  761. $120,526 Bellei
+  762. $124,855 Kayjaad
+  763. $145,241 Pointlesscastaway
+  764. $150,951 chung bengus
+ *765. $152,051 Grumbledook
+ *766. $159,367 Dexow
+  767. $159,877 Alias_Fakename
+  768. $167,655 Morgothor
+  769. $175,371 MeisterProper
+  770. $180,062 Miner_vdv
+ *771. $196,283 jbloemscheer
+ *772. $197,099 Beijamin Arrola
