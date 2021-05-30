@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-14C "Low Flyer" any% leaderboard (* = breaks)
-Updated 2021-05-29T00:33:35.162Z
-1000/2715 unique ranks shown
+Updated 2021-05-30T00:36:38.209Z
+1000/2716 unique ranks shown
 
    *1. $289    Bibbb
    *2. $289    Fathom
@@ -17,9 +17,9 @@ Updated 2021-05-29T00:33:35.162Z
   *13. $685    MOD
   *14. $697    Crimson
   *15. $699    Icysnowman
-  *16. $701    celesteal
+  *16. $701    maash
   *17. $701    goldenpggie
-  *18. $701    maash
+  *18. $701    celesteal
    19. $33,932 kraal
    20. $34,250 Soba
    21. $34,383 Babou
@@ -74,7 +74,7 @@ Updated 2021-05-29T00:33:35.162Z
    70. $44,601 ~ Smithy ~
    71. $44,785 StreamGames
   *72. $44,975 Staviette
-   73. $45,000 Freedom_IT
+  *73. $45,000 Freedom_IT
   *74. $45,540 Haze
    75. $45,583 TheSadSlinky
   *76. $45,635 TheHiv3_m1nd
@@ -394,7 +394,7 @@ Updated 2021-05-29T00:33:35.162Z
   390. $61,818 Con-Man Moran
  *391. $61,832 Rusty Shackleford
   392. $61,833 Thorge
-  393. $61,846 Ex gon give it to ya
+ *393. $61,846 Ex gon give it to ya
   394. $61,856 slartybarfast
   395. $61,884 Jezre
  *396. $61,904 Lonk
@@ -508,8 +508,8 @@ Updated 2021-05-29T00:33:35.162Z
   504. $63,984 Andre
  *505. $64,039 liamjwaller
  *506. $64,048 Salty Snail
-  507. $64,048 bellowey
- *508. $64,048 jsnvndnb
+ *507. $64,048 jsnvndnb
+  508. $64,048 bellowey
   509. $64,062 gajiro240
   510. $64,120 Mr_Robot
   511. $64,128 Meanen
@@ -657,7 +657,7 @@ Updated 2021-05-29T00:33:35.162Z
   653. $65,774 AZ-LT
   654. $65,774 smek
   655. $65,780 VegitoRS
-  656. $65,800 Kaesemann
+ *656. $65,800 Kaesemann
   657. $65,809 dragonisland
  *658. $65,850 Didradion
   659. $65,852 IamEduard
@@ -725,8 +725,8 @@ Updated 2021-05-29T00:33:35.162Z
  *721. $66,602 raym55
   722. $66,603 Stitch
   723. $66,616 Sketchzi
-  724. $66,635 Jamesu
- *725. $66,635 snowmaniac
+ *724. $66,635 snowmaniac
+  725. $66,635 Jamesu
  *726. $66,656 shasta.pete
   727. $66,666 LegendOfLinq
   728. $66,694 Wovaka
@@ -780,8 +780,8 @@ Updated 2021-05-29T00:33:35.162Z
   776. $67,014 Lion Eating Hummus
  *777. $67,015 mopure33266
   778. $67,016 ruby
-  779. $67,023 Dodddo2
- *780. $67,023 Stick
+ *779. $67,023 Stick
+  780. $67,023 Dodddo2
   781. $67,028 Brubby
   782. $67,033 Alison
  *783. $67,035 Smiggie Balls O.O
@@ -936,8 +936,8 @@ Updated 2021-05-29T00:33:35.162Z
   932. $67,985 BusketMcChub
   933. $67,986 motonari_
   934. $67,986 Gamer Time
- *935. $67,989 tangynugget5x
-  936. $67,989 Kedini
+  935. $67,989 Kedini
+ *936. $67,989 tangynugget5x
   937. $68,000 Sloth
   938. $68,003 Neil
   939. $68,021 yuki_lee
@@ -968,37 +968,37 @@ Updated 2021-05-29T00:33:35.162Z
   964. $68,129 DrunkenFlamenc
   965. $68,139 MGE Gang
   966. $68,140 Mike Wheeler
-  967. $68,154 Ix
-  968. $68,154 Lavisch
-  969. $68,155 Volardin
- *970. $68,163 malizma333
- *971. $68,164 Effen
-  972. $68,170 chicken
-  973. $68,173 ado
-  974. $68,175 ferncrombie
-  975. $68,185 softestbear
-  976. $68,194 lonetong
-  977. $68,196 츄라
-  978. $68,197 Matt
- *979. $68,198 Noobybooby
- *980. $68,202 david.c.hagglund
-  981. $68,204 FinFuz
-  982. $68,205 Not_Zenith95
-  983. $68,207 Fearthedeer37
-  984. $68,213 maydanb
-  985. $68,214 GKHallGamer
-  986. $68,215 Pandanutiy #Weeaboos Die Twice
-  987. $68,216 SkyTheNeko
-  988. $68,217 marcus.wasastjerna
-  989. $68,228 waxton
-  990. $68,242 RileyDotJPG
-  991. $68,247 Jaso
-  992. $68,258 Tony Coomber
-  993. $68,260 Tubulsk1
-  994. $68,261 seutimsyab
-  995. $68,262 ShrexyBeast
-  996. $68,273 peaceGiant
-  997. $68,276 schwiftyking
-  998. $68,278 Sokies
-  999. $68,279 matthewgrant11
- 1000. $68,279 Halli
+  967. $68,146 angelsrule934
+  968. $68,154 Ix
+  969. $68,154 Lavisch
+  970. $68,155 Volardin
+ *971. $68,163 malizma333
+ *972. $68,164 Effen
+  973. $68,170 chicken
+  974. $68,173 ado
+  975. $68,175 ferncrombie
+  976. $68,185 softestbear
+  977. $68,194 lonetong
+  978. $68,196 츄라
+  979. $68,197 Matt
+ *980. $68,198 Noobybooby
+ *981. $68,202 david.c.hagglund
+  982. $68,204 FinFuz
+  983. $68,205 Not_Zenith95
+  984. $68,207 Fearthedeer37
+  985. $68,213 maydanb
+  986. $68,214 GKHallGamer
+  987. $68,215 Pandanutiy #Weeaboos Die Twice
+  988. $68,216 SkyTheNeko
+  989. $68,217 marcus.wasastjerna
+  990. $68,228 waxton
+  991. $68,242 RileyDotJPG
+  992. $68,247 Jaso
+  993. $68,258 Tony Coomber
+  994. $68,260 Tubulsk1
+  995. $68,261 seutimsyab
+  996. $68,262 ShrexyBeast
+  997. $68,273 peaceGiant
+  998. $68,276 schwiftyking
+  999. $68,278 Sokies
+ 1000. $68,279 matthewgrant11
