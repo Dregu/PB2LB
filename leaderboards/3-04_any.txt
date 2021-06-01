@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-04 "Double Down" any% leaderboard (* = breaks)
-Updated 2021-05-30T00:36:38.123Z
-1000/57507 unique ranks shown
+Updated 2021-06-01T00:53:53.614Z
+1000/57580 unique ranks shown
 
     1. $8,486  Photon Cowboy
     2. $8,491  Bellair08
@@ -48,9 +48,9 @@ Updated 2021-05-30T00:36:38.123Z
    44. $11,820 Charles-W
   *45. $11,869 Spoodle
   *46. $11,887 epicalex4444
-  *47. $11,958 Yaky
-  *48. $12,012 Cookie
-   49. $12,012 Tehninza
+   47. $11,958 Yaky
+   48. $12,012 Tehninza
+  *49. $12,012 Cookie
    50. $12,028 chenail.liam
    51. $12,388 Tri-M
    52. $12,592 Tryrik
@@ -61,7 +61,7 @@ Updated 2021-05-30T00:36:38.123Z
    57. $12,963 torry
    58. $12,974 mikiethepenguin
    59. $12,975 gaphasus
-  *60. $13,122 bille
+   60. $13,122 bille
    61. $13,137 lll
   *62. $13,277 Jhay80416
   *63. $13,295 bren
@@ -182,8 +182,8 @@ Updated 2021-05-30T00:36:38.123Z
   178. $16,010 Pyr0
   179. $16,015 thyhthyhthy
   180. $16,019 goldenpggie
- *181. $16,038 Necrotechian
-  182. $16,038 秋本久美子
+  181. $16,038 秋本久美子
+ *182. $16,038 Necrotechian
   183. $16,050 jclark28884
  *184. $16,052 돈까쓰
   185. $16,061 TheActionHero
@@ -243,8 +243,8 @@ Updated 2021-05-30T00:36:38.123Z
   239. $16,408 toonijn
   240. $16,408 OhdrahdaKanabehaxn
   241. $16,411 gurch
- *242. $16,413 plush
-  243. $16,413 Gimbo1112
+  242. $16,413 Gimbo1112
+ *243. $16,413 plush
   244. $16,414 ultimatedgambler
   245. $16,431 Digital High
   246. $16,431 liquor snurf
@@ -276,8 +276,8 @@ Updated 2021-05-30T00:36:38.123Z
   272. $16,566 damose
   273. $16,576 Hnusný Slimák
   274. $16,580 jimmyscully
-  275. $16,583 mCOIL
- *276. $16,583 connor.bray.ricks
+ *275. $16,583 connor.bray.ricks
+  276. $16,583 mCOIL
   277. $16,584 No Hope
   278. $16,584 konica
   279. $16,598 rene.chritoffel
@@ -388,8 +388,8 @@ Updated 2021-05-30T00:36:38.123Z
   384. $16,915 zasderf2
   385. $16,917 mynameisBØND
   386. $16,917 Aulis
-  387. $16,921 Belb
- *388. $16,921 lllzzflll
+ *387. $16,921 lllzzflll
+  388. $16,921 Belb
   389. $16,922 PIoneer 3.14
   390. $16,923 salazar_zin
  *391. $16,923 Da Real Inventor
@@ -444,16 +444,16 @@ Updated 2021-05-30T00:36:38.123Z
   440. $17,039 孤舟
   441. $17,044 dragevann
   442. $17,048 MadDog
- *443. $17,051 alex
- *444. $17,051 Rsett
+ *443. $17,051 Rsett
+ *444. $17,051 alex
   445. $17,051 queldion
   446. $17,053 adamray99
   447. $17,061 itsiques2x
   448. $17,061 Fartrell Cluggins
   449. $17,065 Bertje333
   450. $17,066 Norsk Pass
-  451. $17,066 420 FaZe it
- *452. $17,066 PythonTechie22
+ *451. $17,066 PythonTechie22
+  452. $17,066 420 FaZe it
  *453. $17,074 TouchTheDog
   454. $17,074 Rapp
   455. $17,075 Asyxui
@@ -541,8 +541,8 @@ Updated 2021-05-30T00:36:38.123Z
   537. $17,222 jellelagerweij
  *538. $17,223 t.lau
   539. $17,223 Lunar Phoenix
- *540. $17,229 TheSuperNR
- *541. $17,229 king211283
+ *540. $17,229 king211283
+ *541. $17,229 TheSuperNR
   542. $17,230 Vovalium
   543. $17,230 Fred Figglehorn
   544. $17,231 Matthomas
@@ -556,8 +556,8 @@ Updated 2021-05-30T00:36:38.123Z
   552. $17,238 asherthekid
   553. $17,240 Shadow134
   554. $17,241 n76ero
- *555. $17,241 Azimmer328
-  556. $17,241 president man
+  555. $17,241 president man
+ *556. $17,241 Azimmer328
   557. $17,242 Gresham
   558. $17,242 Doc_Hammer
   559. $17,242 dakta
@@ -589,8 +589,8 @@ Updated 2021-05-30T00:36:38.123Z
   585. $17,296 XENOCiiDE
   586. $17,299 Marius
   587. $17,300 Scyth
-  588. $17,301 Minfredus
- *589. $17,301 Nöten
+ *588. $17,301 Nöten
+  589. $17,301 Minfredus
   590. $17,302 Mikayla
   591. $17,307 Rax
   592. $17,308 M/Flash
@@ -673,7 +673,7 @@ Updated 2021-05-30T00:36:38.123Z
   669. $17,455 HotPotato
   670. $17,456 Chr15
   671. $17,457 andyhh
-  672. $17,462 Bram2323
+ *672. $17,462 Bram2323
   673. $17,465 adammethven37
   674. $17,466 ole.van.tiel
   675. $17,468 3051332917
@@ -818,8 +818,8 @@ Updated 2021-05-30T00:36:38.123Z
   814. $17,697 danielorionpinto
   815. $17,697 hezy
   816. $17,697 jblin_fj
-  817. $17,699 rucola
- *818. $17,699 cioris
+ *817. $17,699 cioris
+  818. $17,699 rucola
   819. $17,701 grio
   820. $17,701 MasterofN0085
   821. $17,704 Ground15
@@ -827,8 +827,8 @@ Updated 2021-05-30T00:36:38.123Z
   823. $17,708 TheRocket
   824. $17,709 KaydenFox
   825. $17,710 some dumbass on the internet
-  826. $17,711 tsunami3lava
- *827. $17,711 JimmyJohnSoda
+ *826. $17,711 JimmyJohnSoda
+  827. $17,711 tsunami3lava
   828. $17,712 Mension
   829. $17,714 Frab
   830. $17,715 manojmact
@@ -846,8 +846,8 @@ Updated 2021-05-30T00:36:38.123Z
   842. $17,724 Stavis
   843. $17,724 Tupper
   844. $17,724 ItMe404
-  845. $17,725 ZombieHedgehog
-  846. $17,725 DildoBike
+ *845. $17,725 DildoBike
+  846. $17,725 ZombieHedgehog
   847. $17,727 alexhalbi
   848. $17,727 TheLargeRoast
  *849. $17,729 funkyd3000
@@ -910,8 +910,8 @@ Updated 2021-05-30T00:36:38.123Z
   906. $17,809 Atlas Games
   907. $17,810 Μην παροχής συμβουλών
   908. $17,815 snefens
-  909. $17,815 Pepperbox
- *910. $17,815 Friar Laurence
+ *909. $17,815 Friar Laurence
+  910. $17,815 Pepperbox
   911. $17,817 K alm
  *912. $17,819 gengi ninga
   913. $17,819 K. COBAIN
@@ -925,8 +925,8 @@ Updated 2021-05-30T00:36:38.123Z
   921. $17,830 jarrah3
  *922. $17,834 Sir Isaac Newton
   923. $17,838 kouotu
-  924. $17,839 成绩列入总分
- *925. $17,839 Kaevinetta
+ *924. $17,839 Kaevinetta
+  925. $17,839 成绩列入总分
   926. $17,840 Valnix
   927. $17,841 Law
   928. $17,841 abfgern_
