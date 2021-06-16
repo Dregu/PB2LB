@@ -1,12 +1,12 @@
 Poly Bridge 2 - 4-05 "Triple Decker Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-06-15T00:01:29.209Z
-1000/31794 unique ranks shown
+Updated 2021-06-16T00:01:16.142Z
+1000/31810 unique ranks shown
 
-   *1. $21,500 7777Alex7777
+   *1. $21,499 Cookieblues
    *2. $21,500 Trygeve
-   *3. $21,555 GuacamoleLover27
-   *4. $21,930 114623050
-   *5. $21,970 Cookieblues
+   *3. $21,500 7777Alex7777
+   *4. $21,555 GuacamoleLover27
+   *5. $21,930 114623050
     6. $22,748 Bellair08
    *7. $23,435 Icysnowman
     8. $23,473 alex
@@ -514,10 +514,10 @@ Updated 2021-06-15T00:01:29.209Z
   510. $43,201 TrakDah
   511. $43,227 b4ckwardb0ss
   512. $43,248 TA Wintermute
- *513. $43,274 Loganpie2
+  513. $43,274 Loganpie2
   514. $43,275 SandaClaws
-  515. $43,298 Knufire
-  516. $43,298 Legit Noob
+  515. $43,298 Legit Noob
+  516. $43,298 Knufire
   517. $43,304 Toastbrot
   518. $43,324 beekay
   519. $43,327 iso Compass
@@ -562,7 +562,7 @@ Updated 2021-06-15T00:01:29.209Z
   558. $43,998 KaMiKaZe6424
  *559. $43,998 x86t
   560. $43,999 SSSSilencee
- *561. $44,000 nhaven14
+  561. $44,000 nhaven14
   562. $44,009 Eagle Eye - The Team's Anchor
   563. $44,060 dorel_sofer_pe_glont69
   564. $44,099 Alvieee
@@ -809,8 +809,8 @@ Updated 2021-06-15T00:01:29.209Z
   805. $46,867 Hyperslice
   806. $46,892 MainWeeb
   807. $46,903 MostlyEntropy
-  808. $46,916 Thunder McKing
-  809. $46,916 doctor killer
+  808. $46,916 doctor killer
+ *809. $46,916 Thunder McKing
   810. $46,947 miyabin
   811. $46,954 ben.lovelock
   812. $46,979 Teh
@@ -943,62 +943,62 @@ Updated 2021-06-15T00:01:29.209Z
   939. $48,153 davidecappa1999
   940. $48,160 Lechy901
   941. $48,199 Ezurth
-  942. $48,212 TheSadSlinky
+ *942. $48,212 TheSadSlinky
   943. $48,245 Me 10 Jin
   944. $48,250 योदा
   945. $48,252 WaffleFart11
   946. $48,256 개발살
   947. $48,265 zabirskie
-  948. $48,278 Asterion
- *949. $48,281 MonteCristo
-  950. $48,301 Norsk Pass
-  951. $48,307 PrOxAnto
-  952. $48,308 Anson10260
-  953. $48,327 Neill
-  954. $48,331 TOOKMA-X
-  955. $48,331 _yormzy_
-  956. $48,331 BadKarma
- *957. $48,345 alicele14
-  958. $48,347 J_Hodgie
-  959. $48,355 gdickamore
-  960. $48,355 CasterNinja
-  961. $48,359 radimaulicky
-  962. $48,366 [CT] Simparek Hun
- *963. $48,368 BDB
-  964. $48,383 biorni999
-  965. $48,388 CompterMan
-  966. $48,394 joh.nor.what
- *967. $48,394 logan14235
- *968. $48,408 lorddraegon
-  969. $48,414 Xnick
-  970. $48,418 tvhuet22
-  971. $48,421 Von Drakin
-  972. $48,425 Libnik
-  973. $48,427 ChaN_NaKa
-  974. $48,439 Luisjnc
-  975. $48,448 Sieko
-  976. $48,451 JordanR
-  977. $48,452 patrik
-  978. $48,464 Fatboy
-  979. $48,464 tommy
-  980. $48,467 mtnorth
-  981. $48,475 7147
-  982. $48,476 Icebuzzer
-  983. $48,476 Mr. Sketch Scented Markers
-  984. $48,481 我吐了
-  985. $48,481 Tephrite
-  986. $48,524 gun
-  987. $48,526 Pence
-  988. $48,556 Azzurite
-  989. $48,561 VerboseMinimalist
-  990. $48,562 dsrtstrkr
-  991. $48,569 Australia is my City
-  992. $48,576 Thomas
-  993. $48,579 JonhW00ds.Qc
-  994. $48,602 Alyo
-  995. $48,614 fineganmark
- *996. $48,626 Dekchaikon
-  997. $48,628 我说这么多
-  998. $48,635 heXagony
-  999. $48,642 Linuxx
- 1000. $48,646 pLolz
+  948. $48,277 NomNom
+  949. $48,278 Asterion
+ *950. $48,281 MonteCristo
+  951. $48,301 Norsk Pass
+  952. $48,307 PrOxAnto
+  953. $48,308 Anson10260
+  954. $48,327 Neill
+  955. $48,331 TOOKMA-X
+  956. $48,331 _yormzy_
+  957. $48,331 BadKarma
+ *958. $48,345 alicele14
+  959. $48,347 J_Hodgie
+  960. $48,355 gdickamore
+  961. $48,355 CasterNinja
+  962. $48,359 radimaulicky
+  963. $48,366 [CT] Simparek Hun
+ *964. $48,368 BDB
+  965. $48,383 biorni999
+  966. $48,388 CompterMan
+  967. $48,394 joh.nor.what
+ *968. $48,394 logan14235
+ *969. $48,408 lorddraegon
+  970. $48,414 Xnick
+  971. $48,418 tvhuet22
+  972. $48,421 Von Drakin
+  973. $48,425 Libnik
+  974. $48,427 ChaN_NaKa
+  975. $48,439 Luisjnc
+  976. $48,448 Sieko
+  977. $48,451 JordanR
+  978. $48,452 patrik
+  979. $48,464 Fatboy
+  980. $48,464 tommy
+  981. $48,467 mtnorth
+  982. $48,475 7147
+  983. $48,476 Icebuzzer
+  984. $48,476 Mr. Sketch Scented Markers
+  985. $48,481 我吐了
+  986. $48,481 Tephrite
+  987. $48,524 gun
+  988. $48,526 Pence
+  989. $48,556 Azzurite
+  990. $48,561 VerboseMinimalist
+  991. $48,562 dsrtstrkr
+  992. $48,569 Australia is my City
+  993. $48,576 Thomas
+  994. $48,579 JonhW00ds.Qc
+  995. $48,602 Alyo
+  996. $48,614 fineganmark
+  997. $48,626 Dekchaikon
+  998. $48,628 我说这么多
+  999. $48,635 heXagony
+ 1000. $48,642 Linuxx
