@@ -1,9 +1,9 @@
 Poly Bridge 2 - 3-14C "Low Flyer" any% leaderboard (* = breaks)
-Updated 2021-06-19T00:01:35.743Z
-1000/2739 unique ranks shown
+Updated 2021-06-20T00:01:01.564Z
+1000/2741 unique ranks shown
 
-   *1. $289    Bibbb
-   *2. $289    Fathom
+   *1. $289    Fathom
+   *2. $289    Bibbb
    *3. $290    Zen
    *4. $300    Cookieblues
    *5. $305    mooseman0423
@@ -18,9 +18,9 @@ Updated 2021-06-19T00:01:35.743Z
   *14. $685    MOD
   *15. $697    Crimson
   *16. $699    Icysnowman
-  *17. $701    celesteal
-  *18. $701    goldenpggie
-  *19. $701    maash
+  *17. $701    goldenpggie
+  *18. $701    maash
+  *19. $701    celesteal
    20. $33,932 kraal
    21. $34,250 Soba
    22. $34,383 Babou
@@ -75,7 +75,7 @@ Updated 2021-06-19T00:01:35.743Z
    71. $44,601 ~ Smithy ~
    72. $44,785 StreamGames
   *73. $44,975 Staviette
-  *74. $45,000 Freedom_IT
+   74. $45,000 Freedom_IT
   *75. $45,540 Haze
    76. $45,583 TheSadSlinky
   *77. $45,635 TheHiv3_m1nd
@@ -397,7 +397,7 @@ Updated 2021-06-19T00:01:35.743Z
   393. $61,818 Con-Man Moran
  *394. $61,832 Rusty Shackleford
   395. $61,833 Thorge
- *396. $61,846 Ex gon give it to ya
+  396. $61,846 Ex gon give it to ya
   397. $61,856 slartybarfast
   398. $61,884 Jezre
  *399. $61,904 Lonk
@@ -512,8 +512,8 @@ Updated 2021-06-19T00:01:35.743Z
   508. $63,984 Andre
  *509. $64,039 liamjwaller
  *510. $64,048 Salty Snail
-  511. $64,048 bellowey
- *512. $64,048 jsnvndnb
+ *511. $64,048 jsnvndnb
+  512. $64,048 bellowey
   513. $64,062 gajiro240
   514. $64,120 Mr_Robot
   515. $64,128 Meanen
@@ -734,8 +734,8 @@ Updated 2021-06-19T00:01:35.743Z
  *730. $66,602 raym55
   731. $66,603 Stitch
   732. $66,616 Sketchzi
-  733. $66,635 Jamesu
- *734. $66,635 snowmaniac
+ *733. $66,635 snowmaniac
+  734. $66,635 Jamesu
  *735. $66,656 shasta.pete
   736. $66,666 LegendOfLinq
   737. $66,694 Wovaka
@@ -827,8 +827,8 @@ Updated 2021-06-19T00:01:35.743Z
   823. $67,273 Luna Kampling
   824. $67,276 Woolyfrog
   825. $67,288 knightRider0xD
-  826. $67,294 Nannerpuss!
- *827. $67,294 alec.mitchellthomson
+ *826. $67,294 alec.mitchellthomson
+  827. $67,294 Nannerpuss!
   828. $67,310 AsKalas
   829. $67,318 Child Snatcher
   830. $67,319 『　　』
@@ -877,7 +877,7 @@ Updated 2021-06-19T00:01:35.743Z
   873. $67,585 Aklhys
   874. $67,586 makko
   875. $67,590 Slutmuffin
-  876. $67,590 emailonthefly
+ *876. $67,590 emailonthefly
   877. $67,606 MatNeo27
   878. $67,609 Nick approved
   879. $67,622 chiguy76
