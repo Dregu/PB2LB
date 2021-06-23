@@ -1,12 +1,12 @@
 Poly Bridge 2 - 3-05C "Semi Slope" any% leaderboard (* = breaks)
-Updated 2021-06-22T00:01:16.923Z
-1000/4067 unique ranks shown
+Updated 2021-06-23T00:02:29.868Z
+1000/4071 unique ranks shown
 
-   *1. $1,199  Fathom
-   *2. $1,199  9k5
-   *3. $2,069  Zen
-   *4. $2,069  Cookieblues
-   *5. $2,069  palfly15
+   *1. $1,199  9k5
+   *2. $1,199  Fathom
+   *3. $2,069  Cookieblues
+   *4. $2,069  palfly15
+   *5. $2,069  Zen
    *6. $3,804  Alison
     7. $20,824 Trygeve
     8. $21,817 Roevhaal
@@ -25,7 +25,7 @@ Updated 2021-06-22T00:01:16.923Z
   *21. $30,796 Lagiiiie
    22. $30,974 TucLTU
    23. $31,147 geroniberry
-   24. $31,197 abidhilmi403
+  *24. $31,197 abidhilmi403
    25. $31,220 r.boere
    26. $31,478 nhaven14
    27. $31,644 xd neeeel
@@ -106,7 +106,7 @@ Updated 2021-06-22T00:01:16.923Z
   102. $36,610 Jacowboy
   103. $36,620 piewilldie
  *104. $36,684 Video Professor
-  105. $36,758 Anders
+ *105. $36,758 Anders
   106. $36,777 nikolightsaber
   107. $36,828 Key
   108. $36,886 FireMuffins | RIP Yomps
@@ -885,8 +885,8 @@ Updated 2021-06-22T00:01:16.923Z
   881. $47,158 hodgkissth
   882. $47,168 The Millenium F***ing Falcon
   883. $47,178 Quadley
- *884. $47,182 CryTyped
-  885. $47,182 Sonnenreiter100
+  884. $47,182 Sonnenreiter100
+ *885. $47,182 CryTyped
   886. $47,191 LVL 1 player
   887. $47,202 Koncheiro Di Chorbo
   888. $47,205 K9Claw
@@ -897,8 +897,8 @@ Updated 2021-06-22T00:01:16.923Z
   893. $47,244 UkiArcticFox
   894. $47,256 abazibiz
   895. $47,261 josh
-  896. $47,266 flyingtoasterse
- *897. $47,266 bcodonnell
+ *896. $47,266 bcodonnell
+  897. $47,266 flyingtoasterse
   898. $47,268 The Zilx
   899. $47,272 aidenramshaw
   900. $47,277 aloreny778
@@ -938,67 +938,67 @@ Updated 2021-06-22T00:01:16.923Z
   934. $47,575 Slee
   935. $47,584 Not_Zenith95
   936. $47,591 jennadreams
-  937. $47,600 Freedom_IT
+ *937. $47,600 Freedom_IT
   938. $47,605 w00se
   939. $47,609 Epik_Unifish
   940. $47,610 Dachswid
-  941. $47,617 Pr Philson
-  942. $47,622 derookie
-  943. $47,627 kakałowiec
-  944. $47,632 Mike Wheeler
-  945. $47,634 MadChew
-  946. $47,638 Light
-  947. $47,646 Tehninza
-  948. $47,647 AngryFungus
-  949. $47,664 Bogdan100pink
-  950. $47,667 timeddilation
-  951. $47,674 affensind
- *952. $47,677 Haze
-  953. $47,682 Williamoboy
-  954. $47,683 Nannerpuss!
- *955. $47,687 Drychne
-  956. $47,693 Waifu Art Thou Romeo
-  957. $47,700 F10x
-  958. $47,703 chicken
-  959. $47,703 Brentwould
-  960. $47,704 OverTheTop423
-  961. $47,708 Bilbo's Last Clean Doily
- *962. $47,711 Rob Boss
-  963. $47,712 driveless654
-  964. $47,718 Chrisiology
-  965. $47,719 pls
-  966. $47,734 L94
-  967. $47,743 scout_2001
-  968. $47,751 Stone in the forest
-  969. $47,757 goko22022
-  970. $47,774 Way_of_Cows
-  971. $47,790 MrOweo
-  972. $47,792 svglol
-  973. $47,796 jimmy the constructor
-  974. $47,802 SmacDaddy
-  975. $47,804 the_flying_wombat
-  976. $47,811 Arak'nae
-  977. $47,820 名字可以不是英文
-  978. $47,821 leakybucket
- *979. $47,822 Bobby Boi
-  980. $47,827 Noah2NT
-  981. $47,838 slartybarfast
- *982. $47,842 Chauvinism Revival
-  983. $47,848 Chuckpoo
-  984. $47,857 Daedamid
-  985. $47,857 superfeng99
-  986. $47,862 jesse
-  987. $47,867 RoDi
-  988. $47,873 Matthomas
-  989. $47,878 TheFinalSloth
-  990. $47,879 DuranDuran
-  991. $47,884 ZombieHedgehog
-  992. $47,902 Tjorvar
-  993. $47,916 Kamerat
- *994. $47,924 PENTANgon cs.money
-  995. $47,927 Danyal
-  996. $47,932 PedrOg8
-  997. $47,948 loganstephensmith
-  998. $48,005 sardyna12
-  999. $48,012 adwagner89
- 1000. $48,061 MilkThe
+  941. $47,613 RyGuy
+  942. $47,617 Pr Philson
+  943. $47,622 derookie
+  944. $47,627 kakałowiec
+  945. $47,632 Mike Wheeler
+  946. $47,634 MadChew
+  947. $47,638 Light
+  948. $47,646 Tehninza
+  949. $47,647 AngryFungus
+  950. $47,664 Bogdan100pink
+  951. $47,667 timeddilation
+  952. $47,674 affensind
+ *953. $47,677 Haze
+  954. $47,682 Williamoboy
+  955. $47,683 Nannerpuss!
+ *956. $47,687 Drychne
+  957. $47,693 Waifu Art Thou Romeo
+  958. $47,700 F10x
+  959. $47,703 chicken
+  960. $47,703 Brentwould
+  961. $47,704 OverTheTop423
+  962. $47,708 Bilbo's Last Clean Doily
+ *963. $47,711 Rob Boss
+  964. $47,712 driveless654
+  965. $47,718 Chrisiology
+  966. $47,719 pls
+  967. $47,734 L94
+  968. $47,743 scout_2001
+  969. $47,751 Stone in the forest
+  970. $47,757 goko22022
+  971. $47,774 Way_of_Cows
+  972. $47,790 MrOweo
+  973. $47,792 svglol
+  974. $47,796 jimmy the constructor
+  975. $47,802 SmacDaddy
+  976. $47,804 the_flying_wombat
+  977. $47,811 Arak'nae
+  978. $47,820 名字可以不是英文
+  979. $47,821 leakybucket
+ *980. $47,822 Bobby Boi
+  981. $47,827 Noah2NT
+  982. $47,838 slartybarfast
+ *983. $47,842 Chauvinism Revival
+  984. $47,848 Chuckpoo
+  985. $47,857 Daedamid
+  986. $47,857 superfeng99
+  987. $47,862 jesse
+  988. $47,867 RoDi
+  989. $47,873 Matthomas
+  990. $47,878 TheFinalSloth
+  991. $47,879 DuranDuran
+  992. $47,884 ZombieHedgehog
+  993. $47,902 Tjorvar
+  994. $47,916 Kamerat
+ *995. $47,924 PENTANgon cs.money
+  996. $47,927 Danyal
+  997. $47,932 PedrOg8
+  998. $47,948 loganstephensmith
+  999. $48,005 sardyna12
+ 1000. $48,012 adwagner89

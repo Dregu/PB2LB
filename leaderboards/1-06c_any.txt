@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-06C "First Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-06-22T00:01:16.581Z
-1000/15289 unique ranks shown
+Updated 2021-06-23T00:02:29.579Z
+1000/15295 unique ranks shown
 
    *1. $600    Lagiiiie
    *2. $669    somefakegamer
@@ -33,11 +33,11 @@ Updated 2021-06-22T00:01:16.581Z
   *29. $2,167  Heater
   *30. $2,220  ~ Smithy ~
   *31. $2,220  Icysnowman
-  *32. $2,287  Enchanted Spider
-  *33. $2,287  fantakilla
-  *34. $2,287  maash
-  *35. $2,287  Codeman999
-  *36. $2,287  mooseman0423
+  *32. $2,287  Codeman999
+  *33. $2,287  mooseman0423
+  *34. $2,287  Enchanted Spider
+  *35. $2,287  fantakilla
+  *36. $2,287  maash
   *37. $3,425  goldenpggie
    38. $4,527  St3rd_
    39. $4,556  抱歉不予顯示
@@ -222,7 +222,7 @@ Updated 2021-06-22T00:01:16.581Z
   218. $8,199  alexingoglia
   219. $8,208  Whyit1
   220. $8,215  Moritz
-  221. $8,223  RubyRuby284
+ *221. $8,223  RubyRuby284
   222. $8,225  mikko.suomalainen
   223. $8,229  782054923
   224. $8,242  Holy Llama!
@@ -383,8 +383,8 @@ Updated 2021-06-22T00:01:16.581Z
   379. $9,158  Fuuya
   380. $9,162  matttev
   381. $9,169  Amiyakrizi
-  382. $9,174  jonas.beachy
- *383. $9,174  Woof.
+ *382. $9,174  Woof.
+  383. $9,174  jonas.beachy
   384. $9,177  HappyFishboy
   385. $9,185  jdogg565
   386. $9,186  Inhuman Erection
@@ -543,10 +543,10 @@ Updated 2021-06-22T00:01:16.581Z
   539. $9,600  cheesybunghole
   540. $9,600  twitch-Khaddy42
   541. $9,601  umeshu
- *542. $9,602  woooowamazingplayerplayingshit
-  543. $9,602  Quality
+  542. $9,602  Quality
+ *543. $9,602  Ewallux
   544. $9,602  bfninjamonkey
- *545. $9,602  Ewallux
+ *545. $9,602  woooowamazingplayerplayingshit
   546. $9,604  157268943
   547. $9,608  arneman44
   548. $9,610  Hampa
@@ -741,8 +741,8 @@ Updated 2021-06-22T00:01:16.581Z
   737. $9,995  XanderB234
   738. $9,996  GraySocks
   739. $9,997  Göbinator
- *740. $9,998  8th coming of Jesus
-  741. $9,998  Elvishbarbecue
+  740. $9,998  Elvishbarbecue
+ *741. $9,998  8th coming of Jesus
   742. $9,999  BxRAW
  *743. $9,999  YottaCat
   744. $10,000 tegl
@@ -773,14 +773,14 @@ Updated 2021-06-22T00:01:16.581Z
   769. $10,064 Spyroflex
   770. $10,066 SevenKenyansInATrenchcoat
   771. $10,068 Gutterman2010
- *772. $10,071 KAPPPS
-  773. $10,071 Criplor
+  772. $10,071 Criplor
+ *773. $10,071 KAPPPS
   774. $10,077 knower
   775. $10,079 Satcher
  *776. $10,081 thoasbeon
   777. $10,086 fluffy fluffy bunny
- *778. $10,087 Tommi_cz
-  779. $10,087 Haime_rej
+  778. $10,087 Haime_rej
+ *779. $10,087 Tommi_cz
  *780. $10,089 Teh
   781. $10,092 Babou
   782. $10,095 bee
@@ -848,8 +848,8 @@ Updated 2021-06-22T00:01:16.581Z
   844. $10,172 ekard_drake
   845. $10,175 Sorter
  *846. $10,182 qiuqiuhulstrom
-  847. $10,182 Champagne
- *848. $10,182 Palandos
+ *847. $10,182 Palandos
+  848. $10,182 Champagne
   849. $10,183 ST4K3RS
   850. $10,183 Outrageus
   851. $10,189 AERO
