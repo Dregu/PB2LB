@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-05 "Triple Decker Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-06-25T00:15:31.188Z
-1000/31971 unique ranks shown
+Updated 2021-06-26T00:15:08.249Z
+1000/31986 unique ranks shown
 
    *1. $21,499 7777Alex7777
    *2. $21,499 Cookieblues
@@ -8,12 +8,12 @@ Updated 2021-06-25T00:15:31.188Z
    *4. $21,555 GuacamoleLover27
    *5. $21,861 114623050
     6. $22,748 Bellair08
-   *7. $23,435 Icysnowman
-    8. $23,473 alex
-    9. $23,480 kraal
-   10. $23,599 MOD
-   11. $23,769 9k5
-   12. $23,769 Fathom
+    7. $23,199 Fathom
+   *8. $23,435 Icysnowman
+    9. $23,473 alex
+   10. $23,480 kraal
+   11. $23,599 MOD
+   12. $23,769 9k5
   *13. $23,800 Crimson
    14. $23,816 serge_slp
    15. $23,910 moomin4515
@@ -53,7 +53,7 @@ Updated 2021-06-25T00:15:31.188Z
    49. $27,349 Adjoint
    50. $27,454 Oubaas Kaksak
    51. $27,561 qiuqiuhulstrom
-   52. $27,646 abidhilmi403
+  *52. $27,646 abidhilmi403
    53. $27,800 itsiques2x
    54. $27,885 『　　』
   *55. $27,969 ~ Smithy ~
@@ -206,7 +206,7 @@ Updated 2021-06-25T00:15:31.188Z
   202. $35,883 patrick.erasmus
   203. $35,893 superneuras
  *204. $35,908 Ultr4E
-  205. $35,934 bille
+ *205. $35,934 bille
   206. $35,946 ai Doge
   207. $36,006 dssiegel
   208. $36,040 Quadley
@@ -286,7 +286,7 @@ Updated 2021-06-25T00:15:31.188Z
   282. $38,182 floormanifold
   283. $38,182 Sev
   284. $38,198 Kookaburra76
- *285. $38,215 Invasian
+  285. $38,215 Invasian
   286. $38,216 brendandecicio
   287. $38,228 mazdapivot
   288. $38,296 DeAdSeA21
@@ -767,8 +767,8 @@ Updated 2021-06-25T00:15:31.188Z
   763. $46,507 i am inky
   764. $46,518 Biller
  *765. $46,540 cguy
-  766. $46,543 MKBridger
- *767. $46,543 |Scared Herring|
+ *766. $46,543 |Scared Herring|
+  767. $46,543 MKBridger
   768. $46,552 gravitic_reverie
   769. $46,558 Fr4nyo
   770. $46,559 Virgil Ianțu
@@ -946,7 +946,7 @@ Updated 2021-06-25T00:15:31.188Z
   942. $48,153 Ablu2
   943. $48,160 Lechy901
   944. $48,199 Ezurth
- *945. $48,212 TheSadSlinky
+  945. $48,212 TheSadSlinky
   946. $48,245 Me 10 Jin
   947. $48,250 योदा
   948. $48,252 WaffleFart11
