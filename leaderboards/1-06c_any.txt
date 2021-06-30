@@ -1,14 +1,14 @@
 Poly Bridge 2 - 1-06C "First Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-06-29T00:15:20.368Z
-1000/15344 unique ranks shown
+Updated 2021-06-30T00:15:18.699Z
+1000/15353 unique ranks shown
 
    *1. $600    Lagiiiie
    *2. $669    somefakegamer
    *3. $696    Trygeve
-   *4. $1,268  Cookieblues
-   *5. $1,605  akkun_ouo
-   *6. $1,619  palfly15
-   *7. $1,627  Fathom
+   *4. $797    Fathom
+   *5. $1,268  Cookieblues
+   *6. $1,605  akkun_ouo
+   *7. $1,619  palfly15
    *8. $1,632  Alison
    *9. $1,632  Sexy Boy Industries [woop]
   *10. $1,638  Roevhaal
@@ -31,13 +31,13 @@ Updated 2021-06-29T00:15:20.368Z
   *27. $2,134  gamespilgame
   *28. $2,147  jtornqvist
   *29. $2,167  Heater
-  *30. $2,220  ~ Smithy ~
-  *31. $2,220  Icysnowman
-  *32. $2,287  fantakilla
-  *33. $2,287  mooseman0423
-  *34. $2,287  Enchanted Spider
-  *35. $2,287  maash
-  *36. $2,287  Codeman999
+  *30. $2,220  Icysnowman
+  *31. $2,220  ~ Smithy ~
+  *32. $2,287  maash
+  *33. $2,287  Codeman999
+  *34. $2,287  mooseman0423
+  *35. $2,287  Enchanted Spider
+  *36. $2,287  fantakilla
   *37. $3,425  goldenpggie
    38. $4,527  St3rd_
    39. $4,556  抱歉不予顯示
@@ -63,7 +63,7 @@ Updated 2021-06-29T00:15:20.368Z
    59. $4,688  junyo0605
    60. $4,690  BaconPancakes
    61. $4,692  MagnusTagMus
-   62. $4,696  XxTrollFacexX
+  *62. $4,696  XxTrollFacexX
    63. $4,696  ☠☠☠YYD☠☠☠
    64. $4,715  Squog
    65. $4,723  Bellair08
@@ -139,8 +139,8 @@ Updated 2021-06-29T00:15:20.368Z
   135. $5,423  Morgothor
   136. $5,424  The_Vaccine
  *137. $5,425  Inferior Asian
- *138. $5,430  torry
-  139. $5,430  ms0719584
+  138. $5,430  ms0719584
+ *139. $5,430  torry
   140. $5,446  Tarontos
   141. $5,453  Venin
   142. $5,468  ShadeyBounty
@@ -222,7 +222,7 @@ Updated 2021-06-29T00:15:20.368Z
   218. $8,199  alexingoglia
   219. $8,208  Whyit1
   220. $8,215  Moritz
- *221. $8,223  RubyRuby284
+  221. $8,223  RubyRuby284
   222. $8,225  mikko.suomalainen
   223. $8,229  782054923
   224. $8,242  Holy Llama!
@@ -372,8 +372,8 @@ Updated 2021-06-29T00:15:20.368Z
   368. $9,116  Ħasħɇđ ⱣøŧȺŧøɇs
   369. $9,120  Orbifold
   370. $9,121  레이치
-  371. $9,122  Xeeloth
- *372. $9,122  lollyH2O
+ *371. $9,122  lollyH2O
+  372. $9,122  Xeeloth
   373. $9,126  cmikaiti
   374. $9,130  Azean
   375. $9,138  dvanhinthum
@@ -384,7 +384,7 @@ Updated 2021-06-29T00:15:20.368Z
   380. $9,158  Fuuya
   381. $9,162  matttev
   382. $9,169  Amiyakrizi
-  383. $9,174  jonas.beachy
+ *383. $9,174  jonas.beachy
  *384. $9,174  Woof.
   385. $9,177  HappyFishboy
   386. $9,185  jdogg565
@@ -742,8 +742,8 @@ Updated 2021-06-29T00:15:20.368Z
   738. $9,995  XanderB234
   739. $9,996  GraySocks
   740. $9,997  Göbinator
- *741. $9,998  8th coming of Jesus
-  742. $9,998  Elvishbarbecue
+  741. $9,998  Elvishbarbecue
+  742. $9,998  8th coming of Jesus
   743. $9,999  BxRAW
  *744. $9,999  YottaCat
   745. $10,000 tegl
@@ -775,8 +775,8 @@ Updated 2021-06-29T00:15:20.368Z
   771. $10,064 Spyroflex
   772. $10,066 SevenKenyansInATrenchcoat
   773. $10,068 Gutterman2010
- *774. $10,071 KAPPPS
-  775. $10,071 Criplor
+  774. $10,071 Criplor
+ *775. $10,071 KAPPPS
   776. $10,077 knower
   777. $10,079 Satcher
  *778. $10,081 thoasbeon
@@ -819,15 +819,15 @@ Updated 2021-06-29T00:15:20.368Z
   815. $10,127 LilyWinter
   816. $10,130 |B- Student| Tophercruz
  *817. $10,131 Thinkqik20
-  818. $10,132 Turtleboy1800
- *819. $10,132 ZiuTinyat
+ *818. $10,132 ZiuTinyat
+  819. $10,132 Turtleboy1800
   820. $10,133 MaxOyaggi
   821. $10,135 MKBridger
   822. $10,135 zeddy7263
   823. $10,136 tankmatch
   824. $10,138 Anton
- *825. $10,143 noahford2203
-  826. $10,143 HotelMotel
+  825. $10,143 HotelMotel
+ *826. $10,143 noahford2203
   827. $10,144 PotatoSenpai
   828. $10,151 klutzybug
   829. $10,151 ScapeGoatGuppy
@@ -848,9 +848,9 @@ Updated 2021-06-29T00:15:20.368Z
   844. $10,171 Kajiro
   845. $10,172 BiggsBoson
   846. $10,172 ekard_drake
-  847. $10,182 Champagne
- *848. $10,182 qiuqiuhulstrom
- *849. $10,182 Palandos
+ *847. $10,182 qiuqiuhulstrom
+ *848. $10,182 Palandos
+  849. $10,182 Champagne
   850. $10,183 ST4K3RS
   851. $10,183 Outrageus
   852. $10,189 shawndeep
@@ -988,8 +988,8 @@ Updated 2021-06-29T00:15:20.368Z
   984. $10,392 neoztar
   985. $10,394 benevanssmith
   986. $10,395 tadashif4053
-  987. $10,395 Catraption
- *988. $10,395 dylan4rays
+ *987. $10,395 dylan4rays
+  988. $10,395 Catraption
   989. $10,397 Kasi
   990. $10,404 alego-tive
   991. $10,405 TomKazi
@@ -1000,5 +1000,5 @@ Updated 2021-06-29T00:15:20.368Z
   996. $10,413 iamawizard
   997. $10,417 FoonTheRaccoon
   998. $10,418 mats
- *999. $10,419 henpenben
+  999. $10,419 henpenben
  1000. $10,421 Tydus
