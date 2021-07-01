@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-16 "Monster Truck Rally" any% leaderboard (* = breaks)
-Updated 2021-06-30T00:15:19.067Z
-1000/37302 unique ranks shown
+Updated 2021-07-01T00:17:04.812Z
+1000/37330 unique ranks shown
 
     1. $10,859 MOD
     2. $10,890 Noahsorou
@@ -149,7 +149,7 @@ Updated 2021-06-30T00:15:19.067Z
   145. $22,723 UnLowkee
   146. $22,726 PieceOfCake
   147. $22,727 K4IT4N
- *148. $22,733 SubatomicSquid
+  148. $22,733 SubatomicSquid
   149. $22,736 dvanhinthum
  *150. $22,737 Dauerwellensittich
   151. $22,746 ado
@@ -292,8 +292,8 @@ Updated 2021-06-30T00:15:19.067Z
  *288. $23,515 FusedZirconium
   289. $23,524 Chraller97
   290. $23,528 jefka
- *291. $23,529 HappyFishboy
-  292. $23,529 Rickput
+  291. $23,529 Rickput
+ *292. $23,529 HappyFishboy
   293. $23,545 CS2100
  *294. $23,551 Luuroon
   295. $23,552 D. Lisboa
@@ -427,8 +427,8 @@ Updated 2021-06-30T00:15:19.067Z
   423. $23,974 sadistic_outlaw
   424. $23,979 itsiques2x
   425. $23,980 Caddl
- *426. $23,986 TheSuperNR
-  427. $23,986 Game Master
+  426. $23,986 Game Master
+ *427. $23,986 TheSuperNR
   428. $23,986 smash mouth (official)
   429. $23,986 Guacamole Jim
  *430. $23,987 spencercarroll.gg
@@ -605,8 +605,8 @@ Updated 2021-06-30T00:15:19.067Z
   601. $24,579 Antenchant
   602. $24,583 Richie Rich
   603. $24,583 tHiborg
-  604. $24,584 spirit9
- *605. $24,584 r_drawothermodels 2
+ *604. $24,584 r_drawothermodels 2
+  605. $24,584 spirit9
   606. $24,586 Moederkoekje
   607. $24,588 yupoko
   608. $24,596 crunchy
@@ -628,12 +628,12 @@ Updated 2021-06-30T00:15:19.067Z
   624. $24,642 Shum Shum Shlipeddy Dop
   625. $24,643 Mitt navn Jeff
   626. $24,648 Dennis
- *627. $24,649 TriangularStamp
-  628. $24,649 1940168104
+  627. $24,649 1940168104
+ *628. $24,649 TriangularStamp
   629. $24,650 Times New Ramen
   630. $24,653 hugo.bouma
-  631. $24,655 dog
- *632. $24,655 Brad Pitt
+ *631. $24,655 Brad Pitt
+  632. $24,655 dog
   633. $24,657 Vasilis
   634. $24,660 赤揶
   635. $24,661 Boris
@@ -684,9 +684,9 @@ Updated 2021-06-30T00:15:19.067Z
   680. $24,775 Shanghai
   681. $24,781 Proto
  *682. $24,788 Static_Potato
- *683. $24,789 stefano.pigoli03
-  684. $24,789 w00se
-  685. $24,789 hvbuddy
+  683. $24,789 w00se
+  684. $24,789 hvbuddy
+ *685. $24,789 stefano.pigoli03
   686. $24,791 SKRZYPAT
   687. $24,792 sdombrowski9101
   688. $24,793 dave.f.kleinschmidt
@@ -718,10 +718,10 @@ Updated 2021-06-30T00:15:19.067Z
   714. $24,852 Mojum
   715. $24,852 Jekku_99
   716. $24,852 Ezo
-  717. $24,852 Temetias
-  718. $24,852 King
-  719. $24,852 carsonsahd
- *720. $24,852 Beefshankz
+ *717. $24,852 Beefshankz
+  718. $24,852 Temetias
+  719. $24,852 King
+  720. $24,852 carsonsahd
   721. $24,853 arvin900
  *722. $24,856 NotAdrianR
   723. $24,858 HerzogWhy
@@ -801,8 +801,8 @@ Updated 2021-06-30T00:15:19.067Z
   797. $25,042 涵某某
   798. $25,042 Shieber
   799. $25,045 katzbird
-  800. $25,047 Immabird
- *801. $25,047 SwaggleTooth
+ *800. $25,047 SwaggleTooth
+  801. $25,047 Immabird
   802. $25,051 ToastyIce
   803. $25,063 Farmer With A Shotgun
   804. $25,063 ciel
@@ -817,8 +817,8 @@ Updated 2021-06-30T00:15:19.067Z
   813. $25,083 Vesso-
   814. $25,083 Crossmark
   815. $25,083 Hamo Daclamo
-  816. $25,086 Dino
- *817. $25,086 The Good Goomba
+ *816. $25,086 The Good Goomba
+  817. $25,086 Dino
   818. $25,087 Blasphemy Incarnate
   819. $25,091 Hexadecane 1075
   820. $25,094 kevinr
@@ -853,7 +853,7 @@ Updated 2021-06-30T00:15:19.067Z
   849. $25,182 Chickenzilla
   850. $25,184 Fluffy Hulk
   851. $25,186 Reina
-  852. $25,204 epicalex4444
+ *852. $25,204 epicalex4444
   853. $25,205 UBLICK
   854. $25,210 JinJin
  *855. $25,211 Tim2911
