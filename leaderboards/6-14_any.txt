@@ -1,12 +1,12 @@
 Poly Bridge 2 - 6-14 "Spin Cycle" any% leaderboard (* = breaks)
-Updated 2021-07-04T00:14:54.789Z
-706/748 unique ranks shown
+Updated 2021-07-06T00:17:07.516Z
+708/750 unique ranks shown
 
     1. $8,439   Lagiiiie
     2. $8,439   minecat
-    3. $8,456   Yennefer
-    4. $8,466   哎呦微
-    5. $8,466   Cookieblues
+    3. $8,445   Cookieblues
+    4. $8,456   Yennefer
+    5. $8,466   哎呦微
     6. $8,482   Trygeve
     7. $8,482   7777Alex7777
     8. $8,482   Noahsorou
@@ -600,111 +600,113 @@ Updated 2021-07-04T00:14:54.789Z
  *596. $66,939  davidzlot
   597. $67,026  Max
   598. $67,202  ultimatedgambler
-  599. $68,190  DryDragons
-  600. $68,279  Luka
-  601. $68,749  Exceptionally Mediocre
-  602. $68,925  SpandexN00dle
-  603. $69,390  lollyH2O
-  604. $69,635  Italian Stallion
-  605. $69,718  Tello
-  606. $69,774  maineah75
-  607. $70,007  Gromit
-  608. $70,266  猫
- *609. $70,834  bysscorre
-  610. $70,865  D141D
-  611. $70,949  Krazy Koi Fish
-  612. $71,253  No problem.
-  613. $71,394  Alexander barbarinko
-  614. $71,399  aigongar02
-  615. $71,635  Shara
-  616. $71,694  Klongo
-  617. $71,698  Hentoad1
-  618. $71,876  Graceful97
-  619. $72,033  ☼ ☼ ☼
-  620. $72,190  santiago.caceres
-  621. $73,073  Maruka
-  622. $73,363  skimonkey1092
-  623. $73,481  Dr stowaters
-  624. $73,670  Jacky McJackFace
-  625. $73,872  Mr.ThisGuy
-  626. $75,115  Kfftw stardust YT
-  627. $75,301  d_ozenne
-  628. $75,390  burritobrown
-  629. $76,044  colinblue57
-  630. $76,103  Blue Onion
-  631. $76,481  Mamènedutrèssale
-  632. $76,623  Rebi(tch)
-  633. $76,662  Pointlesscastaway
-  634. $76,992  leonid_krebs
-  635. $77,220  jbloemscheer
-  636. $77,233  Andrew
-  637. $77,434  Jtase
-  638. $78,373  Canned Pineapple
-  639. $79,187  Frennzy
-  640. $79,922  Suppenteller32
-  641. $80,014  martín
-  642. $80,181  Knooper
-  643. $80,442  7DeHond
-  644. $80,625  babywipes.png
-  645. $80,827  Fractal
-  646. $81,198  Nexzeo
-  647. $81,575  moco
-  648. $82,257  pjy20180
-  649. $82,997  necro191
-  650. $83,730  Moochywa
-  651. $83,817  Poto
-  652. $84,136  7DimensionalParrot
-  653. $84,376  [SF3]^1Scott^0freee3
-  654. $84,443  SwampDoge
-  655. $84,708  TheMcb
-  656. $84,821  Arigami
-  657. $85,288  Big Chancho
-  658. $86,701  rgoodman4u
-  659. $87,878  Kotosuatz
-  660. $88,578  ericj824
-  661. $89,122  yadielruiz823
-  662. $89,396  w85219200wilson
-  663. $89,573  Bram1999999
-  664. $89,678  chenail.liam
-  665. $89,702  Mad Dogg
-  666. $89,804  reofarp
-  667. $90,206  I'm_venomous
-  668. $90,308  mkuresic
-  669. $90,362  Maistas
-  670. $90,532  jt14lego
-  671. $90,781  raosun19981007
-  672. $91,021  razpe
-  673. $91,948  True SmolSir
-  674. $91,980  CaffeinatedCucumber
-  675. $92,555  DeSwag21
-  676. $93,796  tntppap1
-  677. $94,726  minecraft1875
-  678. $94,762  Padir
-  679. $95,155  EwokFURY
-  680. $95,167  TheMooonster
-  681. $96,173  UgandaKnocles
-  682. $96,757  Mac_318
-  683. $96,878  dmx0987654321
-  684. $97,985  timohoogendoorn2
-  685. $98,080  jason
-  686. $98,127  Brumbál
-  687. $99,551  Demosthenes
-  688. $99,603  jh12345
-  689. $102,493 Corona Virus
-  690. $106,612 Messerjoke
-  691. $107,540 gajiro240
-  692. $108,872 Cr42yC4r1
-  693. $110,370 Sloane
-  694. $111,260 diamondpig425
-  695. $112,130 leuo
-  696. $116,377 P1TA
-  697. $117,861 Jakesparky
-  698. $121,851 chani1623
-  699. $124,650 ingerking
-  700. $128,422 scolamail
-  701. $128,952 Anders
-  702. $141,001 MinedApple
-  703. $144,111 Foxyrenard
-  704. $144,399 MØØSH
-  705. $149,821 yuna12527
-  706. $149,872 Pajo
+  599. $67,347  kaden
+  600. $68,190  DryDragons
+  601. $68,279  Luka
+  602. $68,749  Exceptionally Mediocre
+  603. $68,925  SpandexN00dle
+  604. $69,390  lollyH2O
+  605. $69,635  Italian Stallion
+  606. $69,718  Tello
+  607. $69,774  maineah75
+  608. $70,007  Gromit
+  609. $70,266  猫
+ *610. $70,834  bysscorre
+  611. $70,865  D141D
+  612. $70,949  Krazy Koi Fish
+  613. $71,253  No problem.
+  614. $71,394  Alexander barbarinko
+  615. $71,399  aigongar02
+  616. $71,635  Shara
+  617. $71,694  Klongo
+  618. $71,698  Hentoad1
+  619. $71,876  Graceful97
+  620. $72,033  ☼ ☼ ☼
+  621. $72,190  santiago.caceres
+  622. $73,073  Maruka
+  623. $73,363  skimonkey1092
+  624. $73,481  Dr stowaters
+  625. $73,670  Jacky McJackFace
+  626. $73,872  Mr.ThisGuy
+  627. $75,115  Kfftw stardust YT
+  628. $75,301  d_ozenne
+  629. $75,390  burritobrown
+  630. $76,044  colinblue57
+  631. $76,103  Blue Onion
+  632. $76,481  Mamènedutrèssale
+  633. $76,623  Rebi(tch)
+  634. $76,662  Pointlesscastaway
+  635. $76,992  leonid_krebs
+  636. $77,220  jbloemscheer
+  637. $77,233  Andrew
+  638. $77,434  Jtase
+  639. $78,373  Canned Pineapple
+  640. $79,187  Frennzy
+  641. $79,922  Suppenteller32
+  642. $80,014  martín
+  643. $80,181  Knooper
+  644. $80,442  7DeHond
+  645. $80,625  babywipes.png
+  646. $80,827  Fractal
+  647. $81,198  Nexzeo
+  648. $81,575  moco
+  649. $82,257  pjy20180
+  650. $82,997  necro191
+  651. $83,730  Moochywa
+  652. $83,817  Poto
+  653. $84,136  7DimensionalParrot
+  654. $84,376  [SF3]^1Scott^0freee3
+  655. $84,443  SwampDoge
+  656. $84,708  TheMcb
+  657. $84,821  Arigami
+  658. $85,288  Big Chancho
+  659. $86,701  rgoodman4u
+  660. $87,878  Kotosuatz
+  661. $88,578  ericj824
+  662. $89,122  yadielruiz823
+  663. $89,396  w85219200wilson
+  664. $89,573  Bram1999999
+  665. $89,678  chenail.liam
+  666. $89,702  Mad Dogg
+  667. $89,804  reofarp
+  668. $90,206  I'm_venomous
+  669. $90,308  mkuresic
+  670. $90,362  Maistas
+  671. $90,532  jt14lego
+  672. $90,781  raosun19981007
+  673. $91,021  razpe
+  674. $91,948  True SmolSir
+  675. $91,980  CaffeinatedCucumber
+  676. $92,298  如梦
+  677. $92,555  DeSwag21
+  678. $93,796  tntppap1
+  679. $94,726  minecraft1875
+  680. $94,762  Padir
+  681. $95,155  EwokFURY
+  682. $95,167  TheMooonster
+  683. $96,173  UgandaKnocles
+  684. $96,757  Mac_318
+  685. $96,878  dmx0987654321
+  686. $97,985  timohoogendoorn2
+  687. $98,080  jason
+  688. $98,127  Brumbál
+  689. $99,551  Demosthenes
+  690. $99,603  jh12345
+  691. $102,493 Corona Virus
+  692. $106,612 Messerjoke
+  693. $107,540 gajiro240
+  694. $108,872 Cr42yC4r1
+  695. $110,370 Sloane
+  696. $111,260 diamondpig425
+  697. $112,130 leuo
+  698. $116,377 P1TA
+  699. $117,861 Jakesparky
+  700. $121,851 chani1623
+  701. $124,650 ingerking
+  702. $128,422 scolamail
+  703. $128,952 Anders
+  704. $141,001 MinedApple
+  705. $144,111 Foxyrenard
+  706. $144,399 MØØSH
+  707. $149,821 yuna12527
+  708. $149,872 Pajo
