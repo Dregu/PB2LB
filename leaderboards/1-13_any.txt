@@ -1,12 +1,12 @@
 Poly Bridge 2 - 1-13 "Redraw" any% leaderboard (* = breaks)
-Updated 2021-07-09T00:15:03.458Z
-1000/142762 unique ranks shown
+Updated 2021-07-10T00:15:55.928Z
+1000/142920 unique ranks shown
 
    *1. $4,999 Zen
    *2. $4,999 minecat
-   *3. $5,169 9k5
-   *4. $5,250 Cookieblues
-    5. $5,250 somefakegamer
+    3. $4,999 somefakegamer
+   *4. $5,169 9k5
+   *5. $5,250 Cookieblues
    *6. $5,250 Bibbb
     7. $5,250 Noahsorou
    *8. $5,250 7777Alex7777
@@ -923,82 +923,82 @@ Updated 2021-07-09T00:15:03.458Z
   919. $7,893 Ledatu
   920. $7,895 Steven W
   921. $7,895 Eski-ho
-  922. $7,897 bbelansen
-  923. $7,898 efterlyst7154
-  924. $7,898 Aetherllama
-  925. $7,899 Halligator
-  926. $7,899 Striongoscheeesehaiser
-  927. $7,899 IJ | NDH
-  928. $7,901 iso Compass
-  929. $7,901 clayc21
-  930. $7,902 Matrix
-  931. $7,902 Badabas
-  932. $7,902 Bambino
-  933. $7,903 An celery
-  934. $7,904 Drej
-  935. $7,904 myPatoche
-  936. $7,904 EeeeeeeBeeeeee
-  937. $7,905 CLDUBBB
-  938. $7,905 3040204525
-  939. $7,905 Norsk Pass
-  940. $7,906 Fatalon
-  941. $7,907 sheyn
-  942. $7,908 Flames ^-^
-  943. $7,908 GSG9
-  944. $7,908 HydraDax
-  945. $7,909 gavinrvsmith
- *946. $7,910 Turd Ferguson
-  947. $7,911 joshwoz118
-  948. $7,914 Sigma Nu
- *949. $7,914 Doksha
-  950. $7,915 2073706220
-  951. $7,916 pufaxx
-  952. $7,916 Skekzi
-  953. $7,916 pv42
-  954. $7,917 Kirby Kidd
-  955. $7,918 Chino
-  956. $7,918 Barteo
-  957. $7,918 hbvika
-  958. $7,918 SimpleZombie
-  959. $7,918 goergel
-  960. $7,919 Bun5gPlays
-  961. $7,921 Cix
-  962. $7,921 Man Mage
-  963. $7,922 Reknalf
-  964. $7,922 CHICKENFACE97
-  965. $7,923 Praise
-  966. $7,924 Amadeus
-  967. $7,925 LeGrimbold
-  968. $7,925 timon.torres
-  969. $7,925 matthewzimmers
-  970. $7,927 Zhus118
-  971. $7,928 Ieuan
-  972. $7,928 我怎么可能打不过他你在说什么！
-  973. $7,928 Mr Setov
-  974. $7,929 孤舟
-  975. $7,929 Bansu
-  976. $7,930 EagleEyes 25
-  977. $7,930 ProfessorParker
-  978. $7,932 nazarcaleb17
-  979. $7,932 [EXIT]PartyBanger
-  980. $7,932 forfreedom
- *981. $7,934 Buttermaker
-  982. $7,934 raad
-  983. $7,935 tony65536
-  984. $7,935 Fractyll
-  985. $7,935 Hacker Duck
-  986. $7,935 Thomastommygun
-  987. $7,935 _playerschoice
-  988. $7,935 olanordmann67
-  989. $7,936 StumpyWumpy
-  990. $7,936 Fred Figglehorn
-  991. $7,937 LucasTheSpider69
-  992. $7,937 SimOet
-  993. $7,938 Ace_Falken
-  994. $7,938 Natme
-  995. $7,938 Netviln
-  996. $7,938 I3adOn3
-  997. $7,939 hybrdthry911
-  998. $7,940 Drayn
-  999. $7,940 StockHolder42
- 1000. $7,940 久哥哥
+  922. $7,895 marek7pawelec
+  923. $7,897 bbelansen
+  924. $7,898 efterlyst7154
+  925. $7,898 Aetherllama
+  926. $7,899 Halligator
+  927. $7,899 Striongoscheeesehaiser
+  928. $7,899 IJ | NDH
+  929. $7,901 iso Compass
+  930. $7,901 clayc21
+  931. $7,902 Matrix
+  932. $7,902 Badabas
+  933. $7,902 Bambino
+  934. $7,903 An celery
+  935. $7,904 Drej
+  936. $7,904 myPatoche
+  937. $7,904 EeeeeeeBeeeeee
+  938. $7,905 CLDUBBB
+  939. $7,905 3040204525
+  940. $7,905 Norsk Pass
+  941. $7,906 Fatalon
+  942. $7,907 sheyn
+  943. $7,908 Flames ^-^
+  944. $7,908 GSG9
+  945. $7,908 HydraDax
+  946. $7,909 gavinrvsmith
+ *947. $7,910 Turd Ferguson
+  948. $7,911 joshwoz118
+  949. $7,914 Sigma Nu
+ *950. $7,914 Doksha
+  951. $7,915 2073706220
+  952. $7,916 pufaxx
+  953. $7,916 Skekzi
+  954. $7,916 pv42
+  955. $7,917 Kirby Kidd
+  956. $7,918 Chino
+  957. $7,918 Barteo
+  958. $7,918 hbvika
+  959. $7,918 SimpleZombie
+  960. $7,918 goergel
+  961. $7,919 Bun5gPlays
+  962. $7,921 Cix
+  963. $7,921 Man Mage
+  964. $7,922 Reknalf
+  965. $7,922 CHICKENFACE97
+  966. $7,923 Praise
+  967. $7,924 Amadeus
+  968. $7,925 LeGrimbold
+  969. $7,925 timon.torres
+  970. $7,925 matthewzimmers
+  971. $7,927 Zhus118
+  972. $7,928 Ieuan
+  973. $7,928 我怎么可能打不过他你在说什么！
+  974. $7,928 Mr Setov
+  975. $7,929 孤舟
+  976. $7,929 Bansu
+  977. $7,930 EagleEyes 25
+  978. $7,930 ProfessorParker
+  979. $7,932 nazarcaleb17
+  980. $7,932 [EXIT]PartyBanger
+  981. $7,932 forfreedom
+ *982. $7,934 Buttermaker
+  983. $7,934 raad
+  984. $7,935 tony65536
+  985. $7,935 Fractyll
+  986. $7,935 Hacker Duck
+  987. $7,935 Thomastommygun
+  988. $7,935 _playerschoice
+  989. $7,935 olanordmann67
+  990. $7,936 StumpyWumpy
+  991. $7,936 Fred Figglehorn
+  992. $7,937 LucasTheSpider69
+  993. $7,937 SimOet
+  994. $7,938 Ace_Falken
+  995. $7,938 Natme
+  996. $7,938 Netviln
+  997. $7,938 I3adOn3
+  998. $7,939 hybrdthry911
+  999. $7,940 Drayn
+ 1000. $7,940 StockHolder42

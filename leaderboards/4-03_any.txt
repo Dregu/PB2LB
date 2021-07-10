@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-03 "Sloped Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-07-09T00:15:03.732Z
-1000/34457 unique ranks shown
+Updated 2021-07-10T00:15:56.225Z
+1000/34489 unique ranks shown
 
    *1. $3,999  Fathom
    *2. $4,662  somefakegamer
@@ -8,8 +8,8 @@ Updated 2021-07-09T00:15:03.732Z
    *4. $5,421  9k5
    *5. $5,465  Zen
    *6. $5,494  Bibbb
-   *7. $5,494  mooseman0423
-   *8. $5,494  Alison
+   *7. $5,494  Alison
+   *8. $5,494  mooseman0423
    *9. $5,690  Cookieblues
   *10. $6,969  minecat
   *11. $11,564 Yennefer
@@ -119,13 +119,13 @@ Updated 2021-07-09T00:15:03.732Z
   115. $26,102 Spug
   116. $26,145 Kayasakra
   117. $26,189 benevanssmith
- *118. $26,264 cfloyd2002
-  119. $26,264 Cremefraiche
+  118. $26,264 Cremefraiche
+  119. $26,264 cfloyd2002
   120. $26,273 No Nipple Nate
   121. $26,291 Kc
   122. $26,334 Hermanart
   123. $26,340 ado
- *124. $26,402 Neill
+  124. $26,402 Neill
   125. $26,466 jezbe96
  *126. $26,492 bille
   127. $26,514 kraal
@@ -241,7 +241,7 @@ Updated 2021-07-09T00:15:03.732Z
   237. $28,282 Noobmaster69
   238. $28,282 Lord Of Beans
   239. $28,315 g.pahls
-  240. $28,326 哎呦微
+ *240. $28,326 哎呦微
   241. $28,340 clownlord06
  *242. $28,345 TouchTheDog
   243. $28,357 Tehninza
@@ -308,8 +308,8 @@ Updated 2021-07-09T00:15:03.732Z
   304. $28,922 bastian.bello.c
   305. $28,923 StinkyWizzleTooth
   306. $28,923 小k
-  307. $28,924 Nicolo
- *308. $28,924 [Nullpointer]
+ *307. $28,924 [Nullpointer]
+  308. $28,924 Nicolo
   309. $28,926 HAISENBERG
   310. $28,927 jmeyer2030
   311. $28,930 Monsieur Spock
@@ -336,8 +336,8 @@ Updated 2021-07-09T00:15:03.732Z
  *332. $29,063 jason.fritsch18
   333. $29,075 красное_варенье
  *334. $29,079 Kail
- *335. $29,094 dylanwenger9
-  336. $29,094 MGC
+  335. $29,094 MGC
+ *336. $29,094 dylanwenger9
   337. $29,099 robjoh6
   338. $29,113 Wooden_Rock
   339. $29,124 ω  Neptune  ω
@@ -406,8 +406,8 @@ Updated 2021-07-09T00:15:03.732Z
   402. $29,567 chupa71
   403. $29,588 MianMiao
   404. $29,589 Martin
-  405. $29,610 Karmiilla
- *406. $29,610 Helper_Monkey
+ *405. $29,610 Helper_Monkey
+  406. $29,610 Karmiilla
   407. $29,615 tom.brabbin
   408. $29,623 jeremywinick
   409. $29,624 Friar Laurence
@@ -968,37 +968,37 @@ Updated 2021-07-09T00:15:03.732Z
   964. $32,309 Thoomor
   965. $32,311 JocularMarrow
   966. $32,314 ヴッリョウ　Vrryou
-  967. $32,316 felix.thecall
-  968. $32,322 RTB
-  969. $32,324 Noisyboy
-  970. $32,324 Wamphyri
- *971. $32,327 ✪ TAndersen
-  972. $32,327 Stereo
- *973. $32,328 Alice
-  974. $32,329 jazzlevi
-  975. $32,333 Lopo van der Topo
-  976. $32,334 Willcraft25
-  977. $32,334 fong.
-  978. $32,337 newman05er
-  979. $32,338 Super Audric
-  980. $32,338 SkeptikBlaze
- *981. $32,342 libecrola
-  982. $32,344 woosubb
-  983. $32,344 Oatball
-  984. $32,345 L05ECa10
-  985. $32,348 IgorMAuto
-  986. $32,350 Emma Watson
- *987. $32,352 Plancklength
-  988. $32,354 Maul Plart Meme Cop
-  989. $32,356 diederTheBeader
- *990. $32,361 cjsk
-  991. $32,363 The Sightless Swordsman
-  992. $32,364 Mr_Pain522
-  993. $32,367 whatever
-  994. $32,373 randomstrange
-  995. $32,376 65542one
-  996. $32,377 lancekro
-  997. $32,386 glovebox24
- *998. $32,397 lollyH2O
-  999. $32,398 1723945294
- 1000. $32,410 JamieCook
+  967. $32,315 ivwaurt
+  968. $32,316 felix.thecall
+  969. $32,322 RTB
+  970. $32,324 Noisyboy
+  971. $32,324 Wamphyri
+ *972. $32,327 ✪ TAndersen
+  973. $32,327 Stereo
+ *974. $32,328 Alice
+  975. $32,329 jazzlevi
+  976. $32,333 Lopo van der Topo
+  977. $32,334 Willcraft25
+  978. $32,334 fong.
+  979. $32,337 newman05er
+  980. $32,338 Super Audric
+  981. $32,338 SkeptikBlaze
+ *982. $32,342 libecrola
+  983. $32,344 woosubb
+  984. $32,344 Oatball
+  985. $32,345 L05ECa10
+  986. $32,348 IgorMAuto
+  987. $32,350 Emma Watson
+ *988. $32,352 Plancklength
+  989. $32,354 Maul Plart Meme Cop
+  990. $32,356 diederTheBeader
+ *991. $32,361 cjsk
+  992. $32,363 The Sightless Swordsman
+  993. $32,364 Mr_Pain522
+  994. $32,367 whatever
+  995. $32,373 randomstrange
+  996. $32,376 65542one
+  997. $32,377 lancekro
+  998. $32,386 glovebox24
+ *999. $32,397 lollyH2O
+ 1000. $32,398 1723945294
