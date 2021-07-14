@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-08C "Rope Support" any% leaderboard (* = breaks)
-Updated 2021-07-13T00:15:45.006Z
-1000/12477 unique ranks shown
+Updated 2021-07-14T00:15:10.014Z
+1000/12485 unique ranks shown
 
    *1. $9,999  Bellair08
    *2. $10,304 Cookieblues
@@ -106,7 +106,7 @@ Updated 2021-07-13T00:15:45.006Z
   102. $17,655 Craigor
   103. $17,657 Xylated
   104. $17,657 Alliddell2
-  105. $17,659 Crimson
+ *105. $17,659 Crimson
  *106. $17,661 Tomimator
   107. $17,665 olivapaa
   108. $17,665 Offspec
@@ -382,7 +382,7 @@ Updated 2021-07-13T00:15:45.006Z
   378. $19,355 Tunny Drungis
   379. $19,356 Murph978
   380. $19,356 guaranteed_whales
-  381. $19,360 Mell
+ *381. $19,360 Mell
   382. $19,362 jaredkazoo
   383. $19,371 Daedamid
   384. $19,388 Xeeloth
@@ -407,8 +407,8 @@ Updated 2021-07-13T00:15:45.006Z
   403. $19,437 Daddy_J
   404. $19,442 ishidalabsakair
   405. $19,445 ismaeldejesusgonzalezavila
-  406. $19,446 Thpetre
- *407. $19,446 michal_kasznia
+ *406. $19,446 michal_kasznia
+  407. $19,446 Thpetre
   408. $19,447 sg
   409. $19,448 Juzless
   410. $19,450 lpizquierda
@@ -535,8 +535,8 @@ Updated 2021-07-13T00:15:45.006Z
   531. $19,780 theodore.k.liu
   532. $19,783 Safety Inspector
   533. $19,783 Kraito
- *534. $19,783 Bonefisher
-  535. $19,783 cock
+  534. $19,783 cock
+ *535. $19,783 Bonefisher
  *536. $19,784 Rene De Games
   537. $19,785 KindaWhisky
   538. $19,788 OCTDUMPUS
@@ -548,8 +548,8 @@ Updated 2021-07-13T00:15:45.006Z
   544. $19,802 jamiegbreault
   545. $19,803 EredarLordOfTheBurningLegion
  *546. $19,806 Inferior Asian
-  547. $19,807 samurekun
- *548. $19,807 funkyd3000
+ *547. $19,807 funkyd3000
+  548. $19,807 samurekun
   549. $19,809 Red Charge
   550. $19,810 klobásaomáčka
   551. $19,812 5chmendrick
@@ -625,8 +625,8 @@ Updated 2021-07-13T00:15:45.006Z
   621. $19,990 00frank
   622. $19,992 le caca
   623. $19,995 ᠌
- *624. $19,997 Taosboy2
-  625. $19,997 apple ǃ
+  624. $19,997 apple ǃ
+ *625. $19,997 Taosboy2
  *626. $19,997 dylan4rays
   627. $19,998 Rax
   628. $19,999 Dom
@@ -695,8 +695,8 @@ Updated 2021-07-13T00:15:45.006Z
   691. $20,169 benoitfavre
   692. $20,174 y_u_h8_me
   693. $20,176 Ray12467
-  694. $20,178 immo
- *695. $20,178 Lucy Goosey
+ *694. $20,178 Lucy Goosey
+  695. $20,178 immo
   696. $20,180 Anselmoh
   697. $20,181 aklar
   698. $20,182 tinytomblack
@@ -706,8 +706,8 @@ Updated 2021-07-13T00:15:45.006Z
   702. $20,199 ஜBigus Plebus
   703. $20,200 effermantechnic
   704. $20,203 adikprokop
-  705. $20,204 07USB
- *706. $20,204 Delta_Mage
+ *705. $20,204 Delta_Mage
+  706. $20,204 07USB
   707. $20,208 chickeneer
   708. $20,209 PickyDogFish
   709. $20,213 dds010324
@@ -754,8 +754,8 @@ Updated 2021-07-13T00:15:45.006Z
   750. $20,283 spacejam
   751. $20,283 Toe Knee
   752. $20,284 Obama Barack
-  753. $20,285 FleetSkip
- *754. $20,285 smashy
+ *753. $20,285 smashy
+  754. $20,285 FleetSkip
   755. $20,289 Monkey_Haut
   756. $20,296 Hirihoukenten
   757. $20,298 konica
@@ -813,9 +813,9 @@ Updated 2021-07-13T00:15:45.006Z
   809. $20,410 richard.chappell678
   810. $20,410 Oskar
   811. $20,412 wrestlingroks
- *812. $20,413 Morgoth
-  813. $20,413 DementedDeer
-  814. $20,413 Lukas
+  812. $20,413 DementedDeer
+  813. $20,413 Lukas
+ *814. $20,413 Morgoth
   815. $20,419 Coral
   816. $20,422 +25 Only
   817. $20,424 wallyworld
@@ -867,7 +867,7 @@ Updated 2021-07-13T00:15:45.006Z
   863. $20,514 Enderborn
   864. $20,516 Vasilis
   865. $20,519 Snake
-  866. $20,520 chicken
+ *866. $20,520 chicken
   867. $20,524 MrSlimbrowser
   868. $20,526 𝒢𝓇𝑒𝓃𝒹𝓎𝓈
   869. $20,528 jorritbock
@@ -893,8 +893,8 @@ Updated 2021-07-13T00:15:45.006Z
   889. $20,579 neulsfelipe
   890. $20,579 Tecno-Geek
   891. $20,580 Banankakan
- *892. $20,583 Taipan
-  893. $20,583 jasoncasper2003
+  892. $20,583 jasoncasper2003
+ *893. $20,583 Taipan
   894. $20,587 gregthearchitect
   895. $20,587 我的，不怪你。
   896. $20,589 noobmaster69
@@ -986,8 +986,8 @@ Updated 2021-07-13T00:15:45.006Z
   982. $20,731 BA
   983. $20,731 chinken mecnoggets
   984. $20,733 jesse.dubach
- *985. $20,736 speedhacked
-  986. $20,736 adikus
+  985. $20,736 adikus
+ *986. $20,736 speedhacked
   987. $20,739 JayEsCee97
   988. $20,742 Moon_Stone_Rose
   989. $20,745 Astronerd
@@ -1001,4 +1001,4 @@ Updated 2021-07-13T00:15:45.006Z
   997. $20,757 taco
   998. $20,758 Wotury
   999. $20,758 fusama
- 1000. $20,759 ivwaurt
+*1000. $20,759 Chappi
