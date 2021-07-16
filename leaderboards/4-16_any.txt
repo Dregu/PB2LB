@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-16 "Don't Leave Me" any% leaderboard (* = breaks)
-Updated 2021-07-15T00:15:03.189Z
-1000/24018 unique ranks shown
+Updated 2021-07-16T00:16:42.508Z
+1000/24030 unique ranks shown
 
     1. $16,535 114623050
     2. $16,535 Cookieblues
@@ -31,12 +31,12 @@ Updated 2021-07-15T00:15:03.189Z
   *27. $21,476 Pickle Obama
    28. $21,554 BaconPancakes
    29. $21,715 alexingoglia
-   30. $21,827 Daisy_0I
-   31. $21,858 782054923
+   30. $21,782 782054923
+   31. $21,827 Daisy_0I
    32. $22,081 Kjell
    33. $22,120 Professional Chicken
   *34. $22,124 torry
-  *35. $22,147 Kuma
+   35. $22,147 Kuma
    36. $22,163 alex
    37. $22,174 iso Compass
    38. $22,210 jakobberchtold
@@ -145,7 +145,7 @@ Updated 2021-07-15T00:15:03.189Z
   141. $24,896 DARN
   142. $24,900 kraal
   143. $24,925 j.been.2
-  144. $24,962 tjferret
+ *144. $24,962 tjferret
   145. $24,995 ThatCrazyFrog
   146. $24,997 superneuras
   147. $24,997 connor.bray.ricks
@@ -206,8 +206,8 @@ Updated 2021-07-15T00:15:03.189Z
   202. $25,654 Shieber
   203. $25,654 The984
  *204. $25,657 mikiethepenguin
-  205. $25,668 jakemccullagh
- *206. $25,668 HappyFishboy
+ *205. $25,668 HappyFishboy
+  206. $25,668 jakemccullagh
   207. $25,674 Shifter Serif
   208. $25,674 『　　』
   209. $25,701 Amadeus
@@ -239,9 +239,9 @@ Updated 2021-07-15T00:15:03.189Z
  *235. $25,957 jason.fritsch18
   236. $25,978 plush
  *237. $25,979 CheesyGamer201
- *238. $25,990 SCHM1TTY
-  239. $25,990 Painless
-  240. $25,990 Sqmue1
+  238. $25,990 Painless
+  239. $25,990 Sqmue1
+ *240. $25,990 SCHM1TTY
  *241. $25,995 Terra_Pringles
   242. $25,998 sebastian.d.higgins
  *243. $26,002 exmirt
@@ -377,7 +377,7 @@ Updated 2021-07-15T00:15:03.189Z
  *373. $27,313 rjpaige3
   374. $27,316 CS2100
   375. $27,335 Geese are Hot
- *376. $27,356 Ziomalo Gaming
+  376. $27,356 Ziomalo Gaming
   377. $27,365 chairdude21
   378. $27,366 maffers
   379. $27,373 Morilli
@@ -417,53 +417,53 @@ Updated 2021-07-15T00:15:03.189Z
   413. $27,675 GayLegoBatman2020
   414. $27,682 Curry in a Hurry
   415. $27,694 rileycomstock
-  416. $27,700 aigongar02
- *417. $27,714 cmccann1578
-  418. $27,720 ai Doge
- *419. $27,725 blakewmeyer
-  420. $27,740 JJ_oshea
-  421. $27,746 Dylan/4W
-  422. $27,749 Krash129
-  423. $27,753 Andre
-  424. $27,757 sim1manson
-  425. $27,757 FreeCandyVan
-  426. $27,759 jomba45
-  427. $27,764 Dickers
-  428. $27,764 cataclysm
-  429. $27,779 Sorter
-  430. $27,780 John
- *431. $27,788 greenstoner
-  432. $27,794 lamen_cookie
-  433. $27,801 Crydust
-  434. $27,806 chewbacca's family
-  435. $27,819 MechanicalPencil
- *436. $27,823 robd.lives
-  437. $27,827 Astyn Ziller
- *438. $27,840 TouchTheDog
-  439. $27,846 Klangsnort
-  440. $27,851 Richie
-  441. $27,853 manojmact
- *442. $27,863 Wheels
- *443. $27,869 nybbler
-  444. $27,887 dog
-  445. $27,891 rabidus
-  446. $27,892 Oluoloou
-  447. $27,895 Mtoshiaki
-  448. $27,895 albinbarath
-  449. $27,896 Petit_Soushi
-  450. $27,902 ω  Neptune  ω
- *451. $27,903 Sofie
- *452. $27,916 James
-  453. $27,919 AnarchistMuffin
-  454. $27,931 marten.strauss
- *455. $27,935 poipoi300
- *456. $27,959 Brainyoliver
-  457. $27,965 Glück_Ky
-  458. $27,972 iamsteed
-  459. $27,979 joemcgrattan2
-  460. $27,986 LittlePriest
- *461. $27,990 dmtjmurphy
-  462. $27,991 Alpha
+  416. $27,696 Alpha
+  417. $27,700 aigongar02
+ *418. $27,714 cmccann1578
+  419. $27,720 ai Doge
+ *420. $27,725 blakewmeyer
+  421. $27,740 JJ_oshea
+  422. $27,746 Dylan/4W
+  423. $27,749 Krash129
+  424. $27,753 Andre
+  425. $27,757 sim1manson
+  426. $27,757 FreeCandyVan
+  427. $27,759 jomba45
+  428. $27,764 Dickers
+  429. $27,764 cataclysm
+  430. $27,779 Sorter
+  431. $27,780 John
+ *432. $27,788 greenstoner
+  433. $27,794 lamen_cookie
+  434. $27,801 Crydust
+  435. $27,806 chewbacca's family
+  436. $27,819 MechanicalPencil
+ *437. $27,823 robd.lives
+  438. $27,827 Astyn Ziller
+ *439. $27,840 TouchTheDog
+  440. $27,846 Klangsnort
+  441. $27,851 Richie
+  442. $27,853 manojmact
+ *443. $27,863 Wheels
+ *444. $27,869 nybbler
+  445. $27,887 dog
+  446. $27,891 rabidus
+  447. $27,892 Oluoloou
+  448. $27,895 Mtoshiaki
+  449. $27,895 albinbarath
+  450. $27,896 Petit_Soushi
+  451. $27,902 ω  Neptune  ω
+ *452. $27,903 Sofie
+ *453. $27,916 James
+  454. $27,919 AnarchistMuffin
+  455. $27,931 marten.strauss
+ *456. $27,935 poipoi300
+ *457. $27,959 Brainyoliver
+  458. $27,965 Glück_Ky
+  459. $27,972 iamsteed
+  460. $27,979 joemcgrattan2
+  461. $27,986 LittlePriest
+ *462. $27,990 dmtjmurphy
   463. $27,992 jcompagni
   464. $27,996 mrichstein169
   465. $27,999 w00zy
@@ -525,8 +525,8 @@ Updated 2021-07-15T00:15:03.189Z
  *521. $28,281 Smiggie Balls O.O
   522. $28,293 ben.lovelock
   523. $28,293 Oni
-  524. $28,310 Mesobroke
- *525. $28,310 BrainBox3456
+ *524. $28,310 BrainBox3456
+  525. $28,310 Mesobroke
   526. $28,311 Tectushay
  *527. $28,317 Atlasted
   528. $28,327 alexbaker3875
@@ -604,8 +604,8 @@ Updated 2021-07-15T00:15:03.189Z
   600. $28,690 HAH | Upsvergessen
   601. $28,697 Herr ZerØ
   602. $28,697 CarryMaster123
- *603. $28,698 FormerElephant
-  604. $28,698 TA Wintermute
+  603. $28,698 TA Wintermute
+ *604. $28,698 FormerElephant
   605. $28,701 jlteunissen
   606. $28,702 gddbuckley
   607. $28,716 boximusprimate
@@ -626,8 +626,8 @@ Updated 2021-07-15T00:15:03.189Z
   622. $28,801 ~wooden.kneecap
   623. $28,805 Guidetti
  *624. $28,812 romyk
- *625. $28,817 Invasian
-  626. $28,817 tkismr
+  625. $28,817 tkismr
+ *626. $28,817 Invasian
   627. $28,829 OofMe
   628. $28,849 aaalex62
   629. $28,849 Fazi
@@ -803,9 +803,9 @@ Updated 2021-07-15T00:15:03.189Z
   799. $29,572 thomas.vdlf
   800. $29,575 SPOOKY WAGONS
   801. $29,576 Occidere
- *802. $29,580 Orange
-  803. $29,580 Suq Madiq
-  804. $29,580 oms
+  802. $29,580 Suq Madiq
+  803. $29,580 oms
+ *804. $29,580 Orange
  *805. $29,582 loigjezequel
   806. $29,588 sky
   807. $29,591 scbaumbach7041
@@ -857,8 +857,8 @@ Updated 2021-07-15T00:15:03.189Z
   853. $29,767 TheShinyWizard
   854. $29,770 Bilbö
   855. $29,786 XeroEffect
- *856. $29,792 Asyxui
-  857. $29,792 Mean Mr Mustard
+  856. $29,792 Mean Mr Mustard
+ *857. $29,792 Asyxui
   858. $29,793 Navinate
   859. $29,795 MEX C-136
   860. $29,802 Shadauz
@@ -886,8 +886,8 @@ Updated 2021-07-15T00:15:03.189Z
   882. $29,872 GChilley
   883. $29,880 toimiski
  *884. $29,883 ferdifishy_
-  885. $29,883 just the worst
- *886. $29,883 Kengarr
+ *885. $29,883 Kengarr
+  886. $29,883 just the worst
   887. $29,886 Bosc
   888. $29,888 BoldHarry
   889. $29,889 Tinymight
@@ -931,8 +931,8 @@ Updated 2021-07-15T00:15:03.189Z
   927. $29,984 MiseryMonkey
  *928. $29,984 Meta70
   929. $29,986 Totulhu
- *930. $29,987 Tactical Insomnia
-  931. $29,987 Lupo
+  930. $29,987 Lupo
+ *931. $29,987 Tactical Insomnia
   932. $29,990 Alo & Sport
   933. $29,992 Icy Unicorn
   934. $29,994 PflanzenLP
@@ -997,8 +997,8 @@ Updated 2021-07-15T00:15:03.189Z
   993. $30,243 superfeng99
   994. $30,243 goergel
   995. $30,248 Thoradrin
- *996. $30,251 3rdkindpark
-  997. $30,251 Gulder
+  996. $30,251 Gulder
+ *997. $30,251 3rdkindpark
  *998. $30,255 Lunk
   999. $30,258 carpejdm
  1000. $30,265 boeringuy
