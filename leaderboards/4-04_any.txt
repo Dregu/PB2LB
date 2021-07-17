@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-04 "Trap Door" any% leaderboard (* = breaks)
-Updated 2021-07-16T00:16:42.380Z
-1000/29770 unique ranks shown
+Updated 2021-07-17T00:15:37.550Z
+1000/29793 unique ranks shown
 
     1. $3,120  7777Alex7777
     2. $3,120  Cookieblues
@@ -126,7 +126,7 @@ Updated 2021-07-16T00:16:42.380Z
   122. $4,087  我怎么可能打不过他你在说什么！
   123. $4,114  2RAF2
   124. $4,118  Diliviur
-  125. $4,126  4hud
+ *125. $4,126  4hud
   126. $4,127  6545430
   127. $4,141  Timtime__7000
   128. $4,150  jb42jb
@@ -178,7 +178,7 @@ Updated 2021-07-16T00:16:42.380Z
   174. $6,107  keepwest
   175. $6,151  13910731749
   176. $6,193  Berserk Sphincter
-  177. $6,229  sherry-hampton
+ *177. $6,229  sherry-hampton
   178. $6,259  Frits
   179. $6,264  n30t3h1
   180. $6,286  Tall~Kid~Tilde
@@ -423,7 +423,7 @@ Updated 2021-07-16T00:16:42.380Z
   419. $9,835  BOT Alisec
   420. $9,837  Zom
   421. $9,838  CPrimex
-  422. $9,847  Donut
+ *422. $9,847  Donut
   423. $9,852  Carplants101
   424. $9,856  Vendetta
   425. $9,859  ajfrens
@@ -602,8 +602,8 @@ Updated 2021-07-16T00:16:42.380Z
   598. $10,476 SilentMolusc
   599. $10,484 Elven One
   600. $10,486 stoner_kough
-  601. $10,493 patrik
- *602. $10,493 chokeongames
+ *601. $10,493 chokeongames
+  602. $10,493 patrik
   603. $10,497 Xergz
   604. $10,498 Cerbearus
   605. $10,503 thecormister
@@ -613,8 +613,8 @@ Updated 2021-07-16T00:16:42.380Z
   609. $10,525 alicele14
   610. $10,527 SmokeyMcSmoke
   611. $10,527 Wizard_George_Micheals
-  612. $10,531 Mtoshiaki
- *613. $10,531 emosewamky
+ *612. $10,531 emosewamky
+  613. $10,531 Mtoshiaki
   614. $10,538 DevilSquirrel
   615. $10,538 TIMM
   616. $10,541 Travis8411
@@ -795,8 +795,8 @@ Updated 2021-07-16T00:16:42.380Z
   791. $10,940 SubSonix
   792. $10,942 smokedscrod
   793. $10,943 Iced Evolved
-  794. $10,945 dk10837
- *795. $10,945 damose
+ *794. $10,945 damose
+  795. $10,945 dk10837
  *796. $10,946 sgcdancer16
   797. $10,949 Kodiaz
   798. $10,950 Jacowboy
@@ -863,8 +863,8 @@ Updated 2021-07-16T00:16:42.380Z
   859. $11,042 AdmiralChu
   860. $11,042 Costco Bread Aisle
   861. $11,043 deminecraftadict
- *862. $11,047 -
-  863. $11,047 fitzgibb
+  862. $11,047 fitzgibb
+ *863. $11,047 -
   864. $11,050 Fusion64
   865. $11,058 Oskar
   866. $11,061 bmaas
@@ -921,9 +921,9 @@ Updated 2021-07-16T00:16:42.380Z
   917. $11,155 Cryo
   918. $11,159 ValisTheBig
   919. $11,159 Qia
- *920. $11,160 pagh pong
-  921. $11,160 Torizzy
-  922. $11,160 sq1633
+  920. $11,160 Torizzy
+  921. $11,160 sq1633
+ *922. $11,160 pagh pong
   923. $11,160 Haime_rej
   924. $11,167 SillyStrungSabbatical
   925. $11,170 hofstadler.andi
@@ -996,8 +996,8 @@ Updated 2021-07-16T00:16:42.380Z
   992. $11,262 theboxmaker
   993. $11,262 tylerhbateman
   994. $11,263 Chronoate
- *995. $11,264 Kail
-  996. $11,264 dinglis
+  995. $11,264 dinglis
+ *996. $11,264 Kail
   997. $11,266 Loch-Boch
   998. $11,267 Gulder
   999. $11,268 jaredmiller825

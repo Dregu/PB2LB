@@ -1,6 +1,6 @@
 Poly Bridge 2 - 5-01 "Falling Into Place" any% leaderboard (* = breaks)
-Updated 2021-07-16T00:16:42.515Z
-1000/16357 unique ranks shown
+Updated 2021-07-17T00:15:37.658Z
+1000/16376 unique ranks shown
 
    *1. $769    9k5
    *2. $928    Zen
@@ -378,7 +378,7 @@ Updated 2021-07-16T00:16:42.515Z
   374. $39,066 Hardcore
   375. $39,068 DudeGuy04
  *376. $39,081 Random Retard
-  377. $39,087 pallas11235
+ *377. $39,087 pallas11235
   378. $39,101 agilealex
   379. $39,106 ZigsSolo
   380. $39,164 thedudeguy
@@ -602,8 +602,8 @@ Updated 2021-07-16T00:16:42.515Z
   598. $41,912 wcopeland25
   599. $41,922 hmse0631
   600. $41,934 damose
- *601. $41,945 davidjohnclark
-  602. $41,945 cmccann1578
+  601. $41,945 cmccann1578
+ *602. $41,945 davidjohnclark
  *603. $41,946 honest Abe
  *604. $41,948 Everdever
   605. $41,951 biorni999
@@ -692,7 +692,7 @@ Updated 2021-07-16T00:16:42.515Z
   688. $42,680 Christo
   689. $42,683 RealBoyBot
  *690. $42,683 bellytheman
-  691. $42,686 hhking
+ *691. $42,686 hhking
   692. $42,696 elisholst
   693. $42,709 sondret5
   694. $42,710 AlienC4
@@ -891,8 +891,8 @@ Updated 2021-07-16T00:16:42.515Z
   887. $44,384 blessed appeL
  *888. $44,388 danmax97
   889. $44,390 Mjoelnir
- *890. $44,403 Spooky K.
-  891. $44,403 Vossie_nl
+  890. $44,403 Vossie_nl
+ *891. $44,403 Spooky K.
   892. $44,407 ascii_avenger
   893. $44,409 radoslaw.burny
   894. $44,414 ThatguySam
@@ -942,8 +942,8 @@ Updated 2021-07-16T00:16:42.515Z
   938. $44,796 MOTEL F. ALVA
   939. $44,810 crw006
   940. $44,813 Pumpkinhut
-  941. $44,819 Tensa
-  942. $44,819 k.a.huckshold
+ *941. $44,819 k.a.huckshold
+  942. $44,819 Tensa
  *943. $44,820 big sim
  *944. $44,823 Anesthetics.
   945. $44,828 LumaR
@@ -953,8 +953,8 @@ Updated 2021-07-16T00:16:42.515Z
   949. $44,857 HappyCow19
   950. $44,859 tel320
   951. $44,860 wonsnot
-  952. $44,866 Santiago
- *953. $44,866 nicholaskirkpatrick06
+ *952. $44,866 nicholaskirkpatrick06
+  953. $44,866 Santiago
  *954. $44,876 hebgeennaam1
  *955. $44,877 Jab05
   956. $44,930 daseisen82
@@ -972,33 +972,33 @@ Updated 2021-07-16T00:16:42.515Z
   968. $44,993 No Life Larry
   969. $45,009 LittlePriest
   970. $45,012 Cytobit
-  971. $45,046 dakachips
- *972. $45,049 Cat_Is_Bread
-  973. $45,068 clydesdalefan
-  974. $45,072 Rastapoulpe
- *975. $45,079 kietze97
-  976. $45,088 leejwvip
-  977. $45,088 Rocket Steve
-  978. $45,104 jeff
-  979. $45,108 atsuya.takano
-  980. $45,108 vampireslaya
-  981. $45,134 Shane
-  982. $45,151 DrSoepbal
-  983. $45,153 2394520899
-  984. $45,155 Oehoe de uil
-  985. $45,156 Jake
-  986. $45,164 [7H3_13U7CH3R]
- *987. $45,171 DOROGA
-  988. $45,177 Minfredus
-  989. $45,183 Jente14
-  990. $45,185 adrienvaldez360
- *991. $45,192 breckdogg
-  992. $45,200 balu0
-  993. $45,222 nabster
-  994. $45,223 Windows 7
-  995. $45,225 Nickross98
-  996. $45,227 Cwilson2
-  997. $45,241 Xena-8791
-  998. $45,248 Eskillios
- *999. $45,262 jurgenherre
- 1000. $45,265 Nth Master
+  971. $45,031 Howard Beale
+  972. $45,046 dakachips
+ *973. $45,049 Cat_Is_Bread
+  974. $45,068 clydesdalefan
+  975. $45,072 Rastapoulpe
+ *976. $45,079 kietze97
+  977. $45,088 leejwvip
+  978. $45,088 Rocket Steve
+  979. $45,104 jeff
+  980. $45,108 atsuya.takano
+  981. $45,108 vampireslaya
+  982. $45,134 Shane
+  983. $45,151 DrSoepbal
+  984. $45,153 2394520899
+  985. $45,155 Oehoe de uil
+  986. $45,156 Jake
+  987. $45,164 [7H3_13U7CH3R]
+ *988. $45,171 DOROGA
+  989. $45,177 Minfredus
+  990. $45,183 Jente14
+  991. $45,185 adrienvaldez360
+ *992. $45,192 breckdogg
+  993. $45,200 balu0
+  994. $45,222 nabster
+  995. $45,223 Windows 7
+  996. $45,225 Nickross98
+  997. $45,227 Cwilson2
+  998. $45,241 Xena-8791
+  999. $45,248 Eskillios
+*1000. $45,262 jurgenherre
