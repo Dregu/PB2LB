@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-15 "Looper's Revenge" any% leaderboard (* = breaks)
-Updated 2021-07-18T00:16:51.355Z
-1000/47866 unique ranks shown
+Updated 2021-07-20T00:14:56.264Z
+1000/47917 unique ranks shown
 
    *1. $7,355  Trygeve
    *2. $7,355  Noahsorou
@@ -79,10 +79,10 @@ Updated 2021-07-18T00:16:51.355Z
    75. $27,961 alex
   *76. $28,083 Herneerius
    77. $28,085 fuppywith
-  *78. $28,211 geroniberry
+  *78. $28,211 metatropic
   *79. $28,211 palfly15
-  *80. $28,211 gamespilgame
-  *81. $28,211 metatropic
+  *80. $28,211 geroniberry
+  *81. $28,211 gamespilgame
    82. $28,235 Virffy
    83. $28,375 itsiques2x
   *84. $28,627 plush
@@ -177,8 +177,8 @@ Updated 2021-07-18T00:16:51.355Z
   173. $33,942 gamer style
   174. $33,944 HappyFishboy
   175. $34,064 Eugene_Kaktus
-  176. $34,110 dds010324
-  177. $34,110 swaq
+  176. $34,110 swaq
+  177. $34,110 dds010324
   178. $34,176 bojangles
  *179. $34,293 giop
  *180. $34,453 B1nk
@@ -199,7 +199,7 @@ Updated 2021-07-18T00:16:51.355Z
  *195. $35,153 Tehninza
   196. $35,170 Volardin
  *197. $35,229 KalandosLajos.
- *198. $35,232 ki1law
+  198. $35,232 ki1law
   199. $35,248 brunocstreet
   200. $35,325 mooresben
  *201. $35,363 @NIGHTMODE
@@ -218,7 +218,7 @@ Updated 2021-07-18T00:16:51.355Z
   214. $35,582 Digital High
   215. $35,672 Ikebab
  *216. $35,701 bille
- *217. $35,706 Sketchy Duck
+  217. $35,706 Sketchy Duck
   218. $35,781 keshigom
  *219. $35,783 Vixeek
   220. $35,790 eios_2
@@ -281,7 +281,7 @@ Updated 2021-07-18T00:16:51.355Z
  *277. $37,570 ¡ egominer0
   278. $37,587 Spibba
   279. $37,599 Land Shark
- *280. $37,623 Bram2323
+  280. $37,623 Bram2323
   281. $37,638 goaljim1
  *282. $37,659 makuragi
   283. $37,667 RBX1165
@@ -463,8 +463,8 @@ Updated 2021-07-18T00:16:51.355Z
   459. $40,482 generalrabopalma
   460. $40,483 andrew
   461. $40,494 ErwinC
- *462. $40,555 KyrhyC
-  463. $40,555 MutatedLemon
+  462. $40,555 MutatedLemon
+ *463. $40,555 KyrhyC
   464. $40,578 duckman
   465. $40,580 andnorda
   466. $40,582 RedMaskS
@@ -560,7 +560,7 @@ Updated 2021-07-18T00:16:51.355Z
   556. $41,834 Fecal Impaction
   557. $41,844 Microsoft Viso
  *558. $41,847 VisuReality
- *559. $41,920 Invasian
+  559. $41,920 Invasian
   560. $41,934 Ладно смазан
  *561. $41,958 clacombe
  *562. $41,966 Dray N Zwanzic
@@ -725,8 +725,8 @@ Updated 2021-07-18T00:16:51.355Z
  *721. $44,332 Co
  *722. $44,333 Mr. Chomp
  *723. $44,346 AZ-LT
-  724. $44,347 0123
- *725. $44,347 macgyven
+ *724. $44,347 macgyven
+  725. $44,347 0123
  *726. $44,348 Joshua
   727. $44,361 Dr. Keks
  *728. $44,367 LL Eden
@@ -759,7 +759,7 @@ Updated 2021-07-18T00:16:51.355Z
   755. $44,716 m.a.swertz
  *756. $44,718 TimeDrifter
   757. $44,733 iso Compass
- *758. $44,735 pkclark
+  758. $44,735 pkclark
   759. $44,750 Mr. Penguin
   760. $44,762 Blue Rose
  *761. $44,767 Rath
@@ -785,8 +785,8 @@ Updated 2021-07-18T00:16:51.355Z
   781. $44,958 camtora
   782. $44,962 fladrifv
  *783. $44,962 Ultimate Venom
-  784. $44,976 iiroks
-  785. $44,976 richard.chappell678
+  784. $44,976 richard.chappell678
+  785. $44,976 iiroks
  *786. $44,992 ZiuTinyat
  *787. $45,007 BIG OOF
  *788. $45,020 Elimunning
@@ -815,8 +815,8 @@ Updated 2021-07-18T00:16:51.355Z
  *811. $45,362 TriangularStamp
  *812. $45,364 mig_
  *813. $45,378 Jiwi
- *814. $45,388 UltimateDuck
-  815. $45,388 weijore
+  814. $45,388 weijore
+ *815. $45,388 UltimateDuck
   816. $45,408 BarrelMeister
  *817. $45,440 beemo
   818. $45,447 Chraller97
@@ -1000,5 +1000,5 @@ Updated 2021-07-18T00:16:51.355Z
  *996. $47,174 Floki_San
   997. $47,181 mopure33266
   998. $47,183 CakeIsALie
- *999. $47,187 KingKnäuschen
- 1000. $47,187 fringD
+  999. $47,187 fringD
+*1000. $47,187 KingKnäuschen
