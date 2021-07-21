@@ -1,24 +1,24 @@
 Poly Bridge 2 - 4-03C "Sloped Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-07-20T00:14:56.300Z
-1000/3021 unique ranks shown
+Updated 2021-07-21T00:16:41.499Z
+1000/3022 unique ranks shown
 
    *1. $3,999  Fathom
    *2. $4,662  somefakegamer
    *3. $4,927  ~ Smithy ~
    *4. $5,421  9k5
    *5. $5,465  Zen
-   *6. $5,494  Icysnowman
-   *7. $5,494  Bibbb
-   *8. $5,494  Alison
+   *6. $5,494  Bibbb
+   *7. $5,494  Alison
+   *8. $5,494  Icysnowman
    *9. $5,690  Cookieblues
   *10. $6,969  minecat
-  *11. $12,246 Bellair08
-  *12. $12,670 7777Alex7777
-  *13. $12,873 Yennefer
-  *14. $13,081 0123
-  *15. $13,329 Trygeve
-   16. $15,322 Go Seigen
-  *17. $15,494 Lagiiiie
+  *11. $10,494 Lagiiiie
+  *12. $12,246 Bellair08
+  *13. $12,670 7777Alex7777
+  *14. $12,873 Yennefer
+  *15. $13,081 0123
+  *16. $13,329 Trygeve
+   17. $15,322 Go Seigen
    18. $16,699 Honn
    19. $16,919 MOD
    20. $18,694 Soba
@@ -204,7 +204,7 @@ Updated 2021-07-20T00:14:56.300Z
  *200. $32,663 _player52
   201. $32,680 takeoff
   202. $32,714 oof
- *203. $32,895 SilentStorm
+  203. $32,895 SilentStorm
  *204. $32,899 stinod2
   205. $32,925 Epik_Unifish
   206. $32,970 LFB
@@ -295,7 +295,7 @@ Updated 2021-07-20T00:14:56.300Z
  *291. $34,891 Morgothor
   292. $34,892 Revolves
   293. $34,937 aaron.steinke
-  294. $34,979 Tiaga
+ *294. $34,979 Tiaga
   295. $34,999 Imagine Pears
   296. $35,009 Cremefraiche
   297. $35,010 Moja
@@ -352,7 +352,7 @@ Updated 2021-07-20T00:14:56.300Z
  *348. $36,481 GREAT SCOTT
   349. $36,497 Luisjnc
   350. $36,533 Sleepy Gary
- *351. $36,544 KC808
+  351. $36,544 KC808
   352. $36,552 jamiegbreault
   353. $36,570 chadstacey
   354. $36,640 Bandwidth Bandit
@@ -473,7 +473,7 @@ Updated 2021-07-20T00:14:56.300Z
   469. $38,661 bazdesh
  *470. $38,662 Cs2O2
   471. $38,702 NAFTA
-  472. $38,710 matejb_46
+ *472. $38,710 matejb_46
   473. $38,735 gajiro240
   474. $38,752 Lord Orion
   475. $38,757 matthias
@@ -587,7 +587,7 @@ Updated 2021-07-20T00:14:56.300Z
   583. $40,145 BeljihnWahfl
   584. $40,146 Juspe
   585. $40,150 pallas11235
-  586. $40,150 TheRealEel78
+ *586. $40,150 TheRealEel78
   587. $40,168 meat_master
   588. $40,169 wumengyundf
   589. $40,178 amani576
@@ -612,7 +612,7 @@ Updated 2021-07-20T00:14:56.300Z
   608. $40,427 cathy.obernuefeman
   609. $40,485 JYOUNG1234
   610. $40,485 Slacker
- *611. $40,493 The Shire
+  611. $40,493 The Shire
   612. $40,514 Prism ghost
   613. $40,527 Anson10260
   614. $40,532 lukas
@@ -706,8 +706,8 @@ Updated 2021-07-20T00:14:56.300Z
  *702. $41,812 fasobrinho
   703. $41,812 juan_ctg
   704. $41,814 tomaschonnie
- *705. $41,831 Pickle Rick
-  706. $41,831 dridhaswana2
+  705. $41,831 dridhaswana2
+ *706. $41,831 Pickle Rick
   707. $41,831 Ħasħɇđ ⱣøŧȺŧøɇs
   708. $41,831 Crimson
   709. $41,831 twilighttoes
@@ -796,16 +796,16 @@ Updated 2021-07-20T00:14:56.300Z
   792. $42,832 Kage_Rumia
   793. $42,838 Carlão 33
   794. $42,844 CApybaraLORDgOD
- *795. $42,864 burb fucc
-  796. $42,864 leigh.pattinson
+  795. $42,864 leigh.pattinson
+ *796. $42,864 burb fucc
   797. $42,865 Lavisch
   798. $42,866 Karl Max
   799. $42,866 Styoupeur
   800. $42,866 Pantharmaul
   801. $42,866 Bloodjkeee
-  802. $42,866 提莫队长、
-  803. $42,866 Spoosky
- *804. $42,866 sleepyy.
+ *802. $42,866 sleepyy.
+  803. $42,866 提莫队长、
+  804. $42,866 Spoosky
  *805. $42,880 baukelh
   806. $42,885 ZeroVector
   807. $42,886 UY SAPE
@@ -816,7 +816,7 @@ Updated 2021-07-20T00:14:56.300Z
   812. $42,959 Moly!
   813. $42,970 panderson81
   814. $42,970 Gardrium
- *815. $42,982 Zi3gl3r
+  815. $42,982 Zi3gl3r
   816. $42,986 Sol3N
   817. $42,990 Chickenzilla
   818. $42,992 Conkuist
@@ -870,17 +870,17 @@ Updated 2021-07-20T00:14:56.300Z
  *866. $43,380 ThomajnHS
   867. $43,387 LELLEMEN
   868. $43,406 breadeaterlol
-  869. $43,406 toqlc4179
-  870. $43,406 elli_rynbw
- *871. $43,406 M A V R I
+ *869. $43,406 M A V R I
+  870. $43,406 toqlc4179
+  871. $43,406 elli_rynbw
   872. $43,406 Ax7ro
   873. $43,406 Stalemate
   874. $43,406 Will2875
   875. $43,406 C_liuc23
   876. $43,406 rainy
- *877. $43,406 WesleySaurusRex
-  878. $43,406 robby
-  879. $43,406 Mannor
+  877. $43,406 robby
+  878. $43,406 Mannor
+ *879. $43,406 WesleySaurusRex
   880. $43,408 mikkel383ss
   881. $43,410 Duyzee
   882. $43,411 chosen feeder

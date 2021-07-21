@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-03C "Bridge of Steel" any% leaderboard (* = breaks)
-Updated 2021-07-20T00:14:55.845Z
-1000/13840 unique ranks shown
+Updated 2021-07-21T00:16:40.942Z
+1000/13853 unique ranks shown
 
     1. $5,123  Bellair08
     2. $5,124  Cookieblues
@@ -9,8 +9,8 @@ Updated 2021-07-20T00:14:55.845Z
     5. $5,150  Crimson
     6. $5,158  Trygeve
     7. $5,163  DaveMcW
-    8. $5,163  zztop03
-   *9. $5,163  Astrodaly
+   *8. $5,163  Astrodaly
+    9. $5,163  zztop03
    10. $5,176  Flubbles
    11. $5,180  Fathom
    12. $5,182  Zen
@@ -41,9 +41,9 @@ Updated 2021-07-20T00:14:55.845Z
    37. $5,236  Slick
    38. $5,237  lmhe
    39. $5,237  GF——LONGWU
-   40. $5,238  TucLTU
-   41. $5,238  MYCRAFTisbest
-  *42. $5,238  zinc
+  *40. $5,238  zinc
+   41. $5,238  TucLTU
+   42. $5,238  MYCRAFTisbest
    43. $5,238  Morgothor
    44. $5,239  Cypheri
    45. $5,239  delightfulgiraffe
@@ -68,7 +68,7 @@ Updated 2021-07-20T00:14:55.845Z
    64. $5,253  SThomas [GER]
    65. $5,253  leparkourguy
    66. $5,256  ZGORM19
-   67. $5,257  Pengujedi
+  *67. $5,257  Pengujedi
    68. $5,258  Solid Snow
   *69. $5,258  Chunderthighs
    70. $5,260  Edwin Cumberbatch
@@ -126,8 +126,8 @@ Updated 2021-07-20T00:14:55.845Z
   122. $5,285  Mr. Jelly Bean
   123. $5,286  hehe xd
   124. $5,286  Tehninza
-  125. $5,287  Keyvian
- *126. $5,287  Birdie Sandals
+ *125. $5,287  Birdie Sandals
+  126. $5,287  Keyvian
   127. $5,290  [GOL] Gallegos
   128. $5,290  KarTwelve
   129. $5,290  RevVolution
@@ -135,8 +135,8 @@ Updated 2021-07-20T00:14:55.845Z
   131. $5,294  Face7
  *132. $5,295  torry
  *133. $5,296  Ameer
- *134. $5,297  Tomimator
-  135. $5,297  Skretchii
+  134. $5,297  Skretchii
+ *135. $5,297  Tomimator
   136. $5,298  Alelon28
   137. $5,298  lorddraegon
   138. $5,299  YoloYuliaPie
@@ -144,7 +144,7 @@ Updated 2021-07-20T00:14:55.845Z
  *140. $5,410  Frits
   141. $5,443  bastian.bello.c
   142. $5,469  Lasaña7925
-  143. $5,488  zezetel
+ *143. $5,488  zezetel
   144. $5,500  mikiethepenguin
  *145. $5,501  clownlord06
   146. $5,502  Sir Kit
@@ -323,8 +323,8 @@ Updated 2021-07-20T00:14:55.845Z
  *319. $10,487 BigMommyGames
   320. $10,492 Aiferion
   321. $10,493 CPrimex
-  322. $10,500 BolerPear
- *323. $10,500 St1ngm
+ *322. $10,500 St1ngm
+  323. $10,500 BolerPear
  *324. $10,501 Richard
   325. $10,503 NetEng
   326. $10,504 cioris
@@ -481,7 +481,7 @@ Updated 2021-07-20T00:14:55.845Z
   477. $11,070 jjones18
   478. $11,081 Joelisstillhere
   479. $11,081 JelloFisho
-  480. $11,085 VGFortune
+ *480. $11,085 VGFortune
   481. $11,092 Kaidrineko
   482. $11,093 Allink
   483. $11,093 h4n
@@ -566,8 +566,8 @@ Updated 2021-07-20T00:14:55.845Z
   562. $11,343 Dobbler
   563. $11,353 B1nk
   564. $11,364 andrew
-  565. $11,366 SillyStrungSabbatical
- *566. $11,366 Moederkoekje
+ *565. $11,366 Moederkoekje
+  566. $11,366 SillyStrungSabbatical
   567. $11,371 connor.bray.ricks
   568. $11,372 Arty NL
   569. $11,373 Ice4322
@@ -598,8 +598,8 @@ Updated 2021-07-20T00:14:55.845Z
   594. $11,441 HollyKun
   595. $11,442 Evanda
  *596. $11,447 bakuhyouzann
- *597. $11,450 k.a.huckshold
-  598. $11,450 Sentinel9111
+  597. $11,450 Sentinel9111
+ *598. $11,450 k.a.huckshold
  *599. $11,451 Hawk
   600. $11,452 dvanhinthum
   601. $11,453 Jakobs
@@ -631,8 +631,8 @@ Updated 2021-07-20T00:14:55.845Z
   627. $11,517 XIEPER
   628. $11,518 thomas.vdlf
   629. $11,522 Alita
- *630. $11,526 Piglet
-  631. $11,526 ePrime
+  630. $11,526 ePrime
+ *631. $11,526 Piglet
   632. $11,526 Terkey
   633. $11,528 philimnorden
   634. $11,532 Minty
@@ -961,8 +961,8 @@ Updated 2021-07-20T00:14:55.845Z
   957. $12,347 TTRico
   958. $12,347 Fezumlix
   959. $12,353 Tempskatti
-  960. $12,355 I Dont Have A Name
- *961. $12,355 Kn1GhT05
+ *960. $12,355 Kn1GhT05
+  961. $12,355 I Dont Have A Name
   962. $12,362 comparison
   963. $12,366 UCanCallMeMiku
   964. $12,367 SaltyNuggets
