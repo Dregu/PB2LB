@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-04C "Fourteen Meter Overpass" any% leaderboard (* = breaks)
-Updated 2021-07-23T00:16:37.232Z
-1000/17010 unique ranks shown
+Updated 2021-07-24T00:15:32.818Z
+1000/17023 unique ranks shown
 
     1. $5,888 7777Alex7777
     2. $5,888 Trygeve
@@ -213,7 +213,7 @@ Updated 2021-07-23T00:16:37.232Z
   209. $7,610 BOT Alisec
   210. $7,610 KaputPlatypus
   211. $7,618 Lampy
- *212. $7,623 VGFortune
+  212. $7,623 VGFortune
   213. $7,631 Outrageus
   214. $7,636 Stavis
  *215. $7,640 Whyit1
@@ -289,7 +289,7 @@ Updated 2021-07-23T00:16:37.232Z
   285. $7,976 Sk_marvls
   286. $7,978 adambrianschmidt
   287. $7,981 marian
-  288. $7,985 SwampDoge
+ *288. $7,985 SwampDoge
  *289. $7,988 lollyH2O
   290. $7,989 Fabsey
  *291. $7,990 nicholaskirkpatrick06
@@ -375,7 +375,7 @@ Updated 2021-07-23T00:16:37.232Z
   371. $8,243 Unholy
   372. $8,246 AGiantDwarf
   373. $8,248 erikc.jacobs
-  374. $8,250 henpenben
+ *374. $8,250 henpenben
   375. $8,250 303333304
   376. $8,252 2746866169
  *377. $8,252 𝑬𝑹2020
@@ -401,8 +401,8 @@ Updated 2021-07-23T00:16:37.232Z
   397. $8,299 Jeevus
   398. $8,300 Beegamesuwu
   399. $8,304 Fai
-  400. $8,305 thomas.vdlf
- *401. $8,305 worm
+ *400. $8,305 worm
+  401. $8,305 thomas.vdlf
   402. $8,307 BlueFox
   403. $8,307 Otter.peek
   404. $8,307 lorddraegon
@@ -410,8 +410,8 @@ Updated 2021-07-23T00:16:37.232Z
  *406. $8,313 Combustion_
   407. $8,317 Juicebox
   408. $8,319 Soy Henry
-  409. $8,321 goergel
- *410. $8,321 Dobbler
+ *409. $8,321 Dobbler
+  410. $8,321 goergel
   411. $8,322 The Chairbreaker
  *412. $8,322 Sam
   413. $8,324 danecgalbraith
@@ -453,8 +453,8 @@ Updated 2021-07-23T00:16:37.232Z
   449. $8,403 Part 3 Wu Tang Forever
  *450. $8,403 timfozothy
   451. $8,407 RubyRuby284
- *452. $8,408 这磨损包你满意
-  453. $8,408 ms0719584
+  452. $8,408 ms0719584
+ *453. $8,408 这磨损包你满意
   454. $8,409 Baze
   455. $8,411 JustJames
   456. $8,412 Odd Man
@@ -476,8 +476,8 @@ Updated 2021-07-23T00:16:37.232Z
   472. $8,444 alicele14
   473. $8,444 sethk_
   474. $8,445 arlo.mooney
-  475. $8,446 Vita Lemon Tea
- *476. $8,446 .
+ *475. $8,446 .
+  476. $8,446 Vita Lemon Tea
   477. $8,447 cmccann1578
   478. $8,454 Justicefied
   479. $8,455 Key
@@ -621,8 +621,8 @@ Updated 2021-07-23T00:16:37.232Z
   617. $8,670 NotFound
   618. $8,671 BluePhoenix109
   619. $8,672 Juzless
-  620. $8,681 4hud
- *621. $8,681 mpmanikas
+ *620. $8,681 mpmanikas
+  621. $8,681 4hud
   622. $8,684 boublez
   623. $8,685 Jormungandr
  *624. $8,686 Einheriar
@@ -715,13 +715,13 @@ Updated 2021-07-23T00:16:37.232Z
   711. $8,804 SillyStrungSabbatical
   712. $8,812 Saiyaman010
   713. $8,812 Myculz
- *714. $8,812 FiTy
- *715. $8,812 Wadusher
+ *714. $8,812 Wadusher
+ *715. $8,812 FiTy
   716. $8,814 WirJun
   717. $8,815 ma23
   718. $8,815 allenchhu624
- *719. $8,815 Vinuelax3
- *720. $8,815 dylan4rays
+ *719. $8,815 dylan4rays
+ *720. $8,815 Vinuelax3
   721. $8,817 Jarg Salt
   722. $8,817 cube
   723. $8,819 3203382178
@@ -730,17 +730,17 @@ Updated 2021-07-23T00:16:37.232Z
  *726. $8,830 Fradex
   727. $8,831 iN3krO
   728. $8,832 l_wold1
- *729. $8,833 Red_Shallots_
-  730. $8,833 Turtle_God
+  729. $8,833 Turtle_God
+ *730. $8,833 Red_Shallots_
   731. $8,835 PocketQuads
   732. $8,836 KILL3R k3ks
   733. $8,837 Perdex
   734. $8,837 lore_emu
  *735. $8,840 rhyruzon
- *736. $8,841 James
-  737. $8,841 tallguyproblems12
-  738. $8,841 SmacDaddy
-  739. $8,841 manfredlift
+  736. $8,841 tallguyproblems12
+  737. $8,841 SmacDaddy
+  738. $8,841 manfredlift
+ *739. $8,841 James
   740. $8,843 SuchADude
  *741. $8,844 Hiby
   742. $8,846 Conni0808
@@ -749,9 +749,9 @@ Updated 2021-07-23T00:16:37.232Z
   745. $8,847 rrroamer
   746. $8,848 flo
   747. $8,850 Maximiliaande5de
-  748. $8,851 Sothyl
-  749. $8,851 davidwilliam.garbutt
- *750. $8,851 Deadrew's Frozen Custard
+ *748. $8,851 Deadrew's Frozen Custard
+  749. $8,851 Sothyl
+  750. $8,851 davidwilliam.garbutt
  *751. $8,852 svn.wyant
   752. $8,853 SNN9823
   753. $8,857 _William1117
@@ -874,8 +874,8 @@ Updated 2021-07-23T00:16:37.232Z
   870. $8,983 Dogg1
   871. $8,983 Ghostly
  *872. $8,984 Merc249
-  873. $8,985 Interlaced
- *874. $8,985 AerialBomber
+ *873. $8,985 AerialBomber
+  874. $8,985 Interlaced
   875. $8,991 Banus
   876. $8,993 Sauerkrauti
   877. $8,993 WheatleyTheGallant
@@ -891,10 +891,10 @@ Updated 2021-07-23T00:16:37.232Z
   887. $8,997 Orbifold
   888. $8,997 Kapo
  *889. $8,998 King Hippo
- *890. $8,999 76561198063712610
-  891. $8,999 KingCire03
-  892. $8,999 Kaidrineko
-  893. $8,999 jaki
+  890. $8,999 KingCire03
+  891. $8,999 Kaidrineko
+  892. $8,999 jaki
+ *893. $8,999 76561198063712610
   894. $8,999 MrOweo
   895. $9,000 Terreliv
   896. $9,002 immo
@@ -938,8 +938,8 @@ Updated 2021-07-23T00:16:37.232Z
   934. $9,054 LENTObANAANI
   935. $9,054 Gub Gut
   936. $9,057 Oatball
-  937. $9,058 Jemkat
- *938. $9,058 Liverpool EPL Winners 2020
+ *937. $9,058 Liverpool EPL Winners 2020
+  938. $9,058 Jemkat
   939. $9,062 3524569097
   940. $9,063 Yogos117
   941. $9,063 Kosher Karambwan
@@ -966,14 +966,14 @@ Updated 2021-07-23T00:16:37.232Z
   962. $9,098 rjrjr001
   963. $9,099 Yeetus
   964. $9,099 ｂｒｕｎｃｈ
- *965. $9,100 すみ
-  966. $9,100 Wadoodle
+  965. $9,100 Wadoodle
+ *966. $9,100 すみ
   967. $9,100 BxRAW
   968. $9,100 cROCfff
   969. $9,100 Gamer Q
   970. $9,102 Ruxari the Hyena
- *971. $9,103 pisscunt the motherfucker
-  972. $9,103 Weasel Preserves
+  971. $9,103 Weasel Preserves
+ *972. $9,103 pisscunt the motherfucker
  *973. $9,105 MEMES__101
   974. $9,106 jems
   975. $9,106 *****
@@ -988,12 +988,12 @@ Updated 2021-07-23T00:16:37.232Z
   984. $9,109 Tydus
   985. $9,109 Frost
   986. $9,110 Hnusný Slimák
- *987. $9,111 Arbeitsloser Trümmertürke
-  988. $9,111 Robin
+  987. $9,111 Robin
+ *988. $9,111 Arbeitsloser Trümmertürke
   989. $9,112 ebenezer.eyesonannan
   990. $9,114 Kirby Kidd
- *991. $9,116 Fuzzums
-  992. $9,116 pedromarcelo01
+  991. $9,116 pedromarcelo01
+ *992. $9,116 Fuzzums
   993. $9,117 Oric
   994. $9,118 phiester
   995. $9,118 ste_z
