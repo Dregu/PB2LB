@@ -1,12 +1,12 @@
 Poly Bridge 2 - 1-06C "First Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-07-24T00:15:32.840Z
-1000/15573 unique ranks shown
+Updated 2021-07-25T00:17:25.508Z
+1000/15584 unique ranks shown
 
-   *1. $600    Alison
-   *2. $600    Bibbb
+   *1. $600    Bibbb
+   *2. $600    Alison
    *3. $600    Lagiiiie
-   *4. $669    somefakegamer
-   *5. $669    9k5
+   *4. $669    9k5
+   *5. $669    somefakegamer
    *6. $696    Trygeve
    *7. $797    Fathom
    *8. $1,268  Cookieblues
@@ -31,13 +31,13 @@ Updated 2021-07-24T00:15:32.840Z
   *27. $2,134  gamespilgame
   *28. $2,147  jtornqvist
   *29. $2,167  Heater
-  *30. $2,220  ~ Smithy ~
-  *31. $2,220  Icysnowman
-  *32. $2,287  maash
-  *33. $2,287  fantakilla
+  *30. $2,220  Icysnowman
+  *31. $2,220  ~ Smithy ~
+  *32. $2,287  Enchanted Spider
+  *33. $2,287  mooseman0423
   *34. $2,287  Codeman999
-  *35. $2,287  mooseman0423
-  *36. $2,287  Enchanted Spider
+  *35. $2,287  fantakilla
+  *36. $2,287  maash
   *37. $3,425  goldenpggie
    38. $4,527  St3rd_
    39. $4,556  抱歉不予顯示
@@ -64,7 +64,7 @@ Updated 2021-07-24T00:15:32.840Z
    60. $4,690  BaconPancakes
    61. $4,692  MagnusTagMus
    62. $4,696  ☠☠☠YYD☠☠☠
-   63. $4,696  XxTrollFacexX
+  *63. $4,696  XxTrollFacexX
    64. $4,715  Squog
    65. $4,723  Bellair08
    66. $4,747  johnsonofdonut
@@ -372,8 +372,8 @@ Updated 2021-07-24T00:15:32.840Z
   368. $9,116  Ħasħɇđ ⱣøŧȺŧøɇs
   369. $9,120  Orbifold
   370. $9,121  레이치
- *371. $9,122  lollyH2O
-  372. $9,122  Xeeloth
+  371. $9,122  Xeeloth
+ *372. $9,122  lollyH2O
   373. $9,126  cmikaiti
   374. $9,130  Azean
   375. $9,138  dvanhinthum
@@ -384,7 +384,7 @@ Updated 2021-07-24T00:15:32.840Z
   380. $9,158  浓浓的果酱
   381. $9,162  matttev
   382. $9,169  Amiyakrizi
-  383. $9,174  jonas.beachy
+ *383. $9,174  jonas.beachy
  *384. $9,174  Woof.
   385. $9,177  HappyFishboy
   386. $9,185  jdogg565
@@ -549,8 +549,8 @@ Updated 2021-07-24T00:15:32.840Z
   545. $9,600  twitch-Khaddy42
   546. $9,601  umeshu
   547. $9,602  bfninjamonkey
- *548. $9,602  woooowamazingplayerplayingshit
-  549. $9,602  Quality
+  548. $9,602  Quality
+ *549. $9,602  woooowamazingplayerplayingshit
  *550. $9,602  Ewallux
   551. $9,604  157268943
   552. $9,608  arneman44
@@ -567,8 +567,8 @@ Updated 2021-07-24T00:15:32.840Z
   563. $9,643  Leesifer
  *564. $9,645  Hawk
   565. $9,646  Waifu Art Thou Romeo
- *566. $9,647  Dimma the Wifebeater
-  567. $9,647  Kosher Karambwan
+  566. $9,647  Kosher Karambwan
+ *567. $9,647  Dimma the Wifebeater
   568. $9,648  Bobcheez ✔
   569. $9,648  sidschurgin
   570. $9,651  Ewyx
@@ -642,7 +642,7 @@ Updated 2021-07-24T00:15:32.840Z
   638. $9,786  WirJun
   639. $9,786  Char1983
   640. $9,787  Danimal
-  641. $9,787  Zharra
+ *641. $9,787  Zharra
   642. $9,790  Otter.peek
  *643. $9,795  klrwayant083
   644. $9,797  Wollensokje
@@ -795,8 +795,8 @@ Updated 2021-07-24T00:15:32.840Z
   791. $10,095 bee
   792. $10,098 White
   793. $10,099 rmdailey85
-  794. $10,099 hmx0311
- *795. $10,099 nVentex
+ *794. $10,099 nVentex
+  795. $10,099 hmx0311
   796. $10,101 Special Noone
   797. $10,102 yhxxtsy
   798. $10,102 jeroen.mulkers
@@ -804,8 +804,8 @@ Updated 2021-07-24T00:15:32.840Z
   800. $10,104 Tillain
   801. $10,107 moosemoss
   802. $10,108 Sjakie
-  803. $10,110 manojmact
- *804. $10,110 TimboRimbo
+ *803. $10,110 TimboRimbo
+  804. $10,110 manojmact
   805. $10,112 konkave
   806. $10,113 veggie stix
   807. $10,114 Shaun135
@@ -826,15 +826,15 @@ Updated 2021-07-24T00:15:32.840Z
   822. $10,127 LilyWinter
   823. $10,130 |B- Student| Tophercruz
  *824. $10,131 Thinkqik20
-  825. $10,132 Turtleboy1800
- *826. $10,132 ZiuTinyat
+ *825. $10,132 ZiuTinyat
+  826. $10,132 Turtleboy1800
   827. $10,133 MaxOyaggi
   828. $10,135 MKBridger
   829. $10,135 zeddy7263
   830. $10,136 tankmatch
   831. $10,138 Anton
-  832. $10,143 HotelMotel
- *833. $10,143 noahford2203
+ *832. $10,143 noahford2203
+  833. $10,143 HotelMotel
   834. $10,144 PotatoSenpai
   835. $10,151 grubrev
   836. $10,151 klutzybug
@@ -892,8 +892,8 @@ Updated 2021-07-24T00:15:32.840Z
   888. $10,250 |Bread|
   889. $10,251 Potato_Soup
   890. $10,252 leMi
-  891. $10,252 007-007
- *892. $10,252 timfozothy
+ *891. $10,252 timfozothy
+  892. $10,252 007-007
   893. $10,253 jcs244
   894. $10,253 EntropicMage
   895. $10,253 Deathtal
@@ -986,18 +986,18 @@ Updated 2021-07-24T00:15:32.840Z
   982. $10,387 hycutype
   983. $10,388 St3ampunk_Wizard
   984. $10,388 Mantelfire
- *985. $10,389 Kristian_R_05
-  986. $10,389 Jason
-  987. $10,389 gengi ninga
-  988. $10,389 chupa71
+  985. $10,389 Jason
+  986. $10,389 gengi ninga
+  987. $10,389 chupa71
+ *988. $10,389 Kristian_R_05
   989. $10,390 ✪Hek1✪
   990. $10,390 Deion
   991. $10,391 GF——LONGWU
   992. $10,392 neoztar
   993. $10,394 benevanssmith
   994. $10,395 tadashif4053
-  995. $10,395 Catraption
- *996. $10,395 dylan4rays
+ *995. $10,395 dylan4rays
+  996. $10,395 Catraption
   997. $10,397 Kasi
   998. $10,404 alego-tive
   999. $10,405 Kuato
