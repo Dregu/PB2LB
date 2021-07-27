@@ -1,6 +1,6 @@
 Poly Bridge 2 - 2-08C "Split Level" any% leaderboard (* = breaks)
-Updated 2021-07-25T00:17:25.740Z
-1000/6194 unique ranks shown
+Updated 2021-07-27T00:17:03.812Z
+1000/6200 unique ranks shown
 
    *1. $4,581  Cookieblues
    *2. $4,619  7777Alex7777
@@ -74,7 +74,7 @@ Updated 2021-07-25T00:17:25.740Z
    70. $15,686 ayhonglu
   *71. $15,829 nokipoika
   *72. $15,833 Diropa
-  *73. $15,956 qiuqiuhulstrom
+   73. $15,956 qiuqiuhulstrom
   *74. $15,968 Mattisonfire511
    75. $16,000 jonah.freeland
    76. $16,099 syrusxavier713
@@ -87,7 +87,7 @@ Updated 2021-07-25T00:17:25.740Z
    83. $16,386 liquor snurf
    84. $16,449 AyeJayZee
    85. $16,451 Zaabon
-   86. $16,492 Pengujedi
+  *86. $16,492 Pengujedi
    87. $16,495 Versatilus
    88. $16,496 Kalorienreduziert
    89. $16,508 pufaxx
@@ -152,7 +152,7 @@ Updated 2021-07-25T00:17:25.740Z
   148. $17,310 Jacowboy
  *149. $17,312 glupi idiot dinosaurus
   150. $17,331 abidhilmi403
- *151. $17,371 Supernye
+  151. $17,371 Supernye
   152. $17,374 Vinuelax3
   153. $17,407 Zhus118
   154. $17,412 j.bottomley87595
@@ -254,7 +254,7 @@ Updated 2021-07-25T00:17:25.740Z
   250. $18,279 copalillo
   251. $18,282 Murek ツ
   252. $18,290 xen0n
- *253. $18,304 piccolo_SPA
+  253. $18,304 piccolo_SPA
   254. $18,307 k.a.huckshold
   255. $18,309 v-fourteen
  *256. $18,314 Δezzelshipc
@@ -538,8 +538,8 @@ Updated 2021-07-25T00:17:25.740Z
   534. $20,312 Dr. Wareheim
   535. $20,330 player1
   536. $20,345 somogyi91
-  537. $20,358 nhaven14
- *538. $20,358 Rapidz Tempest
+ *537. $20,358 Rapidz Tempest
+  538. $20,358 nhaven14
   539. $20,368 magikman246
   540. $20,384 Quazar
   541. $20,394 Falcon
@@ -700,8 +700,8 @@ Updated 2021-07-25T00:17:25.740Z
   696. $21,293 MacDaCat
   697. $21,293 willflipper
   698. $21,300 Key
- *699. $21,309 Emilza
-  700. $21,309 Tovenaar
+  699. $21,309 Tovenaar
+ *700. $21,309 Emilza
   701. $21,313 Oatball
   702. $21,328 alexanderwales
   703. $21,334 Decasteljau
@@ -842,8 +842,8 @@ Updated 2021-07-25T00:17:25.740Z
   838. $22,047 MBS4444
   839. $22,058 Spacy__Jacob
   840. $22,060 SpawnPeck
- *841. $22,071 pete
-  842. $22,071 NAFTA
+  841. $22,071 NAFTA
+ *842. $22,071 pete
   843. $22,082 DaishoIX
   844. $22,082 dan
   845. $22,085 OldFashiond

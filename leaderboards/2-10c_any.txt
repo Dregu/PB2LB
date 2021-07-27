@@ -1,6 +1,6 @@
 Poly Bridge 2 - 2-10C "Fork in the Road" any% leaderboard (* = breaks)
-Updated 2021-07-25T00:17:25.755Z
-1000/6089 unique ranks shown
+Updated 2021-07-27T00:17:03.828Z
+1000/6098 unique ranks shown
 
    *1. $5,178  Bellair08
     2. $5,411  Trygeve
@@ -110,8 +110,8 @@ Updated 2021-07-25T00:17:25.755Z
   106. $12,749 909043381
  *107. $12,775 Offspec
   108. $12,808 Tuki
- *109. $12,859 ben.prange116
- *110. $12,859 Unholy
+ *109. $12,859 Unholy
+ *110. $12,859 ben.prange116
  *111. $12,878 henrypea1999
  *112. $12,882 TouchTheDog
   113. $12,909 lulu614
@@ -223,8 +223,8 @@ Updated 2021-07-25T00:17:25.755Z
  *219. $15,378 silasmorse3
   220. $15,382 spesonen
   221. $15,388 BROTHER
- *222. $15,412 PuffTheDragon
- *223. $15,412 brutaldespair
+ *222. $15,412 brutaldespair
+ *223. $15,412 PuffTheDragon
  *224. $15,431 nokipoika
   225. $15,437 MOTEL F. ALVA
   226. $15,439 lancelot
@@ -528,8 +528,8 @@ Updated 2021-07-25T00:17:25.755Z
   524. $18,259 FoonTheRaccoon
   525. $18,261 Oreocraft2
   526. $18,266 zyffr
- *527. $18,269 Chef Guava
- *528. $18,269 markkazmierowicz
+ *527. $18,269 markkazmierowicz
+ *528. $18,269 Chef Guava
   529. $18,279 Dorno
  *530. $18,284 JoDougie
   531. $18,284 Pumpnog
@@ -567,7 +567,7 @@ Updated 2021-07-25T00:17:25.755Z
   563. $18,491 aaron.steinke
   564. $18,499 3rdandlastdance
   565. $18,500 MTyne
-  566. $18,504 samurekun
+ *566. $18,504 samurekun
   567. $18,504 malubis
   568. $18,507 pkclark
   569. $18,509 Jakobs
@@ -609,25 +609,25 @@ Updated 2021-07-25T00:17:25.755Z
   605. $18,679 caetanorocha1113
   606. $18,686 Bun5gPlays
   607. $18,690 Jack✫
- *608. $18,697 Bellei
+ *608. $18,697 zerd
   609. $18,697 majane
- *610. $18,697 zerd
+ *610. $18,697 Bellei
   611. $18,706 Martdogg3000
- *612. $18,708 Plauke
-  613. $18,708 Dr. Pepper MD
+  612. $18,708 Dr. Pepper MD
+ *613. $18,708 Plauke
  *614. $18,714 Kotto4Ever
   615. $18,728 Jonny Cage
   616. $18,733 Tommy the tit
  *617. $18,734 kylelamar.rc
- *618. $18,737 toddhayes
-  619. $18,737 ntanaka.0426
+  618. $18,737 ntanaka.0426
+ *619. $18,737 toddhayes
   620. $18,741 Frost
  *621. $18,746 Space Shark
  *622. $18,752 Aeolium
   623. $18,755 daniel.sandoval700
  *624. $18,766 angelsrule934
-  625. $18,767 Black175
- *626. $18,767 klemnickiv
+ *625. $18,767 klemnickiv
+  626. $18,767 Black175
  *627. $18,769 alontalia4
  *628. $18,773 ajhl49
   629. $18,777 LarsIngo
@@ -846,8 +846,8 @@ Updated 2021-07-25T00:17:25.755Z
   842. $19,677 kevin.
   843. $19,687 nick
   844. $19,693 Jebediah1000
-  845. $19,700 gabe.dlt
- *846. $19,700 Freedom_IT
+ *845. $19,700 Freedom_IT
+  846. $19,700 gabe.dlt
   847. $19,702 Mike Roch
   848. $19,706 lucascornine
   849. $19,709 leonid_krebs
@@ -971,8 +971,8 @@ Updated 2021-07-25T00:17:25.755Z
   967. $20,195 tigothefoxxx
   968. $20,198 beckernm
   969. $20,198 RoDi
- *970. $20,202 Elletuce
-  971. $20,202 kramerboruch
+  970. $20,202 kramerboruch
+ *971. $20,202 Elletuce
   972. $20,212 cheesybunghole
  *973. $20,214 HolzMichl
   974. $20,218 Jambo
@@ -980,8 +980,8 @@ Updated 2021-07-25T00:17:25.755Z
   976. $20,222 wesleyvh
   977. $20,224 CursorCoercer
   978. $20,224 sweetest potato
-  979. $20,225 The Mess1ah
- *980. $20,225 Entsel
+ *979. $20,225 Entsel
+  980. $20,225 The Mess1ah
  *981. $20,226 benjamin.david433
  *982. $20,228 tokoro
   983. $20,231 Zack
@@ -998,7 +998,7 @@ Updated 2021-07-25T00:17:25.755Z
   994. $20,275 Tmpest00
   995. $20,276 That Guy
  *996. $20,279 gold torizo
- *997. $20,286 FruitJS
-  998. $20,286 SM2086
+  997. $20,286 SM2086
+ *998. $20,286 FruitJS
   999. $20,287 Pr Philson
  1000. $20,294 jasonboberg
