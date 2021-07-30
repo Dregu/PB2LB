@@ -1,11 +1,11 @@
 Poly Bridge 2 - 4-08C "Thread the Needle" any% leaderboard (* = breaks)
-Updated 2021-07-29T00:17:01.988Z
-1000/3642 unique ranks shown
+Updated 2021-07-30T00:16:48.939Z
+1000/3645 unique ranks shown
 
    *1. $1,531  BaconPancakes
-   *2. $1,672  nVentex
+    2. $1,672  nVentex
    *3. $1,767  Trygeve
-   *4. $1,878  BEEF
+    4. $1,878  BEEF
    *5. $1,950  9k5
    *6. $1,960  Cookieblues
    *7. $1,984  Bellair08
@@ -194,7 +194,7 @@ Updated 2021-07-29T00:17:01.988Z
   190. $6,985  Kint
   191. $6,986  NetEng
  *192. $7,038  piccolo_SPA
-  193. $7,078  nhaven14
+ *193. $7,078  nhaven14
  *194. $7,137  GoodMath
  *195. $7,147  theo.louesdon
  *196. $7,212  123hibye321
@@ -278,15 +278,15 @@ Updated 2021-07-29T00:17:01.988Z
  *274. $8,293  bati
   275. $8,306  flustered
   276. $8,324  Erik the best
- *277. $8,356  kraal
-  278. $8,356  Cremefraiche
+  277. $8,356  Cremefraiche
+ *278. $8,356  kraal
  *279. $8,369  bysscorre
  *280. $8,370  ellisk1
   281. $8,398  jakob.infuehr
  *282. $8,412  West
   283. $8,416  CursorCoercer
- *284. $8,429  Sockum
-  285. $8,429  CantTouchDis
+  284. $8,429  CantTouchDis
+ *285. $8,429  Sockum
   286. $8,440  snova0112
  *287. $8,445  FoonTheRaccoon
   288. $8,450  QuantiumIm
@@ -341,8 +341,8 @@ Updated 2021-07-29T00:17:01.988Z
  *337. $8,922  Baaf
   338. $8,923  TitiMcFly_
  *339. $8,939  ☣ KILLERZΣUS ☣
- *340. $8,940  jeremywinick
- *341. $8,940  GChilley
+ *340. $8,940  GChilley
+ *341. $8,940  jeremywinick
  *342. $8,947  matthewsabio
   343. $8,972  snorkel_head
  *344. $8,981  Vïnora
@@ -523,8 +523,8 @@ Updated 2021-07-29T00:17:01.988Z
  *519. $10,659 Uwma Senhur
  *520. $10,678 ynnxm
   521. $10,696 firestar7211
- *522. $10,702 adamjpoole
-  523. $10,702 Chappy
+  522. $10,702 Chappy
+ *523. $10,702 adamjpoole
   524. $10,703 kzvts123
   525. $10,707 XPatt
   526. $10,725 Curuda
@@ -618,8 +618,8 @@ Updated 2021-07-29T00:17:01.988Z
  *614. $11,266 tallguyproblems12
   615. $11,269 Australia is my City
   616. $11,276 Louis
- *617. $11,280 Lachycorn
-  618. $11,280 jaredkazoo
+ *617. $11,280 jaredkazoo
+ *618. $11,280 Lachycorn
  *619. $11,282 dav245
   620. $11,282 Loaded
   621. $11,287 max0307
@@ -776,8 +776,8 @@ Updated 2021-07-29T00:17:01.988Z
   772. $12,151 HidaryX
  *773. $12,160 CodeRider101
  *774. $12,164 abidhilmi403
- *775. $12,179 Kastrull
-  776. $12,179 Bajerlykke
+  775. $12,179 Bajerlykke
+ *776. $12,179 Kastrull
   777. $12,184 tomaschonnie
   778. $12,189 Hey all you cool cats n kittens
   779. $12,190 KettleMan
@@ -933,7 +933,7 @@ Updated 2021-07-29T00:17:01.988Z
   929. $12,810 Renegade
   930. $12,811 Hairy Nips, Sausage Lips
  *931. $12,812 Tatous
- *932. $12,813 Uke
+  932. $12,813 Uke
   933. $12,814 patrick.erasmus
  *934. $12,819 Rusty Shackleford
  *935. $12,820 Firesquirrel
@@ -959,14 +959,14 @@ Updated 2021-07-29T00:17:01.988Z
   955. $12,911 Chomik z media ekspert
   956. $12,921 bazdesh
   957. $12,923 desearcher
- *958. $12,928 Allink
-  959. $12,928 dawsonjones2020
+  958. $12,928 dawsonjones2020
+ *959. $12,928 Allink
  *960. $12,932 Sloane
   961. $12,933 N1234
   962. $12,934 MuscleMuscleDigDa
  *963. $12,935 CCDouble
-  964. $12,947 Fl1m
- *965. $12,947 VeggieBurrito
+ *964. $12,947 VeggieBurrito
+  965. $12,947 Fl1m
  *966. $12,948 Chav Hunter v2
   967. $12,954 JonJon
   968. $12,956 tbsf
@@ -999,6 +999,6 @@ Updated 2021-07-29T00:17:01.988Z
   995. $13,064 Santafu
  *996. $13,072 Col.Knusprig
   997. $13,079 schwiftyking
- *998. $13,080 Chickenzilla
+  998. $13,080 Chickenzilla
   999. $13,080 kansaswolverines
 *1000. $13,081 HaZard
