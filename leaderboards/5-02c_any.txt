@@ -1,6 +1,6 @@
 Poly Bridge 2 - 5-02C "Truck Way In" any% leaderboard (* = breaks)
-Updated 2021-08-08T00:17:35.466Z
-827/918 unique ranks shown
+Updated 2021-08-10T00:18:03.306Z
+828/919 unique ranks shown
 
    *1. $11,999 minecat
    *2. $11,999 Cookieblues
@@ -747,85 +747,86 @@ Updated 2021-08-08T00:17:35.466Z
   743. $47,907 Challenger.X
   744. $47,916 Palaray
   745. $47,916 JimothyCricket
-  746. $47,917 Hentoad1
-  747. $47,917 Draginy
-  748. $47,918 joel.rspence
-  749. $47,922 Azinegamer
-  750. $47,926 schwiftyking
-  751. $47,926 Kosher Karambwan
-  752. $47,927 andersonjachimiak
-  753. $47,931 French
-  754. $47,931 dlaldud5
-  755. $47,933 w00zy
-  756. $47,941 plush
-  757. $47,941 gundu_001
-  758. $47,945 refa
-  759. $47,946 timmyaustin29.as
-  760. $47,946 SnyprBB
-  761. $47,948 Kirby Kidd
-  762. $47,949 mooseman0423
-  763. $47,950 Daybou
-  764. $47,951 xuve2
-  765. $47,951 shock_block
-  766. $47,954 mgray06
-  767. $47,956 antioxidanti
-  768. $47,957 Fizzy
-  769. $47,963 jorkrohn
-  770. $47,964 Player
-  771. $47,966 Magma
-  772. $47,966 oegg
-  773. $47,967 smokedscrod
-  774. $47,967 CTU_STIG
-  775. $47,968 Adranium
-  776. $47,972 cccmeat
-  777. $47,975 HowieFTW
-  778. $47,975 rinrin
-  779. $47,977 清清花狸猫
-  780. $47,977 stefano.pigoli03
-  781. $47,978 gamer253
-  782. $47,978 Laberynthium13YT
-  783. $47,980 Nexzeo
-  784. $47,981 Gibby
-  785. $47,981 mraow~
-  786. $47,981 yadielruiz823
-  787. $47,981 Bulletpruuv
-  788. $47,983 滑地上之小稽
-  789. $47,987 nina.tammelander
-  790. $47,988 Skriban
-  791. $47,988 Kampfsau
-  792. $47,989 SilverShadow
-  793. $47,990 我是你超哥
-  794. $47,990 Túró Rudi :3
-  795. $47,991 PlebMaster69
-  796. $47,991 Confirm NotJonah
-  797. $47,992 stuff
-  798. $47,994 minecraft1875
-  799. $47,994 aj27harris
-  800. $47,996 david.c.hagglund
-  801. $47,996 martín
-  802. $47,996 SAM45!!!
-  803. $47,996 ttt111
-  804. $47,997 Donald5790
-  805. $47,997 markbriscoe2006
-  806. $47,997 adikus
-  807. $47,998 Person12339
-  808. $47,999 Bem
-  809. $47,999 -1-1-
-  810. $47,999 rco915
-  811. $47,999 Alison
-  812. $48,000 Pax
-  813. $48,000 jfo
- *814. $49,096 CaffeinatedCucumber
-  815. $52,685 iPlays
-  816. $53,372 Broom
-  817. $56,253 Oddysen
-  818. $56,486 starwarsbacon22
- *819. $58,305 twistedsister86
- *820. $60,226 ultimatedgambler
- *821. $63,737 ClimbingWolf
-  822. $66,291 T-M-
-  823. $66,553 arthurklimas
-  824. $78,389 archerboi14
-  825. $87,051 Navet
- *826. $87,253 Dr_Geo
-  827. $94,600 staubman1
+  746. $47,916 Jmk5704
+  747. $47,917 Hentoad1
+  748. $47,917 Draginy
+  749. $47,918 joel.rspence
+  750. $47,922 Azinegamer
+  751. $47,926 schwiftyking
+  752. $47,926 Kosher Karambwan
+  753. $47,927 andersonjachimiak
+  754. $47,931 French
+  755. $47,931 dlaldud5
+  756. $47,933 w00zy
+  757. $47,941 plush
+  758. $47,941 gundu_001
+  759. $47,945 refa
+  760. $47,946 timmyaustin29.as
+  761. $47,946 SnyprBB
+  762. $47,948 Kirby Kidd
+  763. $47,949 mooseman0423
+  764. $47,950 Daybou
+  765. $47,951 xuve2
+  766. $47,951 shock_block
+  767. $47,954 mgray06
+  768. $47,956 antioxidanti
+  769. $47,957 Fizzy
+  770. $47,963 jorkrohn
+  771. $47,964 Player
+  772. $47,966 Magma
+  773. $47,966 oegg
+  774. $47,967 smokedscrod
+  775. $47,967 CTU_STIG
+  776. $47,968 Adranium
+  777. $47,972 cccmeat
+  778. $47,975 HowieFTW
+  779. $47,975 rinrin
+  780. $47,977 清清花狸猫
+  781. $47,977 stefano.pigoli03
+  782. $47,978 gamer253
+  783. $47,978 Laberynthium13YT
+  784. $47,980 Nexzeo
+  785. $47,981 Gibby
+  786. $47,981 mraow~
+  787. $47,981 yadielruiz823
+  788. $47,981 Bulletpruuv
+  789. $47,983 滑地上之小稽
+  790. $47,987 nina.tammelander
+  791. $47,988 Skriban
+  792. $47,988 Kampfsau
+  793. $47,989 SilverShadow
+  794. $47,990 我是你超哥
+  795. $47,990 Túró Rudi :3
+  796. $47,991 PlebMaster69
+  797. $47,991 Confirm NotJonah
+  798. $47,992 stuff
+  799. $47,994 minecraft1875
+  800. $47,994 aj27harris
+  801. $47,996 david.c.hagglund
+  802. $47,996 martín
+  803. $47,996 SAM45!!!
+  804. $47,996 ttt111
+  805. $47,997 Donald5790
+  806. $47,997 markbriscoe2006
+  807. $47,997 adikus
+  808. $47,998 Person12339
+  809. $47,999 Bem
+  810. $47,999 -1-1-
+  811. $47,999 rco915
+  812. $47,999 Alison
+  813. $48,000 Pax
+  814. $48,000 jfo
+ *815. $49,096 CaffeinatedCucumber
+  816. $52,685 iPlays
+  817. $53,372 Broom
+  818. $56,253 Oddysen
+  819. $56,486 starwarsbacon22
+ *820. $58,305 twistedsister86
+ *821. $60,226 ultimatedgambler
+ *822. $63,737 ClimbingWolf
+  823. $66,291 T-M-
+  824. $66,553 arthurklimas
+  825. $78,389 archerboi14
+  826. $87,051 Navet
+ *827. $87,253 Dr_Geo
+  828. $94,600 staubman1

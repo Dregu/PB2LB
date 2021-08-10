@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-13 "Diagonal Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-08-08T00:17:35.420Z
-1000/27949 unique ranks shown
+Updated 2021-08-10T00:18:03.264Z
+1000/28009 unique ranks shown
 
    *1. $2,442  Cookieblues
    *2. $2,442  Zen
@@ -479,8 +479,8 @@ Updated 2021-08-08T00:17:35.420Z
   475. $27,149 CPrimex
   476. $27,166 samatresco
  *477. $27,169 mosescalhan
-  478. $27,170 Jacowboy
- *479. $27,170 Easy
+ *478. $27,170 Easy
+  479. $27,170 Jacowboy
  *480. $27,172 adam.j.prins
   481. $27,188 eksoskel
   482. $27,191 Seldaphar
@@ -728,8 +728,8 @@ Updated 2021-08-08T00:17:35.420Z
   724. $29,993 yoshiannihilatron
   725. $29,995 No problem.
  *726. $29,997 zwahlm14
-  727. $29,999 TinySnecc
-  728. $29,999 ShopSketch
+  727. $29,999 ShopSketch
+  728. $29,999 TinySnecc
   729. $30,000 Clean Baguette
   730. $30,002 Tsuuga
   731. $30,017 ¦Flash830¦
@@ -769,8 +769,8 @@ Updated 2021-08-08T00:17:35.420Z
   765. $30,374 M1nerman
  *766. $30,380 Howard Beale
   767. $30,409 Eliminat
-  768. $30,420 tmhow.40
-  769. $30,420 ESC_
+  768. $30,420 ESC_
+  769. $30,420 tmhow.40
  *770. $30,423 ben.prange116
   771. $30,440 Newtrom
  *772. $30,451 SteveMouse
@@ -866,8 +866,8 @@ Updated 2021-08-08T00:17:35.420Z
   862. $31,493 HollyQ
  *863. $31,495 Gem Squash
  *864. $31,499 Not Dasher
- *865. $31,515 Dere dere kawaii
- *866. $31,515 Dejocikus
+ *865. $31,515 Dejocikus
+ *866. $31,515 Dere dere kawaii
   867. $31,528 harryffowler
   868. $31,534 jamiegbreault
   869. $31,535 Vuldraq
@@ -968,37 +968,37 @@ Updated 2021-08-08T00:17:35.420Z
   964. $32,367 ThatCrazyFrog
  *965. $32,368 JAYbob
   966. $32,379 fa3po
-  967. $32,386 Norsk Pass
-  968. $32,386 ZombieHedgehog
-  969. $32,391 Innocent Bystander
- *970. $32,401 Zynth
-  971. $32,403 SpacemanSpiff
-  972. $32,405 juju120779
- *973. $32,419 hfo4
- *974. $32,420 Oni
-  975. $32,423 Un11.
- *976. $32,441 Roevhaal
-  977. $32,445 cyko
-  978. $32,449 el maestro
-  979. $32,449 Pence
-  980. $32,466 Kuu Lightwing
- *981. $32,467 Momo
- *982. $32,469 breckdogg
-  983. $32,472 Morgothor
-  984. $32,478 AToastyFridge
-  985. $32,486 IncendiaryMoose
- *986. $32,487 Pengujedi
- *987. $32,491 haWk
-  988. $32,491 Tubson
- *989. $32,493 MDX37
-  990. $32,494 Dig Bick
-  991. $32,504 Mike Huntt
-  992. $32,506 kein.name
- *993. $32,532 virp
- *994. $32,537 zbf539942737
-  995. $32,538 Katamari (old)
- *996. $32,541 benjamingibs
-  997. $32,544 nootnoot
- *998. $32,549 trey
-  999. $32,569 Leo_Chan
- 1000. $32,570 POLAR
+  967. $32,381 Valnix
+  968. $32,386 Norsk Pass
+  969. $32,386 ZombieHedgehog
+  970. $32,391 Innocent Bystander
+ *971. $32,401 Zynth
+  972. $32,403 SpacemanSpiff
+  973. $32,405 juju120779
+ *974. $32,419 hfo4
+ *975. $32,420 Oni
+  976. $32,423 Un11.
+ *977. $32,441 Roevhaal
+  978. $32,445 cyko
+  979. $32,449 el maestro
+  980. $32,449 Pence
+  981. $32,466 Kuu Lightwing
+ *982. $32,467 Momo
+ *983. $32,469 breckdogg
+  984. $32,472 Morgothor
+  985. $32,478 AToastyFridge
+  986. $32,486 IncendiaryMoose
+ *987. $32,487 Pengujedi
+ *988. $32,491 haWk
+  989. $32,491 Tubson
+ *990. $32,493 MDX37
+  991. $32,494 Dig Bick
+  992. $32,504 Mike Huntt
+  993. $32,506 kein.name
+ *994. $32,532 virp
+ *995. $32,537 zbf539942737
+  996. $32,538 Katamari (old)
+ *997. $32,541 benjamingibs
+  998. $32,544 nootnoot
+ *999. $32,549 trey
+ 1000. $32,569 Leo_Chan
