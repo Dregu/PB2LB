@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-08 "Thread the Needle" any% leaderboard (* = breaks)
-Updated 2021-08-11T00:24:43.951Z
-1000/36228 unique ranks shown
+Updated 2021-08-12T00:17:39.815Z
+1000/36262 unique ranks shown
 
     1. $1,297 Roevhaal
    *2. $1,397 No Nipple Nate
@@ -122,7 +122,7 @@ Updated 2021-08-11T00:24:43.951Z
   118. $3,563 『　　』
   119. $3,571 Takedown
  *120. $3,585 Kc
-  121. $3,612 Megoman16
+ *121. $3,612 Megoman16
   122. $3,613 goldenpggie
   123. $3,634 itsiques2x
   124. $3,637 Emblazened
@@ -146,7 +146,7 @@ Updated 2021-08-11T00:24:43.951Z
   142. $3,770 goergel
   143. $3,770 shainze
   144. $3,782 Mcrevs
- *145. $3,791 Soba
+  145. $3,791 Soba
  *146. $3,796 ben55418
   147. $3,805 Never Lie
   148. $3,813 BeLeVa
@@ -170,9 +170,9 @@ Updated 2021-08-11T00:24:43.951Z
  *166. $3,950 Funkeee
  *167. $3,952 ado
  *168. $3,955 boski04
- *169. $3,956 Oluoloou
-  170. $3,956 hezy
-  171. $3,956 BoredJoe
+  169. $3,956 hezy
+  170. $3,956 BoredJoe
+ *171. $3,956 Oluoloou
   172. $3,969 Icysnowman
  *173. $3,975 dylanrafael
   174. $3,979 david.c.hagglund
@@ -192,8 +192,8 @@ Updated 2021-08-11T00:24:43.951Z
  *188. $4,074 DarkyPlayz
  *189. $4,078 ultimatedgambler
  *190. $4,087 CheesyGamer201
- *191. $4,096 to915
-  192. $4,096 Toe Knee
+  191. $4,096 Toe Knee
+ *192. $4,096 to915
   193. $4,101 superdeschepper
   194. $4,121 plusbeats
   195. $4,132 veikei
@@ -208,8 +208,8 @@ Updated 2021-08-11T00:24:43.951Z
   204. $4,207 Kalorienreduziert
   205. $4,209 Aklhys
  *206. $4,212 Detestation
- *207. $4,215 tmaniscool
- *208. $4,215 jcompagni
+ *207. $4,215 jcompagni
+ *208. $4,215 tmaniscool
  *209. $4,219 michal_kasznia
  *210. $4,227 I Noah Guy
   211. $4,227 CFF-Andre
@@ -282,8 +282,8 @@ Updated 2021-08-11T00:24:43.951Z
   278. $4,498 Knufire
   279. $4,499 L-Care
  *280. $4,508 TesllaTea マックス
-  281. $4,509 Johannes652
- *282. $4,509 DReinholdtsen
+ *281. $4,509 DReinholdtsen
+  282. $4,509 Johannes652
   283. $4,509 1723945294
   284. $4,510 bubbabubba519
  *285. $4,513 TouchTheDog
@@ -417,10 +417,10 @@ Updated 2021-08-11T00:24:43.951Z
  *413. $5,008 Dere dere kawaii
   414. $5,035 UgandaKnocles
   415. $5,043 olivapaa
- *416. $5,044 anijoker
+  416. $5,044 anijoker
  *417. $5,050 wylie5cents
  *418. $5,056 angelo2890
-  419. $5,058 majpro8
+ *419. $5,058 majpro8
   420. $5,061 Apicedda
  *421. $5,067 Thunderbird9
  *422. $5,067 Night_Monkey
@@ -442,15 +442,15 @@ Updated 2021-08-11T00:24:43.951Z
   438. $5,120 BOT Alisec
  *439. $5,123 dr3364895
  *440. $5,123 SlightLokii
- *441. $5,134 PotatoSavage3
-  442. $5,134 Apollo
+  441. $5,134 Apollo
+ *442. $5,134 PotatoSavage3
  *443. $5,139 m.a.swertz
  *444. $5,142 ThyGap
   445. $5,143 [+_-] FluKaHuGe
   446. $5,147 laroway
   447. $5,153 Marcel
-  448. $5,171 Kapo
- *449. $5,171 Coniferkiller
+ *448. $5,171 Coniferkiller
+  449. $5,171 Kapo
  *450. $5,174 UNIcj
   451. $5,186 Iumix
   452. $5,186 dub89
@@ -492,7 +492,7 @@ Updated 2021-08-11T00:24:43.951Z
  *488. $5,338 zbf539942737
   489. $5,345 Monsieur Spock
   490. $5,348 timohoogendoorn2
-  491. $5,360 Tectushay
+ *491. $5,360 Tectushay
   492. $5,360 Oiseau
  *493. $5,365 WoodyTheMighty ♥ hellcase.com
   494. $5,377 Stuge
@@ -506,8 +506,8 @@ Updated 2021-08-11T00:24:43.951Z
   502. $5,399 kns381mc
  *503. $5,400 Killboy
   504. $5,402 nick
- *505. $5,411 80085
- *506. $5,411 Soltrall
+ *505. $5,411 Soltrall
+ *506. $5,411 80085
   507. $5,419 Larry Boy
   508. $5,422 Holger Skulkeg
   509. $5,425 ♥ ネップ ♥
@@ -645,7 +645,7 @@ Updated 2021-08-11T00:24:43.951Z
   641. $5,857 Shelkran
   642. $5,859 beefjuice
   643. $5,862 Miss Bosnian Refugee
-  644. $5,862 Donut
+ *644. $5,862 Donut
  *645. $5,872 towelietrippin
   646. $5,872 rain11eleven
   647. $5,886 Brutalponyrider
@@ -713,8 +713,8 @@ Updated 2021-08-11T00:24:43.951Z
   709. $6,166 ary3kk
   710. $6,171 drkaos06
  *711. $6,171 Person
- *712. $6,172 [Rome]RiskingRain
- *713. $6,172 aber007
+ *712. $6,172 aber007
+ *713. $6,172 [Rome]RiskingRain
   714. $6,173 Feraayzen
   715. $6,175 8 wheels good
   716. $6,176 JHAAT KA RAJA
@@ -810,8 +810,8 @@ Updated 2021-08-11T00:24:43.951Z
  *806. $6,463 MoltenRock
   807. $6,467 polybrige_2_pro
   808. $6,468 Vampirics A.K12
-  809. $6,470 dav245
- *810. $6,470 MasterWman
+ *809. $6,470 MasterWman
+  810. $6,470 dav245
   811. $6,470 Gabetron
  *812. $6,476 Tecnarca
   813. $6,478 samulki
@@ -820,14 +820,14 @@ Updated 2021-08-11T00:24:43.951Z
   816. $6,486 Sigma™
  *817. $6,489 Citrus7788
  *818. $6,497 manojmact
-  819. $6,500 GameWolves
- *820. $6,500 Rudy
+ *819. $6,500 Rudy
+  820. $6,500 GameWolves
  *821. $6,511 OliLeDruide
  *822. $6,512 torbjornmoberg
   823. $6,513 Super Audric
   824. $6,513 r1 ddl3
-  825. $6,522 two
- *826. $6,522 racebmx
+ *825. $6,522 racebmx
+  826. $6,522 two
  *827. $6,529 chixenlegjo
   828. $6,533 Lemon Scented
   829. $6,537 Caldfir
@@ -868,8 +868,8 @@ Updated 2021-08-11T00:24:43.951Z
   864. $6,628 3rdkindpark
   865. $6,634 Snorflof
   866. $6,634 Qcrist
- *867. $6,641 AZ-LT
-  868. $6,641 Wareya
+  867. $6,641 Wareya
+ *868. $6,641 AZ-LT
   869. $6,646 mig_
   870. $6,662 Gills
   871. $6,666 Thoomor
@@ -888,8 +888,8 @@ Updated 2021-08-11T00:24:43.951Z
   884. $6,705 r156pahlke
  *885. $6,711 Pajo
   886. $6,719 jazzlevi
-  887. $6,721 Kromch
- *888. $6,721 योदा
+ *887. $6,721 योदा
+  888. $6,721 Kromch
   889. $6,722 Refrigerator
   890. $6,734 ЖОПА
   891. $6,738 Grimmov
@@ -958,8 +958,8 @@ Updated 2021-08-11T00:24:43.951Z
  *954. $6,907 BootsAndCats
   955. $6,915 Marozino
   956. $6,916 Mr. Chomp
- *957. $6,927 TheBennyKenna
-  958. $6,927 Antoplay03
+  957. $6,927 Antoplay03
+ *958. $6,927 TheBennyKenna
   959. $6,933 DanDoom
   960. $6,934 radimaulicky
  *961. $6,935 Simple-Plane

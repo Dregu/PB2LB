@@ -1,6 +1,6 @@
 Poly Bridge 2 - 5-04C "Acceleration" any% leaderboard (* = breaks)
-Updated 2021-08-11T00:24:44.071Z
-783/804 unique ranks shown
+Updated 2021-08-12T00:17:39.928Z
+784/805 unique ranks shown
 
    *1. $3,757   CursorCoercer
     2. $16,818  9k5
@@ -167,11 +167,11 @@ Updated 2021-08-11T00:24:44.071Z
   163. $33,726  Pengujedi
   164. $33,812  Lenny
   165. $33,907  641100197
-  166. $34,154  Slutmuffin
-  167. $34,228  snowmaniac
-  168. $34,228  oBSTER
-  169. $34,230  mopure33266
-  170. $34,312  6175804
+  166. $33,997  6175804
+  167. $34,154  Slutmuffin
+  168. $34,228  snowmaniac
+  169. $34,228  oBSTER
+  170. $34,230  mopure33266
   171. $34,448  Mikie
   172. $34,553  mbutton15
   173. $34,617  AZ-LT
@@ -706,82 +706,83 @@ Updated 2021-08-11T00:24:44.071Z
   702. $79,021  aslszura
   703. $79,031  Mr.ThisGuy
   704. $79,115  SpandexN00dle
-  705. $79,397  Katamari (old)
-  706. $79,774  david081114
-  707. $80,388  crocka123
-  708. $80,415  wesleyvh
-  709. $80,479  Dr_Geo
-  710. $80,619  7DimensionalParrot
-  711. $80,857  TheFeuerzeug
-  712. $80,891  Loaded
-  713. $81,010  nina.tammelander
-  714. $81,171  Strawman
-  715. $81,310  gamer253
-  716. $81,485  twistedsister86
-  717. $82,079  Jebediah1000
-  718. $82,844  Doggo
-  719. $83,007  EJ
-  720. $83,166  tomka700
-  721. $83,176  Kubuś :*
-  722. $83,278  Hierbaseca
-  723. $83,416  martín
-  724. $84,086  SuperGamerDude
-  725. $84,099  Teywer
-  726. $84,464  Elemental Corgi
-  727. $84,928  French
-  728. $85,164  𝓢𝓮𝓷𝓹𝓪𝓲
-  729. $85,251  YottaCat
-  730. $85,329  BearsAndSuff
-  731. $86,072  Schneed
-  732. $86,572  b00urnz
-  733. $86,783  zerd
-  734. $86,929  JaysenV21
-  735. $87,079  <a href="google.com">Google</a>
-  736. $87,230  Malgotgame
-  737. $87,648  jaredkazoo
-  738. $87,690  Pumpnog
-  739. $87,850  1000crystal
-  740. $87,941  ferd
-  741. $88,200  plush
-  742. $88,229  Stinodrak (KLITORYS)
-  743. $88,484  dudqja
-  744. $88,717  robkeelingsoftwaredev
-  745. $88,853  jbloemscheer
-  746. $88,928  Chico Escobar
-  747. $89,003  minecraft1875
-  748. $89,486  BlueCassio
-  749. $89,803  Memory Chad
-  750. $90,177  dwuuu.421
-  751. $90,181  SnyprBB
-  752. $90,373  Dragon Fruit
-  753. $90,551  LAslug
-  754. $91,280  Canned Pineapple
-  755. $91,745  Whee_dudes
-  756. $91,789  Maruka
-  757. $92,399  kyna
-  758. $92,720  Offspec
-  759. $93,007  Curuda
-  760. $93,343  Craze
-  761. $93,404  davidzlot
-  762. $94,290  Túró Rudi :3
-  763. $94,305  rinrin
-  764. $95,314  gold torizo
-  765. $95,671  Thorge
-  766. $96,078  crazydiamonde
-  767. $96,767  Dregu
-  768. $97,211  猫
-  769. $97,611  omnu
-  770. $97,985  leuo
-  771. $98,100  dmtjmurphy
-  772. $98,175  Toto00
-  773. $98,248  jfo
-  774. $98,878  kärmeeS
-  775. $98,956  Hazmat
-  776. $99,089  MonoDik
-  777. $99,297  VaWo13
-  778. $99,500  ehsgoalie
-  779. $99,624  Baron Biscuit
-  780. $99,645  mgray06
-  781. $99,835  hippolippo
-  782. $99,937  P1TA
-  783. $100,000 tetsu_yamamon
+  705. $79,245  Jmk5704
+  706. $79,397  Katamari (old)
+  707. $79,774  david081114
+  708. $80,388  crocka123
+  709. $80,415  wesleyvh
+  710. $80,479  Dr_Geo
+  711. $80,619  7DimensionalParrot
+  712. $80,857  TheFeuerzeug
+  713. $80,891  Loaded
+  714. $81,010  nina.tammelander
+  715. $81,171  Strawman
+  716. $81,310  gamer253
+  717. $81,485  twistedsister86
+  718. $82,079  Jebediah1000
+  719. $82,844  Doggo
+  720. $83,007  EJ
+  721. $83,166  tomka700
+  722. $83,176  Kubuś :*
+  723. $83,278  Hierbaseca
+  724. $83,416  martín
+  725. $84,086  SuperGamerDude
+  726. $84,099  Teywer
+  727. $84,464  Elemental Corgi
+  728. $84,928  French
+  729. $85,164  𝓢𝓮𝓷𝓹𝓪𝓲
+  730. $85,251  YottaCat
+  731. $85,329  BearsAndSuff
+  732. $86,072  Schneed
+  733. $86,572  b00urnz
+  734. $86,783  zerd
+  735. $86,929  JaysenV21
+  736. $87,079  <a href="google.com">Google</a>
+  737. $87,230  Malgotgame
+  738. $87,648  jaredkazoo
+  739. $87,690  Pumpnog
+  740. $87,850  1000crystal
+  741. $87,941  ferd
+  742. $88,200  plush
+  743. $88,229  Stinodrak (KLITORYS)
+  744. $88,484  dudqja
+  745. $88,717  robkeelingsoftwaredev
+  746. $88,853  jbloemscheer
+  747. $88,928  Chico Escobar
+  748. $89,003  minecraft1875
+  749. $89,486  BlueCassio
+  750. $89,803  Memory Chad
+  751. $90,177  dwuuu.421
+  752. $90,181  SnyprBB
+  753. $90,373  Dragon Fruit
+  754. $90,551  LAslug
+  755. $91,280  Canned Pineapple
+  756. $91,745  Whee_dudes
+  757. $91,789  Maruka
+  758. $92,399  kyna
+  759. $92,720  Offspec
+  760. $93,007  Curuda
+  761. $93,343  Craze
+  762. $93,404  davidzlot
+  763. $94,290  Túró Rudi :3
+  764. $94,305  rinrin
+  765. $95,314  gold torizo
+  766. $95,671  Thorge
+  767. $96,078  crazydiamonde
+  768. $96,767  Dregu
+  769. $97,211  猫
+  770. $97,611  omnu
+  771. $97,985  leuo
+  772. $98,100  dmtjmurphy
+  773. $98,175  Toto00
+  774. $98,248  jfo
+  775. $98,878  kärmeeS
+  776. $98,956  Hazmat
+  777. $99,089  MonoDik
+  778. $99,297  VaWo13
+  779. $99,500  ehsgoalie
+  780. $99,624  Baron Biscuit
+  781. $99,645  mgray06
+  782. $99,835  hippolippo
+  783. $99,937  P1TA
+  784. $100,000 tetsu_yamamon
