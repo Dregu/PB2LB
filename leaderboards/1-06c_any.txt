@@ -1,11 +1,11 @@
 Poly Bridge 2 - 1-06C "First Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-08-12T00:17:39.376Z
-1000/15816 unique ranks shown
+Updated 2021-08-13T00:18:15.701Z
+1000/15830 unique ranks shown
 
-   *1. $600    Bibbb
-   *2. $600    Lagiiiie
-   *3. $669    somefakegamer
-   *4. $669    9k5
+   *1. $600    Lagiiiie
+   *2. $600    Bibbb
+   *3. $669    9k5
+   *4. $669    somefakegamer
    *5. $696    Trygeve
    *6. $797    Fathom
    *7. $1,268  Cookieblues
@@ -32,11 +32,11 @@ Updated 2021-08-12T00:17:39.376Z
   *28. $2,167  Heater
   *29. $2,220  Icysnowman
   *30. $2,220  ~ Smithy ~
-  *31. $2,287  maash
+  *31. $2,287  Enchanted Spider
   *32. $2,287  fantakilla
-  *33. $2,287  Enchanted Spider
-  *34. $2,287  mooseman0423
-  *35. $2,287  Codeman999
+  *33. $2,287  mooseman0423
+  *34. $2,287  Codeman999
+  *35. $2,287  maash
   *36. $3,425  goldenpggie
    37. $4,527  St3rd_
    38. $4,556  抱歉不予顯示
@@ -222,7 +222,7 @@ Updated 2021-08-12T00:17:39.376Z
   218. $8,199  alexingoglia
   219. $8,208  Whyit1
   220. $8,215  Moritz
- *221. $8,223  RubyRuby284
+  221. $8,223  RubyRuby284
   222. $8,225  mikko.suomalainen
   223. $8,229  782054923
   224. $8,242  Holy Llama!
@@ -372,8 +372,8 @@ Updated 2021-08-12T00:17:39.376Z
   368. $9,116  Ħasħɇđ ⱣøŧȺŧøɇs
   369. $9,120  Orbifold
   370. $9,121  레이치
- *371. $9,122  lollyH2O
-  372. $9,122  Xeeloth
+  371. $9,122  Xeeloth
+ *372. $9,122  lollyH2O
   373. $9,126  cmikaiti
   374. $9,130  Azean
   375. $9,138  dvanhinthum
@@ -385,8 +385,8 @@ Updated 2021-08-12T00:17:39.376Z
   381. $9,158  浓浓的果酱
   382. $9,162  matttev
   383. $9,169  Amiyakrizi
-  384. $9,174  jonas.beachy
- *385. $9,174  Woof.
+ *384. $9,174  Woof.
+ *385. $9,174  jonas.beachy
   386. $9,177  HappyFishboy
   387. $9,185  jdogg565
   388. $9,186  Inhuman Erection
@@ -397,11 +397,11 @@ Updated 2021-08-12T00:17:39.376Z
   393. $9,203  Dorno
   394. $9,207  kocour.xyz.rxryrz
   395. $9,207  Zynthian
-  396. $9,210  AwesomeHolden6
- *397. $9,210  random_chimp_event
+ *396. $9,210  random_chimp_event
+  397. $9,210  AwesomeHolden6
   398. $9,212  Audible
- *399. $9,225  King Hippo
-  400. $9,225  720 Foam Cuts
+  399. $9,225  720 Foam Cuts
+ *400. $9,225  King Hippo
   401. $9,232  NotFound
  *402. $9,234  Colteor
   403. $9,242  dylanwenger9
@@ -550,8 +550,8 @@ Updated 2021-08-12T00:17:39.376Z
   546. $9,600  cheesybunghole
   547. $9,600  twitch-Khaddy42
   548. $9,601  umeshu
-  549. $9,602  Quality
- *550. $9,602  Ewallux
+ *549. $9,602  Ewallux
+  550. $9,602  Quality
  *551. $9,602  woooowamazingplayerplayingshit
   552. $9,602  bfninjamonkey
   553. $9,604  157268943
@@ -668,8 +668,8 @@ Updated 2021-08-12T00:17:39.376Z
   664. $9,829  FleetSkip
   665. $9,834  Dr. Drake Remoray
   666. $9,840  TingL
- *667. $9,844  [PFGUs]Poisoned Fox
-  668. $9,844  thomas.vdlf
+  667. $9,844  thomas.vdlf
+ *668. $9,844  [PFGUs]Poisoned Fox
   669. $9,845  Hysenlowes
   670. $9,846  tictic1605
   671. $9,847  ReedyBear
@@ -706,8 +706,8 @@ Updated 2021-08-12T00:17:39.376Z
   702. $9,919  gerd.freiberg
   703. $9,921  SwagMander
   704. $9,922  Chucky0809
- *705. $9,923  raym55
-  706. $9,923  Buddermario7
+  705. $9,923  Buddermario7
+ *706. $9,923  raym55
   707. $9,930  DieselDaddy
   708. $9,938  Sothyl
   709. $9,939  Origiginal
@@ -786,8 +786,8 @@ Updated 2021-08-12T00:17:39.376Z
   782. $10,064 Spyroflex
   783. $10,066 SevenKenyansInATrenchcoat
   784. $10,068 Gutterman2010
-  785. $10,071 Criplor
- *786. $10,071 KAPPPS
+ *785. $10,071 KAPPPS
+  786. $10,071 Criplor
   787. $10,077 knower
   788. $10,079 Satcher
  *789. $10,081 thoasbeon
@@ -837,8 +837,8 @@ Updated 2021-08-12T00:17:39.376Z
   833. $10,135 MKBridger
   834. $10,136 tankmatch
   835. $10,138 Anton
-  836. $10,143 HotelMotel
- *837. $10,143 noahford2203
+ *836. $10,143 noahford2203
+  837. $10,143 HotelMotel
   838. $10,144 PotatoSenpai
   839. $10,151 klutzybug
   840. $10,151 grubrev
@@ -851,8 +851,8 @@ Updated 2021-08-12T00:17:39.376Z
   847. $10,161 nabster
   848. $10,161 danielscottphillips7
   849. $10,161 Pepper
-  850. $10,162 OwO
- *851. $10,162 Taosboy2
+ *850. $10,162 Taosboy2
+  851. $10,162 OwO
   852. $10,163 LUCse MENSEN
   853. $10,164 aaron.steinke
   854. $10,164 alicele14
@@ -895,9 +895,9 @@ Updated 2021-08-12T00:17:39.376Z
   891. $10,249 小k
   892. $10,250 |Bread|
   893. $10,251 Potato_Soup
- *894. $10,252 timfozothy
-  895. $10,252 007-007
-  896. $10,252 leMi
+  894. $10,252 007-007
+  895. $10,252 leMi
+ *896. $10,252 timfozothy
   897. $10,253 Deathtal
   898. $10,253 jcs244
   899. $10,253 EntropicMage
@@ -944,8 +944,8 @@ Updated 2021-08-12T00:17:39.376Z
   940. $10,330 artur.platzek
   941. $10,334 sethandtiki
   942. $10,336 cintya7777
-  943. $10,337 Bobby Boi
- *944. $10,337 JimothyCricket
+ *943. $10,337 JimothyCricket
+  944. $10,337 Bobby Boi
   945. $10,339 Blaz McBlazington
   946. $10,342 Ground15
   947. $10,343 vreugd5
@@ -992,8 +992,8 @@ Updated 2021-08-12T00:17:39.376Z
   988. $10,388 Mantelfire
   989. $10,388 St3ampunk_Wizard
   990. $10,389 chupa71
- *991. $10,389 Kristian_R_05
-  992. $10,389 Jason
+  991. $10,389 Jason
+ *992. $10,389 Kristian_R_05
   993. $10,389 gengi ninga
   994. $10,390 Deion
   995. $10,390 ✪Hek1✪
