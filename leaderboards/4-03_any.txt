@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-03 "Sloped Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-08-14T00:16:49.246Z
-1000/35502 unique ranks shown
+Updated 2021-08-15T00:17:15.920Z
+1000/35544 unique ranks shown
 
    *1. $3,999  9k5
    *2. $3,999  Fathom
@@ -41,7 +41,7 @@ Updated 2021-08-14T00:16:49.246Z
    37. $19,925 nhaven14
    38. $20,537 Confirm NotJonah
    39. $20,600 Heater
-   40. $20,985 Cix
+  *40. $20,985 Cix
   *41. $21,316 samsteadman1000
    42. $21,454 Kalorienreduziert
   *43. $21,700 Turd Ferguson
@@ -298,8 +298,8 @@ Updated 2021-08-14T00:16:49.246Z
   294. $28,854 Niekelodius
   295. $28,868 cam
   296. $28,871 Lazlo
- *297. $28,883 TesllaTea マックス
-  298. $28,883 JD.Oord
+  297. $28,883 JD.Oord
+ *298. $28,883 TesllaTea マックス
   299. $28,884 GolEden
   300. $28,892 lee731017
   301. $28,898 HappyFishboy
@@ -386,8 +386,8 @@ Updated 2021-08-14T00:16:49.246Z
   382. $29,423 Myculz
   383. $29,424 Looming
   384. $29,437 guillaume.richards
- *385. $29,452 wylie5cents
-  386. $29,452 okiro4
+  385. $29,452 okiro4
+ *386. $29,452 wylie5cents
   387. $29,459 Kakemonstre
   388. $29,465 Quadley
   389. $29,467 Skretchii
@@ -622,9 +622,9 @@ Updated 2021-08-14T00:16:49.246Z
   618. $30,915 StreamGames
   619. $30,931 LighteningVolt
   620. $30,946 DriftingManiacX
-  621. $30,950 marr
-  622. $30,950 mbutton15
- *623. $30,950 PDTM
+ *621. $30,950 PDTM
+  622. $30,950 marr
+  623. $30,950 mbutton15
   624. $30,953 williamaprabowo
   625. $30,954 Myk0o0
   626. $30,954 bapgar91701
@@ -725,8 +725,8 @@ Updated 2021-08-14T00:16:49.246Z
   721. $31,443 cheesybunghole
   722. $31,445 powan
   723. $31,446 SirPig
- *724. $31,449 Knufire
- *725. $31,449 AZ-LT
+ *724. $31,449 AZ-LT
+ *725. $31,449 Knufire
   726. $31,451 Farøn
   727. $31,455 Businessman
   728. $31,458 grebnek
@@ -878,7 +878,7 @@ Updated 2021-08-14T00:16:49.246Z
   874. $31,987 Kimnet328
   875. $31,992 Mr_Schrecklich
   876. $31,994 Fireel
- *877. $31,996 Thisisdumb41
+  877. $31,996 Thisisdumb41
   878. $31,997 Dabbi
   879. $31,999 DS-Ghostman
   880. $32,002 IanSar
@@ -976,8 +976,8 @@ Updated 2021-08-14T00:16:49.246Z
   972. $32,296 RedTide
   973. $32,297 AHarmlessPenguin
   974. $32,298 Zamyaza
-  975. $32,299 Thoomor
- *976. $32,299 Marcel
+ *975. $32,299 Marcel
+  976. $32,299 Thoomor
   977. $32,301 Totulhu
   978. $32,305 MakerelSalt
   979. $32,305 david.ravnak
@@ -991,8 +991,8 @@ Updated 2021-08-14T00:16:49.246Z
   987. $32,322 RTB
   988. $32,324 Noisyboy
   989. $32,324 Wamphyri
- *990. $32,327 ✪ TAndersen
-  991. $32,327 Stereo
+  990. $32,327 Stereo
+ *991. $32,327 ✪ TAndersen
  *992. $32,328 Alice
   993. $32,329 jazzlevi
   994. $32,333 Lopo van der Topo
