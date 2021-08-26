@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-14C "Big Rigs" any% leaderboard (* = breaks)
-Updated 2021-08-25T00:17:36.810Z
-1000/2365 unique ranks shown
+Updated 2021-08-26T00:16:05.189Z
+1000/2367 unique ranks shown
 
    *1. $1,884  Fathom
    *2. $1,884  9k5
@@ -74,7 +74,7 @@ Updated 2021-08-25T00:17:36.810Z
    70. $41,398 Tapperij
    71. $41,426 PATA
    72. $41,685 Nao 16/15
-   73. $41,759 jcricheson
+  *73. $41,759 jcricheson
    74. $41,996 Sketchzi
    75. $42,033 lukas.bornheim
    76. $42,044 bizarcasm
@@ -498,8 +498,8 @@ Updated 2021-08-25T00:17:36.810Z
   494. $52,457 Pumpnog
   495. $52,465 No Nipple Nate
   496. $52,489 eliteporo
-  497. $52,499 LELLEMEN
- *498. $52,499 Cozen
+ *497. $52,499 Cozen
+  498. $52,499 LELLEMEN
   499. $52,504 trpark90
   500. $52,507 cathy.obernuefeman
   501. $52,535 Cr42yC4r1
@@ -511,8 +511,8 @@ Updated 2021-08-25T00:17:36.810Z
   507. $52,655 mrichstein169
   508. $52,659 Shieber
   509. $52,678 dwaynemccaffrey2019
- *510. $52,685 SaucyStanley
-  511. $52,685 sebastian.d.higgins
+  510. $52,685 sebastian.d.higgins
+ *511. $52,685 SaucyStanley
   512. $52,719 Eeyore
   513. $52,727 vkelloku
   514. $52,732 Toast
@@ -591,8 +591,8 @@ Updated 2021-08-25T00:17:36.810Z
   587. $53,751 Enhedslisten
   588. $53,762 Simon241199
   589. $53,767 bcowburn
-  590. $53,772 hakejb1
- *591. $53,772 jonas.beachy
+ *590. $53,772 jonas.beachy
+  591. $53,772 hakejb1
   592. $53,776 SNN9823
   593. $53,792 ViscidSquare040
   594. $53,802 FiTy
@@ -884,7 +884,7 @@ Updated 2021-08-25T00:17:36.810Z
   880. $56,674 St3rd_
   881. $56,675 The Disastrous Village
  *882. $56,676 Brazen_Helm
-  883. $56,689 Baked Cheese
+ *883. $56,689 Baked Cheese
   884. $56,707 Zky-Chan
   885. $56,711 export Psyonix.rl.me
   886. $56,711 Lima
@@ -986,19 +986,19 @@ Updated 2021-08-25T00:17:36.810Z
   982. $57,551 Feyko
   983. $57,566 CptSilver
   984. $57,572 bath_mole
-  985. $57,597 to915
-  986. $57,600 Freedom_IT
-  987. $57,608 Agente_007_albi
-  988. $57,613 bobbyp135
-  989. $57,640 bolong
-  990. $57,642 Frits
-  991. $57,650 Mirinekcz
-  992. $57,654 kingcaiden66
-  993. $57,662 mmmpld
-  994. $57,667 Barnevernet
-  995. $57,668 Kosher Karambwan
-  996. $57,682 rafaelcr44
-  997. $57,690 TobyDog
-  998. $57,702 UnsanityLIVE
-  999. $57,708 TheRainCrow
-*1000. $57,718 Burbasuar
+  985. $57,580 Klaus64
+  986. $57,597 to915
+  987. $57,600 Freedom_IT
+  988. $57,608 Agente_007_albi
+  989. $57,613 bobbyp135
+  990. $57,640 bolong
+  991. $57,642 Frits
+  992. $57,650 Mirinekcz
+  993. $57,654 kingcaiden66
+  994. $57,662 mmmpld
+  995. $57,667 Barnevernet
+  996. $57,668 Kosher Karambwan
+  997. $57,682 rafaelcr44
+  998. $57,690 TobyDog
+  999. $57,702 UnsanityLIVE
+ 1000. $57,708 TheRainCrow
