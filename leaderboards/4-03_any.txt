@@ -1,9 +1,9 @@
 Poly Bridge 2 - 4-03 "Sloped Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-08-28T00:16:38.651Z
-1000/35986 unique ranks shown
+Updated 2021-08-29T00:18:00.307Z
+1000/36029 unique ranks shown
 
-   *1. $3,999  9k5
-   *2. $3,999  Fathom
+   *1. $3,999  Fathom
+   *2. $3,999  9k5
    *3. $4,662  somefakegamer
    *4. $4,724  ~ Smithy ~
    *5. $5,444  Lagiiiie
@@ -233,8 +233,8 @@ Updated 2021-08-28T00:16:38.651Z
  *229. $28,226 Rosedagger
   230. $28,228 Westaint
   231. $28,229 Dwerto
- *232. $28,232 Cyborg Minotaur
-  233. $28,232 HotJohnnyCakes411
+  232. $28,232 HotJohnnyCakes411
+ *233. $28,232 Cyborg Minotaur
   234. $28,254 Floatato
   235. $28,258 Ilse_ik
   236. $28,264 Qcrist
@@ -289,7 +289,7 @@ Updated 2021-08-28T00:16:38.651Z
   285. $28,713 Proto
   286. $28,719 Zedriv
   287. $28,721 sumpfkrautjunkie
-  288. $28,744 Road to beat Squishy
+ *288. $28,744 Road to beat Squishy
   289. $28,757 Cardboard Box Guy
   290. $28,765 Jack✫
   291. $28,781 Kingly Red Lion Guy
@@ -314,8 +314,8 @@ Updated 2021-08-28T00:16:38.651Z
   310. $28,922 bastian.bello.c
   311. $28,923 StinkyWizzleTooth
   312. $28,923 小k
- *313. $28,924 [Nullpointer]
-  314. $28,924 Nicolo
+  313. $28,924 Nicolo
+ *314. $28,924 [Nullpointer]
   315. $28,926 HAISENBERG
   316. $28,927 jmeyer2030
   317. $28,930 Monsieur Spock
@@ -369,7 +369,7 @@ Updated 2021-08-28T00:16:38.651Z
   365. $29,328 jimmyscully
   366. $29,329 j.westerbos
   367. $29,329 dorel_sofer_pe_glont69
-  368. $29,331 Mac
+ *368. $29,331 Mac
   369. $29,339 Icy Unicorn
   370. $29,341 evandennewitz
   371. $29,350 rx7man
@@ -413,8 +413,8 @@ Updated 2021-08-28T00:16:38.651Z
   409. $29,567 chupa71
   410. $29,588 MianMiao
   411. $29,589 Martin
-  412. $29,610 Karmiilla
- *413. $29,610 Helper_Monkey
+ *412. $29,610 Helper_Monkey
+  413. $29,610 Karmiilla
   414. $29,615 tom.brabbin
   415. $29,623 jeremywinick
   416. $29,624 Friar Laurence
@@ -886,7 +886,7 @@ Updated 2021-08-28T00:16:38.651Z
   882. $31,987 Kimnet328
   883. $31,992 Mr_Schrecklich
   884. $31,994 Fireel
-  885. $31,996 Thisisdumb41
+ *885. $31,996 Thisisdumb41
   886. $31,997 Dabbi
   887. $31,999 DS-Ghostman
   888. $32,002 IanSar
