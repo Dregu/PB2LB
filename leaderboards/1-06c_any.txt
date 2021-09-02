@@ -1,11 +1,11 @@
 Poly Bridge 2 - 1-06C "First Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-09-01T00:18:10.801Z
-1000/16070 unique ranks shown
+Updated 2021-09-02T00:19:22.315Z
+1000/16078 unique ranks shown
 
-   *1. $600    Lagiiiie
-   *2. $600    Bibbb
-   *3. $669    somefakegamer
-   *4. $669    9k5
+   *1. $600    Bibbb
+   *2. $600    Lagiiiie
+   *3. $669    9k5
+   *4. $669    somefakegamer
    *5. $696    Trygeve
    *6. $797    Fathom
    *7. $1,268  Cookieblues
@@ -32,11 +32,11 @@ Updated 2021-09-01T00:18:10.801Z
   *28. $2,167  Heater
   *29. $2,220  Icysnowman
   *30. $2,220  ~ Smithy ~
-  *31. $2,287  mooseman0423
-  *32. $2,287  fantakilla
-  *33. $2,287  maash
+  *31. $2,287  maash
+  *32. $2,287  Codeman999
+  *33. $2,287  mooseman0423
   *34. $2,287  Enchanted Spider
-  *35. $2,287  Codeman999
+  *35. $2,287  fantakilla
   *36. $3,425  goldenpggie
    37. $4,527  St3rd_
    38. $4,556  抱歉不予顯示
@@ -223,7 +223,7 @@ Updated 2021-09-01T00:18:10.801Z
   219. $8,199  alexingoglia
   220. $8,208  Whyit1
   221. $8,215  Moritz
- *222. $8,223  RubyRuby284
+  222. $8,223  RubyRuby284
   223. $8,225  mikko.suomalainen
   224. $8,229  782054923
   225. $8,242  Holy Llama!
@@ -387,8 +387,8 @@ Updated 2021-09-01T00:18:10.801Z
   383. $9,158  浓浓的果酱
   384. $9,162  matttev
   385. $9,169  Amiyakrizi
- *386. $9,174  Woof.
-  387. $9,174  jonas.beachy
+  386. $9,174  jonas.beachy
+ *387. $9,174  Woof.
   388. $9,177  HappyFishboy
   389. $9,185  jdogg565
   390. $9,186  Inhuman Erection
@@ -557,8 +557,8 @@ Updated 2021-09-01T00:18:10.801Z
   553. $9,601  umeshu
  *554. $9,602  Ewallux
   555. $9,602  Quality
-  556. $9,602  bfninjamonkey
- *557. $9,602  woooowamazingplayerplayingshit
+ *556. $9,602  woooowamazingplayerplayingshit
+  557. $9,602  bfninjamonkey
   558. $9,604  157268943
   559. $9,608  arneman44
   560. $9,610  Hampa
@@ -574,8 +574,8 @@ Updated 2021-09-01T00:18:10.801Z
   570. $9,643  Leesifer
  *571. $9,645  Hawk
   572. $9,646  Waifu Art Thou Romeo
- *573. $9,647  Dimma the Wifebeater
-  574. $9,647  Kosher Karambwan
+  573. $9,647  Kosher Karambwan
+ *574. $9,647  Dimma the Wifebeater
   575. $9,648  Bobcheez ✔
   576. $9,648  sidschurgin
   577. $9,651  Ewyx
@@ -649,7 +649,7 @@ Updated 2021-09-01T00:18:10.801Z
   645. $9,782  MrBrosco
   646. $9,786  Char1983
   647. $9,786  WirJun
- *648. $9,787  Zharra
+  648. $9,787  Zharra
   649. $9,787  Danimal
   650. $9,790  Otter.peek
  *651. $9,795  klrwayant083
@@ -673,8 +673,8 @@ Updated 2021-09-01T00:18:10.801Z
   669. $9,829  FleetSkip
   670. $9,834  Dr. Drake Remoray
   671. $9,840  TingL
- *672. $9,844  [PFGUs]Poisoned Fox
-  673. $9,844  thomas.vdlf
+  672. $9,844  thomas.vdlf
+ *673. $9,844  [PFGUs]Poisoned Fox
   674. $9,845  Hysenlowes
   675. $9,846  tictic1605
   676. $9,847  ReedyBear
@@ -757,7 +757,7 @@ Updated 2021-09-01T00:18:10.801Z
   753. $9,995  XanderB234
   754. $9,996  GraySocks
   755. $9,997  Göbinator
-  756. $9,998  8th coming of Jesus
+ *756. $9,998  8th coming of Jesus
   757. $9,998  Elvishbarbecue
  *758. $9,999  YottaCat
   759. $9,999  BxRAW
@@ -858,8 +858,8 @@ Updated 2021-09-01T00:18:10.801Z
   854. $10,161 nabster
   855. $10,161 danielscottphillips7
   856. $10,161 Pepper
- *857. $10,162 Taosboy2
-  858. $10,162 OwO
+  857. $10,162 OwO
+ *858. $10,162 Taosboy2
   859. $10,163 LUCse MENSEN
   860. $10,164 aaron.steinke
   861. $10,164 alicele14
@@ -903,9 +903,9 @@ Updated 2021-09-01T00:18:10.801Z
   899. $10,249 小k
   900. $10,250 |Bread|
   901. $10,251 Potato_Soup
- *902. $10,252 timfozothy
-  903. $10,252 leMi
-  904. $10,252 007-007
+  902. $10,252 leMi
+  903. $10,252 007-007
+ *904. $10,252 timfozothy
   905. $10,253 jcs244
   906. $10,253 EntropicMage
   907. $10,253 Deathtal
