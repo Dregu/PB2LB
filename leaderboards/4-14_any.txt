@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-14 "Big Rigs" any% leaderboard (* = breaks)
-Updated 2021-09-07T00:16:54.199Z
-1000/24647 unique ranks shown
+Updated 2021-09-08T00:17:40.474Z
+1000/24669 unique ranks shown
 
    *1. $1,884  Fathom
    *2. $1,884  9k5
@@ -33,8 +33,8 @@ Updated 2021-09-07T00:16:54.199Z
   *29. $31,236 DaveMcW
   *30. $31,252 Luuroon
   *31. $31,310 michaelandbrother
-  *32. $31,585 E
-   33. $31,585 Herneerius
+   32. $31,585 Herneerius
+  *33. $31,585 E
    34. $31,742 MoonlitJolty
    35. $31,781 Off5pring
    36. $31,928 ~ Smithy ~
@@ -416,7 +416,7 @@ Updated 2021-09-07T00:16:54.199Z
   412. $40,692 madmax95
   413. $40,693 ☣ KILLERZΣUS ☣
   414. $40,701 carewolf
- *415. $40,704 bille
+  415. $40,704 bille
   416. $40,748 Whyit1
   417. $40,844 CS2100
   418. $40,858 Z-Axis
@@ -513,7 +513,7 @@ Updated 2021-09-07T00:16:54.199Z
   509. $41,990 Peter Liu
   510. $41,992 rosso.tiago
   511. $41,998 poe77
-  512. $41,999 Monsieur Spock
+ *512. $41,999 Monsieur Spock
   513. $42,005 CasterNinja
   514. $42,013 Curry in a Hurry
   515. $42,030 Eleven Tic Tacs
@@ -629,8 +629,8 @@ Updated 2021-09-07T00:16:54.199Z
   625. $43,064 James
   626. $43,072 Kwek
   627. $43,081 Hot Cold Shoto
- *628. $43,112 ALPTech75
-  629. $43,112 SirBigGuy
+  628. $43,112 SirBigGuy
+ *629. $43,112 ALPTech75
   630. $43,116 Painless
   631. $43,123 John
   632. $43,124 Rashiro
@@ -796,8 +796,8 @@ Updated 2021-09-07T00:16:54.199Z
   792. $44,246 h.sato825
   793. $44,247 Archer of Merzifon
   794. $44,249 Palandos
- *795. $44,258 guaranteed_whales
-  796. $44,258 Reedy_Jack_
+  795. $44,258 Reedy_Jack_
+ *796. $44,258 guaranteed_whales
   797. $44,264 mazuffer
   798. $44,265 PX3UAden
   799. $44,269 LittlePriest
@@ -855,8 +855,8 @@ Updated 2021-09-07T00:16:54.199Z
   851. $44,643 whatever
   852. $44,647 J黑
   853. $44,648 Shanghai
- *854. $44,648 TheDynamicRam
-  855. $44,648 bfninjamonkey
+  854. $44,648 bfninjamonkey
+ *855. $44,648 TheDynamicRam
   856. $44,653 Darthvillager
   857. $44,662 JamerTheGamer
   858. $44,663 magnus.lundstedt
@@ -956,49 +956,49 @@ Updated 2021-09-07T00:16:54.199Z
   952. $45,189 Innervision
   953. $45,196 Sothyl
   954. $45,197 michael.tonsmeire
-  955. $45,214 benoit.rouff
-  956. $45,215 nikita.har
-  957. $45,217 Trixotorin
-  958. $45,218 jcompagni
-  959. $45,223 dakta
-  960. $45,225 jbeiden53590
-  961. $45,233 Honeywell
-  962. $45,238 Marcolio101
-  963. $45,242 Daelfyn
-  964. $45,248 mikechuckhenson
-  965. $45,254 Endros
-  966. $45,255 Vecor
-  967. $45,259 Novaii
-  968. $45,259 BlueGhost
-  969. $45,261 Nutella_B1Y4T
-  970. $45,261 BeLeVa
-  971. $45,262 burning_pixel
-  972. $45,266 aaxiumm
-  973. $45,267 tomer1shaked
-  974. $45,274 L3VD0MA
-  975. $45,278 benjamin.david433
-  976. $45,279 goergel
-  977. $45,281 XdFazeNinjaTv
-  978. $45,283 Desty
-  979. $45,284 mvill095
-  980. $45,290 Balfus
-  981. $45,303 Kraudy
-  982. $45,308 fredrik.sinclair
-  983. $45,317 uj030221-3551
-  984. $45,325 MØØSH
-  985. $45,340 shasta.pete
-  986. $45,341 hrwaldegrave
-  987. $45,348 littzhch
-  988. $45,349 GLADOSv2
-  989. $45,353 </MICO>
- *990. $45,355 Se1rios丶虐心
-  991. $45,357 carylyn1
-  992. $45,366 KARL
-  993. $45,370 Baumking
-  994. $45,371 Jambo
-  995. $45,381 Reefie
-  996. $45,381 Attackington
-  997. $45,382 ronalee9857
-  998. $45,387 Bling_T
-  999. $45,388 adwagner89
- 1000. $45,396 SS- Ober[REDACTED] Ryyu
+  955. $45,207 ethan.
+  956. $45,214 benoit.rouff
+  957. $45,215 nikita.har
+  958. $45,217 Trixotorin
+  959. $45,218 jcompagni
+  960. $45,223 dakta
+  961. $45,225 jbeiden53590
+  962. $45,233 Honeywell
+  963. $45,238 Marcolio101
+  964. $45,242 Daelfyn
+  965. $45,248 mikechuckhenson
+  966. $45,254 Endros
+  967. $45,255 Vecor
+  968. $45,259 Novaii
+  969. $45,259 BlueGhost
+  970. $45,261 Nutella_B1Y4T
+  971. $45,261 BeLeVa
+  972. $45,262 burning_pixel
+  973. $45,266 aaxiumm
+  974. $45,267 tomer1shaked
+  975. $45,274 L3VD0MA
+  976. $45,278 benjamin.david433
+  977. $45,279 goergel
+  978. $45,281 XdFazeNinjaTv
+  979. $45,283 Desty
+  980. $45,284 mvill095
+  981. $45,290 Balfus
+  982. $45,303 Kraudy
+  983. $45,308 fredrik.sinclair
+  984. $45,317 uj030221-3551
+  985. $45,325 MØØSH
+  986. $45,340 shasta.pete
+  987. $45,341 hrwaldegrave
+  988. $45,348 littzhch
+  989. $45,349 GLADOSv2
+  990. $45,353 </MICO>
+ *991. $45,355 Se1rios丶虐心
+  992. $45,357 carylyn1
+  993. $45,366 KARL
+  994. $45,370 Baumking
+  995. $45,371 Jambo
+  996. $45,381 Reefie
+  997. $45,381 Attackington
+  998. $45,382 ronalee9857
+  999. $45,387 Bling_T
+ 1000. $45,388 adwagner89
