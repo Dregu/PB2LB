@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-09 "Tipping Tower" any% leaderboard (* = breaks)
-Updated 2021-09-08T00:17:40.414Z
-1000/33534 unique ranks shown
+Updated 2021-09-09T00:19:37.115Z
+1000/33577 unique ranks shown
 
    *1. $1,885  Valnix
    *2. $1,885  Lagiiiie
@@ -10,8 +10,8 @@ Updated 2021-09-08T00:17:40.414Z
    *6. $1,888  alihaydar.atil
    *7. $1,889  Fathom
    *8. $1,904  Sexy Boy Industries [woop]
-    9. $1,911  MOD
-   10. $1,979  7777Alex7777
+   *9. $1,904  7777Alex7777
+   10. $1,911  MOD
    11. $2,960  Cookieblues
    12. $2,969  Friar Laurence
   *13. $3,025  Bibbb
@@ -22,10 +22,10 @@ Updated 2021-09-08T00:17:40.414Z
   *18. $3,988  Noahsorou
   *19. $3,990  geroniberry
   *20. $3,991  MoonlitJolty
-  *21. $3,999  aBacIdEe
-  *22. $3,999  BaconPancakes
-  *23. $3,999  eggsnbacon36
-  *24. $3,999  Bellair08
+  *21. $3,999  eggsnbacon36
+  *22. $3,999  aBacIdEe
+  *23. $3,999  Bellair08
+  *24. $3,999  BaconPancakes
   *25. $4,003  somefakegamer
   *26. $4,153  mooseman0423
   *27. $4,448  ~ Smithy ~
@@ -91,8 +91,8 @@ Updated 2021-09-08T00:17:40.414Z
    87. $9,990  mathieuvanrossum
   *88. $9,991  Kyle
    89. $9,996  gametoy
-  *90. $9,998  John
-  *91. $9,998  m4w30
+  *90. $9,998  m4w30
+  *91. $9,998  John
    92. $10,083 Mister Doctor
    93. $10,163 Igloo
   *94. $10,182 Hep
@@ -212,8 +212,8 @@ Updated 2021-09-08T00:17:40.414Z
   208. $13,049 Svensgaard YT
   209. $13,060 JoJoBond
   210. $13,077 florpaco
-  211. $13,103 dkb8k
- *212. $13,103 Netlore
+ *211. $13,103 Netlore
+  212. $13,103 dkb8k
   213. $13,117 hmx0311
   214. $13,139 Icy Unicorn
  *215. $13,150 trickstar90
@@ -234,8 +234,8 @@ Updated 2021-09-08T00:17:40.414Z
  *230. $13,373 jessebenedict5
   231. $13,386 xDerAlmanPanzer
   232. $13,394 ReformedGod
- *233. $13,404 flama_purklin
- *234. $13,404 Digital High
+ *233. $13,404 Digital High
+ *234. $13,404 flama_purklin
   235. $13,405 Voxadi
   236. $13,425 ~ <@=:
   237. $13,427 littzhch
@@ -266,8 +266,8 @@ Updated 2021-09-08T00:17:40.414Z
   262. $13,644 Muis193
   263. $13,648 Baljied
  *264. $13,650 SCHM1TTY
- *265. $13,659 GonzoBlue
-  266. $13,659 Daktaras Blogis
+  265. $13,659 Daktaras Blogis
+ *266. $13,659 GonzoBlue
  *267. $13,697 joshbradshaw17
   268. $13,713 rafaelmsalazar26
   269. $13,728 ()lyver
@@ -290,7 +290,7 @@ Updated 2021-09-08T00:17:40.414Z
  *286. $13,866 CS2100
  *287. $13,879 lukeharmon2002
   288. $13,892 park002
-  289. $13,905 malle melk beer
+ *289. $13,905 malle melk beer
   290. $13,908 elepe
  *291. $13,912 自由闊達
  *292. $13,913 cyko
@@ -569,8 +569,8 @@ Updated 2021-09-08T00:17:40.414Z
  *565. $15,782 Flip
  *566. $15,785 UrbanEngineer
   567. $15,789 Mulakulu
-  568. $15,790 Draradech
- *569. $15,790 scrubers
+ *568. $15,790 scrubers
+  569. $15,790 Draradech
   570. $15,811 Seiho2659
   571. $15,821 Anoki
   572. $15,821 harrychen0805
@@ -642,8 +642,8 @@ Updated 2021-09-08T00:17:40.414Z
   638. $16,076 Paintchip
  *639. $16,080 okke79
   640. $16,099 Xergz
-  641. $16,102 pangpanggao
- *642. $16,102 level 4 swimmer
+ *641. $16,102 level 4 swimmer
+  642. $16,102 pangpanggao
   643. $16,119 FrycuBOP
   644. $16,127 Thendarion
   645. $16,128 mdchaff
@@ -653,8 +653,8 @@ Updated 2021-09-08T00:17:40.414Z
   649. $16,141 Hampa
  *650. $16,143 HomoDeus
   651. $16,148 kein.name
-  652. $16,156 Jas
- *653. $16,156 dendio2
+ *652. $16,156 dendio2
+  653. $16,156 Jas
   654. $16,166 N8_Gamer
   655. $16,171 supremechalupa
  *656. $16,172 gaerfile
@@ -735,7 +735,7 @@ Updated 2021-09-08T00:17:40.414Z
   731. $16,457 Toe Knee
   732. $16,458 iressle
   733. $16,459 StinkyWizzleTooth
-  734. $16,463 owen430s
+ *734. $16,463 owen430s
  *735. $16,472 SHEEP
   736. $16,482 King Pickle
   737. $16,484 Gabe Itch
@@ -743,8 +743,8 @@ Updated 2021-09-08T00:17:40.414Z
   739. $16,489 jonah.freeland
   740. $16,490 RafaelJR8
  *741. $16,491 Mr. Mittens
- *742. $16,492 Tuffs
-  743. $16,492 Foranoda
+  742. $16,492 Foranoda
+ *743. $16,492 Tuffs
   744. $16,493 marian
  *745. $16,494 Groundzero
   746. $16,495 Gunder1337
@@ -844,8 +844,8 @@ Updated 2021-09-08T00:17:40.414Z
  *840. $16,793 Pineappleboi96
   841. $16,795 0pal.
   842. $16,796 TheCarrotGod
-  843. $16,802 SniperulTF2ist
- *844. $16,802 qkqhtkfka
+ *843. $16,802 qkqhtkfka
+  844. $16,802 SniperulTF2ist
   845. $16,812 jakeh0916
   846. $16,812 GorgeousDarko
   847. $16,818 Shorty
@@ -958,8 +958,8 @@ Updated 2021-09-08T00:17:40.414Z
   954. $17,159 rikjanschothorst
   955. $17,160 Lunath (SARPER)
   956. $17,162 aurora.sanna.no
- *957. $17,164 PDihax
- *958. $17,164 Spork
+ *957. $17,164 Spork
+ *958. $17,164 PDihax
  *959. $17,169 CroissantWithCheese
  *960. $17,170 TimboRimbo
  *961. $17,171 KC808
@@ -1000,5 +1000,5 @@ Updated 2021-09-08T00:17:40.414Z
   996. $17,264 Goober
  *997. $17,267 Voety
   998. $17,267 Disraeli Ricky
-  999. $17,269 Ocogak
-*1000. $17,269 Platypus
+ *999. $17,269 Platypus
+ 1000. $17,269 Ocogak
