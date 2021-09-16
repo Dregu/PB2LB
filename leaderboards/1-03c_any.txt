@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-03C "Bridge of Steel" any% leaderboard (* = breaks)
-Updated 2021-09-15T00:19:15.656Z
-1000/14511 unique ranks shown
+Updated 2021-09-16T00:18:40.499Z
+1000/14529 unique ranks shown
 
     1. $5,123  Bellair08
     2. $5,123  Cookieblues
@@ -9,9 +9,9 @@ Updated 2021-09-15T00:19:15.656Z
     5. $5,147  MOD
     6. $5,150  Crimson
     7. $5,158  Trygeve
-    8. $5,163  zztop03
-    9. $5,163  DaveMcW
-  *10. $5,163  Astrodaly
+   *8. $5,163  Astrodaly
+    9. $5,163  zztop03
+   10. $5,163  DaveMcW
    11. $5,176  Flubbles
    12. $5,180  Fathom
    13. $5,182  Roevhaal
@@ -40,8 +40,8 @@ Updated 2021-09-15T00:19:15.656Z
    36. $5,237  GF——LONGWU
    37. $5,238  Morgothor
    38. $5,238  TucLTU
-  *39. $5,238  zinc
-   40. $5,238  MYCRAFTisbest
+   39. $5,238  MYCRAFTisbest
+  *40. $5,238  zinc
    41. $5,239  delightfulgiraffe
    42. $5,239  Cypheri
   *43. $5,240  CasualSanta
@@ -135,8 +135,8 @@ Updated 2021-09-15T00:19:15.656Z
   131. $5,294  FierceKitty131
  *132. $5,295  torry
  *133. $5,296  Ameer
- *134. $5,297  Tomimator
-  135. $5,297  Skretchii
+  134. $5,297  Skretchii
+ *135. $5,297  Tomimator
   136. $5,298  lorddraegon
   137. $5,298  Alelon28
   138. $5,299  YoloYuliaPie
@@ -145,7 +145,7 @@ Updated 2021-09-15T00:19:15.656Z
   141. $5,443  bastian.bello.c
   142. $5,443  AwesomeHolden6
   143. $5,469  Lasaña7925
- *144. $5,488  zezetel
+  144. $5,488  zezetel
   145. $5,500  mikiethepenguin
  *146. $5,501  clownlord06
   147. $5,502  Sir Kit
@@ -187,7 +187,7 @@ Updated 2021-09-15T00:19:15.656Z
  *183. $8,450  Supernye
  *184. $8,455  aklar
   185. $8,924  >> EviLLegolaS <<
- *186. $8,984  bolt986
+  186. $8,984  bolt986
   187. $9,225  francois.brand
   188. $9,269  cyko
   189. $9,306  cfloyd2002
@@ -582,8 +582,8 @@ Updated 2021-09-15T00:19:15.656Z
   578. $11,346 GoombaNL
   579. $11,353 B1nk
   580. $11,364 andrew
- *581. $11,366 Moederkoekje
-  582. $11,366 SillyStrungSabbatical
+  581. $11,366 SillyStrungSabbatical
+ *582. $11,366 Moederkoekje
   583. $11,371 connor.bray.ricks
   584. $11,372 Arty NL
   585. $11,373 Ice4322
@@ -921,7 +921,7 @@ Updated 2021-09-15T00:19:15.656Z
   917. $12,207 Banished
   918. $12,207 PostKnutClarity
   919. $12,210 justaime
- *920. $12,211 hendrick
+  920. $12,211 hendrick
   921. $12,213 Ludvagn
   922. $12,214 不好玩4567
   923. $12,216 Rumpleforeskin
@@ -932,7 +932,7 @@ Updated 2021-09-15T00:19:15.656Z
   928. $12,231 mniip
   929. $12,233 Ockman
   930. $12,235 andrew_edward_thomas
-  931. $12,244 8 wheels good
+ *931. $12,244 8 wheels good
   932. $12,248 Wilco
  *933. $12,252 sondret5
   934. $12,254 Dan the Meatshield
