@@ -1,6 +1,6 @@
 Poly Bridge 2 - 6-16 "Rube Goldbridge" unbreaking leaderboard
-Updated 2021-09-19T00:20:02.713Z
-447/447 unique ranks shown
+Updated 2021-09-21T00:17:29.623Z
+448/448 unique ranks shown
 
     1. $22,843  Bellair08
     2. $23,376  Trygeve
@@ -234,9 +234,9 @@ Updated 2021-09-19T00:20:02.713Z
   230. $189,897 LUCse MENSEN
   231. $190,198 Bot Zket
   232. $190,256 Andrew
-  233. $191,022 chenail.liam
-  234. $191,033 CkyNik
-  235. $191,168 Ken Guo
+  233. $190,433 Ken Guo
+  234. $191,022 chenail.liam
+  235. $191,033 CkyNik
   236. $191,200 M47145dg
   237. $191,507 EvilVegan
   238. $191,724 MrglMrgl
@@ -366,86 +366,87 @@ Updated 2021-09-19T00:20:02.713Z
   362. $213,176 Jacky McJackFace
   363. $213,290 fancyrat
   364. $213,293 crazydiamonde
-  365. $213,434 toomas
-  366. $213,545 geroniberry
-  367. $213,545 Burning Curtains
-  368. $213,609 kristoffer
-  369. $213,611 panderson81
-  370. $213,685 rejudas
-  371. $213,697 Bem
-  372. $213,708 SCHM1TTY
-  373. $213,739 Schneed
-  374. $213,757 cornshitfuck
-  375. $213,848 Overly Burnt Toast -  OBT
-  376. $213,859 Brumbál
-  377. $213,875 wesleyvh
-  378. $213,905 AwesomeHolden6
-  379. $213,908 Barppy
-  380. $213,961 Invasian
-  381. $213,964 Bilbo's Last Clean Doily
-  382. $213,990 Exceptionally Mediocre
-  383. $214,057 Catraption
-  384. $214,059 Daybou
-  385. $214,067 Lord_PhIlDEx
-  386. $214,097 maxjmiles
-  387. $214,146 Strawman
-  388. $214,149 提莫队长、
-  389. $214,208 stereotyper
-  390. $214,240 aajw0308
-  391. $214,313 Sem Chance
-  392. $214,327 shock_block
-  393. $214,349 Teflon(てふろん）
-  394. $214,399 Knoxy
-  395. $214,415 1000crystal
-  396. $214,477 MinedApple
-  397. $214,484 Ablayz
-  398. $214,502 PRNDL
-  399. $214,503 YottaCat
-  400. $214,506 12ohkay
-  401. $214,534 joshwoz118
-  402. $214,566 Arigami
-  403. $214,579 Geert wilders
-  404. $214,592 shj17333
-  405. $214,606 Dad
-  406. $214,647 judd
-  407. $214,658 alexe500
-  408. $214,663 Kraechel
-  409. $214,674 elisholst
-  410. $214,695 Jippopotamus
-  411. $214,697 staubman1
-  412. $214,711 Dr_Geo
-  413. $214,713 Just Around
-  414. $214,713 dakkarkom
-  415. $214,740 mooseman0423
-  416. $214,745 Alison
-  417. $214,761 kaden
-  418. $214,790 Canned Pineapple
-  419. $214,791 minecraft1875
-  420. $214,813 hakejb1
-  421. $214,843 BlueCassio
-  422. $214,844 DildoBike
-  423. $214,852 Dragon Fruit
-  424. $214,876 debaanmatthew
-  425. $214,891 plush
-  426. $214,893 ferd
-  427. $214,926 dvldawgx
-  428. $214,926 yuna12527
-  429. $214,931 santiago.caceres
-  430. $214,942 Sloane
-  431. $214,956 jcskhs
-  432. $214,974 martín
-  433. $214,975 YongLiang
-  434. $214,979 Danielos
-  435. $214,980 gotem_good
-  436. $214,983 Swiftfall
-  437. $214,988 bbdest
-  438. $214,990 BearsAndSuff
-  439. $214,995 merwinfamily77
-  440. $214,998 hexaforce678
-  441. $214,998 TobyDog
-  442. $214,999 ingerking
-  443. $219,975 I'm_venomous
-  444. $264,734 mederic974
-  445. $337,521 theinvisiblecarrot
-  446. $361,364 stayballerzforlife
-  447. $372,666 MeTheCrasher
+  365. $213,333 Guanzie
+  366. $213,434 toomas
+  367. $213,545 geroniberry
+  368. $213,545 Burning Curtains
+  369. $213,609 kristoffer
+  370. $213,611 panderson81
+  371. $213,685 rejudas
+  372. $213,697 Bem
+  373. $213,708 SCHM1TTY
+  374. $213,739 Schneed
+  375. $213,757 cornshitfuck
+  376. $213,848 Overly Burnt Toast -  OBT
+  377. $213,859 Brumbál
+  378. $213,875 wesleyvh
+  379. $213,905 AwesomeHolden6
+  380. $213,908 Barppy
+  381. $213,961 Invasian
+  382. $213,964 Bilbo's Last Clean Doily
+  383. $213,990 Exceptionally Mediocre
+  384. $214,057 Catraption
+  385. $214,059 Daybou
+  386. $214,067 Lord_PhIlDEx
+  387. $214,097 maxjmiles
+  388. $214,146 Strawman
+  389. $214,149 提莫队长、
+  390. $214,208 stereotyper
+  391. $214,240 aajw0308
+  392. $214,313 Sem Chance
+  393. $214,327 shock_block
+  394. $214,349 Teflon(てふろん）
+  395. $214,399 Knoxy
+  396. $214,415 1000crystal
+  397. $214,477 MinedApple
+  398. $214,484 Ablayz
+  399. $214,502 PRNDL
+  400. $214,503 YottaCat
+  401. $214,506 12ohkay
+  402. $214,534 joshwoz118
+  403. $214,566 Arigami
+  404. $214,579 Geert wilders
+  405. $214,592 shj17333
+  406. $214,606 Dad
+  407. $214,647 judd
+  408. $214,658 alexe500
+  409. $214,663 Kraechel
+  410. $214,674 elisholst
+  411. $214,695 Jippopotamus
+  412. $214,697 staubman1
+  413. $214,711 Dr_Geo
+  414. $214,713 Just Around
+  415. $214,713 dakkarkom
+  416. $214,740 mooseman0423
+  417. $214,745 Alison
+  418. $214,761 kaden
+  419. $214,790 Canned Pineapple
+  420. $214,791 minecraft1875
+  421. $214,813 hakejb1
+  422. $214,843 BlueCassio
+  423. $214,844 DildoBike
+  424. $214,852 Dragon Fruit
+  425. $214,876 debaanmatthew
+  426. $214,891 plush
+  427. $214,893 ferd
+  428. $214,926 dvldawgx
+  429. $214,926 yuna12527
+  430. $214,931 santiago.caceres
+  431. $214,942 Sloane
+  432. $214,956 jcskhs
+  433. $214,974 martín
+  434. $214,975 YongLiang
+  435. $214,979 Danielos
+  436. $214,980 gotem_good
+  437. $214,983 Swiftfall
+  438. $214,988 bbdest
+  439. $214,990 BearsAndSuff
+  440. $214,995 merwinfamily77
+  441. $214,998 hexaforce678
+  442. $214,998 TobyDog
+  443. $214,999 ingerking
+  444. $219,975 I'm_venomous
+  445. $264,734 mederic974
+  446. $337,521 theinvisiblecarrot
+  447. $361,364 stayballerzforlife
+  448. $372,666 MeTheCrasher
