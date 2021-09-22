@@ -1,72 +1,109 @@
 Poly Bridge 2 - W0056 "Weekly Challenge #56" unbreaking leaderboard
-Updated 2021-09-21T00:17:29.764Z
-68/68 unique ranks shown
+Updated 2021-09-22T00:19:05.999Z
+105/105 unique ranks shown
 
     1. $38,896  jonaTHOT
     2. $39,299  9k5
-    3. $41,238  R
-    4. $45,739  Dregu
-    5. $47,777  ~ Smithy ~
-    6. $50,923  OeTTINGER
-    7. $55,166  SRA
-    8. $56,694  hmx0311
-    9. $59,321  Bram2323
-   10. $61,419  mbutton15
-   11. $62,138  ingerking
-   12. $63,295  starwarsbacon22
-   13. $65,139  huurainotoruneko
-   14. $65,258  fezubs
-   15. $65,542  Guanzie
-   16. $65,815  Looming
-   17. $65,829  Stabhole
-   18. $66,344  Novato
-   19. $66,713  Zurli
-   20. $67,472  Shirley Urjokin
-   21. $67,571  Lerin
-   22. $67,805  KSstateofmind
-   23. $68,086  Jeevus
-   24. $68,254  dyw234
-   25. $68,261  Biolore
-   26. $68,496  2959605113
-   27. $68,524  tetsu_yamamon
-   28. $68,823  palfly15
-   29. $68,865  Schledodri
-   30. $68,894  zhaohuaye54
-   31. $68,929  SwordlessMimeTown
-   32. $68,947  canevarijp
-   33. $68,958  marcus.wasastjerna
-   34. $68,964  joshwoz118
-   35. $68,976  leuo
-   36. $68,982  Hurts like -The Dickens-
-   37. $68,987  BearsAndSuff
-   38. $68,995  Glu
-   39. $69,000  Alison
-   40. $72,090  Bubi
-   41. $72,261  biorni999
-   42. $77,401  heogeon5
-   43. $78,805  Khoth
-   44. $81,961  potato
-   45. $83,524  alexander
-   46. $84,807  laskintico
-   47. $85,417  germi
-   48. $85,490  killofki
-   49. $85,692  [BMBS]Möhre
-   50. $86,773  Reege
-   51. $87,125  Jesus Loves Cake
-   52. $89,820  thetotalcow
-   53. $93,382  Littlebanana
-   54. $93,975  MiddleOrder321
-   55. $94,541  griffinb55555
-   56. $102,100 CAMAGOCO
-   57. $106,297 breakwaves
-   58. $115,747 TheKDub
-   59. $123,019 Drako the Wizard
-   60. $124,802 Danimal
-   61. $130,520 Loganpie2
-   62. $134,870 Shark-Ozy
-   63. $136,538 bastianthunig86
-   64. $136,967 HamDatNoob
-   65. $137,363 pedi
-   66. $137,695 kenjan91
-   67. $137,864 alihan18
-   68. $137,900 13114905897
+    3. $40,886  R
+    4. $41,414  palfly15
+    5. $45,739  Dregu
+    6. $46,341  Gaotosky10
+    7. $46,787  OeTTINGER
+    8. $47,777  ~ Smithy ~
+    9. $51,994  SRA
+   10. $55,952  Stabhole
+   11. $56,694  hmx0311
+   12. $57,800  scout_2001
+   13. $58,499  Lagiiiie
+   14. $58,750  mbutton15
+   15. $59,321  Bram2323
+   16. $62,019  huurainotoruneko
+   17. $62,138  ingerking
+   18. $62,467  [SF3]^1Scott^0freee3
+   19. $63,295  starwarsbacon22
+   20. $65,258  fezubs
+   21. $65,542  Guanzie
+   22. $65,707  phkmoney
+   23. $65,815  Looming
+   24. $66,130  Domesticated_Child
+   25. $66,344  Novato
+   26. $66,713  Zurli
+   27. $67,472  Shirley Urjokin
+   28. $67,571  Lerin
+   29. $67,805  KSstateofmind
+   30. $67,817  味がない
+   31. $68,086  Jeevus
+   32. $68,143  killofki
+   33. $68,254  dyw234
+   34. $68,261  Biolore
+   35. $68,319  jbrookeiv
+   36. $68,496  2959605113
+   37. $68,524  tetsu_yamamon
+   38. $68,543  biorni999
+   39. $68,656  laskintico
+   40. $68,686  mpmanikas
+   41. $68,775  JonathanM
+   42. $68,833  Noob
+   43. $68,865  Schledodri
+   44. $68,894  zhaohuaye54
+   45. $68,929  SwordlessMimeTown
+   46. $68,947  canevarijp
+   47. $68,958  marcus.wasastjerna
+   48. $68,964  joshwoz118
+   49. $68,976  leuo
+   50. $68,982  Hurts like -The Dickens-
+   51. $68,987  BearsAndSuff
+   52. $68,995  Glu
+   53. $69,000  Alison
+   54. $70,054  Thoomor
+   55. $70,343  水印星空
+   56. $71,257  Bubi
+   57. $74,135  Lisun_YT
+   58. $74,472  dtee3
+   59. $75,356  Jimbo77
+   60. $77,401  heogeon5
+   61. $78,078  clydesdalefan
+   62. $78,805  Khoth
+   63. $79,623  Mammoth
+   64. $80,048  rainer.wischnewski
+   65. $81,241  xxbdogxx
+   66. $81,285  -znegva-
+   67. $81,961  potato
+   68. $83,524  alexander
+   69. $83,674  Momo
+   70. $84,544  Zharra
+   71. $85,417  germi
+   72. $85,692  [BMBS]Möhre
+   73. $86,773  Reege
+   74. $87,125  Jesus Loves Cake
+   75. $89,541  tphaneuf
+   76. $89,820  thetotalcow
+   77. $92,280  griffinb55555
+   78. $92,570  Dejocikus
+   79. $93,382  Littlebanana
+   80. $93,975  MiddleOrder321
+   81. $97,030  GOZZ
+   82. $102,100 CAMAGOCO
+   83. $106,297 breakwaves
+   84. $111,979 Danimal
+   85. $115,747 TheKDub
+   86. $115,853 Danny2502
+   87. $117,569 reinventive
+   88. $117,950 simsu
+   89. $123,019 Drako the Wizard
+   90. $128,898 jacob
+   91. $129,824 dennismail4
+   92. $130,520 Loganpie2
+   93. $134,870 Shark-Ozy
+   94. $135,591 Pinne
+   95. $136,089 ◥◣.LuckyStar.◢◤
+   96. $136,538 bastianthunig86
+   97. $136,967 HamDatNoob
+   98. $137,281 shj17333
+   99. $137,352 Hevius
+  100. $137,363 pedi
+  101. $137,695 kenjan91
+  102. $137,732 rauscher.dirk
+  103. $137,864 alihan18
+  104. $137,900 13114905897
+  105. $137,941 Happy Savage
