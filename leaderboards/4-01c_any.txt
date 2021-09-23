@@ -1,9 +1,9 @@
 Poly Bridge 2 - 4-01C "Edgy" any% leaderboard (* = breaks)
-Updated 2021-09-22T00:19:05.477Z
-1000/3640 unique ranks shown
+Updated 2021-09-23T00:18:54.618Z
+1000/3641 unique ranks shown
 
-   *1. $2,999  Fathom
-   *2. $2,999  Cookieblues
+   *1. $2,999  Cookieblues
+   *2. $2,999  Fathom
    *3. $3,579  7777Alex7777
    *4. $3,579  somefakegamer
    *5. $3,579  Lagiiiie
@@ -36,7 +36,7 @@ Updated 2021-09-22T00:19:05.477Z
   *32. $17,683 lancekro
    33. $17,722 Uniquepotatoes
   *34. $17,744 olivapaa
-  *35. $17,803 zinc
+   35. $17,803 zinc
    36. $17,912 Babou
    37. $18,267 Firesquirrel
    38. $18,519 Igloo
@@ -200,7 +200,7 @@ Updated 2021-09-22T00:19:05.477Z
   196. $22,925 Patrick the Pure
   197. $22,930 zbf539942737
   198. $22,933 arthurklimas
- *199. $22,940 bille
+  199. $22,940 bille
  *200. $22,941 ma23
   201. $22,942 jonah.freeland
   202. $22,958 DanielPXL
@@ -278,8 +278,8 @@ Updated 2021-09-22T00:19:05.477Z
   274. $23,825 schwiftyking
   275. $23,828 Neil
   276. $23,834 tinus
- *277. $23,835 acmorar9
-  278. $23,835 Mickey
+  277. $23,835 Mickey
+ *278. $23,835 acmorar9
   279. $23,852 Gaotosky10
   280. $23,872 mig_
   281. $23,880 first pick Ransack
@@ -313,8 +313,8 @@ Updated 2021-09-22T00:19:05.477Z
   309. $24,079 jakob.infuehr
   310. $24,083 cody
  *311. $24,106 desti
-  312. $24,109 veggie stix
- *313. $24,109 Chickenzilla
+ *312. $24,109 Chickenzilla
+  313. $24,109 veggie stix
  *314. $24,128 Spug
   315. $24,131 anijoker
   316. $24,132 Corgi996
@@ -322,7 +322,7 @@ Updated 2021-09-22T00:19:05.477Z
   318. $24,143 Foxyrenard
   319. $24,144 The Great Pretender
   320. $24,144 Teywer
-  321. $24,153 piccolo_SPA
+ *321. $24,153 piccolo_SPA
   322. $24,179 Shieber
  *323. $24,181 Cs2O2
   324. $24,186 Quantum
@@ -411,9 +411,9 @@ Updated 2021-09-22T00:19:05.477Z
   407. $24,977 ose
   408. $24,978 LFB
  *409. $24,980 keshigom
- *410. $24,987 jtrimbl3
-  411. $24,987 maxjmiles
-  412. $24,987 johnsonofdonut
+  410. $24,987 maxjmiles
+  411. $24,987 johnsonofdonut
+ *412. $24,987 jtrimbl3
   413. $24,991 CaptainHutcho
   414. $25,020 Kyle
   415. $25,036 guaranteed_whales
@@ -457,7 +457,7 @@ Updated 2021-09-22T00:19:05.477Z
  *453. $25,328 snowmaniac
   454. $25,332 duncanwerner
   455. $25,335 TheSuperNR
-  456. $25,341 Muen47
+ *456. $25,341 Muen47
   457. $25,341 TheBaby
   458. $25,350 MechanicalPencil
   459. $25,352 obsidious
@@ -541,8 +541,8 @@ Updated 2021-09-22T00:19:05.477Z
   537. $25,884 Invasian
   538. $25,885 DuncanAM
   539. $25,889 sirchance2002
- *540. $25,898 Jonas_H1307
- *541. $25,898 flustered
+ *540. $25,898 flustered
+ *541. $25,898 Jonas_H1307
  *542. $25,902 Nomix
   543. $25,906 marapara033
   544. $25,913 aferalsheep
@@ -692,8 +692,8 @@ Updated 2021-09-22T00:19:05.477Z
   688. $26,818 Yaky
   689. $26,818 Sith Phil Less
   690. $26,820 Patfou
- *691. $26,831 Gzuz
-  692. $26,831 Frotty
+  691. $26,831 Frotty
+ *692. $26,831 Gzuz
   693. $26,834 joel.rspence
   694. $26,840 das fat catov
   695. $26,840 Exapithicus
@@ -739,8 +739,8 @@ Updated 2021-09-22T00:19:05.477Z
   735. $27,063 readerh7
   736. $27,064 Scrimps
  *737. $27,078 harryald6
- *738. $27,082 DrSoepbal
-  739. $27,082 Sir_Raven
+  738. $27,082 Sir_Raven
+ *739. $27,082 DrSoepbal
   740. $27,084 逗比的熊大
   741. $27,096 gullej
   742. $27,100 security_bot
@@ -795,7 +795,7 @@ Updated 2021-09-22T00:19:05.477Z
   791. $27,407 hobz [REG]
   792. $27,408 adikprokop
   793. $27,408 skya774005
- *794. $27,413 The Toasted Marshmallow
+  794. $27,413 The Toasted Marshmallow
   795. $27,430 LarsIngo
   796. $27,441 Bachlead
   797. $27,442 Xeetos
@@ -912,8 +912,8 @@ Updated 2021-09-22T00:19:05.477Z
   908. $28,208 CoolCorps
   909. $28,217 Ozzy
  *910. $28,218 jacob.hh
-  911. $28,226 frenat
- *912. $28,226 TheRegistater
+ *911. $28,226 TheRegistater
+  912. $28,226 frenat
   913. $28,228 Triple J
   914. $28,236 What_did_I_SAY_?
   915. $28,238 Caleb
@@ -982,12 +982,12 @@ Updated 2021-09-22T00:19:05.477Z
   978. $28,563 (sensei) 先生
   979. $28,570 koutanpuni
   980. $28,572 lari.juhani
- *981. $28,577 lankatt
-  982. $28,577 Retrolith
+  981. $28,577 Retrolith
+ *982. $28,577 lankatt
   983. $28,580 Darius [ZF]
   984. $28,599 keesmees
-  985. $28,600 NeverKlas
- *986. $28,600 roi.ein.zar
+ *985. $28,600 roi.ein.zar
+  986. $28,600 NeverKlas
   987. $28,608 fintaincape
  *988. $28,613 stinod2
  *989. $28,621 prins tisbuks
