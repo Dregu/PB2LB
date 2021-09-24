@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-15 "Looper's Revenge" any% leaderboard (* = breaks)
-Updated 2021-09-23T00:18:54.594Z
-1000/52767 unique ranks shown
+Updated 2021-09-24T00:18:20.877Z
+1000/52907 unique ranks shown
 
    *1. $6,967  9k5
    *2. $6,968  Trygeve
@@ -82,11 +82,11 @@ Updated 2021-09-23T00:18:54.594Z
   *78. $28,054 Plyoxxz
   *79. $28,083 Herneerius
    80. $28,085 fuppywith
-  *81. $28,211 geroniberry
-  *82. $28,211 FierceKitty131
-  *83. $28,211 palfly15
-  *84. $28,211 gamespilgame
-  *85. $28,211 metatropic
+  *81. $28,211 metatropic
+  *82. $28,211 gamespilgame
+  *83. $28,211 FierceKitty131
+  *84. $28,211 palfly15
+  *85. $28,211 geroniberry
    86. $28,235 Virffy
    87. $28,375 itsiques2x
   *88. $28,627 plush
@@ -118,7 +118,7 @@ Updated 2021-09-23T00:18:54.594Z
   114. $30,272 Captain Jones
   115. $30,450 the_flaps
  *116. $30,458 Caliber_G
- *117. $30,773 HappyPiggy
+  117. $30,773 HappyPiggy
   118. $30,776 Minnesota.Nice
   119. $30,827 KLIEART
  *120. $30,869 Spoodle
@@ -296,7 +296,7 @@ Updated 2021-09-23T00:18:54.594Z
  *292. $37,570 ¡ egominer0
   293. $37,587 Spibba
   294. $37,599 Land Shark
-  295. $37,623 Bram2323
+ *295. $37,623 Bram2323
   296. $37,638 goaljim1
  *297. $37,659 makuragi
   298. $37,667 RBX1165
@@ -384,9 +384,9 @@ Updated 2021-09-23T00:18:54.594Z
   380. $39,240 pj_hall
   381. $39,295 sansirih
   382. $39,297 abl8
-  383. $39,300 noobskinninja
+ *383. $39,300 Scottage
  *384. $39,300 zezetel
- *385. $39,300 Scottage
+  385. $39,300 noobskinninja
  *386. $39,306 carzom
   387. $39,310 Mervinatrix
   388. $39,314 misiasty3
@@ -452,8 +452,8 @@ Updated 2021-09-23T00:18:54.594Z
  *448. $40,068 hotS85
   449. $40,096 syrusxavier713
  *450. $40,104 art_joma
- *451. $40,112 Vallith
- *452. $40,112 Dylan/4W
+ *451. $40,112 Dylan/4W
+ *452. $40,112 Vallith
   453. $40,114 Vendetta
   454. $40,116 [Arrowhead] Tantor
  *455. $40,124 涵某某
@@ -476,8 +476,8 @@ Updated 2021-09-23T00:18:54.594Z
  *472. $40,363 Menno
  *473. $40,365 Mike Huntt
  *474. $40,381 Nano_ITX
-  475. $40,389 MaxiDegree9190
- *476. $40,389 FoonTheRaccoon
+ *475. $40,389 FoonTheRaccoon
+  476. $40,389 MaxiDegree9190
  *477. $40,390 SurgeUnleashed
   478. $40,391 Serj
   479. $40,404 XxPieIsTastyxX
@@ -486,10 +486,10 @@ Updated 2021-09-23T00:18:54.594Z
   482. $40,482 generalrabopalma
   483. $40,483 andrew
   484. $40,494 ErwinC
-  485. $40,555 MutatedLemon
- *486. $40,555 KyrhyC
-  487. $40,578 duckman
-  488. $40,578 Liam
+ *485. $40,555 KyrhyC
+  486. $40,555 MutatedLemon
+  487. $40,578 Liam
+  488. $40,578 duckman
   489. $40,580 andnorda
   490. $40,582 RedMaskS
   491. $40,595 Isosceles Triangle
@@ -529,8 +529,8 @@ Updated 2021-09-23T00:18:54.594Z
   525. $41,122 Tovenaar
   526. $41,125 Sral2510
  *527. $41,134 HypersonicPineapple
- *528. $41,155 JakeHasSkill
- *529. $41,155 Frangueliz
+ *528. $41,155 Frangueliz
+ *529. $41,155 JakeHasSkill
  *530. $41,186 Rodni12345
  *531. $41,198 Kerplowy
  *532. $41,226 ishidalabsakair
@@ -542,11 +542,11 @@ Updated 2021-09-23T00:18:54.594Z
   538. $41,288 떡실신13호
   539. $41,305 Maniiez (trading skins)
   540. $41,307 patrik
-  541. $41,321 Voxadi
-  542. $41,321 希望人没事
+  541. $41,321 希望人没事
+  542. $41,321 Voxadi
   543. $41,323 Jayne
-  544. $41,330 Dobbler
-  545. $41,330 bennatwil
+  544. $41,330 bennatwil
+  545. $41,330 Dobbler
  *546. $41,337 [I.B.]-=ViRUS=-
   547. $41,359 DiabolicalDude
   548. $41,369 zartog315
@@ -761,8 +761,8 @@ Updated 2021-09-23T00:18:54.594Z
  *757. $44,332 Co
  *758. $44,333 Mr. Chomp
  *759. $44,346 AZ-LT
-  760. $44,347 0123
- *761. $44,347 macgyven
+ *760. $44,347 macgyven
+  761. $44,347 0123
  *762. $44,348 Joshua
   763. $44,361 Dr. Keks
  *764. $44,367 LL Eden
@@ -797,7 +797,7 @@ Updated 2021-09-23T00:18:54.594Z
   793. $44,716 m.a.swertz
  *794. $44,718 TimeDrifter
   795. $44,733 iso Compass
-  796. $44,735 pkclark
+ *796. $44,735 pkclark
   797. $44,750 Mr. Penguin
   798. $44,758 OriveiraWang
   799. $44,762 Blue Rose
@@ -858,8 +858,8 @@ Updated 2021-09-23T00:18:54.594Z
  *854. $45,364 mig_
  *855. $45,378 Jiwi
  *856. $45,386 davidwilliam.garbutt
-  857. $45,388 weijore
- *858. $45,388 UltimateDuck
+ *857. $45,388 UltimateDuck
+  858. $45,388 weijore
   859. $45,408 BarrelMeister
  *860. $45,440 beemo
   861. $45,447 Chraller97
