@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-13 "Redraw" any% leaderboard (* = breaks)
-Updated 2021-09-26T00:21:14.445Z
-1000/169235 unique ranks shown
+Updated 2021-09-28T00:19:59.269Z
+1000/170131 unique ranks shown
 
    *1. $4,999 Zen
    *2. $4,999 minecat
@@ -140,7 +140,7 @@ Updated 2021-09-26T00:21:14.445Z
   136. $6,995 grzenio_l
   137. $6,996 jimmyscully
   138. $6,997 Robosizzlin
-  139. $7,000 BadZombie99
+  139. $6,997 BadZombie99
   140. $7,008 Marlboro Lights
   141. $7,019 Fleetato
   142. $7,066 maris1995
@@ -555,22 +555,22 @@ Updated 2021-09-26T00:21:14.445Z
   551. $7,615 Nagaru
   552. $7,616 jiufeng1983124
   553. $7,616 whaledong69
-  554. $7,617 Gnarkotics
-  555. $7,618 RootCanal
-  556. $7,618 LittleJane
-  557. $7,618 josephpharney
-  558. $7,619 Heartbeto
-  559. $7,622 lbrinkey01
-  560. $7,622 Bat
-  561. $7,625 dwipper
-  562. $7,626 VASILIVICH
-  563. $7,627 Rugs
-  564. $7,628 Wizzy-chan
-  565. $7,629 alicele14
-  566. $7,629 Ultramelon
-  567. $7,630 Klint Killerman
-  568. $7,632 Neil
-  569. $7,633 goaljim1
+  554. $7,616 goaljim1
+  555. $7,617 Gnarkotics
+  556. $7,618 RootCanal
+  557. $7,618 LittleJane
+  558. $7,618 josephpharney
+  559. $7,619 Heartbeto
+  560. $7,622 lbrinkey01
+  561. $7,622 Bat
+  562. $7,625 dwipper
+  563. $7,626 VASILIVICH
+  564. $7,627 Rugs
+  565. $7,628 Wizzy-chan
+  566. $7,629 alicele14
+  567. $7,629 Ultramelon
+  568. $7,630 Klint Killerman
+  569. $7,632 Neil
   570. $7,634 Katamari (old)
   571. $7,635 GamerGirlPee
   572. $7,636 Bicyclerepairman
@@ -959,46 +959,46 @@ Updated 2021-09-26T00:21:14.445Z
   955. $7,884 ar_kajaia
   956. $7,884 Sev
   957. $7,884 ZiegHailo
-  958. $7,885 what's up danger
-  959. $7,887 killjacker9
-  960. $7,887 trueuniverse
- *961. $7,888 Mqrius
-  962. $7,888 SecondSoul
-  963. $7,888 Unclaimedzero
-  964. $7,889 LUCAS1
-  965. $7,889 alvdh
-  966. $7,889 Meth-Tony
-  967. $7,890 WitnessMe
-  968. $7,890 zezetel
-  969. $7,892 Lord Vaqueiro
-  970. $7,892 AlyKaapiO
-  971. $7,893 Dansta2106
-  972. $7,893 Ledatu
-  973. $7,895 Steven W
-  974. $7,895 Eski-ho
-  975. $7,895 marek7pawelec
-  976. $7,897 bbelansen
-  977. $7,898 efterlyst7154
-  978. $7,898 Aetherllama
-  979. $7,899 Halligator
-  980. $7,899 Striongoscheeesehaiser
-  981. $7,899 IJ | NDH
-  982. $7,901 iso Compass
-  983. $7,901 clayc21
-  984. $7,902 Matrix
-  985. $7,902 Badabas
-  986. $7,902 Bambino
-  987. $7,903 An celery
-  988. $7,904 Drej
-  989. $7,904 myPatoche
-  990. $7,904 EeeeeeeBeeeeee
-  991. $7,905 CLDUBBB
-  992. $7,905 3040204525
-  993. $7,905 Norsk Pass
-  994. $7,906 Fatalon
-  995. $7,907 sheyn
-  996. $7,908 Flames ^-^
-  997. $7,908 GSG9
-  998. $7,908 HydraDax
-  999. $7,909 gavinrvsmith
-*1000. $7,910 Turd Ferguson
+  958. $7,884 DiaboFT
+  959. $7,885 what's up danger
+  960. $7,887 killjacker9
+  961. $7,887 trueuniverse
+ *962. $7,888 Mqrius
+  963. $7,888 SecondSoul
+  964. $7,888 Unclaimedzero
+  965. $7,889 LUCAS1
+  966. $7,889 alvdh
+  967. $7,889 Meth-Tony
+  968. $7,890 WitnessMe
+  969. $7,890 zezetel
+  970. $7,892 Lord Vaqueiro
+  971. $7,892 AlyKaapiO
+  972. $7,893 Dansta2106
+  973. $7,893 Ledatu
+  974. $7,895 Steven W
+  975. $7,895 Eski-ho
+  976. $7,895 marek7pawelec
+  977. $7,897 bbelansen
+  978. $7,898 efterlyst7154
+  979. $7,898 Aetherllama
+  980. $7,899 Halligator
+  981. $7,899 Striongoscheeesehaiser
+  982. $7,899 IJ | NDH
+  983. $7,901 iso Compass
+  984. $7,901 clayc21
+  985. $7,902 Matrix
+  986. $7,902 Badabas
+  987. $7,902 Bambino
+  988. $7,903 An celery
+  989. $7,904 Drej
+  990. $7,904 myPatoche
+  991. $7,904 EeeeeeeBeeeeee
+  992. $7,905 CLDUBBB
+  993. $7,905 3040204525
+  994. $7,905 Norsk Pass
+  995. $7,906 Fatalon
+  996. $7,907 sheyn
+  997. $7,908 Flames ^-^
+  998. $7,908 GSG9
+  999. $7,908 HydraDax
+ 1000. $7,909 gavinrvsmith
