@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-13C "Redraw" any% leaderboard (* = breaks)
-Updated 2021-10-02T00:18:19.624Z
-1000/12400 unique ranks shown
+Updated 2021-10-03T00:20:53.738Z
+1000/12414 unique ranks shown
 
     1. $7,860  Roevhaal
     2. $7,998  ellisk1
@@ -77,7 +77,7 @@ Updated 2021-10-02T00:18:19.624Z
    73. $9,418  simon.green
    74. $9,429  cooperjramos
    75. $9,432  Gnister
-   76. $9,434  Crimson
+  *76. $9,434  Crimson
    77. $9,438  Enchanted Spider
    78. $9,441  HappyFeet
    79. $9,443  911wasbadass
@@ -148,7 +148,7 @@ Updated 2021-10-02T00:18:19.624Z
   144. $9,917  caspermaas06
   145. $9,920  Jezre
   146. $9,940  Mitch Szlachetka
- *147. $9,942  lollyH2O
+  147. $9,942  lollyH2O
   148. $9,946  GolEden
   149. $9,948  Камушек
   150. $9,957  Spooderman
@@ -403,7 +403,7 @@ Updated 2021-10-02T00:18:19.624Z
   399. $11,097 matthias
  *400. $11,097 pietschie
   401. $11,100 Rooul
- *402. $11,102 Bull Moose
+  402. $11,102 Bull Moose
   403. $11,114 Natme
   404. $11,114 adwagner89
   405. $11,117 hehe xd
@@ -489,8 +489,8 @@ Updated 2021-10-02T00:18:19.624Z
   485. $11,371 l_wold1
   486. $11,372 ztz9853
   487. $11,381 robd.lives
- *488. $11,383 samwise38
-  489. $11,383 TheBear
+  488. $11,383 TheBear
+ *489. $11,383 samwise38
   490. $11,383 Воня
   491. $11,383 twise4435
   492. $11,384 LegitGopnik
@@ -531,8 +531,8 @@ Updated 2021-10-02T00:18:19.624Z
  *527. $11,485 tao
   528. $11,491 Merc249
   529. $11,496 Jormungandr
- *530. $11,498 leoncorkidi
-  531. $11,498 Sprainus
+  530. $11,498 Sprainus
+ *531. $11,498 leoncorkidi
   532. $11,499 madsrurup
   533. $11,499 willjcbs
   534. $11,501 Adjoint
@@ -740,16 +740,16 @@ Updated 2021-10-02T00:18:19.624Z
   736. $11,853 Flo The Po
   737. $11,854 solidstrongbad
   738. $11,859 NesTea Lemon
-  739. $11,859 mikehuntehertz
- *740. $11,859 Corgle
+ *739. $11,859 Corgle
+  740. $11,859 mikehuntehertz
  *741. $11,859 Patfou
   742. $11,859 Floki_San
   743. $11,859 fLeX oN yOu In My MiNi CoPpErU
   744. $11,859 le caca
   745. $11,859 goosewhammy
   746. $11,859 Laberynthium13YT
- *747. $11,860 mr_lumpy
-  748. $11,860 ma23
+  747. $11,860 ma23
+ *748. $11,860 mr_lumpy
   749. $11,860 footington
   750. $11,861 theslaad
   751. $11,861 millercraig0
@@ -761,8 +761,8 @@ Updated 2021-10-02T00:18:19.624Z
   757. $11,873 bruh
   758. $11,874 Inigo Montoya
   759. $11,874 |FAQ-YU| Fishezzz
- *760. $11,875 SwankyTroll
-  761. $11,875 kssabc23
+  760. $11,875 kssabc23
+ *761. $11,875 SwankyTroll
   762. $11,877 ThatDamnJackal
   763. $11,878 3524569097
   764. $11,878 Deezer
@@ -799,8 +799,8 @@ Updated 2021-10-02T00:18:19.624Z
   795. $11,936 Optimusnog
   796. $11,937 JustThatKid
  *797. $11,938 coltsjg18
- *798. $11,942 Alex
-  799. $11,942 harryguy11
+  798. $11,942 harryguy11
+ *799. $11,942 Alex
  *800. $11,943 desti
   801. $11,944 Tewaamatar1234
   802. $11,948 Georgedg1
@@ -809,22 +809,22 @@ Updated 2021-10-02T00:18:19.624Z
   805. $11,948 magikman246
   806. $11,948 joegv711
   807. $11,948 Leer
- *808. $11,948 alicele14
-  809. $11,948 HeadLine™
-  810. $11,948 Jakard93
-  811. $11,948 Hawwy1
-  812. $11,948 daniel.mittermaier
-  813. $11,948 3ddy_Nobili
- *814. $11,948 wickes
-  815. $11,948 22612978
-  816. $11,948 Pelbou
-  817. $11,948 Retrolith
-  818. $11,948 jimbug26
-  819. $11,948 GATS
-  820. $11,948 Dylan/4W
-  821. $11,948 Grandpa Shark
-  822. $11,948 Malte Rosenholm
-  823. $11,948 Glevett21
+  808. $11,948 HeadLine™
+  809. $11,948 Jakard93
+  810. $11,948 Hawwy1
+  811. $11,948 daniel.mittermaier
+  812. $11,948 3ddy_Nobili
+  813. $11,948 22612978
+  814. $11,948 Pelbou
+  815. $11,948 Retrolith
+  816. $11,948 alicele14
+  817. $11,948 jimbug26
+  818. $11,948 GATS
+  819. $11,948 Dylan/4W
+  820. $11,948 Grandpa Shark
+  821. $11,948 Malte Rosenholm
+  822. $11,948 Glevett21
+ *823. $11,948 wickes
   824. $11,948 Maro
   825. $11,948 twitch.tv/mysterefire
   826. $11,948 moleir
@@ -841,9 +841,9 @@ Updated 2021-10-02T00:18:19.624Z
   837. $11,961 Nedcut
   838. $11,967 piaseknadmorski
   839. $11,968 Irrelevant
-  840. $11,970 squang8
-  841. $11,970 Treshaun420
- *842. $11,970 klrwayant083
+ *840. $11,970 klrwayant083
+  841. $11,970 squang8
+  842. $11,970 Treshaun420
   843. $11,982 jacobsedk
   844. $11,983 ferdinandball67
   845. $11,984 Part 3 Wu Tang Forever
@@ -905,12 +905,12 @@ Updated 2021-10-02T00:18:19.624Z
   901. $12,077 Erich
  *902. $12,078 zanyking
   903. $12,080 Blayne Mahoney
-  904. $12,082 Griffin
-  905. $12,082 GeneticMonsterEnergyDronk
-  906. $12,082 OwO
-  907. $12,082 Doctor Crichton
-  908. $12,082 Star
- *909. $12,082 SherlockJK
+ *904. $12,082 SherlockJK
+  905. $12,082 Griffin
+  906. $12,082 GeneticMonsterEnergyDronk
+  907. $12,082 OwO
+  908. $12,082 Doctor Crichton
+  909. $12,082 Star
   910. $12,082 Kastrull
   911. $12,082 AgileSpace
   912. $12,083 King Dyllan
@@ -988,8 +988,8 @@ Updated 2021-10-02T00:18:19.624Z
   984. $12,185 Jag gillar kanske barn
   985. $12,186 Yolnex
   986. $12,186 linear
- *987. $12,186 dadda
-  988. $12,186 すみ
+  987. $12,186 すみ
+ *988. $12,186 dadda
   989. $12,186 Chester Cheeto
   990. $12,187 jtornqvist
   991. $12,189 Examinator
