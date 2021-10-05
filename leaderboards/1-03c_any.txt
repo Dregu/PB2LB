@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-03C "Bridge of Steel" any% leaderboard (* = breaks)
-Updated 2021-10-03T00:20:53.603Z
-1000/15010 unique ranks shown
+Updated 2021-10-05T00:19:35.040Z
+1000/15049 unique ranks shown
 
     1. $5,123  Cookieblues
     2. $5,123  Bellair08
@@ -9,8 +9,8 @@ Updated 2021-10-03T00:20:53.603Z
     5. $5,147  MOD
     6. $5,150  Crimson
     7. $5,158  Trygeve
-    8. $5,163  DaveMcW
-   *9. $5,163  Astrodaly
+   *8. $5,163  Astrodaly
+    9. $5,163  DaveMcW
    10. $5,163  zztop03
    11. $5,176  Flubbles
    12. $5,180  Fathom
@@ -39,9 +39,9 @@ Updated 2021-10-03T00:20:53.603Z
    35. $5,236  Slick
    36. $5,237  lmhe
    37. $5,237  GF——LONGWU
-   38. $5,238  Morgothor
-   39. $5,238  TucLTU
-  *40. $5,238  zinc
+  *38. $5,238  zinc
+   39. $5,238  Morgothor
+   40. $5,238  TucLTU
    41. $5,238  MYCRAFTisbest
    42. $5,239  delightfulgiraffe
    43. $5,239  Cypheri
@@ -66,7 +66,7 @@ Updated 2021-10-03T00:20:53.603Z
    62. $5,253  leparkourguy
    63. $5,253  SThomas [GER]
    64. $5,256  ZGORM19
-  *65. $5,257  Pengujedi
+   65. $5,257  Pengujedi
   *66. $5,258  Chunderthighs
    67. $5,258  bd1wt
    68. $5,258  Solid Snow
@@ -189,7 +189,7 @@ Updated 2021-10-03T00:20:53.603Z
  *185. $8,450  Supernye
  *186. $8,455  aklar
   187. $8,924  >> EviLLegolaS <<
-  188. $8,984  bolt986
+ *188. $8,984  bolt986
   189. $9,225  francois.brand
   190. $9,269  cyko
   191. $9,306  cfloyd2002
@@ -413,8 +413,8 @@ Updated 2021-10-03T00:20:53.603Z
   409. $10,783 Cykyl
   410. $10,787 throughfireandflames
   411. $10,787 Jonassiminnimora
-  412. $10,791 modalrealist
- *413. $10,791 Diggsey
+ *412. $10,791 Diggsey
+  413. $10,791 modalrealist
   414. $10,792 Nickyj
   415. $10,793 Zhecata
   416. $10,794 Mdogboy
@@ -449,8 +449,8 @@ Updated 2021-10-03T00:20:53.603Z
  *445. $10,937 zj520zp
   446. $10,943 spacejam
   447. $10,947 PQ
-  448. $10,948 Tioneb
- *449. $10,948 luka4b
+ *448. $10,948 luka4b
+  449. $10,948 Tioneb
   450. $10,949 Pamani
  *451. $10,953 dylan4rays
   452. $10,955 Chris
@@ -471,8 +471,8 @@ Updated 2021-10-03T00:20:53.603Z
   467. $10,997 Rat Preist
   468. $10,999 cvk
   469. $11,000 Freedom_IT
- *470. $11,004 YALDY
-  471. $11,004 Popy6978
+  470. $11,004 Popy6978
+ *471. $11,004 YALDY
   472. $11,006 Tamerch
   473. $11,009 mdocod
  *474. $11,012 Toddy
@@ -500,7 +500,7 @@ Updated 2021-10-03T00:20:53.603Z
   496. $11,070 jjones18
   497. $11,081 JelloFisho
   498. $11,081 Joelisstillhere
-  499. $11,085 VGFortune
+ *499. $11,085 VGFortune
   500. $11,092 Kaidrineko
   501. $11,093 Allink
   502. $11,093 h4n
@@ -558,8 +558,8 @@ Updated 2021-10-03T00:20:53.603Z
   554. $11,248 uxatav
   555. $11,249 EnderSackboy
   556. $11,256 1541397267
-  557. $11,258 petter
- *558. $11,258 ToastyIce
+ *557. $11,258 ToastyIce
+  558. $11,258 petter
   559. $11,260 TheRegistater
   560. $11,260 Nigbor
   561. $11,263 clover.0502.711
@@ -808,8 +808,8 @@ Updated 2021-10-03T00:20:53.603Z
  *804. $11,893 FuegoN
   805. $11,894 Eri
   806. $11,897 dmtjmurphy
-  807. $11,898 GLADYS BBQ CHICKEN☣
- *808. $11,898 Inferior Asian
+ *807. $11,898 Inferior Asian
+  808. $11,898 GLADYS BBQ CHICKEN☣
   809. $11,898 i am noob
   810. $11,901 the-invisible-hand
   811. $11,901 RAL
@@ -934,7 +934,7 @@ Updated 2021-10-03T00:20:53.603Z
   930. $12,193 Danielos
   931. $12,194 ZiuTinyat
   932. $12,194 small glock 58
- *933. $12,198 Zharra
+  933. $12,198 Zharra
   934. $12,199 Karl
   935. $12,203 shawndeep
   936. $12,203 LintyJr
