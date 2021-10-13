@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-15 "Twists and Turns" any% leaderboard (* = breaks)
-Updated 2021-10-12T00:22:05.530Z
-1000/22113 unique ranks shown
+Updated 2021-10-13T00:19:41.812Z
+1000/22144 unique ranks shown
 
     1. $5,362  Trygeve
     2. $5,362  Cookieblues
@@ -20,7 +20,7 @@ Updated 2021-10-12T00:22:05.530Z
   *16. $5,998  CursorCoercer
   *17. $6,856  哎呦微
    18. $6,858  Sigma Nu
-   19. $6,859  Redple
+  *19. $6,859  Redple
   *20. $6,883  HappyPiggy
    21. $7,236  7777Alex7777
    22. $7,260  滑地上之小稽
@@ -64,7 +64,7 @@ Updated 2021-10-12T00:22:05.530Z
    60. $7,695  Boogie Woogie
    61. $7,697  CasperClarke
    62. $7,699  kraal
-   63. $7,705  jonaTHOT
+  *63. $7,705  jonaTHOT
    64. $7,731  Bobcheez ✔
    65. $7,739  Lemon Sorbet
    66. $7,751  BlorkBorkey
@@ -147,7 +147,7 @@ Updated 2021-10-12T00:22:05.530Z
   143. $8,196  CypherTault
   144. $8,199  MrOp
  *145. $8,200  Niilo
-  146. $8,202  plush
+ *146. $8,202  plush
   147. $8,203  HowieFTW
   148. $8,210  palfly15
   149. $8,210  t3ggun
@@ -378,8 +378,8 @@ Updated 2021-10-12T00:22:05.530Z
   374. $9,365  Storm
   375. $9,371  snowhugger7
   376. $9,372  nomis
-  377. $9,373  龙卷风摧毁停车场
- *378. $9,373  Mal'oo
+ *377. $9,373  Mal'oo
+  378. $9,373  龙卷风摧毁停车场
   379. $9,376  wallyworld
   380. $9,381  mnop6
   381. $9,392  TimeForACrusade
@@ -495,7 +495,7 @@ Updated 2021-10-12T00:22:05.530Z
  *491. $9,827  cookiedudes
   492. $9,841  juki
   493. $9,853  达姆雷特
- *494. $9,855  K alm
+  494. $9,855  K alm
   495. $9,858  Dhju8
   496. $9,866  sherwood.jesse
   497. $9,873  Derpy
@@ -793,7 +793,7 @@ Updated 2021-10-12T00:22:05.530Z
   789. $11,041 Oskar
   790. $11,041 ajfrens
  *791. $11,048 Gideon ZA
- *792. $11,057 Bull Moose
+  792. $11,057 Bull Moose
   793. $11,063 bath_mole
   794. $11,066 Evulian
   795. $11,066 JoelCadence
@@ -890,8 +890,8 @@ Updated 2021-10-12T00:22:05.530Z
   886. $11,416 Frits
   887. $11,422 prTz
   888. $11,426 simon.krattky
- *889. $11,426 minecraftlegend1336
-  890. $11,426 moomin4515
+  889. $11,426 moomin4515
+ *890. $11,426 minecraftlegend1336
  *891. $11,430 lollyH2O
   892. $11,434 Commie Slotter
  *893. $11,435 damose
@@ -956,49 +956,49 @@ Updated 2021-10-12T00:22:05.530Z
   952. $11,616 virp
   953. $11,616 YYX
   954. $11,625 Jones
-  955. $11,627 Bonnyz8
-  956. $11,631 harrychen0805
-  957. $11,639 schwiftyking
-  958. $11,651 ABZO
-  959. $11,655 jimmy the constructor
-  960. $11,656 TheThing
-  961. $11,659 eruckim000000
- *962. $11,662 bille
-  963. $11,669 Raxee
-  964. $11,671 Nillowitch
-  965. $11,671 trogdor
-  966. $11,673 Gabe Itch
-  967. $11,673 Big Dave
-  968. $11,678 Michael's Cousin
-  969. $11,683 Drake84
-  970. $11,686 Nucly
-  971. $11,693 goatscheesegorilla
-  972. $11,704 Bubbles344
-  973. $11,705 silverSeb
-  974. $11,706 Red_Lhok
-  975. $11,706 Matthriller
-  976. $11,710 Way_of_Cows
-  977. $11,715 MKBridger
-  978. $11,715 Ossi
-  979. $11,717 汪大仙欸
-  980. $11,720 Terudo
-  981. $11,722 JonJon
-  982. $11,722 Jujublackmagic
-  983. $11,723 DekeOfHazard
-  984. $11,726 bleuboy7247
-  985. $11,729 lukas.ellinger
- *986. $11,736 jaywmckenzie
-  987. $11,737 Yennefer
-  988. $11,738 grommit
-  989. $11,739 tomtoniqwertzu
-  990. $11,741 matze
-  991. $11,742 cube
-  992. $11,743 我吐了
-  993. $11,744 juan_ctg
-  994. $11,745 Lie
-  995. $11,748 Bonefisher
-  996. $11,751 X_C317
-  997. $11,752 Razboy20
-  998. $11,756 Invalid
-  999. $11,763 AMDHome
- 1000. $11,764 United State of NSML
+  955. $11,626 adamski
+  956. $11,627 Bonnyz8
+  957. $11,631 harrychen0805
+  958. $11,639 schwiftyking
+  959. $11,651 ABZO
+  960. $11,655 jimmy the constructor
+  961. $11,656 TheThing
+  962. $11,659 eruckim000000
+  963. $11,662 bille
+  964. $11,669 Raxee
+  965. $11,671 Nillowitch
+  966. $11,671 trogdor
+  967. $11,673 Gabe Itch
+  968. $11,673 Big Dave
+  969. $11,678 Michael's Cousin
+  970. $11,683 Drake84
+  971. $11,686 Nucly
+  972. $11,693 goatscheesegorilla
+  973. $11,704 Bubbles344
+  974. $11,705 silverSeb
+  975. $11,706 Red_Lhok
+  976. $11,706 Matthriller
+  977. $11,710 Way_of_Cows
+  978. $11,715 MKBridger
+  979. $11,715 Ossi
+  980. $11,717 汪大仙欸
+  981. $11,720 Terudo
+  982. $11,722 JonJon
+  983. $11,722 Jujublackmagic
+  984. $11,723 DekeOfHazard
+  985. $11,726 bleuboy7247
+  986. $11,729 lukas.ellinger
+ *987. $11,736 jaywmckenzie
+  988. $11,737 Yennefer
+  989. $11,738 grommit
+  990. $11,739 tomtoniqwertzu
+  991. $11,741 matze
+  992. $11,742 cube
+  993. $11,743 我吐了
+  994. $11,744 juan_ctg
+  995. $11,745 Lie
+  996. $11,748 Bonefisher
+  997. $11,751 X_C317
+  998. $11,752 Razboy20
+  999. $11,756 Invalid
+ 1000. $11,763 AMDHome
