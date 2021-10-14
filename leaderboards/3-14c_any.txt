@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-14C "Low Flyer" any% leaderboard (* = breaks)
-Updated 2021-10-13T00:19:41.636Z
-1000/2873 unique ranks shown
+Updated 2021-10-14T00:20:21.277Z
+1000/2874 unique ranks shown
 
    *1. $288    Bibbb
    *2. $289    Fathom
@@ -20,8 +20,8 @@ Updated 2021-10-13T00:19:41.636Z
   *16. $555    gamespilgame
   *17. $697    Crimson
   *18. $699    Icysnowman
-  *19. $701    maash
-  *20. $701    goldenpggie
+  *19. $701    goldenpggie
+  *20. $701    maash
    21. $33,932 kraal
    22. $34,250 Soba
    23. $34,383 Babou
@@ -78,7 +78,7 @@ Updated 2021-10-13T00:19:41.636Z
    74. $44,601 ~ Smithy ~
    75. $44,785 StreamGames
   *76. $44,975 Staviette
-   77. $45,000 Freedom_IT
+  *77. $45,000 Freedom_IT
   *78. $45,540 Haze
    79. $45,583 TheSadSlinky
   *80. $45,635 TheHiv3_m1nd
@@ -535,8 +535,8 @@ Updated 2021-10-13T00:19:41.636Z
   531. $63,984 Andre
  *532. $64,039 liamjwaller
  *533. $64,048 Salty Snail
-  534. $64,048 bellowey
- *535. $64,048 jsnvndnb
+ *534. $64,048 jsnvndnb
+  535. $64,048 bellowey
   536. $64,062 gajiro240
   537. $64,100 Dr_Geo
   538. $64,120 Mr_Robot
@@ -834,8 +834,8 @@ Updated 2021-10-13T00:19:41.636Z
   830. $67,014 Lion Eating Hummus
  *831. $67,015 mopure33266
   832. $67,016 ruby
-  833. $67,023 Dodddo2
- *834. $67,023 Stick
+ *833. $67,023 Stick
+  834. $67,023 Dodddo2
   835. $67,028 Brubby
   836. $67,033 Alison
  *837. $67,035 Smiggie Balls O.O
@@ -962,43 +962,43 @@ Updated 2021-10-13T00:19:41.636Z
   958. $67,737 Exceptionally Mediocre
   959. $67,775 fk.oh.1015
   960. $67,783 RETNUH YTNUOB
-  961. $67,785 F1zH
-  962. $67,790 ScreechyNutz
-  963. $67,792 Literal Vampire Potbelly Goblins
-  964. $67,811 lcmbo
-  965. $67,815 Mickey
-  966. $67,820 Gardrium
-  967. $67,823 BamChickaBowWow
-  968. $67,824 Michlop
-  969. $67,825 King Dyllan
-  970. $67,829 抱歉不予顯示
-  971. $67,829 krakes656
-  972. $67,839 xIRasten
-  973. $67,856 Svampebob
-  974. $67,862 coolninjaboyudude1234
-  975. $67,863 EagleE
-  976. $67,863 folckert
-  977. $67,870 Selsenay
-  978. $67,878 DMW
-  979. $67,888 Gatebase
-  980. $67,892 Revolves
-  981. $67,893 CptSilver
-  982. $67,895 Yaky
-  983. $67,896 Ryanmon7
-  984. $67,927 DildoBike
-  985. $67,930 denta0056
-  986. $67,934 T-M-
-  987. $67,944 Reefie
-  988. $67,949 Chuckpoo
-  989. $67,958 ahudakone
-  990. $67,965 khosshu
-  991. $67,965 Oddball_Otter
-  992. $67,985 BusketMcChub
-  993. $67,986 motonari_
-  994. $67,986 Gamer Time
- *995. $67,989 tangynugget5x
-  996. $67,989 Kedini
-  997. $68,000 Sloth
-  998. $68,003 Neil
-  999. $68,021 yuki_lee
- 1000. $68,022 Adjoint
+  961. $67,784 DanielPXL
+  962. $67,785 F1zH
+  963. $67,790 ScreechyNutz
+  964. $67,792 Literal Vampire Potbelly Goblins
+  965. $67,811 lcmbo
+  966. $67,815 Mickey
+  967. $67,820 Gardrium
+  968. $67,823 BamChickaBowWow
+  969. $67,824 Michlop
+  970. $67,825 King Dyllan
+  971. $67,829 抱歉不予顯示
+  972. $67,829 krakes656
+  973. $67,839 xIRasten
+  974. $67,856 Svampebob
+  975. $67,862 coolninjaboyudude1234
+  976. $67,863 EagleE
+  977. $67,863 folckert
+  978. $67,870 Selsenay
+  979. $67,878 DMW
+  980. $67,888 Gatebase
+  981. $67,892 Revolves
+  982. $67,893 CptSilver
+  983. $67,895 Yaky
+  984. $67,896 Ryanmon7
+  985. $67,927 DildoBike
+  986. $67,930 denta0056
+  987. $67,934 T-M-
+  988. $67,944 Reefie
+  989. $67,949 Chuckpoo
+  990. $67,958 ahudakone
+  991. $67,965 khosshu
+  992. $67,965 Oddball_Otter
+  993. $67,985 BusketMcChub
+  994. $67,986 motonari_
+  995. $67,986 Gamer Time
+ *996. $67,989 tangynugget5x
+  997. $67,989 Kedini
+  998. $68,000 Sloth
+  999. $68,003 Neil
+ 1000. $68,021 yuki_lee
