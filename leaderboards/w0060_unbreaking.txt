@@ -1,80 +1,122 @@
 Poly Bridge 2 - W0060 "Weekly Challenge #60" unbreaking leaderboard
-Updated 2021-10-19T00:19:52.345Z
-76/76 unique ranks shown
+Updated 2021-10-20T00:22:54.773Z
+118/118 unique ranks shown
 
-    1. $45,998  jonaTHOT
-    2. $66,513  zimmi
-    3. $67,792  R
-    4. $71,399  9k5
-    5. $75,208  kraal
-    6. $76,387  r156pahlke
-    7. $78,877  ingerking
-    8. $79,309  theslaad
-    9. $80,261  mpmanikas
-   10. $82,501  Draradech
-   11. $84,491  palfly15
-   12. $93,267  nooboftheforest
-   13. $93,460  MiddleOrder321
-   14. $93,462  Zen
-   15. $95,903  Karmann69
-   16. $99,057  chenail.liam
-   17. $99,878  mikem274
-   18. $101,228 klippi
-   19. $102,445 zhaohuaye54
-   20. $109,128 lazy comet
-   21. $110,077 huurainotoruneko
-   22. $111,358 mbutton15
-   23. $115,824 Saint-Sinister
-   24. $116,161 Zurli
-   25. $118,391 KSstateofmind
-   26. $118,957 Domesticated_Child
-   27. $120,904 ~ Smithy ~
-   28. $122,596 leuo
-   29. $123,585 tetsu_yamamon
-   30. $123,908 Kubuś :*
-   31. $123,909 manishmanus
-   32. $124,429 Dregu
-   33. $124,586 maxkoen08
-   34. $124,757 tshankulashvili
-   35. $125,759 Luisjnc
-   36. $126,208 Thoomor
-   37. $126,243 hobz [REG]
-   38. $127,527 dvldawgx
-   39. $128,320 jotawarsd
-   40. $128,874 teraoteratera
-   41. $129,094 chowchunfu
-   42. $130,742 derekchung722
-   43. $131,565 ashduino101
-   44. $131,602 cookie_blocker_7
-   45. $131,995 Glu
-   46. $132,159 heogeon5
-   47. $132,544 Lerin
-   48. $132,794 FaceTheBear
-   49. $132,982 Icysnowman
-   50. $133,557 duvald16
-   51. $133,592 Fireel
-   52. $133,896 gabrielnunes1105
-   53. $133,934 joshwoz118
-   54. $134,030 tonyz01234
-   55. $134,692 Reaper Slayer
-   56. $134,704 phkmoney
-   57. $134,718 ZydraG
-   58. $134,758 m_berty
-   59. $134,831 Noob
-   60. $134,859 sarley
-   61. $134,900 dennismail4
-   62. $134,974 Tatous
-   63. $134,980 asnowmanhowsad
-   64. $134,995 alejandro.lambert2002
-   65. $135,721 Bubi
-   66. $139,001 Munchys4545
-   67. $143,900 Santafu
-   68. $167,085 Brody
-   69. $176,160 13silak13
-   70. $176,612 Zbones501
-   71. $182,225 Sairi
-   72. $205,713 Dragon Fruit
-   73. $254,142 ValerioFaccina
-   74. $260,700 apollo791
-   75. $265,346 Janne
-   76. $266,139 sven.pinter0405
+    1. $41,742  jonaTHOT
+    2. $65,993  huurainotoruneko
+    3. $66,513  zimmi
+    4. $67,792  R
+    5. $71,050  r156pahlke
+    6. $71,399  9k5
+    7. $73,430  Darkthefox
+    8. $75,208  kraal
+    9. $76,546  Looming
+   10. $77,851  toddrmoore
+   11. $78,877  ingerking
+   12. $79,309  theslaad
+   13. $80,261  mpmanikas
+   14. $82,501  Draradech
+   15. $83,733  Favmir
+   16. $84,491  palfly15
+   17. $88,752  mbutton15
+   18. $89,206  [SF3]^1Scott^0freee3
+   19. $89,253  Guanzie
+   20. $91,581  Hazel
+   21. $92,152  MiddleOrder321
+   22. $92,300  monkeybassist
+   23. $92,907  Maxonator7
+   24. $93,267  nooboftheforest
+   25. $93,462  Zen
+   26. $94,178  alex
+   27. $94,455  klippi
+   28. $95,903  Karmann69
+   29. $96,080  MaMumsCar
+   30. $97,163  hobz [REG]
+   31. $97,834  Uke
+   32. $99,057  chenail.liam
+   33. $99,878  mikem274
+   34. $100,000 Mr Ben
+   35. $100,345 dickreiter
+   36. $102,445 zhaohuaye54
+   37. $108,907 The Potato King
+   38. $109,128 lazy comet
+   39. $113,390 Jeevus
+   40. $113,923 Brumbál
+   41. $115,824 Saint-Sinister
+   42. $116,161 Zurli
+   43. $118,391 KSstateofmind
+   44. $118,957 Domesticated_Child
+   45. $120,904 ~ Smithy ~
+   46. $122,596 leuo
+   47. $123,585 tetsu_yamamon
+   48. $123,908 Kubuś :*
+   49. $123,909 manishmanus
+   50. $124,398 dtee3
+   51. $124,429 Dregu
+   52. $124,586 maxkoen08
+   53. $124,757 tshankulashvili
+   54. $125,759 Luisjnc
+   55. $126,208 Thoomor
+   56. $126,369 NoName
+   57. $127,527 dvldawgx
+   58. $127,672 asnowmanhowsad
+   59. $128,320 jotawarsd
+   60. $128,874 teraoteratera
+   61. $129,094 chowchunfu
+   62. $130,742 derekchung722
+   63. $130,782 Max Galingumas
+   64. $131,565 ashduino101
+   65. $131,602 cookie_blocker_7
+   66. $131,995 Glu
+   67. $132,159 heogeon5
+   68. $132,544 Lerin
+   69. $132,794 FaceTheBear
+   70. $132,982 Icysnowman
+   71. $133,557 duvald16
+   72. $133,592 Fireel
+   73. $133,896 gabrielnunes1105
+   74. $133,934 joshwoz118
+   75. $134,030 tonyz01234
+   76. $134,692 Reaper Slayer
+   77. $134,704 phkmoney
+   78. $134,718 ZydraG
+   79. $134,728 s.j.kenbeek
+   80. $134,742 [KR]건희1025
+   81. $134,758 m_berty
+   82. $134,831 Noob
+   83. $134,843 btpatterson15
+   84. $134,859 sarley
+   85. $134,900 dennismail4
+   86. $134,925 Ralxm
+   87. $134,974 Tatous
+   88. $134,995 alejandro.lambert2002
+   89. $134,996 sponge
+   90. $135,721 Bubi
+   91. $139,001 Munchys4545
+   92. $143,737 limaisaac25
+   93. $143,900 Santafu
+   94. $147,132 rwellendorf3
+   95. $162,380 Samtasmic15
+   96. $163,554 fly
+   97. $167,085 Brody
+   98. $170,995 isaac
+   99. $171,214 咸鱼冲锋
+  100. $171,392 chips
+  101. $176,160 13silak13
+  102. $176,612 Zbones501
+  103. $182,225 Sairi
+  104. $183,446 maremole
+  105. $189,001 peyj
+  106. $197,903 dani.sto
+  107. $198,704 dell244
+  108. $205,713 Dragon Fruit
+  109. $213,839 Jumbo
+  110. $215,326 RylanTHEHammer
+  111. $223,338 jagg37
+  112. $233,008 dilemma75
+  113. $249,491 nicolasmaximo2008
+  114. $254,142 ValerioFaccina
+  115. $260,700 apollo791
+  116. $262,725 Acid Phreak
+  117. $265,346 Janne
+  118. $266,139 sven.pinter0405
