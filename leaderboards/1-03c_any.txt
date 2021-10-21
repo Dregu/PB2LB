@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-03C "Bridge of Steel" any% leaderboard (* = breaks)
-Updated 2021-10-20T00:22:53.914Z
-1000/15381 unique ranks shown
+Updated 2021-10-21T00:22:01.702Z
+1000/15400 unique ranks shown
 
     1. $5,123  Bellair08
     2. $5,123  Cookieblues
@@ -9,9 +9,9 @@ Updated 2021-10-20T00:22:53.914Z
     5. $5,147  MOD
     6. $5,150  Crimson
     7. $5,158  Trygeve
-   *8. $5,163  Astrodaly
-    9. $5,163  zztop03
-   10. $5,163  DaveMcW
+    8. $5,163  zztop03
+    9. $5,163  DaveMcW
+  *10. $5,163  Astrodaly
    11. $5,176  Flubbles
    12. $5,180  Fathom
    13. $5,182  Roevhaal
@@ -45,8 +45,8 @@ Updated 2021-10-20T00:22:53.914Z
    41. $5,238  MYCRAFTisbest
    42. $5,239  delightfulgiraffe
    43. $5,239  Cypheri
-  *44. $5,240  CasualSanta
-  *45. $5,240  kiwiz
+  *44. $5,240  kiwiz
+  *45. $5,240  CasualSanta
    46. $5,241  maash
    47. $5,241  metatropic
    48. $5,241  Honn
@@ -148,7 +148,7 @@ Updated 2021-10-20T00:22:53.914Z
   144. $5,443  bastian.bello.c
   145. $5,443  AwesomeHolden6
   146. $5,469  Lasaña7925
- *147. $5,488  zezetel
+  147. $5,488  zezetel
   148. $5,500  mikiethepenguin
  *149. $5,501  clownlord06
   150. $5,502  Sir Kit
@@ -338,8 +338,8 @@ Updated 2021-10-20T00:22:53.914Z
  *334. $10,487 BigMommyGames
   335. $10,492 Aiferion
   336. $10,493 CPrimex
-  337. $10,500 BolerPear
- *338. $10,500 St1ngm
+ *337. $10,500 St1ngm
+  338. $10,500 BolerPear
  *339. $10,501 Richard
   340. $10,503 NetEng
   341. $10,504 cioris
@@ -418,8 +418,8 @@ Updated 2021-10-20T00:22:53.914Z
   414. $10,783 Cykyl
   415. $10,787 throughfireandflames
   416. $10,787 Jonassiminnimora
-  417. $10,791 modalrealist
- *418. $10,791 Diggsey
+ *417. $10,791 Diggsey
+  418. $10,791 modalrealist
   419. $10,792 Nickyj
   420. $10,793 Zhecata
   421. $10,794 Mdogboy
@@ -456,8 +456,8 @@ Updated 2021-10-20T00:22:53.914Z
  *452. $10,937 zj520zp
   453. $10,943 spacejam
   454. $10,947 PQ
-  455. $10,948 Tioneb
- *456. $10,948 luka4b
+ *455. $10,948 luka4b
+  456. $10,948 Tioneb
   457. $10,949 Pamani
  *458. $10,953 dylan4rays
   459. $10,955 Chris
@@ -676,9 +676,9 @@ Updated 2021-10-20T00:22:53.914Z
   672. $11,517 XIEPER
   673. $11,518 thomas.vdlf
   674. $11,522 Alita
- *675. $11,526 Piglet
-  676. $11,526 ePrime
-  677. $11,526 Terkey
+  675. $11,526 ePrime
+  676. $11,526 Terkey
+ *677. $11,526 Piglet
   678. $11,528 philimnorden
   679. $11,532 Minty
   680. $11,534 Codazen
@@ -730,8 +730,8 @@ Updated 2021-10-20T00:22:53.914Z
   726. $11,670 crisb
   727. $11,671 r.boere
   728. $11,675 chung.cyrus
- *729. $11,679 lollyH2O
-  730. $11,679 chicken king
+  729. $11,679 chicken king
+ *730. $11,679 lollyH2O
   731. $11,682 El Capitán Haddock
   732. $11,683 mikebkatz
   733. $11,683 AFatalFlaw
@@ -900,8 +900,8 @@ Updated 2021-10-20T00:22:53.914Z
   896. $12,070 RedTekk8
   897. $12,073 reichu
   898. $12,073 Camron2889
- *899. $12,074 zRABZz
-  900. $12,074 maxeruth
+  899. $12,074 maxeruth
+ *900. $12,074 zRABZz
   901. $12,081 Ivee Nara "El Cid"
   902. $12,081 fladrifv
   903. $12,085 logan14235
@@ -962,7 +962,7 @@ Updated 2021-10-20T00:22:53.914Z
   958. $12,207 PostKnutClarity
   959. $12,208 bravel
   960. $12,210 justaime
- *961. $12,211 hendrick
+  961. $12,211 hendrick
   962. $12,213 Ludvagn
   963. $12,214 不好玩4567
   964. $12,216 Rumpleforeskin

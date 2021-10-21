@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-13 "Redraw" unbreaking leaderboard
-Updated 2021-10-20T00:22:54.024Z
-1000/166146 unique ranks shown
+Updated 2021-10-21T00:22:01.801Z
+1000/166505 unique ranks shown
 
     1. $4,999 somefakegamer
     2. $4,999 Noahsorou
@@ -29,13 +29,13 @@ Updated 2021-10-20T00:22:54.024Z
    25. $5,715 lionale29ten
    26. $5,719 GF——LONGWU
    27. $5,719 Honn
-   28. $5,731 Andre
-   29. $5,789 pineapple
-   30. $5,798 NotKlassy
-   31. $5,805 114623050
-   32. $5,808 965510687
-   33. $5,808 Pogona
-   34. $5,814 araskerem
+   28. $5,719 araskerem
+   29. $5,731 Andre
+   30. $5,789 pineapple
+   31. $5,798 NotKlassy
+   32. $5,805 114623050
+   33. $5,808 965510687
+   34. $5,808 Pogona
    35. $5,835 UkiArcticFox
    36. $5,848 TheSadSlinky
    37. $5,875 jinyumei99088
@@ -528,66 +528,66 @@ Updated 2021-10-20T00:22:54.024Z
   524. $7,606 Cheesecube
   525. $7,607 MarcosP
   526. $7,607 Thomas
-  527. $7,608 jake9066
-  528. $7,613 I don't wanna do this anymore 🎮
-  529. $7,614 Igloo
-  530. $7,615 Nagaru
-  531. $7,615 NICOLAS CAGEZINHO
-  532. $7,616 sherry-hampton
-  533. $7,616 jiufeng1983124
-  534. $7,616 whaledong69
-  535. $7,616 goaljim1
-  536. $7,617 Gnarkotics
-  537. $7,618 RootCanal
-  538. $7,618 LittleJane
-  539. $7,618 josephpharney
-  540. $7,619 Heartbeto
-  541. $7,622 lbrinkey01
-  542. $7,622 Bat
-  543. $7,622 jparkerjparker
-  544. $7,625 dwipper
-  545. $7,626 VASILIVICH
-  546. $7,627 Rugs
-  547. $7,628 Wizzy-chan
-  548. $7,629 alicele14
-  549. $7,629 Ultramelon
-  550. $7,630 Klint Killerman
-  551. $7,630 Fenice Scarlatto
-  552. $7,632 Neil
-  553. $7,634 Katamari (old)
-  554. $7,635 GamerGirlPee
-  555. $7,636 Bicyclerepairman
-  556. $7,637 肝帝
-  557. $7,637 Genuine Human
-  558. $7,638 cilet
-  559. $7,638 Asterion
-  560. $7,638 Aurora
-  561. $7,641 Storm
-  562. $7,642 SuperMidget_99
-  563. $7,643 zyffr
-  564. $7,644 keiranco
-  565. $7,646 dunk
-  566. $7,646 GOMER BLAUMENKRANTZ
-  567. $7,646 [ 2 1 2 ] Riskym
-  568. $7,651 DaSheep
-  569. $7,652 to915
-  570. $7,652 jedpeek55
-  571. $7,656 JH131
-  572. $7,658 Elvishbarbecue
-  573. $7,659 Totori
-  574. $7,659 nick.hohlbein
-  575. $7,659 snowhugger7
-  576. $7,660 The Bean
-  577. $7,660 CDR_DaPink
-  578. $7,663 s0mmer
-  579. $7,664 Pajo
-  580. $7,664 Smug Megumin
-  581. $7,665 Firesquirrel
-  582. $7,666 ZOO
-  583. $7,666 Azimmer328
-  584. $7,666 Realyum
-  585. $7,667 Doymecca
-  586. $7,667 Kennetsu
+  527. $7,607 Kennetsu
+  528. $7,608 jake9066
+  529. $7,613 I don't wanna do this anymore 🎮
+  530. $7,614 Igloo
+  531. $7,615 Nagaru
+  532. $7,615 NICOLAS CAGEZINHO
+  533. $7,616 sherry-hampton
+  534. $7,616 jiufeng1983124
+  535. $7,616 whaledong69
+  536. $7,616 goaljim1
+  537. $7,617 Gnarkotics
+  538. $7,618 RootCanal
+  539. $7,618 LittleJane
+  540. $7,618 josephpharney
+  541. $7,619 Heartbeto
+  542. $7,622 lbrinkey01
+  543. $7,622 Bat
+  544. $7,622 jparkerjparker
+  545. $7,625 dwipper
+  546. $7,626 VASILIVICH
+  547. $7,627 Rugs
+  548. $7,628 Wizzy-chan
+  549. $7,629 alicele14
+  550. $7,629 Ultramelon
+  551. $7,630 Klint Killerman
+  552. $7,630 Fenice Scarlatto
+  553. $7,632 Neil
+  554. $7,634 Katamari (old)
+  555. $7,635 GamerGirlPee
+  556. $7,636 Bicyclerepairman
+  557. $7,637 肝帝
+  558. $7,637 Genuine Human
+  559. $7,638 cilet
+  560. $7,638 Asterion
+  561. $7,638 Aurora
+  562. $7,641 Storm
+  563. $7,642 SuperMidget_99
+  564. $7,643 zyffr
+  565. $7,644 keiranco
+  566. $7,646 dunk
+  567. $7,646 GOMER BLAUMENKRANTZ
+  568. $7,646 [ 2 1 2 ] Riskym
+  569. $7,651 DaSheep
+  570. $7,652 to915
+  571. $7,652 jedpeek55
+  572. $7,656 JH131
+  573. $7,658 Elvishbarbecue
+  574. $7,659 Totori
+  575. $7,659 nick.hohlbein
+  576. $7,659 snowhugger7
+  577. $7,660 The Bean
+  578. $7,660 CDR_DaPink
+  579. $7,663 s0mmer
+  580. $7,664 Pajo
+  581. $7,664 Smug Megumin
+  582. $7,665 Firesquirrel
+  583. $7,666 ZOO
+  584. $7,666 Azimmer328
+  585. $7,666 Realyum
+  586. $7,667 Doymecca
   587. $7,668 nitwit.friends
   588. $7,669 Otozm92
   589. $7,670 instant karma

@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-08 "Crossed Paths" any% leaderboard (* = breaks)
-Updated 2021-10-20T00:22:54.249Z
-1000/56016 unique ranks shown
+Updated 2021-10-21T00:22:02.020Z
+1000/56147 unique ranks shown
 
    *1. $2,323  Lagiiiie
    *2. $3,420  9k5
@@ -68,7 +68,7 @@ Updated 2021-10-20T00:22:54.249Z
   *64. $11,879 4hud
    65. $11,997 jimmyscully
   *66. $12,047 theo.louesdon
-   67. $12,099 SaltySeal
+  *67. $12,099 SaltySeal
    68. $12,430 Aklhys
    69. $12,455 Red Charge
    70. $12,463 BeljihnWahfl
@@ -162,7 +162,7 @@ Updated 2021-10-20T00:22:54.249Z
   158. $15,684 rileymcaz
   159. $15,700 Hacker Duck
   160. $15,700 DuuSuu
-  161. $15,721 bille
+ *161. $15,721 bille
   162. $15,735 davidantabi
   163. $15,746 Wadusher
   164. $15,761 E.
@@ -258,8 +258,8 @@ Updated 2021-10-20T00:22:54.249Z
   254. $17,059 CS2100
  *255. $17,066 TigerClawz13
   256. $17,091 Luuroon
- *257. $17,094 Den!ed
-  258. $17,094 Sihanouk
+  257. $17,094 Sihanouk
+ *258. $17,094 Den!ed
   259. $17,115 Thpetre
   260. $17,138 满岛影
   261. $17,139 jcompagni
@@ -268,7 +268,7 @@ Updated 2021-10-20T00:22:54.249Z
  *264. $17,207 Charles-W
   265. $17,214 noobskinninja
   266. $17,216 Martin
- *267. $17,221 Adaven
+  267. $17,221 Adaven
   268. $17,224 XanderB234
   269. $17,234 Mad Dogg
   270. $17,255 funnyman122
@@ -331,17 +331,17 @@ Updated 2021-10-20T00:22:54.249Z
   327. $17,865 The Medic
   328. $17,870 SWEet
   329. $17,871 TheRealDarius
- *330. $17,883 Lord Koia
-  331. $17,883 SkeptikBlaze
+  330. $17,883 SkeptikBlaze
+ *331. $17,883 Lord Koia
  *332. $17,884 Peppermaster
   333. $17,902 Haphazard
   334. $17,915 Count Ronin
- *335. $17,923 gengi ninga
- *336. $17,923 Bushy2700
+ *335. $17,923 Bushy2700
+ *336. $17,923 gengi ninga
   337. $17,927 Newgreen
   338. $17,935 JamieCook
- *339. $17,935 Sheler
-  340. $17,935 NADMaster
+  339. $17,935 NADMaster
+ *340. $17,935 Sheler
   341. $17,936 caioswfr
   342. $17,952 TheSadSlinky
   343. $17,960 Phloofy
@@ -458,8 +458,8 @@ Updated 2021-10-20T00:22:54.249Z
   454. $18,630 w00zy
  *455. $18,640 Diederik
   456. $18,641 evans77
-  457. $18,643 Gamer
- *458. $18,643 Krazy Koi Fish
+ *457. $18,643 Krazy Koi Fish
+  458. $18,643 Gamer
   459. $18,651 Adranium
   460. $18,653 Hawkwing
  *461. $18,658 cyber_fusion
@@ -704,8 +704,8 @@ Updated 2021-10-20T00:22:54.249Z
   700. $19,669 Bucketofnubbins
   701. $19,669 Caim
   702. $19,670 Salamandre
-  703. $19,676 BamseBæst
- *704. $19,676 nathan.spend
+ *703. $19,676 nathan.spend
+  704. $19,676 BamseBæst
   705. $19,678 ruslan.195
   706. $19,681 ✪ Eto♪
   707. $19,681 Oops I Baked a Pie
@@ -797,8 +797,8 @@ Updated 2021-10-20T00:22:54.249Z
   793. $19,943 iso Compass
  *794. $19,944 a trained kitten
   795. $19,953 King_of_Hertz
- *796. $19,956 FuegoN
- *797. $19,956 Arapscal
+ *796. $19,956 Arapscal
+ *797. $19,956 FuegoN
  *798. $19,963 beriangratian
   799. $19,968 ItMe404
   800. $19,969 382845377
@@ -906,9 +906,9 @@ Updated 2021-10-20T00:22:54.249Z
   902. $20,207 Frab
   903. $20,207 sLiCe
   904. $20,215 2215849817
-  905. $20,215 Rackham
-  906. $20,215 vathymon
- *907. $20,215 Rapidz Tempest
+ *905. $20,215 Rapidz Tempest
+  906. $20,215 Rackham
+  907. $20,215 vathymon
   908. $20,217 adammethven37
   909. $20,217 DarkFireAUS
   910. $20,219 Jetstreamer
@@ -995,10 +995,10 @@ Updated 2021-10-20T00:22:54.249Z
   991. $20,412 Shrimpwizard
   992. $20,414 hewa143
   993. $20,425 Berixis
-  994. $20,427 Daniel Fairbanks
-  995. $20,432 Vendetta
-  996. $20,435 hmx0311
- *997. $20,438 jackyzRule
-  998. $20,440 Shydead
-  999. $20,443 _playerschoice
- 1000. $20,446 bennas
+  994. $20,425 504874975
+  995. $20,427 Daniel Fairbanks
+  996. $20,432 Vendetta
+  997. $20,435 hmx0311
+ *998. $20,438 jackyzRule
+  999. $20,440 Shydead
+ 1000. $20,443 _playerschoice
