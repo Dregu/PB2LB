@@ -1,6 +1,6 @@
 Poly Bridge 2 - 2-06C "Roundabout" any% leaderboard (* = breaks)
-Updated 2021-10-22T00:22:41.718Z
-1000/9181 unique ranks shown
+Updated 2021-10-23T00:20:35.251Z
+1000/9187 unique ranks shown
 
     1. $5,351  Cookieblues
     2. $5,351  Trygeve
@@ -8,12 +8,12 @@ Updated 2021-10-22T00:22:41.718Z
     4. $5,939  ALTENO
     5. $6,069  9k5
     6. $6,100  BaconPancakes
-    7. $6,353  Fathom
-    8. $6,353  Bibbb
-    9. $6,406  palfly15
-   10. $6,406  joshwoz118
-   11. $6,430  Bellair08
-   12. $6,430  7777Alex7777
+    7. $6,353  Bibbb
+    8. $6,353  Fathom
+    9. $6,406  joshwoz118
+   10. $6,406  palfly15
+   11. $6,430  7777Alex7777
+   12. $6,430  Bellair08
    13. $6,443  adambrianschmidt
    14. $6,454  david_r_baker
   *15. $6,484  Rüdenhausen
@@ -180,7 +180,7 @@ Updated 2021-10-22T00:22:41.718Z
   176. $11,813 Ogremor
   177. $11,833 Face7
   178. $11,857 Μην παροχής συμβουλών
-  179. $11,877 zezetel
+ *179. $11,877 zezetel
   180. $11,915 Biscuitmunch
   181. $11,994 Eenith
   182. $12,194 PullJosh
@@ -292,7 +292,7 @@ Updated 2021-10-22T00:22:41.718Z
  *288. $14,170 deniz.makul
   289. $14,222 Redple
  *290. $14,226 footington
-  291. $14,245 tokki10
+ *291. $14,245 tokki10
   292. $14,257 arlo.mooney
   293. $14,268 alexingoglia
   294. $14,317 plasmaguy154
@@ -509,8 +509,8 @@ Updated 2021-10-22T00:22:41.718Z
   505. $16,584 Acid RAIN
   506. $16,584 Apex2000
   507. $16,588 mathil
- *508. $16,592 Lava Pototo
-  509. $16,592 zach90888
+  508. $16,592 zach90888
+ *509. $16,592 Lava Pototo
   510. $16,595 K.O.
   511. $16,596 Grand
  *512. $16,608 MageGeraint
@@ -538,8 +538,8 @@ Updated 2021-10-22T00:22:41.718Z
   534. $16,787 The Universe
   535. $16,790 LUCse MENSEN
  *536. $16,802 Nedcut
- *537. $16,814 Simonius
-  538. $16,814 thomasjboote
+  537. $16,814 thomasjboote
+ *538. $16,814 Simonius
   539. $16,816 Scattercatt
   540. $16,816 SilentStorm
   541. $16,830 Outrageus
@@ -556,7 +556,7 @@ Updated 2021-10-22T00:22:41.718Z
  *552. $16,905 Turd Ferguson
   553. $16,909 Cozen
   554. $16,913 Unwoven Sleeve
- *555. $16,919 IgorMAuto
+  555. $16,919 IgorMAuto
   556. $16,920 Botman Plx
   557. $16,921 A Sloth.
   558. $16,929 Kimnet328
@@ -605,8 +605,8 @@ Updated 2021-10-22T00:22:41.718Z
   601. $17,167 Colossal
  *602. $17,171 Corl45
   603. $17,177 tsun-dere
-  604. $17,180 Daveester
- *605. $17,180 JT
+ *604. $17,180 JT
+  605. $17,180 Daveester
   606. $17,181 polak1 -sz
   607. $17,193 Moon_Stone_Rose
   608. $17,211 Matu♿
@@ -628,8 +628,8 @@ Updated 2021-10-22T00:22:41.718Z
   624. $17,261 Ralxm
   625. $17,267 Seldaphar
   626. $17,269 Kodiaz
-  627. $17,274 aaron.steinke
-  628. $17,274 Crowm
+  627. $17,274 Crowm
+  628. $17,274 aaron.steinke
   629. $17,285 IWillBeanInj
   630. $17,298 ~ Smithy ~
   631. $17,306 SkawD
@@ -652,8 +652,8 @@ Updated 2021-10-22T00:22:41.718Z
   648. $17,403 Velocity
   649. $17,422 Chickenzilla
   650. $17,427 DisturbedData55
-  651. $17,435 shill
-  652. $17,435 Leo G-G yt
+  651. $17,435 Leo G-G yt
+  652. $17,435 shill
   653. $17,442 wmBommel
   654. $17,453 Yarronos
   655. $17,453 Kingly Red Lion Guy
@@ -715,8 +715,8 @@ Updated 2021-10-22T00:22:41.718Z
   711. $17,816 Grizzly
   712. $17,819 TheSuperNR
  *713. $17,825 ManaFox
-  714. $17,827 D.J. Explodicus
-  715. $17,827 CrashtestBlowme
+  714. $17,827 CrashtestBlowme
+  715. $17,827 D.J. Explodicus
   716. $17,831 jonathanwistrom
   717. $17,835 bazoko
   718. $17,843 lucascornine
@@ -741,8 +741,8 @@ Updated 2021-10-22T00:22:41.718Z
   737. $17,935 rdsarmientog
   738. $17,938 bolong
   739. $17,941 Xavier the Savior
-  740. $17,947 RedTekk8
-  741. $17,947 Tecnarca
+  740. $17,947 Tecnarca
+  741. $17,947 RedTekk8
   742. $17,964 Bitter Bits
   743. $17,965 Stebois
   744. $17,971 KiWi [SLO]
@@ -756,24 +756,24 @@ Updated 2021-10-22T00:22:41.718Z
   752. $17,993 Daedamid
   753. $17,993 Archie
   754. $17,997 jems
-  755. $17,999 thoma7fglut6
-  756. $17,999 callekung
+ *755. $17,999 callekung
+  756. $17,999 thoma7fglut6
   757. $18,009 sasynks2
   758. $18,012 HeManu
   759. $18,014 Bananes
   760. $18,019 romyk
   761. $18,027 Adjoint
   762. $18,035 oiiaa77
-  763. $18,045 MasterHorst_Skunk
-  764. $18,045 XxBest_Bill_Main_38xX
- *765. $18,045 Collatz
+ *763. $18,045 Collatz
+  764. $18,045 MasterHorst_Skunk
+  765. $18,045 XxBest_Bill_Main_38xX
   766. $18,059 thecormister
   767. $18,062 Canteen
   768. $18,064 marcgigliuto
  *769. $18,066 Congoy
   770. $18,068 CavoX5
-  771. $18,068 Bodrick
-  772. $18,068 Henry Elvis
+  771. $18,068 Henry Elvis
+  772. $18,068 Bodrick
   773. $18,073 Invasian
   774. $18,082 bazey.berrier
  *775. $18,084 PeterHoHK
@@ -835,9 +835,9 @@ Updated 2021-10-22T00:22:41.718Z
  *831. $18,278 WinterMetal
   832. $18,284 DrZobos
   833. $18,284 mikehuntehertz
- *834. $18,290 I need ham
-  835. $18,290 らっぴぃ
-  836. $18,290 Ereku
+  834. $18,290 らっぴぃ
+  835. $18,290 Ereku
+ *836. $18,290 I need ham
   837. $18,299 Petr
   838. $18,311 Existence is Pain
   839. $18,312 Farmer-Rudi
@@ -882,8 +882,8 @@ Updated 2021-10-22T00:22:41.718Z
   878. $18,459 stinod2
   879. $18,460 NomNom
   880. $18,464 j.bottomley87595
-  881. $18,467 NAMASJAM
-  882. $18,467 Ploit
+  881. $18,467 Ploit
+  882. $18,467 NAMASJAM
   883. $18,471 Flartibartfast
   884. $18,479 DarkyPlayz
   885. $18,486 manky.man
@@ -894,8 +894,8 @@ Updated 2021-10-22T00:22:41.718Z
   890. $18,500 Erik the best
   891. $18,500 Grorious Reader
   892. $18,502 Aerlynn
-  893. $18,503 isaac
- *894. $18,503 Choochie
+ *893. $18,503 Choochie
+  894. $18,503 isaac
   895. $18,510 metalpimple
   896. $18,511 mike.avery.third
   897. $18,512 mdchaff
@@ -921,8 +921,8 @@ Updated 2021-10-22T00:22:41.718Z
   917. $18,581 slartybarfast
   918. $18,583 Lord Otter
  *919. $18,589 cold_carmel
- *920. $18,591 alexe500
-  921. $18,591 CH Sbeve
+  920. $18,591 CH Sbeve
+ *921. $18,591 alexe500
   922. $18,594 kworse
  *923. $18,597 Cheesecube
  *924. $18,598 Argontic
@@ -949,8 +949,8 @@ Updated 2021-10-22T00:22:41.718Z
   945. $18,689 gtspeedie
   946. $18,690 Retrolith
   947. $18,692 DinoDuck
-  948. $18,693 mark
-  949. $18,693 mederic974
+  948. $18,693 mederic974
+  949. $18,693 mark
   950. $18,695 TobyV
   951. $18,696 Jonne
   952. $18,698 coltsjg18
@@ -987,9 +987,9 @@ Updated 2021-10-22T00:22:41.718Z
   983. $18,808 Mr Floki
   984. $18,811 nanogeo
   985. $18,816 Okoye's #1
-  986. $18,824 Deathstroke
+ *986. $18,824 UnlimitedFrames
   987. $18,824 radimaulicky
- *988. $18,824 UnlimitedFrames
+  988. $18,824 Deathstroke
   989. $18,825 ClimbingWolf
   990. $18,826 SENPAI PANDA
   991. $18,830 Little Buffalo
