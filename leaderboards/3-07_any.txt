@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-07 "Support Cable" any% leaderboard (* = breaks)
-Updated 2021-10-24T00:20:57.956Z
-1000/62592 unique ranks shown
+Updated 2021-10-26T00:20:15.294Z
+1000/62916 unique ranks shown
 
     1. $13,600 ruby
     2. $13,600 Cookieblues
@@ -24,7 +24,7 @@ Updated 2021-10-24T00:20:57.956Z
   *20. $14,117 DracoZander
    21. $14,124 2540515493
    22. $14,136 somefakegamer
-   23. $14,148 marciochb
+  *23. $14,148 marciochb
    24. $14,159 MOD
    25. $14,169 吸~海龙王
    26. $14,189 alex
@@ -68,7 +68,7 @@ Updated 2021-10-24T00:20:57.956Z
    64. $14,421 Luuroon
    65. $14,429 CardSharp1
    66. $14,464 Kalorienreduziert
-   67. $14,466 goldenpggie
+  *67. $14,466 goldenpggie
    68. $14,470 BIGARM45
    69. $14,480 Jormungandr
   *70. $14,481 WeeWong
@@ -225,8 +225,8 @@ Updated 2021-10-24T00:20:57.956Z
   221. $15,449 weesec1104
   222. $15,466 caetanorocha1113
   223. $15,474 Australia is my City
- *224. $15,483 adambrianschmidt
-  225. $15,483 EAMoney97
+  224. $15,483 EAMoney97
+ *225. $15,483 adambrianschmidt
   226. $15,493 NoName
   227. $15,496 wilku
   228. $15,498 greg.erthal
@@ -248,7 +248,7 @@ Updated 2021-10-24T00:20:57.956Z
   244. $15,577 MoonlitJolty
   245. $15,579 Dregoloth
   246. $15,583 joetahtouh
- *247. $15,583 scrubers
+  247. $15,583 scrubers
  *248. $15,587 Asherville
   249. $15,611 Ducc
   250. $15,614 obxd005
@@ -434,7 +434,7 @@ Updated 2021-10-24T00:20:57.956Z
   430. $17,848 bastian.bello.c
   431. $17,890 torry
   432. $17,907 Schängelche
-  433. $17,963 cfloyd2002
+ *433. $17,963 cfloyd2002
   434. $18,240 andy.gardner
   435. $18,287 auntratty
   436. $18,335 Sketchire_Kat
@@ -464,8 +464,8 @@ Updated 2021-10-24T00:20:57.956Z
   460. $18,872 NIK_48
   461. $18,879 Tehninza
   462. $18,882 Icysnowman
- *463. $18,885 wlimpie
-  464. $18,885 lopez_ayesa
+  463. $18,885 lopez_ayesa
+ *464. $18,885 wlimpie
   465. $18,887 dwyoung205
   466. $18,915 alexhalbi
   467. $18,926 naonao765
@@ -588,8 +588,8 @@ Updated 2021-10-24T00:20:57.956Z
   584. $19,591 [RAWA]Warlord213
   585. $19,594 bexamous
   586. $19,602 ismaeldejesusgonzalezavila
- *587. $19,604 Kristian_R_05
-  588. $19,604 Linuxx
+  587. $19,604 Linuxx
+ *588. $19,604 Kristian_R_05
   589. $19,611 AresKnight
   590. $19,620 AnubisNor
   591. $19,629 Kraks
@@ -615,7 +615,7 @@ Updated 2021-10-24T00:20:57.956Z
   611. $19,700 polybrige_2_pro
  *612. $19,705 tinypenguin000
   613. $19,709 [BT] Smithers
-  614. $19,710 a trained kitten
+ *614. $19,710 a trained kitten
  *615. $19,718 Space Shark
   616. $19,722 Qthey
   617. $19,722 Dex
@@ -823,7 +823,7 @@ Updated 2021-10-24T00:20:57.956Z
   819. $20,356 sim1manson
   820. $20,361 ac7086
   821. $20,366 BlueCoatKarma
- *822. $20,368 Tufvesson
+  822. $20,368 Tufvesson
   823. $20,368 jep0515
   824. $20,382 rfrederico
  *825. $20,383 bye winblows🐧
@@ -837,8 +837,8 @@ Updated 2021-10-24T00:20:57.956Z
   833. $20,411 tonyjj2017
  *834. $20,413 Mattgamer2002
   835. $20,414 ParaPeter123
-  836. $20,422 FranticLemon
- *837. $20,422 Jesus
+ *836. $20,422 Jesus
+  837. $20,422 FranticLemon
   838. $20,425 EGGSALAD
   839. $20,427 DarthTemplar
   840. $20,429 Budda {ger}
@@ -863,9 +863,9 @@ Updated 2021-10-24T00:20:57.956Z
   859. $20,474 hyun2slow
   860. $20,475 mnb
   861. $20,475 holmeS
- *862. $20,477 E
- *863. $20,477 bille
-  864. $20,477 CosecTheta
+  862. $20,477 CosecTheta
+ *863. $20,477 E
+ *864. $20,477 bille
   865. $20,477 simon.habermann
   866. $20,481 scribee
   867. $20,482 1593599958
@@ -879,8 +879,8 @@ Updated 2021-10-24T00:20:57.956Z
   875. $20,506 ZiuTinyat
   876. $20,508 bennatwil
   877. $20,511 Chronic
- *878. $20,518 nWulff
-  879. $20,518 836496550
+  878. $20,518 836496550
+ *879. $20,518 nWulff
   880. $20,521 Nnayrod
   881. $20,525 piaseknadmorski
   882. $20,532 Sanitiago De-Mario
@@ -948,15 +948,15 @@ Updated 2021-10-24T00:20:57.956Z
   944. $20,715 Doxx
   945. $20,719 TazEPR
   946. $20,719 Yoshi
- *947. $20,719 MechFlurry [d]
-  948. $20,719 jschmidt151
-  949. $20,719 Helibert
+  947. $20,719 jschmidt151
+  948. $20,719 Helibert
+ *949. $20,719 MechFlurry [d]
   950. $20,719 max4egger
   951. $20,723 Debiron
   952. $20,724 jaredsellers
   953. $20,727 volutedcobra458
   954. $20,733 xIKeKs
-  955. $20,735 Pineappleboi96
+ *955. $20,735 Pineappleboi96
   956. $20,736 blobbybobby2000
   957. $20,736 Охотник за говном
   958. $20,737 Cg089
@@ -966,8 +966,8 @@ Updated 2021-10-24T00:20:57.956Z
   962. $20,751 大笼包
   963. $20,751 oscar_k
   964. $20,754 Nick>_<♥
-  965. $20,756 exevaeee
- *966. $20,756 vogladyte
+ *965. $20,756 vogladyte
+  966. $20,756 exevaeee
   967. $20,762 jfo
   968. $20,766 AySea
   969. $20,766 fraettchen
