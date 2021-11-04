@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-13C "Redraw" any% leaderboard (* = breaks)
-Updated 2021-11-03T00:19:44.989Z
-1000/13135 unique ranks shown
+Updated 2021-11-04T00:20:09.829Z
+1000/13169 unique ranks shown
 
     1. $7,860  Roevhaal
     2. $7,998  ellisk1
@@ -68,7 +68,7 @@ Updated 2021-11-03T00:19:44.989Z
    64. $9,395  Pimpstyle9008
    65. $9,398  YoungTeezy
    66. $9,399  ole.van.tiel
-  *67. $9,400  Larry the Dota Guy
+   67. $9,400  Larry the Dota Guy
    68. $9,402  Xypher
    69. $9,411  Wadusher
    70. $9,412  OCTDUMPUS
@@ -160,8 +160,8 @@ Updated 2021-11-03T00:19:44.989Z
   156. $9,983  Triss :)
   157. $9,992  Dr. Pepper MD
   158. $9,995  AZ-LT
-  159. $9,996  False_Fantasy
- *160. $9,996  potatoewins4
+ *159. $9,996  potatoewins4
+  160. $9,996  False_Fantasy
   161. $10,000 NimeroKing
   162. $10,024 ShadowFox1337
   163. $10,029 ben.lovelock
@@ -299,8 +299,8 @@ Updated 2021-11-03T00:19:44.989Z
   295. $10,684 Reto
   296. $10,685 linusjern
   297. $10,688 Drake84
-  298. $10,689 Quantum
- *299. $10,689 Inferior Asian
+ *298. $10,689 Inferior Asian
+  299. $10,689 Quantum
   300. $10,696 snowhugger7
   301. $10,702 the_flying_wombat
   302. $10,706 KyloRen773
@@ -399,7 +399,7 @@ Updated 2021-11-03T00:19:44.989Z
   395. $11,062 Rüdenhausen
   396. $11,062 R
   397. $11,067 Leevi
-  398. $11,069 FoonTheRaccoon
+ *398. $11,069 FoonTheRaccoon
   399. $11,069 jorritbock
   400. $11,070 Chappy
   401. $11,071 Billy's mom
@@ -709,296 +709,296 @@ Updated 2021-11-03T00:19:44.989Z
   705. $11,786 Krazy Koi Fish
   706. $11,786 weskg
   707. $11,786 adelie
-  708. $11,792 Canned Pineapple
-  709. $11,794 Knuwl
-  710. $11,797 Mister_Kuh
-  711. $11,797 Big Al Chimpo
-  712. $11,797 Waifu Art Thou Romeo
-  713. $11,799 K0rnfl4k3
-  714. $11,799 Argontic
-  715. $11,800 Liftium2
-  716. $11,802 Knugen
-  717. $11,802 Carefully Concealed Dolphin
-  718. $11,803 Chipmonkey
-  719. $11,804 QQchan
-  720. $11,812 lukeharrisonpainter
-  721. $11,812 Uwma Senhur
-  722. $11,813 Kyle
-  723. $11,815 Lycnt
-  724. $11,816 Nosagi
-  725. $11,817 Skekzi
-  726. $11,817 FoxOmission
-  727. $11,820 Zamyaza
-  728. $11,822 jo.hova.ca
-  729. $11,822 00frank
-  730. $11,822 Notyalc
-  731. $11,822 Μην παροχής συμβουλών
- *732. $11,823 Kotto4Ever
-  733. $11,825 Stabhole
-  734. $11,826 GalahadRounds
-  735. $11,827 Mr. Aakje
-  736. $11,829 RBX1165
-  737. $11,835 ExposedTrain412
-  738. $11,836 deanobean
-  739. $11,837 super_verra
-  740. $11,838 rdsarmientog
- *741. $11,839 chairdude21
-  742. $11,840 Bugisman
-  743. $11,841 2949257186
-  744. $11,841 Uniquepotatoes
-  745. $11,845 mrccg88
-  746. $11,847 Recneps01
-  747. $11,847 hæmoride henning
-  748. $11,847 Gurior
-  749. $11,847 The Magic Taco Truck
-  750. $11,848 Rob1nHoed
-  751. $11,852 rosso.tiago
-  752. $11,853 Flo The Po
-  753. $11,854 solidstrongbad
- *754. $11,859 Patfou
- *755. $11,859 Corgle
-  756. $11,859 Floki_San
+ *708. $11,788 vroot
+  709. $11,792 Canned Pineapple
+  710. $11,794 Knuwl
+  711. $11,797 Mister_Kuh
+  712. $11,797 Big Al Chimpo
+  713. $11,797 Waifu Art Thou Romeo
+  714. $11,799 K0rnfl4k3
+  715. $11,799 Argontic
+  716. $11,800 Liftium2
+  717. $11,802 Knugen
+  718. $11,802 Carefully Concealed Dolphin
+  719. $11,803 Chipmonkey
+  720. $11,804 QQchan
+  721. $11,812 lukeharrisonpainter
+  722. $11,812 Uwma Senhur
+  723. $11,813 Kyle
+  724. $11,815 Lycnt
+  725. $11,816 Nosagi
+  726. $11,817 Skekzi
+  727. $11,817 FoxOmission
+  728. $11,820 Zamyaza
+  729. $11,822 jo.hova.ca
+  730. $11,822 00frank
+  731. $11,822 Notyalc
+  732. $11,822 Μην παροχής συμβουλών
+ *733. $11,823 Kotto4Ever
+  734. $11,825 Stabhole
+  735. $11,826 GalahadRounds
+  736. $11,827 Mr. Aakje
+  737. $11,829 RBX1165
+  738. $11,835 ExposedTrain412
+  739. $11,836 deanobean
+  740. $11,837 super_verra
+  741. $11,838 rdsarmientog
+ *742. $11,839 chairdude21
+  743. $11,840 Bugisman
+  744. $11,841 2949257186
+  745. $11,841 Uniquepotatoes
+  746. $11,845 mrccg88
+  747. $11,847 Recneps01
+  748. $11,847 hæmoride henning
+  749. $11,847 Gurior
+  750. $11,847 The Magic Taco Truck
+  751. $11,848 Rob1nHoed
+  752. $11,852 rosso.tiago
+  753. $11,853 Flo The Po
+  754. $11,854 solidstrongbad
+  755. $11,859 Floki_San
+ *756. $11,859 Corgle
   757. $11,859 le caca
-  758. $11,859 goosewhammy
-  759. $11,859 Laberynthium13YT
-  760. $11,859 fLeX oN yOu In My MiNi CoPpErU
-  761. $11,859 NesTea Lemon
-  762. $11,859 mikehuntehertz
-  763. $11,860 footington
+ *758. $11,859 Patfou
+  759. $11,859 goosewhammy
+  760. $11,859 Laberynthium13YT
+  761. $11,859 fLeX oN yOu In My MiNi CoPpErU
+  762. $11,859 NesTea Lemon
+  763. $11,859 mikehuntehertz
  *764. $11,860 mr_lumpy
-  765. $11,860 ma23
-  766. $11,861 millercraig0
-  767. $11,861 theslaad
-  768. $11,862 jugglerleo
-  769. $11,863 Asyxui
-  770. $11,865 Bodrick
-  771. $11,867 mrhleask
-  772. $11,867 Althaas
-  773. $11,872 Jippopotamus
-  774. $11,873 bruh
-  775. $11,874 Inigo Montoya
-  776. $11,874 |FAQ-YU| Fishezzz
- *777. $11,875 SwankyTroll
-  778. $11,875 kssabc23
-  779. $11,877 ThatDamnJackal
-  780. $11,878 Deezer
-  781. $11,878 3524569097
-  782. $11,881 light yagami
-  783. $11,882 John
-  784. $11,885 ToastIsBread
-  785. $11,885 Cytobit
-  786. $11,890 grantyoder
- *787. $11,890 Burbasuar
-  788. $11,894 tkodger
-  789. $11,894 TheUltomato
-  790. $11,894 mbutton15
-  791. $11,895 Katten2474
-  792. $11,896 mmcmc
-  793. $11,897 marapara033
-  794. $11,898 Scott
-  795. $11,902 Chickenzilla
-  796. $11,907 enderquest
-  797. $11,909 MrglMrgl
-  798. $11,910 Anthony
-  799. $11,914 dayuanxian
-  800. $11,916 shah_tina
-  801. $11,917 Pr Philson
-  802. $11,919 кот
-  803. $11,922 waterleiding
-  804. $11,923 Carville
-  805. $11,923 1442303482
-  806. $11,925 epicalex4444
-  807. $11,926 ayhonglu
-  808. $11,927 joshmo65
-  809. $11,932 Pyr0
-  810. $11,933 xxmtg4
-  811. $11,934 DaGinger
-  812. $11,934 |Bread|
-  813. $11,936 Optimusnog
-  814. $11,936 littles
-  815. $11,937 JustThatKid
- *816. $11,938 coltsjg18
- *817. $11,942 Alex
-  818. $11,942 harryguy11
- *819. $11,943 desti
-  820. $11,944 Tewaamatar1234
-  821. $11,946 aTomiser
-  822. $11,948 Dylan/4W
- *823. $11,948 wickes
+  765. $11,860 footington
+  766. $11,860 ma23
+  767. $11,861 millercraig0
+  768. $11,861 theslaad
+  769. $11,862 jugglerleo
+  770. $11,863 Asyxui
+  771. $11,865 Bodrick
+  772. $11,867 mrhleask
+  773. $11,867 Althaas
+  774. $11,872 Jippopotamus
+  775. $11,873 bruh
+  776. $11,874 Inigo Montoya
+  777. $11,874 |FAQ-YU| Fishezzz
+ *778. $11,875 SwankyTroll
+  779. $11,875 kssabc23
+  780. $11,877 ThatDamnJackal
+  781. $11,878 Deezer
+  782. $11,878 3524569097
+  783. $11,881 light yagami
+  784. $11,882 John
+  785. $11,885 ToastIsBread
+  786. $11,885 Cytobit
+  787. $11,890 grantyoder
+ *788. $11,890 Burbasuar
+  789. $11,894 tkodger
+  790. $11,894 TheUltomato
+  791. $11,894 mbutton15
+  792. $11,895 Katten2474
+  793. $11,896 mmcmc
+  794. $11,897 marapara033
+  795. $11,898 Scott
+  796. $11,902 Chickenzilla
+  797. $11,907 enderquest
+  798. $11,909 MrglMrgl
+  799. $11,910 Anthony
+  800. $11,914 dayuanxian
+  801. $11,916 shah_tina
+  802. $11,917 Pr Philson
+  803. $11,919 кот
+  804. $11,922 waterleiding
+  805. $11,923 Carville
+  806. $11,923 1442303482
+  807. $11,925 epicalex4444
+  808. $11,926 ayhonglu
+  809. $11,927 joshmo65
+  810. $11,932 Pyr0
+  811. $11,933 xxmtg4
+  812. $11,934 DaGinger
+  813. $11,934 |Bread|
+  814. $11,936 Optimusnog
+  815. $11,936 littles
+  816. $11,937 JustThatKid
+ *817. $11,938 coltsjg18
+ *818. $11,942 Alex
+  819. $11,942 harryguy11
+ *820. $11,943 desti
+  821. $11,944 Tewaamatar1234
+  822. $11,946 aTomiser
+  823. $11,948 Dylan/4W
   824. $11,948 FireLucet
   825. $11,948 Maro
   826. $11,948 Anth
   827. $11,948 Max
   828. $11,948 Hawwy1
-  829. $11,948 GATS
-  830. $11,948 Jakard93
-  831. $11,948 joegv711
-  832. $11,948 silke.jaeker
-  833. $11,948 twitch.tv/mysterefire
-  834. $11,948 Pelbou
-  835. $11,948 magikman246
-  836. $11,948 Leer
- *837. $11,948 alicele14
+ *829. $11,948 wickes
+  830. $11,948 GATS
+  831. $11,948 Jakard93
+  832. $11,948 joegv711
+  833. $11,948 silke.jaeker
+  834. $11,948 twitch.tv/mysterefire
+  835. $11,948 Pelbou
+  836. $11,948 magikman246
+  837. $11,948 Leer
   838. $11,948 Retrolith
   839. $11,948 Georgedg1
-  840. $11,948 moleir
-  841. $11,948 22612978
-  842. $11,948 jimbug26
-  843. $11,948 DeathDilo
-  844. $11,948 Grandpa Shark
-  845. $11,948 3ddy_Nobili
-  846. $11,948 Glevett21
-  847. $11,948 HeadLine™
-  848. $11,948 daniel.mittermaier
-  849. $11,948 Malte Rosenholm
- *850. $11,949 Cyborg Minotaur
-  851. $11,951 nicolandu
-  852. $11,951 Enoch
-  853. $11,954 Alelon28
-  854. $11,954 skya774005
-  855. $11,958 MrBigy
- *856. $11,959 Jona
-  857. $11,960 SpencerWasHere
-  858. $11,960 Jemkat
-  859. $11,961 COVID-19
-  860. $11,961 Nedcut
-  861. $11,967 piaseknadmorski
-  862. $11,968 Irrelevant
-  863. $11,970 Treshaun420
-  864. $11,970 squang8
- *865. $11,970 klrwayant083
-  866. $11,982 jacobsedk
-  867. $11,983 ferdinandball67
-  868. $11,984 Part 3 Wu Tang Forever
-  869. $11,989 Callummy
-  870. $11,989 Noisyboy
-  871. $11,993 tkismr
-  872. $11,995 Dragnad
-  873. $11,996 Cwilson2
-  874. $11,997 Jim
-  875. $12,000 quin
-  876. $12,000 Lord_PhIlDEx
-  877. $12,001 taechuK
-  878. $12,001 AQW MAPLESTORY DARKSOULS
-  879. $12,002 boski04
-  880. $12,004 Piotirex
-  881. $12,005 Farmer With A Shotgun
-  882. $12,006 toreyheinz
-  883. $12,009 gametoy
-  884. $12,013 ida.g.hansson
-  885. $12,014 ChichumungaIII
-  886. $12,018 ☠☠☠YYD☠☠☠
-  887. $12,021 Zach 929U
- *888. $12,023 francois.trempe
-  889. $12,023 Agresiel
- *890. $12,023 MrLelface
-  891. $12,025 Clean Baguette
-  892. $12,026 ilia.gureev
-  893. $12,031 BoyAtHisDesk
-  894. $12,032 bfninjamonkey
-  895. $12,033 oxcart
-  896. $12,034 Roadman Pongo
-  897. $12,034 arvin900
-  898. $12,037 mattbehrens18
-  899. $12,037 konchelovsky
-  900. $12,042 Jiel
-  901. $12,043 Farmor
-  902. $12,048 Inhuman Erection
-  903. $12,048 Thicc Boy Jent
-  904. $12,051 artur.platzek
+  840. $11,948 alicele14
+  841. $11,948 moleir
+  842. $11,948 22612978
+  843. $11,948 jimbug26
+  844. $11,948 DeathDilo
+  845. $11,948 Grandpa Shark
+  846. $11,948 3ddy_Nobili
+  847. $11,948 Glevett21
+  848. $11,948 HeadLine™
+  849. $11,948 daniel.mittermaier
+  850. $11,948 Malte Rosenholm
+ *851. $11,949 Cyborg Minotaur
+  852. $11,951 nicolandu
+  853. $11,951 Enoch
+  854. $11,954 Alelon28
+  855. $11,954 skya774005
+  856. $11,958 MrBigy
+ *857. $11,959 Jona
+  858. $11,960 SpencerWasHere
+  859. $11,960 Jemkat
+  860. $11,961 COVID-19
+  861. $11,961 Nedcut
+  862. $11,967 piaseknadmorski
+  863. $11,968 Irrelevant
+  864. $11,970 Treshaun420
+  865. $11,970 squang8
+ *866. $11,970 klrwayant083
+  867. $11,982 jacobsedk
+  868. $11,983 ferdinandball67
+  869. $11,984 Part 3 Wu Tang Forever
+  870. $11,989 Callummy
+  871. $11,989 Noisyboy
+  872. $11,993 tkismr
+  873. $11,995 Dragnad
+  874. $11,996 Cwilson2
+  875. $11,997 Jim
+  876. $12,000 quin
+  877. $12,000 Lord_PhIlDEx
+  878. $12,001 taechuK
+  879. $12,001 AQW MAPLESTORY DARKSOULS
+  880. $12,002 boski04
+  881. $12,004 Piotirex
+  882. $12,005 Farmer With A Shotgun
+  883. $12,006 toreyheinz
+  884. $12,009 gametoy
+  885. $12,013 ida.g.hansson
+  886. $12,014 ChichumungaIII
+  887. $12,018 ☠☠☠YYD☠☠☠
+  888. $12,021 Zach 929U
+ *889. $12,023 francois.trempe
+  890. $12,023 Agresiel
+ *891. $12,023 MrLelface
+  892. $12,025 Clean Baguette
+  893. $12,026 ilia.gureev
+  894. $12,031 BoyAtHisDesk
+  895. $12,032 bfninjamonkey
+  896. $12,033 oxcart
+  897. $12,034 Roadman Pongo
+  898. $12,034 arvin900
+  899. $12,037 mattbehrens18
+  900. $12,037 konchelovsky
+  901. $12,042 Jiel
+  902. $12,043 Farmor
+  903. $12,048 Inhuman Erection
+  904. $12,048 Thicc Boy Jent
  *905. $12,051 noahtheninja
-  906. $12,052 cpawell
-  907. $12,052 UraniumSauce
-  908. $12,054 Welin
-  909. $12,054 Jambo
-  910. $12,056 ColdD丶
-  911. $12,057 JustaLufi
- *912. $12,059 heman the semen
-  913. $12,059 uydurmatik
-  914. $12,059 huurainotoruneko
-  915. $12,060 nino.fajutagana
-  916. $12,060 The Mighty Swash
-  917. $12,061 Communist_Gecko
- *918. $12,063 Tix
-  919. $12,069 RubbarDuckie
-  920. $12,069 Kerplowy
-  921. $12,071 banditho
-  922. $12,071 HeManu
-  923. $12,072 shamelessclub74
-  924. $12,075 Darkthefox
-  925. $12,077 Erich
- *926. $12,078 zanyking
-  927. $12,080 Blayne Mahoney
-  928. $12,082 GeneticMonsterEnergyDronk
-  929. $12,082 Griffin
-  930. $12,082 Kastrull
-  931. $12,082 Star
-  932. $12,082 AgileSpace
-  933. $12,082 OwO
-  934. $12,082 Doctor Crichton
- *935. $12,082 SherlockJK
-  936. $12,083 King Dyllan
- *937. $12,083 LassaL
-  938. $12,087 TheeZachS
-  939. $12,089 chrikk
-  940. $12,092 NotFound
-  941. $12,094 Flash_works_alone
-  942. $12,094 MTyne
-  943. $12,094 fizzlepop berrytwist
-  944. $12,096 theo.louesdon
-  945. $12,097 Thunderbird9
-  946. $12,097 Purrfect | Rawwrr | XD | ;3
-  947. $12,098 Lunath (SARPER)
-  948. $12,099 No, I'm not a cheater
-  949. $12,100 grashalm85
- *950. $12,103 henpenben
+  906. $12,051 artur.platzek
+  907. $12,052 cpawell
+  908. $12,052 UraniumSauce
+  909. $12,054 Welin
+  910. $12,054 Jambo
+  911. $12,056 ColdD丶
+  912. $12,057 JustaLufi
+ *913. $12,059 heman the semen
+  914. $12,059 uydurmatik
+  915. $12,059 huurainotoruneko
+  916. $12,060 nino.fajutagana
+  917. $12,060 The Mighty Swash
+  918. $12,061 Communist_Gecko
+ *919. $12,063 Tix
+  920. $12,069 RubbarDuckie
+  921. $12,069 Kerplowy
+  922. $12,071 banditho
+  923. $12,071 HeManu
+  924. $12,072 shamelessclub74
+  925. $12,075 Darkthefox
+  926. $12,077 Erich
+ *927. $12,078 zanyking
+  928. $12,080 Blayne Mahoney
+  929. $12,082 GeneticMonsterEnergyDronk
+  930. $12,082 Griffin
+  931. $12,082 Kastrull
+ *932. $12,082 SherlockJK
+  933. $12,082 Star
+  934. $12,082 AgileSpace
+  935. $12,082 OwO
+  936. $12,082 Doctor Crichton
+  937. $12,083 King Dyllan
+ *938. $12,083 LassaL
+  939. $12,087 TheeZachS
+  940. $12,089 chrikk
+  941. $12,092 NotFound
+  942. $12,094 Flash_works_alone
+  943. $12,094 MTyne
+  944. $12,094 fizzlepop berrytwist
+  945. $12,096 theo.louesdon
+  946. $12,097 Thunderbird9
+  947. $12,097 Purrfect | Rawwrr | XD | ;3
+  948. $12,098 Lunath (SARPER)
+  949. $12,099 No, I'm not a cheater
+  950. $12,100 grashalm85
   951. $12,103 Pilonite
-  952. $12,104 Florentijn007
-  953. $12,104 Aya
- *954. $12,112 freyrinn
-  955. $12,113 lengvicky
-  956. $12,113 sardyna12
-  957. $12,114 superneuras
-  958. $12,115 kenneh
-  959. $12,116 Dolf
-  960. $12,117 Bat
-  961. $12,119 Tapperij
-  962. $12,120 Looming
-  963. $12,120 simpimm
-  964. $12,122 Eric
-  965. $12,122 SolarSystemGaming12
-  966. $12,123 zoidberg for president
-  967. $12,126 Pink Spaceman
- *968. $12,130 Phraxious
-  969. $12,131 Vasilis
-  970. $12,132 mirth
-  971. $12,132 Conkuist
-  972. $12,135 zbf539942737
-  973. $12,135 Hampa
-  974. $12,136 [CN]H2NCH2COOH
-  975. $12,139 GraphMiner
-  976. $12,139 DisturbedData55
-  977. $12,143 rakankma
-  978. $12,143 Runsteno
-  979. $12,145 debiedries
-  980. $12,145 Grilled Cheese Meltdown
-  981. $12,146 Doublegambler
-  982. $12,148 NightCorn89
-  983. $12,148 misidaly2007
-  984. $12,148 snorkel_head
-  985. $12,149 alanrea1980
-  986. $12,150 Jakke
-  987. $12,150 ✪ Eto♪
- *988. $12,151 Revolves
-  989. $12,152 SMUPACZKid22
-  990. $12,154 juliandirksennz
-  991. $12,154 sunnyshin
-  992. $12,157 MØØSH
-  993. $12,157 TD
-  994. $12,158 Creamy Meme Pie
-  995. $12,158 matttev
-  996. $12,159 LilyWinter
-  997. $12,161 Red Shoehart
-  998. $12,161 DerGreG HD
- *999. $12,163 TheShad0wSlayer
- 1000. $12,164 Spookso
+ *952. $12,103 henpenben
+  953. $12,104 Florentijn007
+  954. $12,104 Aya
+ *955. $12,112 freyrinn
+  956. $12,113 lengvicky
+  957. $12,113 sardyna12
+  958. $12,114 superneuras
+  959. $12,115 kenneh
+  960. $12,116 Dolf
+  961. $12,117 Bat
+  962. $12,119 Tapperij
+  963. $12,120 Looming
+  964. $12,120 simpimm
+  965. $12,122 Eric
+  966. $12,122 SolarSystemGaming12
+  967. $12,123 zoidberg for president
+  968. $12,126 Pink Spaceman
+ *969. $12,130 Phraxious
+  970. $12,131 Vasilis
+  971. $12,132 mirth
+  972. $12,132 Conkuist
+  973. $12,135 zbf539942737
+  974. $12,135 Hampa
+  975. $12,136 [CN]H2NCH2COOH
+  976. $12,139 GraphMiner
+  977. $12,139 DisturbedData55
+  978. $12,143 rakankma
+  979. $12,143 Runsteno
+  980. $12,145 debiedries
+  981. $12,145 Grilled Cheese Meltdown
+  982. $12,146 Doublegambler
+  983. $12,148 NightCorn89
+  984. $12,148 misidaly2007
+  985. $12,148 snorkel_head
+  986. $12,149 alanrea1980
+  987. $12,150 Jakke
+  988. $12,150 ✪ Eto♪
+ *989. $12,151 Revolves
+  990. $12,152 SMUPACZKid22
+  991. $12,154 juliandirksennz
+  992. $12,154 sunnyshin
+  993. $12,157 MØØSH
+  994. $12,157 TD
+  995. $12,158 Creamy Meme Pie
+  996. $12,158 matttev
+  997. $12,159 LilyWinter
+  998. $12,161 Red Shoehart
+  999. $12,161 DerGreG HD
+*1000. $12,163 TheShad0wSlayer
