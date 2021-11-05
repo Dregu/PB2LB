@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-08 "Crossed Paths" any% leaderboard (* = breaks)
-Updated 2021-11-04T00:20:10.083Z
-1000/58515 unique ranks shown
+Updated 2021-11-05T00:21:05.536Z
+1000/58689 unique ranks shown
 
    *1. $2,153  minecat
    *2. $2,153  Lagiiiie
@@ -68,7 +68,7 @@ Updated 2021-11-04T00:20:10.083Z
    64. $11,879 4hud
    65. $11,997 jimmyscully
   *66. $12,047 theo.louesdon
-  *67. $12,099 SaltySeal
+   67. $12,099 SaltySeal
    68. $12,430 Aklhys
    69. $12,455 Red Charge
    70. $12,463 BeljihnWahfl
@@ -76,7 +76,7 @@ Updated 2021-11-04T00:20:10.083Z
    72. $12,608 BaconPancakes
   *73. $12,705 TechFrizzy
    74. $12,759 Land Shark
-  *75. $12,778 HappyPiggy
+   75. $12,778 HappyPiggy
    76. $12,953 Cix
    77. $12,957 Supernye
    78. $12,971 Lana Del Rey
@@ -163,7 +163,7 @@ Updated 2021-11-04T00:20:10.083Z
   159. $15,684 rileymcaz
   160. $15,700 DuuSuu
   161. $15,700 Hacker Duck
-  162. $15,721 bille
+ *162. $15,721 bille
   163. $15,735 davidantabi
   164. $15,746 Wadusher
   165. $15,761 E.
@@ -304,8 +304,8 @@ Updated 2021-11-04T00:20:10.083Z
   300. $17,583 renzovanslooten
  *301. $17,627 gpisthebest
   302. $17,638 Gaotosky10
-  303. $17,639 mr_hyde_
- *304. $17,639 satochyy
+ *303. $17,639 satochyy
+  304. $17,639 mr_hyde_
   305. $17,642 smokedscrod
  *306. $17,644 saker1
   307. $17,656 simon.drlink
@@ -344,11 +344,11 @@ Updated 2021-11-04T00:20:10.083Z
  *340. $17,884 Peppermaster
   341. $17,902 Haphazard
   342. $17,915 Count Ronin
- *343. $17,923 Bushy2700
- *344. $17,923 gengi ninga
+ *343. $17,923 gengi ninga
+ *344. $17,923 Bushy2700
   345. $17,927 Newgreen
- *346. $17,935 Sheler
-  347. $17,935 NADMaster
+  346. $17,935 NADMaster
+ *347. $17,935 Sheler
   348. $17,935 JamieCook
   349. $17,936 caioswfr
   350. $17,952 TheSadSlinky
@@ -361,7 +361,7 @@ Updated 2021-11-04T00:20:10.083Z
   357. $17,991 17uu
   358. $17,992 alex
   359. $17,996 liwo255
- *360. $17,997 Debz
+  360. $17,997 Debz
   361. $17,997 erik.jacobsson88
   362. $17,999 Pokii
   363. $17,999 enya
@@ -394,7 +394,7 @@ Updated 2021-11-04T00:20:10.083Z
   390. $18,181 gajiro240
  *391. $18,189 Sam
   392. $18,191 .vers
- *393. $18,193 Da Real Inventor
+  393. $18,193 Da Real Inventor
  *394. $18,202 GraphMiner
  *395. $18,204 Mr Rock Drake
   396. $18,207 Amonet
@@ -554,8 +554,8 @@ Updated 2021-11-04T00:20:10.083Z
   550. $19,051 Wholesome Bober | Road2DMG
   551. $19,055 jedyobidan
   552. $19,056 Chase1mod
-  553. $19,060 Gorby
- *554. $19,060 Inferior Asian
+ *553. $19,060 Inferior Asian
+  554. $19,060 Gorby
  *555. $19,080 壶中之天
   556. $19,084 (HCG) black_head1981
   557. $19,090 Flo
@@ -575,7 +575,7 @@ Updated 2021-11-04T00:20:10.083Z
   571. $19,153 misdirects
   572. $19,163 hal.f.112358
   573. $19,165 t.lau
- *574. $19,166 326553575
+  574. $19,166 326553575
   575. $19,168 ste_z
  *576. $19,176 christof
   577. $19,179 tinytomblack
@@ -648,8 +648,8 @@ Updated 2021-11-04T00:20:10.083Z
   644. $19,430 BackForComeback
   645. $19,442 Pippin2026
   646. $19,443 Arloten
-  647. $19,446 Ocmerr
- *648. $19,446 barryreichphd
+ *647. $19,446 barryreichphd
+  648. $19,446 Ocmerr
   649. $19,448 Bambino
   650. $19,453 LLCoolDave
   651. $19,458 Zelbinian
@@ -704,8 +704,8 @@ Updated 2021-11-04T00:20:10.083Z
   700. $19,605 TheAltAddict
  *701. $19,610 Bayerbond
   702. $19,616 Commie Slotter
-  703. $19,619 French
- *704. $19,619 Eric
+ *703. $19,619 Eric
+  704. $19,619 French
   705. $19,620 Gomëlz
   706. $19,629 AERO
   707. $19,631 hhuueeyy
@@ -760,8 +760,8 @@ Updated 2021-11-04T00:20:10.083Z
   756. $19,773 STEEL
   757. $19,778 Terrigible
   758. $19,780 Beziinator
-  759. $19,781 koen
- *760. $19,781 lllzzflll
+ *759. $19,781 lllzzflll
+  760. $19,781 koen
  *761. $19,785 Space Shark
   762. $19,786 新科弟Official
   763. $19,800 b00urnz
@@ -892,8 +892,8 @@ Updated 2021-11-04T00:20:10.083Z
   888. $20,135 rain11eleven
   889. $20,136 rfrederico
   890. $20,136 LennyS
- *891. $20,138 0123
-  892. $20,138 Zed
+  891. $20,138 Zed
+ *892. $20,138 0123
   893. $20,142 shasta.pete
   894. $20,143 TToonz
   895. $20,145 Pamani
@@ -962,8 +962,8 @@ Updated 2021-11-04T00:20:10.083Z
   958. $20,290 Ditzel
   959. $20,292 markuscosinus
   960. $20,294 acoster00
-  961. $20,294 Loonman
- *962. $20,294 Cringy
+ *961. $20,294 Cringy
+  962. $20,294 Loonman
   963. $20,296 1211232408
   964. $20,297 XIV
   965. $20,302 tylerhbateman
