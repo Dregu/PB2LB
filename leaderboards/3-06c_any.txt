@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-06C "Rock Skipping" any% leaderboard (* = breaks)
-Updated 2021-11-11T00:21:28.670Z
-1000/5041 unique ranks shown
+Updated 2021-11-12T00:20:54.534Z
+1000/5043 unique ranks shown
 
     1. $2,059  9k5
     2. $2,068  Bellair08
@@ -67,8 +67,8 @@ Updated 2021-11-11T00:21:28.670Z
   *63. $5,156  delightfulgiraffe
    64. $5,173  Confirm NotJonah
   *65. $5,200  Crimson
-  *66. $5,215  Mopar Madness
-  *67. $5,215  MagicalMagikarp
+  *66. $5,215  MagicalMagikarp
+  *67. $5,215  Mopar Madness
    68. $5,249  The_Darebear
   *69. $5,289  Phoneas
    70. $5,311  The_Vaccine
@@ -148,8 +148,8 @@ Updated 2021-11-11T00:21:28.670Z
  *144. $6,772  4hud
   145. $6,775  gajisai
   146. $6,798  Zhus118
- *147. $6,812  MKBridger
-  148. $6,812  A Taco Bell Employe
+  147. $6,812  A Taco Bell Employe
+ *148. $6,812  MKBridger
   149. $6,838  lobstr
   150. $6,864  Envy
   151. $6,877  gold torizo
@@ -250,7 +250,7 @@ Updated 2021-11-11T00:21:28.670Z
   246. $8,058  Time Kitt
   247. $8,110  sauensean420
   248. $8,112  Jemkat
-  249. $8,150  Pengujedi
+ *249. $8,150  Pengujedi
   250. $8,178  peng_yun1205
   251. $8,181  jamiegbreault
   252. $8,184  dhartwell
@@ -273,8 +273,8 @@ Updated 2021-11-11T00:21:28.670Z
  *269. $8,389  E.
   270. $8,404  Patrick Newt
   271. $8,412  Salamandre
-  272. $8,413  pls
- *273. $8,413  TangoWango
+ *272. $8,413  TangoWango
+  273. $8,413  pls
   274. $8,417  Pierre89vdb
   275. $8,417  alontalia4
   276. $8,429  Bubi
@@ -393,8 +393,8 @@ Updated 2021-11-11T00:21:28.670Z
   389. $9,180  Kedini
   390. $9,181  Luna Kampling
   391. $9,181  hippolippo
- *392. $9,181  The Magic Taco Truck
-  393. $9,181  [ok.] Teaksanny
+  392. $9,181  [ok.] Teaksanny
+ *393. $9,181  The Magic Taco Truck
   394. $9,191  schaufan
   395. $9,200  CWYO
  *396. $9,216  ChalmersSantiago
@@ -510,8 +510,8 @@ Updated 2021-11-11T00:21:28.670Z
   506. $9,984  Labeth
   507. $9,985  StreamGames
  *508. $9,996  Video Professor
-  509. $9,999  Plyoxxz
- *510. $9,999  jeremywinick
+ *509. $9,999  jeremywinick
+  510. $9,999  Plyoxxz
   511. $10,011 yuki_lee
   512. $10,020 Uke
  *513. $10,023 Bønjwa
@@ -589,9 +589,9 @@ Updated 2021-11-11T00:21:28.670Z
   585. $10,543 henpenben
   586. $10,546 maxjmiles
   587. $10,555 MarkFinn
- *588. $10,555 shasta.pete
-  589. $10,555 Acid RAIN
-  590. $10,555 thelastprime
+  588. $10,555 Acid RAIN
+  589. $10,555 thelastprime
+ *590. $10,555 shasta.pete
   591. $10,558 Dom
   592. $10,558 Induced
   593. $10,562 Arigami
@@ -742,8 +742,8 @@ Updated 2021-11-11T00:21:28.670Z
   738. $11,406 johannes
  *739. $11,413 Noisyboy
  *740. $11,413 pete
- *741. $11,437 Flashmiester205
-  742. $11,437 Allanb
+  741. $11,437 Allanb
+ *742. $11,437 Flashmiester205
  *743. $11,442 Shrek
   744. $11,443 6175804
   745. $11,444 Inhuman Erection
@@ -752,8 +752,8 @@ Updated 2021-11-11T00:21:28.670Z
   748. $11,459 MechanicalPencil
   749. $11,459 Supernye
   750. $11,464 n00bdax
- *751. $11,473 spottypeas
-  752. $11,473 Igloo
+  751. $11,473 Igloo
+ *752. $11,473 spottypeas
  *753. $11,474 LinkinBark-
   754. $11,476 Epik_Unifish
   755. $11,478 traemine7
@@ -814,7 +814,7 @@ Updated 2021-11-11T00:21:28.670Z
   810. $11,758 Yangnyeom Chicken
   811. $11,760 Jezre
   812. $11,761 PNT_88
-  813. $11,780 omdidit
+ *813. $11,780 omdidit
   814. $11,787 TheWisestGiraffe
   815. $11,791 whatever
   816. $11,791 MasonatorRoblox
