@@ -1,22 +1,22 @@
 Poly Bridge 2 - 3-04C "Double Down" any% leaderboard (* = breaks)
-Updated 2021-11-17T00:20:25.958Z
-1000/4818 unique ranks shown
+Updated 2021-11-18T00:21:31.331Z
+1000/4820 unique ranks shown
 
    *1. $7,450  Fathom
    *2. $7,669  somefakegamer
    *3. $7,669  Lagiiiie
-   *4. $8,352  MOD
-   *5. $8,948  geroniberry
-   *6. $12,681 Noahsorou
-   *7. $13,265 Jhay80416
-   *8. $14,015 minecat
-    9. $14,240 Bellair08
-   10. $14,505 Cookieblues
+   *4. $7,669  Cookieblues
+   *5. $8,352  MOD
+   *6. $8,948  geroniberry
+    7. $12,681 Noahsorou
+   *8. $13,265 Jhay80416
+   *9. $14,015 minecat
+   10. $14,240 Bellair08
   *11. $15,378 SupaFluffyPants
   *12. $15,379 Supernye
    13. $15,597 Sexy Boy Industries [woop]
-  *14. $15,599 Bibbb
-   15. $15,599 9k5
+   14. $15,599 9k5
+  *15. $15,599 Bibbb
    16. $15,668 Soba
   *17. $15,668 Trygeve
   *18. $15,770 olivapaa
@@ -31,11 +31,11 @@ Updated 2021-11-17T00:20:25.958Z
    27. $16,408 Red Five Is Alive
   *28. $16,414 I don't wanna do this anymore 🎮
    29. $16,420 A 2016 Toyota Corolla
-   30. $16,434 Catraption
+  *30. $16,434 Catraption
    31. $16,516 Alison
   *32. $16,599 goldenpggie
-   33. $16,644 Astrozal
-  *34. $16,644 fantakilla
+  *33. $16,644 fantakilla
+   34. $16,644 Astrozal
   *35. $16,701 plutztom
   *36. $16,740 jjmartin
   *37. $16,819 Whyit1
@@ -58,13 +58,13 @@ Updated 2021-11-17T00:20:25.958Z
   *54. $17,864 Herneerius
   *55. $17,886 Cix
   *56. $17,905 Arbeitsloser Trümmertürke
-   57. $17,961 Croney
+  *57. $17,961 Croney
    58. $18,005 Marcel
   *59. $18,162 alicele14
   *60. $18,212 Lima
   *61. $18,226 Thoomor
   *62. $18,241 mraow~
-  *63. $18,466 Go Seigen
+   63. $18,466 Go Seigen
    64. $18,496 bastian.bello.c
   *65. $18,500 fomolom
   *66. $18,547 Honn
@@ -109,8 +109,8 @@ Updated 2021-11-17T00:20:25.958Z
  *105. $21,259 Erik the best
  *106. $21,270 nevaymc
  *107. $21,315 Loganpie2
- *108. $21,330 CheesyGamer201
- *109. $21,330 Simon08
+ *108. $21,330 Simon08
+ *109. $21,330 CheesyGamer201
  *110. $21,376 snova0112
  *111. $21,518 matthewsabio
  *112. $21,520 Pan Vaflička
@@ -154,7 +154,7 @@ Updated 2021-11-17T00:20:25.958Z
  *150. $23,360 ekard_drake
  *151. $23,398 Babou
  *152. $23,442 qiuqiuhulstrom
- *153. $23,476 connor.bray.ricks
+  153. $23,476 connor.bray.ricks
  *154. $23,591 No Nipple Nate
  *155. $23,602 Kosher Karambwan
   156. $23,610 Igloo
@@ -200,7 +200,7 @@ Updated 2021-11-17T00:20:25.958Z
  *196. $25,992 Potato_Onions
  *197. $26,075 Hwrump
   198. $26,114 POLAR
-  199. $26,246 YarinHartman
+ *199. $26,246 YarinHartman
   200. $26,262 biorni999
   201. $26,280 LittlePriest
   202. $26,286 veggie stix
@@ -245,8 +245,8 @@ Updated 2021-11-17T00:20:25.958Z
  *241. $27,708 rolek2
   242. $27,751 [BT] Smithers
   243. $27,755 Floki_San
-  244. $27,802 Minnesota.Nice
- *245. $27,802 DisturbedData55
+ *244. $27,802 DisturbedData55
+  245. $27,802 Minnesota.Nice
   246. $27,819 mbutton15
   247. $27,832 gotem_good
   248. $27,833 VonOnagi
@@ -366,7 +366,7 @@ Updated 2021-11-17T00:20:25.958Z
   362. $29,907 Gabetron
   363. $29,923 mic0325
   364. $29,925 MrglMrgl
-  365. $29,930 jimmy the constructor
+ *365. $29,930 jimmy the constructor
   366. $29,934 OCTDUMPUS
   367. $29,939 zj520zp
   368. $29,996 chris.coveny123
@@ -398,8 +398,8 @@ Updated 2021-11-17T00:20:25.958Z
   394. $30,368 Yaky
   395. $30,374 RafaelJR8
   396. $30,385 adikus
- *397. $30,389 GoldTarget
-  398. $30,389 Munchapop
+  397. $30,389 Munchapop
+ *398. $30,389 GoldTarget
   399. $30,393 Maj. Dude
   400. $30,401 Beep beep I'm a jeep
   401. $30,402 jsnvndnb
@@ -458,8 +458,8 @@ Updated 2021-11-17T00:20:25.958Z
   454. $31,095 Knoxy
   455. $31,107 pegarneau
   456. $31,118 Hipsterfred
-  457. $31,128 Ethan
- *458. $31,128 [PFGUs]Poisoned Fox
+ *457. $31,128 [PFGUs]Poisoned Fox
+  458. $31,128 Ethan
   459. $31,135 Teflon(てふろん）
   460. $31,140 duckman
   461. $31,146 tojapietia
@@ -526,7 +526,7 @@ Updated 2021-11-17T00:20:25.958Z
   522. $31,686 Pickle Rick
  *523. $31,698 Mathias
   524. $31,700 Blaz McBlazington
-  525. $31,706 ma23
+ *525. $31,706 ma23
   526. $31,715 ashulato
   527. $31,718 Qcrist
   528. $31,723 Harry Wragg
@@ -599,9 +599,9 @@ Updated 2021-11-17T00:20:25.958Z
   595. $32,130 robby
   596. $32,130 dridhaswana2
   597. $32,130 rainy
- *598. $32,130 Kyle
-  599. $32,130 Valquoi
-  600. $32,130 Matty90509
+  598. $32,130 Valquoi
+  599. $32,130 Matty90509
+ *600. $32,130 Kyle
   601. $32,132 雨宫美咲
   602. $32,133 jorkrohn
   603. $32,134 MGE Gang
@@ -615,8 +615,8 @@ Updated 2021-11-17T00:20:25.958Z
   611. $32,151 toqlc4179
   612. $32,151 ovadenko.alex
   613. $32,151 FierceKitty131
- *614. $32,151 sleepyy.
-  615. $32,151 TheMarksman232
+  614. $32,151 TheMarksman232
+ *615. $32,151 sleepyy.
   616. $32,179 samurekun
   617. $32,183 Danyal
   618. $32,190 hippolippo
@@ -669,7 +669,7 @@ Updated 2021-11-17T00:20:25.958Z
   665. $32,419 Phraxious
   666. $32,431 Kuhler Emil
   667. $32,435 joemcgrattan2
- *668. $32,436 jaredkazoo
+  668. $32,436 jaredkazoo
   669. $32,444 metalpimple
   670. $32,451 Duyzee
   671. $32,464 SJZombie
@@ -770,8 +770,8 @@ Updated 2021-11-17T00:20:25.958Z
   766. $33,015 ivwaurt
   767. $33,027 Crazy_Gojira
   768. $33,029 nhaven14
- *769. $33,032 SwagMiester
-  770. $33,032 lonetong
+  769. $33,032 lonetong
+ *770. $33,032 SwagMiester
   771. $33,036 CRypToNiTEzZ
  *772. $33,042 Hooden
   773. $33,051 RYNO
