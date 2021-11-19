@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-09 "Tipping Tower" any% leaderboard (* = breaks)
-Updated 2021-11-18T00:21:31.556Z
-1000/39013 unique ranks shown
+Updated 2021-11-19T00:20:37.289Z
+1000/39057 unique ranks shown
 
    *1. $1,885  Valnix
    *2. $1,885  9k5
@@ -92,8 +92,8 @@ Updated 2021-11-18T00:21:31.556Z
    88. $9,990  mathieuvanrossum
   *89. $9,991  Kyle
    90. $9,996  gametoy
-  *91. $9,998  John
-  *92. $9,998  m4w30
+  *91. $9,998  m4w30
+  *92. $9,998  John
    93. $10,083 Mister Doctor
    94. $10,163 Igloo
   *95. $10,182 Hep
@@ -154,7 +154,7 @@ Updated 2021-11-18T00:21:31.556Z
  *150. $11,753 akkun_ouo
   151. $11,759 BigNThicc
   152. $11,785 TrollyLoki
- *153. $11,803 kraal
+  153. $11,803 kraal
   154. $11,836 thorgal
   155. $11,925 kresix_
   156. $11,940 J_immers
@@ -218,8 +218,8 @@ Updated 2021-11-18T00:21:31.556Z
   214. $13,051 autismo
   215. $13,060 JoJoBond
   216. $13,077 florpaco
- *217. $13,103 Netlore
-  218. $13,103 dkb8k
+  217. $13,103 dkb8k
+ *218. $13,103 Netlore
   219. $13,111 Expendable-Tango
   220. $13,117 hmx0311
   221. $13,139 Icy Unicorn
@@ -245,8 +245,8 @@ Updated 2021-11-18T00:21:31.556Z
   241. $13,386 xDerAlmanPanzer
   242. $13,393 PUGGYBOI21
   243. $13,394 ReformedGod
- *244. $13,404 flama_purklin
- *245. $13,404 Digital High
+ *244. $13,404 Digital High
+ *245. $13,404 flama_purklin
   246. $13,405 Voxadi
   247. $13,425 ~ <@=:
   248. $13,427 littzhch
@@ -394,8 +394,8 @@ Updated 2021-11-18T00:21:31.556Z
  *390. $14,431 Painless
   391. $14,438 itsiques2x
   392. $14,442 moonblade
- *393. $14,451 Jormungandr
- *394. $14,451 t.lau
+ *393. $14,451 t.lau
+ *394. $14,451 Jormungandr
   395. $14,468 风暴港湾
   396. $14,468 Zounius
   397. $14,484 Arbeitsloser Trümmertürke
@@ -475,11 +475,11 @@ Updated 2021-11-18T00:21:31.556Z
   471. $14,969 Sid
   472. $14,978 holzingerphilip
   473. $14,981 ShrexyBeast
- *474. $14,988 Easy
- *475. $14,988 Cows_Say_Oink
+ *474. $14,988 Cows_Say_Oink
+ *475. $14,988 Easy
  *476. $14,995 cvk
   477. $14,996 immo
- *478. $15,006 bille
+  478. $15,006 bille
  *479. $15,027 michal_kasznia
   480. $15,029 Toiga
   481. $15,049 Big Al Chimpo
@@ -618,13 +618,13 @@ Updated 2021-11-18T00:21:31.556Z
   614. $15,762 lowsalt
   615. $15,765 Commit sudoku
  *616. $15,768 Greymorn
- *617. $15,770 Hulk Deputado
-  618. $15,770 Phantomtyger
+  617. $15,770 Phantomtyger
+ *618. $15,770 Hulk Deputado
  *619. $15,782 Flip
  *620. $15,785 UrbanEngineer
   621. $15,789 Mulakulu
-  622. $15,790 Draradech
- *623. $15,790 scrubers
+ *622. $15,790 scrubers
+  623. $15,790 Draradech
   624. $15,808 Timmy Turnup
   625. $15,811 Seiho2659
   626. $15,821 harrychen0805
@@ -660,8 +660,8 @@ Updated 2021-11-18T00:21:31.556Z
  *656. $15,916 TATZUfin
  *657. $15,917 Menno
   658. $15,924 enya
-  659. $15,926 Tempus Shift
- *660. $15,926 InvertedParadox
+ *659. $15,926 InvertedParadox
+  660. $15,926 Tempus Shift
  *661. $15,931 logan14235
   662. $15,937 bye winblows🐧
  *663. $15,938 seagles
@@ -704,8 +704,8 @@ Updated 2021-11-18T00:21:31.556Z
   700. $16,076 Paintchip
  *701. $16,080 okke79
   702. $16,099 Xergz
-  703. $16,102 pangpanggao
- *704. $16,102 level 4 swimmer
+ *703. $16,102 level 4 swimmer
+  704. $16,102 pangpanggao
   705. $16,106 ArtZ
   706. $16,119 dedevilscat
   707. $16,119 FrycuBOP
@@ -720,8 +720,8 @@ Updated 2021-11-18T00:21:31.556Z
  *716. $16,143 HomoDeus
   717. $16,148 kein.name
  *718. $16,153 swift_gringo
- *719. $16,156 dendio2
-  720. $16,156 Jas
+  719. $16,156 Jas
+ *720. $16,156 dendio2
   721. $16,166 N8_Gamer
   722. $16,171 supremechalupa
  *723. $16,172 gaerfile
@@ -805,7 +805,7 @@ Updated 2021-11-18T00:21:31.556Z
   801. $16,457 Toe Knee
   802. $16,458 iressle
   803. $16,459 StinkyWizzleTooth
-  804. $16,463 owen430s
+ *804. $16,463 owen430s
  *805. $16,472 SHEEP
   806. $16,475 Ymeisnot
   807. $16,482 King Pickle
@@ -844,8 +844,8 @@ Updated 2021-11-18T00:21:31.556Z
   840. $16,573 lilo_we
   841. $16,573 cLurkKent
   842. $16,574 bamsic
- *843. $16,578 Supernye
- *844. $16,578 Beast
+ *843. $16,578 Beast
+ *844. $16,578 Supernye
  *845. $16,582 boş gezenin boş kafası
   846. $16,583 cimathers
   847. $16,586 simon.green
@@ -877,8 +877,8 @@ Updated 2021-11-18T00:21:31.556Z
  *873. $16,669 chung.cyrus
   874. $16,669 Louis Theroux
   875. $16,670 Glithicus
- *876. $16,679 link
- *877. $16,679 Резин
+ *876. $16,679 Резин
+ *877. $16,679 link
   878. $16,680 ma23
   879. $16,686 Arislan
   880. $16,686 JustPtrck_
@@ -1000,5 +1000,5 @@ Updated 2021-11-18T00:21:31.556Z
   996. $16,979 arlo.steinberg
   997. $16,981 tylerdg22
  *998. $16,981 Zeru-el
- *999. $16,985 TouchTheDog
-*1000. $16,985 gamer253
+ *999. $16,985 gamer253
+*1000. $16,985 TouchTheDog
