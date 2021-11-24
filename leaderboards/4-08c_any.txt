@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-08C "Thread the Needle" any% leaderboard (* = breaks)
-Updated 2021-11-23T00:21:33.951Z
-1000/3864 unique ranks shown
+Updated 2021-11-24T00:21:40.578Z
+1000/3866 unique ranks shown
 
    *1. $1,531  BaconPancakes
    *2. $1,672  nVentex
@@ -101,8 +101,8 @@ Updated 2021-11-23T00:21:33.951Z
    97. $5,252  AGENT_BLARPY0009
   *98. $5,293  Retrolith
    99. $5,323  Big Al Chimpo
-  100. $5,338  TheSadSlinky
- *101. $5,338  滑地上之小稽
+ *100. $5,338  滑地上之小稽
+  101. $5,338  TheSadSlinky
   102. $5,344  ultraroar101
  *103. $5,378  Pat
   104. $5,387  floofiepoes
@@ -157,7 +157,7 @@ Updated 2021-11-23T00:21:33.951Z
  *153. $6,241  skepular
  *154. $6,255  420 FaZe it
  *155. $6,258  Zawza
- *156. $6,310  Herneerius
+  156. $6,310  Herneerius
   157. $6,376  The Cabman
   158. $6,385  Elodie
   159. $6,403  Banankakan
@@ -237,7 +237,7 @@ Updated 2021-11-23T00:21:33.951Z
   233. $7,670  Bandwidth Bandit
   234. $7,698  SRA
   235. $7,741  tuftoark
-  236. $7,772  ~ Smithy ~
+ *236. $7,772  ~ Smithy ~
   237. $7,782  DARN
  *238. $7,788  Larger Than Average Brain Player
  *239. $7,807  jonas.beachy
@@ -285,15 +285,15 @@ Updated 2021-11-23T00:21:33.951Z
  *281. $8,293  bati
   282. $8,306  flustered
   283. $8,324  Erik the best
-  284. $8,356  Cremefraiche
- *285. $8,356  kraal
+ *284. $8,356  kraal
+  285. $8,356  Cremefraiche
  *286. $8,369  bysscorre
  *287. $8,370  ellisk1
   288. $8,398  jakob.infuehr
  *289. $8,412  West
   290. $8,416  CursorCoercer
- *291. $8,429  Sockum
-  292. $8,429  CantTouchDis
+  291. $8,429  CantTouchDis
+ *292. $8,429  Sockum
   293. $8,440  snova0112
  *294. $8,445  FoonTheRaccoon
   295. $8,450  QuantiumIm
@@ -521,16 +521,16 @@ Updated 2021-11-23T00:21:33.951Z
   517. $10,550 Hugh Neutron
   518. $10,571 gajiro240
  *519. $10,574 Knugen
- *520. $10,588 Lachy579
-  521. $10,588 jbloemscheer
+  520. $10,588 jbloemscheer
+ *521. $10,588 Lachy579
  *522. $10,594 Ava
  *523. $10,607 Shieber
   524. $10,610 supremechalupa
  *525. $10,618 tylerdg22
   526. $10,620 drjbananas
  *527. $10,634 Bun5gPlays
-  528. $10,638 HypersonicPineapple
- *529. $10,638 A spy in the haus
+ *528. $10,638 A spy in the haus
+  529. $10,638 HypersonicPineapple
   530. $10,642 Jakobs
  *531. $10,644 enderquest
   532. $10,650 Totulhu
@@ -641,8 +641,8 @@ Updated 2021-11-23T00:21:33.951Z
  *637. $11,266 tallguyproblems12
   638. $11,269 Australia is my City
   639. $11,276 Louis
- *640. $11,280 Lachycorn
- *641. $11,280 jaredkazoo
+ *640. $11,280 jaredkazoo
+ *641. $11,280 Lachycorn
  *642. $11,282 dav245
   643. $11,282 Loaded
   644. $11,287 max0307
@@ -719,8 +719,8 @@ Updated 2021-11-23T00:21:33.951Z
   715. $11,674 Thudios
   716. $11,674 michi.janke
  *717. $11,678 LOtown
- *718. $11,687 Pam Plemousse
- *719. $11,687 Oehoe de uil
+ *718. $11,687 Oehoe de uil
+ *719. $11,687 Pam Plemousse
   720. $11,690 Rudy
  *721. $11,715 VeilUnveiled
   722. $11,719 ThatBloodyPanda
@@ -874,7 +874,7 @@ Updated 2021-11-23T00:21:33.951Z
   870. $12,392 chosen feeder
   871. $12,395 Kage_Rumia
   872. $12,401 xXSIRNOOBXx
-  873. $12,401 tangynugget5x
+ *873. $12,401 tangynugget5x
   874. $12,406 xDeathSlinger
   875. $12,413 alexnw.thomasson
   876. $12,423 runningcrazy
@@ -993,8 +993,8 @@ Updated 2021-11-23T00:21:33.951Z
   989. $12,841 ThømAz
  *990. $12,852 skya774005
   991. $12,854 Nice
-  992. $12,855 Creedrah
- *993. $12,855 takayoshi_0111
+ *992. $12,855 takayoshi_0111
+  993. $12,855 Creedrah
   994. $12,858 Herr Hövels
  *995. $12,869 dumlemik
   996. $12,874 BertilLD
