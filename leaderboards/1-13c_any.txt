@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-13C "Redraw" any% leaderboard (* = breaks)
-Updated 2021-11-27T00:19:32.128Z
-1000/13574 unique ranks shown
+Updated 2021-11-28T00:22:09.378Z
+1000/13588 unique ranks shown
 
     1. $7,860  Roevhaal
     2. $7,998  ellisk1
@@ -117,7 +117,7 @@ Updated 2021-11-27T00:19:32.128Z
   113. $9,599  bastian.bello.c
   114. $9,621  bolt986
   115. $9,642  Kingly Red Lion Guy
- *116. $9,658  bille
+  116. $9,658  bille
   117. $9,669  TJarsun
   118. $9,669  jikennosamurai
   119. $9,678  WiadrOrbaiW
@@ -127,7 +127,7 @@ Updated 2021-11-27T00:19:32.128Z
   123. $9,750  chupa71
   124. $9,750  v-fourteen
   125. $9,755  Neill
-  126. $9,765  Baldur
+ *126. $9,765  Baldur
   127. $9,776  InfinitySay
   128. $9,787  Shrimpstar
   129. $9,790  Sponsored by LYFT
@@ -206,7 +206,7 @@ Updated 2021-11-27T00:19:32.128Z
   202. $10,217 抽象派桥梁设计师
   203. $10,225 sim1manson
   204. $10,233 LukeY
-  205. $10,238 8 wheels good
+ *205. $10,238 8 wheels good
   206. $10,250 dedevilscat
   207. $10,252 Josep
   208. $10,258 Minnesota.Nice
@@ -416,7 +416,7 @@ Updated 2021-11-27T00:19:32.128Z
   412. $11,062 Rüdenhausen
   413. $11,062 R
   414. $11,067 Leevi
-  415. $11,069 FoonTheRaccoon
+ *415. $11,069 FoonTheRaccoon
   416. $11,069 jorritbock
   417. $11,070 Chappy
   418. $11,071 Billy's mom
@@ -522,8 +522,8 @@ Updated 2021-11-27T00:19:32.128Z
   518. $11,376 josefa
   519. $11,381 robd.lives
   520. $11,383 TheBear
-  521. $11,383 twise4435
- *522. $11,383 samwise38
+ *521. $11,383 samwise38
+  522. $11,383 twise4435
   523. $11,383 Воня
   524. $11,384 LegitGopnik
   525. $11,388 「Marshmallow Justice」
@@ -566,8 +566,8 @@ Updated 2021-11-27T00:19:32.128Z
  *562. $11,485 tao
   563. $11,491 Merc249
   564. $11,496 Jormungandr
- *565. $11,498 leoncorkidi
-  566. $11,498 Sprainus
+  565. $11,498 Sprainus
+ *566. $11,498 leoncorkidi
   567. $11,499 madsrurup
   568. $11,499 willjcbs
   569. $11,501 Adjoint
@@ -760,8 +760,8 @@ Updated 2021-11-27T00:19:32.128Z
   756. $11,822 jo.hova.ca
   757. $11,822 Μην παροχής συμβουλών
   758. $11,822 Notyalc
-  759. $11,823 Waven
- *760. $11,823 Kotto4Ever
+ *759. $11,823 Kotto4Ever
+  760. $11,823 Waven
   761. $11,825 Stabhole
   762. $11,826 GalahadRounds
   763. $11,827 Mr. Aakje
@@ -787,12 +787,12 @@ Updated 2021-11-27T00:19:32.128Z
   783. $11,859 ElephantTacoYT
   784. $11,859 Floki_San
  *785. $11,859 Patfou
-  786. $11,859 goosewhammy
-  787. $11,859 le caca
-  788. $11,859 Laberynthium13YT
-  789. $11,859 NesTea Lemon
-  790. $11,859 mikehuntehertz
- *791. $11,859 Corgle
+ *786. $11,859 Corgle
+  787. $11,859 goosewhammy
+  788. $11,859 le caca
+  789. $11,859 Laberynthium13YT
+  790. $11,859 NesTea Lemon
+  791. $11,859 mikehuntehertz
  *792. $11,860 mr_lumpy
   793. $11,860 footington
   794. $11,860 ma23
@@ -857,21 +857,21 @@ Updated 2021-11-27T00:19:32.128Z
   853. $11,948 Georgedg1
   854. $11,948 silke.jaeker
   855. $11,948 FireLucet
-  856. $11,948 Leer
- *857. $11,948 alicele14
+ *856. $11,948 alicele14
+  857. $11,948 Leer
   858. $11,948 moleir
   859. $11,948 Maro
   860. $11,948 Jakard93
   861. $11,948 Anth
- *862. $11,948 wickes
-  863. $11,948 Max
-  864. $11,948 steinvalentijn
-  865. $11,948 Pelbou
-  866. $11,948 twitch.tv/mysterefire
-  867. $11,948 magikman246
-  868. $11,948 Retrolith
-  869. $11,948 22612978
-  870. $11,948 jimbug26
+  862. $11,948 Max
+  863. $11,948 steinvalentijn
+  864. $11,948 Pelbou
+  865. $11,948 twitch.tv/mysterefire
+  866. $11,948 magikman246
+  867. $11,948 Retrolith
+  868. $11,948 22612978
+  869. $11,948 jimbug26
+ *870. $11,948 wickes
   871. $11,948 3ddy_Nobili
   872. $11,948 Gäppy
   873. $11,948 Glevett21
@@ -922,9 +922,9 @@ Updated 2021-11-27T00:19:32.128Z
   918. $12,014 ChichumungaIII
   919. $12,018 ☠☠☠YYD☠☠☠
   920. $12,021 Zach 929U
- *921. $12,023 MrLelface
- *922. $12,023 francois.trempe
-  923. $12,023 Agresiel
+ *921. $12,023 francois.trempe
+  922. $12,023 Agresiel
+ *923. $12,023 MrLelface
   924. $12,025 Clean Baguette
   925. $12,026 ilia.gureev
   926. $12,031 BoyAtHisDesk
@@ -966,9 +966,9 @@ Updated 2021-11-27T00:19:32.128Z
   962. $12,080 Blayne Mahoney
   963. $12,082 GeneticMonsterEnergyDronk
   964. $12,082 Griffin
- *965. $12,082 SherlockJK
-  966. $12,082 Kastrull
-  967. $12,082 Star
+  965. $12,082 Kastrull
+  966. $12,082 Star
+ *967. $12,082 SherlockJK
   968. $12,082 OwO
   969. $12,082 AgileSpace
   970. $12,082 Doctor Crichton
@@ -981,15 +981,15 @@ Updated 2021-11-27T00:19:32.128Z
   977. $12,094 Flash_works_alone
   978. $12,094 MTyne
   979. $12,094 fizzlepop berrytwist
-  980. $12,096 theo.louesdon
+ *980. $12,096 theo.louesdon
   981. $12,097 Purrfect | Rawwrr | XD | ;3
   982. $12,097 Thunderbird9
-  983. $12,098 Lunath (SARPER)
- *984. $12,098 Sigma Female
+ *983. $12,098 Sigma Female
+  984. $12,098 Lunath (SARPER)
   985. $12,099 No, I'm not a cheater
   986. $12,100 grashalm85
- *987. $12,103 henpenben
-  988. $12,103 Pilonite
+  987. $12,103 Pilonite
+ *988. $12,103 henpenben
   989. $12,104 Florentijn007
   990. $12,104 Aya
  *991. $12,112 freyrinn
