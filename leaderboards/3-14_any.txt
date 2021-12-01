@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-14 "Low Flyer" any% leaderboard (* = breaks)
-Updated 2021-11-30T00:20:38.622Z
-1000/53668 unique ranks shown
+Updated 2021-12-01T00:22:55.152Z
+1000/53757 unique ranks shown
 
    *1. $288    Bibbb
    *2. $289    Fathom
@@ -29,20 +29,20 @@ Updated 2021-11-30T00:20:38.622Z
   *25. $556    SkrimIsh
   *26. $687    somefakegamer
   *27. $697    Crimson
-  *28. $701    YottaCat
-  *29. $701    jtornqvist
-  *30. $701    alihaydar.atil
+  *28. $701    jtornqvist
+  *29. $701    ttv/AlberionLive
+  *30. $701    BaconPancakes
   *31. $701    MasonatorRoblox
-  *32. $701    ttv/AlberionLive
-  *33. $701    BaconPancakes
-  *34. $701    Fat_Bastard
+  *32. $701    Fat_Bastard
+  *33. $701    alihaydar.atil
+  *34. $701    YottaCat
   *35. $1,031  FierceKitty131
    36. $16,818 Roevhaal
    37. $16,989 Shadow
    38. $17,061 rinrin
    39. $17,400 Heater
    40. $17,484 marciochb
-  *41. $17,574 I Eats Milk
+   41. $17,574 I Eats Milk
    42. $17,588 Rookie
    43. $17,602 Pengujedi
    44. $17,669 GuacamoleLover27
@@ -57,7 +57,7 @@ Updated 2021-11-30T00:20:38.622Z
    53. $19,106 liam
    54. $19,121 Cyrion
   *55. $19,394 Valnix
-   56. $19,426 XxTrollFacexX
+  *56. $19,426 XxTrollFacexX
    57. $19,493 Wamphyri
    58. $19,672 Kalorienreduziert
    59. $19,931 Jormungandr
@@ -161,8 +161,8 @@ Updated 2021-11-30T00:20:38.622Z
   157. $24,747 Stuge
   158. $24,749 chirality
   159. $24,768 Land Shark
- *160. $24,770 orangeP
-  161. $24,770 Da Real Inventor
+  160. $24,770 Da Real Inventor
+ *161. $24,770 orangeP
   162. $24,771 geryuganshoop
   163. $24,854 176845081
   164. $24,865 o0metal0o
@@ -251,7 +251,7 @@ Updated 2021-11-30T00:20:38.622Z
   247. $27,342 Budda {ger}
   248. $27,343 Kowalski
   249. $27,360 Flying platypus
- *250. $27,371 a trained kitten
+  250. $27,371 a trained kitten
   251. $27,375 *****
   252. $27,377 Kasi
   253. $27,389 Gorby
@@ -299,22 +299,22 @@ Updated 2021-11-30T00:20:38.622Z
   295. $27,844 TazEPR
   296. $27,844 Red Five Is Alive
   297. $27,844 Rapp
-  298. $27,844 Citrus7788
-  299. $27,844 hmx0311
-  300. $27,844 Ethan
-  301. $27,844 cavetroll
-  302. $27,844 FvnyxYT
-  303. $27,844 满岛影
-  304. $27,844 Confuzedꓐ
- *305. $27,844 tecke.hammar07
+ *298. $27,844 tecke.hammar07
+  299. $27,844 Citrus7788
+  300. $27,844 hmx0311
+  301. $27,844 Ethan
+  302. $27,844 cavetroll
+  303. $27,844 FvnyxYT
+  304. $27,844 满岛影
+  305. $27,844 Confuzedꓐ
   306. $27,845 emanuelntb
   307. $27,850 MrOp
   308. $27,858 RafaelJR8
   309. $27,861 Beziinator
   310. $27,872 SirBigGuy
   311. $27,885 HaN2Zy
-  312. $27,886 abazibiz
- *313. $27,886 cfloyd2002
+ *312. $27,886 cfloyd2002
+  313. $27,886 abazibiz
   314. $27,902 zMg
   315. $27,926 sherwood.jesse
   316. $27,930 Regardless
@@ -363,8 +363,8 @@ Updated 2021-11-30T00:20:38.622Z
   359. $28,273 听冬岩尘开
   360. $28,283 funnie
   361. $28,284 christof
- *362. $28,297 UUUUUzi
-  363. $28,297 =D3S= Delta_V
+  362. $28,297 =D3S= Delta_V
+ *363. $28,297 UUUUUzi
   364. $28,297 DuuSuu
   365. $28,297 AZ-LT
   366. $28,297 AdvM25
@@ -417,10 +417,10 @@ Updated 2021-11-30T00:20:38.622Z
   413. $28,564 G3NTs
  *414. $28,564 すみ
   415. $28,564 TheBehaim
-  416. $28,564 Psicodeli@
-  417. $28,564 ted.wachtel
-  418. $28,564 Silvr
- *419. $28,564 WITNESS ME
+ *416. $28,564 WITNESS ME
+  417. $28,564 Psicodeli@
+  418. $28,564 ted.wachtel
+  419. $28,564 Silvr
   420. $28,564 Vallith
   421. $28,564 RockHardSponge
   422. $28,572 Toiga
@@ -479,7 +479,7 @@ Updated 2021-11-30T00:20:38.622Z
   475. $28,913 Xtree49
   476. $28,925 DaveBan
   477. $28,930 Yei
-  478. $28,940 h.lahdelma
+ *478. $28,940 h.lahdelma
   479. $28,941 Asyxui
   480. $28,952 I Noah Guy
  *481. $28,958 EsChang
@@ -511,57 +511,57 @@ Updated 2021-11-30T00:20:38.622Z
  *507. $29,145 sky
   508. $29,145 Quadley
   509. $29,146 JGCarter
-  510. $29,146 Padre'
-  511. $29,146 delp
-  512. $29,146 Soya 소야
-  513. $29,146 Skywalkertrem
-  514. $29,146 Rikkert
-  515. $29,146 300IQ
-  516. $29,146 miner_pig1
-  517. $29,146 TANSTAAFL
-  518. $29,146 mfabes
-  519. $29,146 Maironne
-  520. $29,146 AnarchistMuffin
- *521. $29,146 titisee5
+ *510. $29,146 Eevee
+  511. $29,146 Padre'
+  512. $29,146 delp
+  513. $29,146 Soya 소야
+  514. $29,146 Skywalkertrem
+  515. $29,146 Rikkert
+  516. $29,146 300IQ
+  517. $29,146 miner_pig1
+  518. $29,146 TANSTAAFL
+  519. $29,146 mfabes
+  520. $29,146 Maironne
+  521. $29,146 AnarchistMuffin
   522. $29,146 bestwick4288
   523. $29,146 Jake
   524. $29,146 bakuhyouzann
   525. $29,146 lobito
-  526. $29,146 KATSUKi D
-  527. $29,146 Jakobs
-  528. $29,146 AnotherGingerNinja
-  529. $29,146 Phlil774
-  530. $29,146 Cyratos
-  531. $29,146 dk10837
-  532. $29,146 soki
-  533. $29,146 joshd244
-  534. $29,146 Brutus
- *535. $29,146 Eevee
+ *526. $29,146 titisee5
+  527. $29,146 KATSUKi D
+  528. $29,146 Jakobs
+  529. $29,146 AnotherGingerNinja
+  530. $29,146 Phlil774
+  531. $29,146 Cyratos
+  532. $29,146 dk10837
+  533. $29,146 soki
+  534. $29,146 joshd244
+  535. $29,146 Brutus
   536. $29,146 Sirius
- *537. $29,146 Donut
-  538. $29,146 spirit9
-  539. $29,146 Gray
-  540. $29,146 Kabu
-  541. $29,146 Lou
-  542. $29,146 damjan455
-  543. $29,146 Zenteck
-  544. $29,146 Jabloňátor2000
- *545. $29,146 Hnnter
-  546. $29,146 Sir Derpalot
-  547. $29,146 Spitz
-  548. $29,146 Joxny
+  537. $29,146 spirit9
+  538. $29,146 Gray
+  539. $29,146 Kabu
+  540. $29,146 Lou
+  541. $29,146 damjan455
+  542. $29,146 Zenteck
+  543. $29,146 Jabloňátor2000
+ *544. $29,146 Donut
+  545. $29,146 Sir Derpalot
+  546. $29,146 Spitz
+  547. $29,146 Joxny
+ *548. $29,146 Hnnter
   549. $29,146 boximusprimate
   550. $29,147 Kwek
   551. $29,153 itsXavier
   552. $29,154 shramp
   553. $29,165 9847
-  554. $29,184 kitschmensch
-  555. $29,184 stkoso
- *556. $29,184 Person12339
+ *554. $29,184 Person12339
+  555. $29,184 kitschmensch
+  556. $29,184 stkoso
   557. $29,184 wwa
- *558. $29,184 lollyH2O
-  559. $29,184 flarespeed
-  560. $29,184 AZteeCe
+  558. $29,184 flarespeed
+  559. $29,184 AZteeCe
+ *560. $29,184 lollyH2O
   561. $29,184 Haawesomness
   562. $29,184 Mard
   563. $29,184 No Life Larry
@@ -632,7 +632,7 @@ Updated 2021-11-30T00:20:38.622Z
   628. $29,589 AOE Fertility Machine
   629. $29,591 pvaikutis
   630. $29,608 joao.canelas
-  631. $29,613 Bram2323
+ *631. $29,613 Bram2323
   632. $29,613 reeferee
   633. $29,638 john of arc
   634. $29,643 gotura
@@ -873,8 +873,8 @@ Updated 2021-11-30T00:20:38.622Z
   869. $31,212 Waity5
   870. $31,214 Nibs
   871. $31,215 Zi3gl3r
- *872. $31,217 sebass26
-  873. $31,217 Lick my Udders
+  872. $31,217 Lick my Udders
+ *873. $31,217 sebass26
   874. $31,229 Jojo4
   875. $31,246 SuperNova
   876. $31,247 Girl
@@ -953,8 +953,8 @@ Updated 2021-11-30T00:20:38.622Z
   949. $31,618 jotawarsd
   950. $31,627 Levus
   951. $31,628 CoffeeMan
- *952. $31,631 fizzlepop berrytwist
-  953. $31,631 Straggo1337
+  952. $31,631 Straggo1337
+ *953. $31,631 fizzlepop berrytwist
   954. $31,632 Pamani
   955. $31,634 Big gay goes away
   956. $31,641 Smooth Talker Tombs
