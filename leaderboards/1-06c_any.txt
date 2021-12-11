@@ -1,9 +1,9 @@
 Poly Bridge 2 - 1-06C "First Drawbridge" any% leaderboard (* = breaks)
-Updated 2021-12-10T00:20:55.488Z
-1000/19328 unique ranks shown
+Updated 2021-12-11T00:20:19.960Z
+1000/19343 unique ranks shown
 
-   *1. $600    Bibbb
-   *2. $600    Lagiiiie
+   *1. $600    Lagiiiie
+   *2. $600    Bibbb
    *3. $666    9k5
    *4. $669    somefakegamer
    *5. $696    Trygeve
@@ -23,10 +23,10 @@ Updated 2021-12-10T00:20:55.488Z
   *19. $1,754  7777Alex7777
   *20. $1,763  MOD
   *21. $1,782  geroniberry
-  *22. $1,818  Noahsorou
-  *23. $1,818  Icysnowman
-  *24. $1,818  Pengujedi
-  *25. $1,818  Resilia_
+  *22. $1,818  Pengujedi
+  *23. $1,818  Resilia_
+  *24. $1,818  Noahsorou
+  *25. $1,818  Icysnowman
   *26. $1,844  metatropic
   *27. $1,852  Toto00
   *28. $1,883  emilhogenkamp
@@ -38,13 +38,13 @@ Updated 2021-12-10T00:20:55.488Z
   *34. $2,134  gamespilgame
   *35. $2,147  jtornqvist
   *36. $2,167  Heater
-  *37. $2,220  bumbum
-  *38. $2,220  ~ Smithy ~
-  *39. $2,220  zeller-alex
-  *40. $2,287  fantakilla
-  *41. $2,287  maash
-  *42. $2,287  mooseman0423
-  *43. $2,287  Enchanted Spider
+  *37. $2,220  zeller-alex
+  *38. $2,220  bumbum
+  *39. $2,220  ~ Smithy ~
+  *40. $2,287  mooseman0423
+  *41. $2,287  Enchanted Spider
+  *42. $2,287  fantakilla
+  *43. $2,287  maash
   *44. $2,287  Codeman999
   *45. $3,425  goldenpggie
    46. $4,527  St3rd_
@@ -73,7 +73,7 @@ Updated 2021-12-10T00:20:55.488Z
    69. $4,688  junyo0605
    70. $4,690  BaconPancakes
    71. $4,692  MagnusTagMus
-  *72. $4,696  XxTrollFacexX
+   72. $4,696  XxTrollFacexX
    73. $4,696  ☠☠☠YYD☠☠☠
    74. $4,715  Squog
    75. $4,723  Bellair08
@@ -245,7 +245,7 @@ Updated 2021-12-10T00:20:55.488Z
   241. $8,199  alexingoglia
   242. $8,208  Whyit1
   243. $8,215  Moritz
-  244. $8,223  RubyRuby284
+ *244. $8,223  RubyRuby284
   245. $8,225  mikko.suomalainen
   246. $8,229  782054923
   247. $8,242  Holy Llama!
@@ -427,8 +427,8 @@ Updated 2021-12-10T00:20:55.488Z
   423. $9,158  浓浓的果酱
   424. $9,162  matttev
   425. $9,169  Amiyakrizi
-  426. $9,174  jonas.beachy
- *427. $9,174  Woof.
+ *426. $9,174  Woof.
+  427. $9,174  jonas.beachy
   428. $9,177  HappyFishboy
   429. $9,185  jdogg565
   430. $9,186  Inhuman Erection
@@ -618,9 +618,9 @@ Updated 2021-12-10T00:20:55.488Z
   614. $9,601  kpheber
   615. $9,601  umeshu
   616. $9,602  bfninjamonkey
- *617. $9,602  woooowamazingplayerplayingshit
- *618. $9,602  Ewallux
-  619. $9,602  Quality
+ *617. $9,602  Ewallux
+  618. $9,602  Quality
+ *619. $9,602  woooowamazingplayerplayingshit
   620. $9,603  torc
   621. $9,604  superfli
   622. $9,604  157268943
@@ -727,8 +727,8 @@ Updated 2021-12-10T00:20:55.488Z
   723. $9,787  Zharra
   724. $9,787  Danimal
   725. $9,790  Otter.peek
-  726. $9,795  Slevin Hakase
- *727. $9,795  klrwayant083
+ *726. $9,795  klrwayant083
+  727. $9,795  Slevin Hakase
   728. $9,797  Wollensokje
   729. $9,797  Wi
   730. $9,799  Painless
@@ -796,8 +796,8 @@ Updated 2021-12-10T00:20:55.488Z
   792. $9,919  gerd.freiberg
   793. $9,921  SwagMander
   794. $9,922  Chucky0809
-  795. $9,923  Buddermario7
- *796. $9,923  raym55
+ *795. $9,923  raym55
+  796. $9,923  Buddermario7
   797. $9,924  Jucone
   798. $9,928  Craftjakob_HD
   799. $9,930  DieselDaddy
@@ -814,8 +814,8 @@ Updated 2021-12-10T00:20:55.488Z
  *810. $9,950  PABOOLo.gonzales@hotmail.com
   811. $9,952  813680199
   812. $9,952  AFK.PhlopSer
-  813. $9,955  Tjeard
- *814. $9,955  kyle.j.myers
+ *813. $9,955  kyle.j.myers
+  814. $9,955  Tjeard
   815. $9,961  Fr4nyo
   816. $9,965  eliakilcher2001
   817. $9,966  Dansta2106
@@ -858,8 +858,8 @@ Updated 2021-12-10T00:20:55.488Z
   854. $9,998  Elvishbarbecue
   855. $9,999  FURYMAGE1210
   856. $9,999  Zero Rights
-  857. $9,999  BxRAW
- *858. $9,999  YottaCat
+ *857. $9,999  YottaCat
+  858. $9,999  BxRAW
   859. $10,000 tegl
   860. $10,000 Mr. Jelly Bean
   861. $10,000 SRA
@@ -910,8 +910,8 @@ Updated 2021-12-10T00:20:55.488Z
   906. $10,092 Babou
   907. $10,095 bee
   908. $10,098 White
- *909. $10,099 nVentex
-  910. $10,099 rmdailey85
+  909. $10,099 rmdailey85
+ *910. $10,099 nVentex
   911. $10,099 hmx0311
   912. $10,101 Special Noone
   913. $10,102 yhxxtsy
@@ -980,15 +980,15 @@ Updated 2021-12-10T00:20:55.488Z
   976. $10,172 -M-
   977. $10,172 BiggsBoson
   978. $10,182 Champagne
- *979. $10,182 Palandos
- *980. $10,182 qiuqiuhulstrom
+ *979. $10,182 qiuqiuhulstrom
+ *980. $10,182 Palandos
   981. $10,183 ST4K3RS
   982. $10,183 Outrageus
   983. $10,185 Windu80
   984. $10,189 shawndeep
   985. $10,189 AERO
-  986. $10,192 dan.bailey
- *987. $10,192 Malicious Compliance
+ *986. $10,192 Malicious Compliance
+  987. $10,192 dan.bailey
   988. $10,193 zurchty
   989. $10,194 Kaslan
   990. $10,194 monkey style
