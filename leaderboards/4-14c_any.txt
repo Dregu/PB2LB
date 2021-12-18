@@ -1,10 +1,10 @@
 Poly Bridge 2 - 4-14C "Big Rigs" any% leaderboard (* = breaks)
-Updated 2021-12-17T00:21:50.443Z
-1000/2524 unique ranks shown
+Updated 2021-12-18T00:22:06.795Z
+1000/2525 unique ranks shown
 
-   *1. $1,884  Fathom
-   *2. $1,884  9k5
-   *3. $1,884  Lagiiiie
+   *1. $1,884  Lagiiiie
+   *2. $1,884  Fathom
+   *3. $1,884  9k5
    *4. $1,950  Zen
    *5. $1,999  palfly15
    *6. $2,169  Pengujedi
@@ -75,7 +75,7 @@ Updated 2021-12-17T00:21:50.443Z
    71. $41,398 Tapperij
    72. $41,426 PATA
    73. $41,685 Nao 16/15
-   74. $41,759 jcricheson
+  *74. $41,759 jcricheson
    75. $41,996 Sketchzi
    76. $42,016 504874975
    77. $42,033 lukas.bornheim
@@ -332,13 +332,13 @@ Updated 2021-12-17T00:21:50.443Z
   328. $49,482 takeoff
  *329. $49,497 anijoker
   330. $49,509 Kwek
- *331. $49,516 cool_da
+  331. $49,516 cool_da
   332. $49,526 Rico The Saboteur
   333. $49,550 aaronkimbel2
   334. $49,582 reichu
   335. $49,616 Nöten
   336. $49,630 BattleMaster
-  337. $49,640 Offspec
+ *337. $49,640 Offspec
   338. $49,664 pome.😈
   339. $49,665 Schledodri
   340. $49,666 終焉的武神
@@ -474,7 +474,7 @@ Updated 2021-12-17T00:21:50.443Z
   470. $51,491 xIRasten
   471. $51,493 JakeTheSnake_333
   472. $51,496 indigor3
-  473. $51,498 Leo
+ *473. $51,498 Leo
   474. $51,514 crumblycookie100
   475. $51,530 SoonRock2
   476. $51,603 The_Slogan
@@ -535,8 +535,8 @@ Updated 2021-12-17T00:21:50.443Z
   531. $52,386 actionaa
   532. $52,412 Jbot
   533. $52,417 ma23
- *534. $52,419 drizzitdudden
-  535. $52,419 s08hasegawa
+  534. $52,419 s08hasegawa
+ *535. $52,419 drizzitdudden
   536. $52,448 HellBllaze
   537. $52,457 Pumpnog
   538. $52,465 No Nipple Nate
@@ -643,8 +643,8 @@ Updated 2021-12-17T00:21:50.443Z
   639. $53,751 Enhedslisten
   640. $53,762 Simon241199
   641. $53,767 bcowburn
- *642. $53,772 jonas.beachy
-  643. $53,772 hakejb1
+  642. $53,772 hakejb1
+ *643. $53,772 jonas.beachy
   644. $53,776 SNN9823
   645. $53,792 ViscidSquare040
   646. $53,802 FiTy
@@ -951,7 +951,7 @@ Updated 2021-12-17T00:21:50.443Z
   947. $56,674 St3rd_
   948. $56,675 The Disastrous Village
  *949. $56,676 Brazen_Helm
- *950. $56,689 Baked Cheese
+  950. $56,689 Baked Cheese
   951. $56,707 Zky-Chan
   952. $56,711 export Psyonix.rl.me
   953. $56,711 Lima
