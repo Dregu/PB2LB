@@ -1,12 +1,12 @@
 Poly Bridge 2 - 3-05C "Semi Slope" any% leaderboard (* = breaks)
-Updated 2021-12-21T00:23:20.404Z
-1000/4476 unique ranks shown
+Updated 2021-12-22T00:22:45.514Z
+1000/4481 unique ranks shown
 
    *1. $1,120  9k5
    *2. $1,128  Fathom
-   *3. $2,069  palfly15
-   *4. $2,069  Cookieblues
-   *5. $2,069  Zen
+   *3. $2,069  Cookieblues
+   *4. $2,069  Zen
+   *5. $2,069  palfly15
    *6. $2,276  Lagiiiie
    *7. $3,800  Bibbb
     8. $20,824 Trygeve
@@ -26,7 +26,7 @@ Updated 2021-12-21T00:23:20.404Z
    22. $30,787 Soba
    23. $30,974 TucLTU
    24. $31,147 geroniberry
-   25. $31,197 abidhilmi403
+  *25. $31,197 abidhilmi403
    26. $31,220 r.boere
    27. $31,478 nhaven14
    28. $31,644 xd neeeel
@@ -624,8 +624,8 @@ Updated 2021-12-21T00:23:20.404Z
   620. $44,529 Kordy
   621. $44,562 Kaslan
   622. $44,563 Slickback
-  623. $44,583 кот
- *624. $44,583 brawlyboii
+ *623. $44,583 brawlyboii
+  624. $44,583 кот
   625. $44,597 Sem Chance
   626. $44,613 gengi ninga
   627. $44,627 Envy
@@ -797,7 +797,7 @@ Updated 2021-12-21T00:23:20.404Z
   793. $46,069 Halli
   794. $46,072 SnoopCooper
   795. $46,079 The_Vaccine
-  796. $46,090 Pan Vaflička
+ *796. $46,090 Pan Vaflička
   797. $46,094 Μην παροχής συμβουλών
   798. $46,113 megacycle
   799. $46,116 deytonmathews
