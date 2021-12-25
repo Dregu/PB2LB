@@ -1,16 +1,16 @@
 Poly Bridge 2 - 3-15C "Looper's Revenge" any% leaderboard (* = breaks)
-Updated 2021-12-24T00:21:07.778Z
-1000/3589 unique ranks shown
+Updated 2021-12-25T00:22:05.599Z
+1000/3590 unique ranks shown
 
-   *1. $1,086  Lagiiiie
-   *2. $1,086  9k5
+   *1. $1,086  9k5
+   *2. $1,086  Lagiiiie
    *3. $1,156  Bibbb
-   *4. $1,455  Fathom
-   *5. $1,455  Trygeve
-   *6. $1,455  Pengujedi
-   *7. $1,455  palfly15
-   *8. $1,455  BaconPancakes
-   *9. $1,455  MOD
+   *4. $1,455  BaconPancakes
+   *5. $1,455  Pengujedi
+   *6. $1,455  Fathom
+   *7. $1,455  MOD
+   *8. $1,455  palfly15
+   *9. $1,455  Trygeve
   *10. $1,510  ~ Smithy ~
   *11. $5,690  minecat
   *12. $6,207  Zen
@@ -51,8 +51,8 @@ Updated 2021-12-24T00:21:07.778Z
    47. $32,317 JakubBouska
    48. $32,716 DildoBike
   *49. $32,848 bille
-  *50. $32,862 Roevhaal
-  *51. $32,862 CursorCoercer
+  *50. $32,862 CursorCoercer
+  *51. $32,862 Roevhaal
    52. $33,011 504874975
    53. $33,267 bastian.bello.c
   *54. $33,443 XxTrollFacexX
@@ -390,7 +390,7 @@ Updated 2021-12-24T00:21:07.778Z
  *386. $60,876 Happy Painting
   387. $60,903 adikprokop
  *388. $60,912 Ethire
-  389. $60,923 lionale29ten
+ *389. $60,923 lionale29ten
  *390. $60,934 P R A D A
   391. $61,014 kramerboruch
   392. $61,014 Broodje Bal
@@ -891,8 +891,8 @@ Updated 2021-12-24T00:21:07.778Z
   887. $73,159 Pasky
   888. $73,160 CANALETA
   889. $73,169 Sem Chance
- *890. $73,178 trash man
-  891. $73,178 Bob
+  890. $73,178 Bob
+ *891. $73,178 trash man
   892. $73,185 Curry in a Hurry
   893. $73,191 Crimson
   894. $73,198 breadeaterlol
@@ -963,42 +963,42 @@ Updated 2021-12-24T00:21:07.778Z
   959. $74,347 jobra819
   960. $74,350 cloudcutlip
  *961. $74,350 raym55
-  962. $74,431 khosshu
-  963. $74,433 flyingtoasterse
-  964. $74,437 harryharding1234567
-  965. $74,448 robby
-  966. $74,458 L94
- *967. $74,465 Max_Girth
-  968. $74,530 E
- *969. $74,550 Erik the best
-  970. $74,564 s08hasegawa
-  971. $74,568 Zoom
-  972. $74,594 export Psyonix.rl.me
- *973. $74,638 The_Hell_Hole
-  974. $74,642 silverstar2007
-  975. $74,646 Andrew
- *976. $74,661 小飞侠
-  977. $74,662 minecraft1875
-  978. $74,672 SkyTheNeko
-  979. $74,695 Ace_Falken
- *980. $74,702 Sith Phil Less
-  981. $74,777 The Fatal Quickscoper
-  982. $74,785 Pantharmaul
- *983. $74,813 jcrowley30
-  984. $74,825 RafaelJR8
-  985. $74,833 Hoopahoa
-  986. $74,844 iressle
-  987. $74,864 sebastian.d.higgins
-  988. $74,871 Zarty
-  989. $74,932 juan_ctg
-  990. $74,939 LethalLegume
-  991. $74,947 Yannlo10
-  992. $74,954 ʇɐɔԀ
-  993. $74,954 speedo
- *994. $74,978 GloomBebe
-  995. $74,979 zzuni27
- *996. $74,980 GingerBoi
-  997. $75,006 苏嗝拉底
-  998. $75,007 Klint Killerman
-  999. $75,013 CocoaMan
- 1000. $75,014 Fradex
+  962. $74,397 Mrazma
+  963. $74,431 khosshu
+  964. $74,433 flyingtoasterse
+  965. $74,437 harryharding1234567
+  966. $74,448 robby
+  967. $74,458 L94
+ *968. $74,465 Max_Girth
+  969. $74,530 E
+ *970. $74,550 Erik the best
+  971. $74,564 s08hasegawa
+  972. $74,568 Zoom
+  973. $74,594 export Psyonix.rl.me
+ *974. $74,638 The_Hell_Hole
+  975. $74,642 silverstar2007
+  976. $74,646 Andrew
+ *977. $74,661 小飞侠
+  978. $74,662 minecraft1875
+  979. $74,672 SkyTheNeko
+  980. $74,695 Ace_Falken
+ *981. $74,702 Sith Phil Less
+  982. $74,777 The Fatal Quickscoper
+  983. $74,785 Pantharmaul
+ *984. $74,813 jcrowley30
+  985. $74,825 RafaelJR8
+  986. $74,833 Hoopahoa
+  987. $74,844 iressle
+  988. $74,864 sebastian.d.higgins
+  989. $74,871 Zarty
+  990. $74,932 juan_ctg
+  991. $74,939 LethalLegume
+  992. $74,947 Yannlo10
+  993. $74,954 ʇɐɔԀ
+  994. $74,954 speedo
+ *995. $74,978 GloomBebe
+  996. $74,979 zzuni27
+ *997. $74,980 GingerBoi
+  998. $75,006 苏嗝拉底
+  999. $75,007 Klint Killerman
+ 1000. $75,013 CocoaMan
