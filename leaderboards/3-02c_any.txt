@@ -1,13 +1,13 @@
 Poly Bridge 2 - 3-02C "Big Dipper" any% leaderboard (* = breaks)
-Updated 2021-12-28T00:23:04.040Z
-1000/4098 unique ranks shown
+Updated 2021-12-29T00:21:47.931Z
+1000/4100 unique ranks shown
 
     1. $11,055 Roevhaal
-    2. $11,607 Bellair08
-    3. $11,607 9k5
+    2. $11,607 9k5
+    3. $11,607 Bellair08
     4. $11,646 JakubBouska
-    5. $11,699 Bibbb
-    6. $11,699 Cookieblues
+    5. $11,699 Cookieblues
+    6. $11,699 Bibbb
     7. $11,699 MOD
     8. $11,699 Fathom
     9. $11,713 Zen
@@ -19,8 +19,8 @@ Updated 2021-12-28T00:23:04.040Z
    15. $12,249 Confirm NotJonah
   *16. $12,553 Honn
    17. $12,757 BaconPancakes
-   18. $12,769 Icysnowman
-   19. $12,769 Sexy Boy Industries [woop]
+   18. $12,769 Sexy Boy Industries [woop]
+   19. $12,769 Icysnowman
    20. $12,798 LegendOfLinq
   *21. $12,913 Herneerius
    22. $13,047 Asyxui
@@ -161,7 +161,7 @@ Updated 2021-12-28T00:23:04.040Z
   157. $26,954 Terrigible
   158. $27,062 TheRainCrow
   159. $27,219 Bellei
- *160. $27,355 bille
+  160. $27,355 bille
   161. $27,368 Magma
   162. $27,488 Alex4.26
   163. $27,495 Grindyson
@@ -173,7 +173,7 @@ Updated 2021-12-28T00:23:04.040Z
   169. $27,937 Meanen
   170. $28,064 omdidit
   171. $28,195 bazoko
-  172. $28,242 Kastrull
+ *172. $28,242 Kastrull
   173. $28,335 gthompson1129
   174. $28,451 R
   175. $28,637 Danyal
@@ -201,8 +201,8 @@ Updated 2021-12-28T00:23:04.040Z
   197. $29,964 3mptymag
  *198. $29,981 KAPPPS
  *199. $29,988 Beins
-  200. $29,991 SpacialD4sh
-  201. $29,991 UkiArcticFox
+  200. $29,991 UkiArcticFox
+  201. $29,991 SpacialD4sh
   202. $30,080 jackrunchy
  *203. $30,099 shainze
   204. $30,104 Chappy
@@ -229,7 +229,7 @@ Updated 2021-12-28T00:23:04.040Z
   225. $31,476 jikennosamurai
  *226. $31,612 davidjohnclark
   227. $31,635 egeneus
- *228. $31,700 Jacowboy
+  228. $31,700 Jacowboy
   229. $31,784 chrisrothenhoefer
   230. $31,850 Lemon Sorbet
   231. $31,877 schaufan
@@ -314,8 +314,8 @@ Updated 2021-12-28T00:23:04.040Z
   310. $35,390 VKNG
   311. $35,423 eliteporo
   312. $35,461 Anson10260
-  313. $35,466 veggie stix
- *314. $35,466 Morgothor
+ *313. $35,466 Morgothor
+  314. $35,466 veggie stix
   315. $35,572 bizijang
   316. $35,586 wonio05
   317. $35,594 crocka123
@@ -420,8 +420,8 @@ Updated 2021-12-28T00:23:04.040Z
   416. $38,531 Konstruktix
  *417. $38,627 ZydraG
   418. $38,639 Uniquepotatoes
-  419. $38,654 Thunderbird9
- *420. $38,654 Jormungandr
+ *419. $38,654 Jormungandr
+  420. $38,654 Thunderbird9
   421. $38,661 deniz.makul
  *422. $38,723 piccolo_SPA
  *423. $38,797 tarte
@@ -559,7 +559,7 @@ Updated 2021-12-28T00:23:04.040Z
  *555. $42,230 qiuqiuhulstrom
   556. $42,257 Andrew
   557. $42,262 gaaiia37896
- *558. $42,319 ellisk1
+  558. $42,319 ellisk1
   559. $42,407 joshwoz118
   560. $42,417 samurekun
   561. $42,464 Citrus7788
@@ -728,8 +728,8 @@ Updated 2021-12-28T00:23:04.040Z
   724. $46,258 Javy
  *725. $46,260 BriZz
   726. $46,261 spottypeas
- *727. $46,267 areabfx
-  728. $46,267 Bulletpruuv
+  727. $46,267 Bulletpruuv
+ *728. $46,267 areabfx
   729. $46,273 Apocalypto07
   730. $46,278 Zachattack1414
  *731. $46,333 Halkohol
@@ -839,7 +839,7 @@ Updated 2021-12-28T00:23:04.040Z
   835. $48,148 hewston20
   836. $48,175 mr skeltal
  *837. $48,212 zeusphd13
- *838. $48,218 EntropicMage
+  838. $48,218 EntropicMage
   839. $48,229 SRA
   840. $48,244 Babou
   841. $48,273 Shmangetron
@@ -910,23 +910,23 @@ Updated 2021-12-28T00:23:04.040Z
   906. $48,942 ThomajnHS
   907. $48,952 jorkrohn
   908. $48,957 TheFonz
-  909. $48,963 zinc
+ *909. $48,963 zinc
  *910. $48,964 PENTANgon cs.money
   911. $48,972 popcorniosaurus
  *912. $48,973 Rhaewon
   913. $48,985 Styoupeur
   914. $48,987 PyroSoup
- *915. $48,996 Steve Rambo
-  916. $48,996 Stalemate
+  915. $48,996 Stalemate
+ *916. $48,996 Steve Rambo
   917. $48,997 Crimson
   918. $48,998 Shellingford·H
   919. $48,998 breadeaterlol
-  920. $48,998 dridhaswana2
-  921. $48,998 Feanix
-  922. $48,998 Lukian
-  923. $48,998 Hari Pootis
-  924. $48,998 VegitoRS
- *925. $48,998 sleepyy.
+ *920. $48,998 sleepyy.
+  921. $48,998 dridhaswana2
+  922. $48,998 Feanix
+  923. $48,998 Lukian
+  924. $48,998 Hari Pootis
+  925. $48,998 VegitoRS
   926. $48,998 RoDi
   927. $48,998 stfnkts
   928. $49,003 Nobody
