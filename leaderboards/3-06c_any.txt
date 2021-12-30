@@ -1,14 +1,14 @@
 Poly Bridge 2 - 3-06C "Rock Skipping" any% leaderboard (* = breaks)
-Updated 2021-12-29T00:21:47.981Z
-1000/5160 unique ranks shown
+Updated 2021-12-30T00:23:04.465Z
+1000/5163 unique ranks shown
 
-   *1. $999    Lagiiiie
-    2. $2,059  9k5
-    3. $2,068  somefakegamer
-    4. $2,068  Bellair08
-   *5. $2,091  Cookieblues
-    6. $2,097  Trygeve
-    7. $2,550  Fathom
+   *1. $999    Fathom
+   *2. $999    Lagiiiie
+    3. $2,059  9k5
+    4. $2,068  somefakegamer
+    5. $2,068  Bellair08
+   *6. $2,091  Cookieblues
+    7. $2,097  Trygeve
    *8. $3,315  piaseknadmorski
     9. $3,431  cfloyd2002
    10. $3,683  BaconPancakes
@@ -39,7 +39,7 @@ Updated 2021-12-29T00:21:47.981Z
    35. $4,588  Luuroon
    36. $4,617  Hamel
   *37. $4,633  celesteal
-  *38. $4,690  nhaven14
+   38. $4,690  nhaven14
    39. $4,723  BlockBreaker
    40. $4,799  Heater
    41. $4,808  jonaTHOT
@@ -69,8 +69,8 @@ Updated 2021-12-29T00:21:47.981Z
   *65. $5,156  delightfulgiraffe
    66. $5,173  Confirm NotJonah
   *67. $5,200  Crimson
-  *68. $5,215  Mopar Madness
-  *69. $5,215  MagicalMagikarp
+  *68. $5,215  MagicalMagikarp
+  *69. $5,215  Mopar Madness
    70. $5,249  The_Darebear
   *71. $5,289  Phoneas
    72. $5,311  The_Vaccine
@@ -151,8 +151,8 @@ Updated 2021-12-29T00:21:47.981Z
  *147. $6,772  4hud
   148. $6,775  gajisai
   149. $6,798  Zhus118
-  150. $6,812  A Taco Bell Employe
- *151. $6,812  MKBridger
+ *150. $6,812  MKBridger
+  151. $6,812  A Taco Bell Employe
   152. $6,838  lobstr
   153. $6,864  Envy
   154. $6,877  gold torizo
@@ -179,8 +179,8 @@ Updated 2021-12-29T00:21:47.981Z
   175. $7,163  toga
   176. $7,165  Conqu3red
  *177. $7,172  Jacosama
- *178. $7,186  Alison
- *179. $7,186  LassDasMal
+ *178. $7,186  LassDasMal
+ *179. $7,186  Alison
   180. $7,189  UnsanityLIVE
   181. $7,205  Drnoob0208
   182. $7,224  Reto
@@ -266,10 +266,10 @@ Updated 2021-12-29T00:21:47.981Z
   262. $8,258  BeljihnWahfl
   263. $8,273  GamingLike_A_Pro
  *264. $8,281  jbe22
-  265. $8,286  CantTouchDis
- *266. $8,286  Kotto4Ever
- *267. $8,287  yoavr123
-  268. $8,287  Daybou
+ *265. $8,286  Kotto4Ever
+  266. $8,286  CantTouchDis
+  267. $8,287  Daybou
+ *268. $8,287  yoavr123
  *269. $8,290  leicht gesalzener Kabeljaurogen
   270. $8,298  malubis
  *271. $8,301  Teque5
@@ -279,15 +279,15 @@ Updated 2021-12-29T00:21:47.981Z
  *275. $8,389  E.
   276. $8,404  Patrick Newt
   277. $8,412  Salamandre
- *278. $8,413  TangoWango
-  279. $8,413  pls
+  278. $8,413  pls
+ *279. $8,413  TangoWango
   280. $8,417  Pierre89vdb
   281. $8,417  alontalia4
   282. $8,429  Bubi
   283. $8,430  Juzless
   284. $8,434  PRNDL
-  285. $8,439  lucascornine
- *286. $8,439  Carole Fuggin Baskin
+ *285. $8,439  Carole Fuggin Baskin
+  286. $8,439  lucascornine
   287. $8,442  CheesyGamer201
   288. $8,454  theslaad
   289. $8,459  spacejam
@@ -394,7 +394,7 @@ Updated 2021-12-29T00:21:47.981Z
   390. $9,119  Natme
   391. $9,121  vkelloku
   392. $9,131  huurainotoruneko
- *393. $9,157  DanielRT
+  393. $9,157  DanielRT
   394. $9,158  Ryepizor
   395. $9,179  musmus101
   396. $9,180  Kedini
@@ -476,7 +476,7 @@ Updated 2021-12-29T00:21:47.981Z
   472. $9,687  RexlanV
   473. $9,693  slicedtoad
   474. $9,695  Turtle_God
-  475. $9,698  Kastrull
+ *475. $9,698  Kastrull
   476. $9,700  manojmact
   477. $9,700  Reo
  *478. $9,701  j4d
@@ -518,7 +518,7 @@ Updated 2021-12-29T00:21:47.981Z
   514. $9,984  Labeth
   515. $9,985  StreamGames
  *516. $9,996  Video Professor
- *517. $9,999  Plyoxxz
+  517. $9,999  Plyoxxz
  *518. $9,999  jeremywinick
   519. $10,011 yuki_lee
   520. $10,020 Uke
@@ -617,8 +617,8 @@ Updated 2021-12-29T00:21:47.981Z
   613. $10,622 Anders
   614. $10,622 polak1 -sz
   615. $10,633 MyGameIsLagging26
-  616. $10,646 pegarneau
- *617. $10,646 LucasOriginal
+ *616. $10,646 LucasOriginal
+  617. $10,646 pegarneau
   618. $10,649 DanielBK
   619. $10,660 david.veit
   620. $10,667 Lupo
@@ -671,7 +671,7 @@ Updated 2021-12-29T00:21:47.981Z
   667. $10,976 beautifulletter
   668. $10,979 Kämper
  *669. $10,983 hsphere
-  670. $10,998 Pat
+ *670. $10,998 Pat
   671. $10,998 Jonathan
   672. $10,998 TAMAN SHUD
   673. $11,005 Tubulsk1
@@ -756,8 +756,8 @@ Updated 2021-12-29T00:21:47.981Z
   752. $11,406 johannes
  *753. $11,413 pete
  *754. $11,413 Noisyboy
- *755. $11,437 Flashmiester205
-  756. $11,437 Allanb
+  755. $11,437 Allanb
+ *756. $11,437 Flashmiester205
  *757. $11,442 Shrek
   758. $11,443 6175804
   759. $11,444 Inhuman Erection
@@ -772,8 +772,8 @@ Updated 2021-12-29T00:21:47.981Z
   768. $11,476 Epik_Unifish
   769. $11,478 traemine7
   770. $11,480 Ranneko
- *771. $11,489 Bakerboyo
-  772. $11,489 Nuclear
+  771. $11,489 Nuclear
+ *772. $11,489 Bakerboyo
   773. $11,493 Delta
   774. $11,500 AL GAMARD MOUNRAGIS
   775. $11,500 aRandomFinn
@@ -910,20 +910,20 @@ Updated 2021-12-29T00:21:47.981Z
   906. $12,178 kweon7182
   907. $12,180 Alvieee
   908. $12,185 Ecks
- *909. $12,193 riiipple
-  910. $12,193 grande précipitation du moment
+  909. $12,193 grande précipitation du moment
+ *910. $12,193 riiipple
   911. $12,200 Anselmoh
   912. $12,223 liamcameron456
   913. $12,232 cnienstedt
   914. $12,233 Howard Beale
   915. $12,233 NyteShade
   916. $12,234 Katamari (old)
- *917. $12,243 DaggerDoom
-  918. $12,243 oBSTER
+  917. $12,243 oBSTER
+ *918. $12,243 DaggerDoom
   919. $12,247 hjerppe
  *920. $12,248 itzlukeYT21
   921. $12,250 Doomcake12345
-  922. $12,250 Freedom_IT
+ *922. $12,250 Freedom_IT
   923. $12,252 pineapplebacon777
  *924. $12,264 mikehuntehertz
   925. $12,267 Herr Hövels
@@ -982,8 +982,8 @@ Updated 2021-12-29T00:21:47.981Z
   978. $12,569 B3NJ4MIN
   979. $12,578 Jake
  *980. $12,583 Turrihomo
- *981. $12,592 叼着面包的金发吸血鬼
-  982. $12,592 Theschreiberclan
+  981. $12,592 Theschreiberclan
+ *982. $12,592 叼着面包的金发吸血鬼
   983. $12,595 jame
   984. $12,600 ashulato
   985. $12,612 leakybucket

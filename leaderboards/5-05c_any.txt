@@ -1,6 +1,6 @@
 Poly Bridge 2 - 5-05C "Sorting" any% leaderboard (* = breaks)
-Updated 2021-12-29T00:21:48.211Z
-790/896 unique ranks shown
+Updated 2021-12-30T00:23:04.776Z
+792/898 unique ranks shown
 
    *1. $6,436  Zen
    *2. $11,420 Fathom
@@ -720,75 +720,77 @@ Updated 2021-12-29T00:21:48.211Z
   716. $52,762 *****
   717. $53,249 Libnik
   718. $53,251 抽象派桥梁设计师
-  719. $53,377 dtomkoski
-  720. $53,978 Fockey15
-  721. $54,077 Carefully Concealed Dolphin
-  722. $54,400 WINTER
-  723. $54,741 zinc
-  724. $55,217 Navet
-  725. $55,222 aj27harris
-  726. $56,814 Salty Snail
-  727. $56,840 Sebarooo
-  728. $57,269 Pumpnog
-  729. $57,381 leonid_krebs
-  730. $57,949 Barnevernet
-  731. $58,241 Con-Man Moran
-  732. $58,282 Túró Rudi :3
-  733. $58,646 hhking
-  734. $58,714 ThiccRacc
-  735. $58,849 Mr_Robot
-  736. $59,045 Jimbo77
-  737. $59,219 morganbarrett
-  738. $60,076 Poto
-  739. $60,187 Prism ghost
-  740. $60,248 jcskhs
-  741. $60,401 Oxsy
-  742. $60,406 Valquoi
- *743. $60,412 .
-  744. $60,505 Rob Boss
-  745. $60,928 OwO
-  746. $61,150 Lerin
- *747. $61,320 andrew
-  748. $61,566 bobthebike
-  749. $61,826 Kampfsau
-  750. $61,958 Wildst
-  751. $62,915 Venntrical
-  752. $62,961 DeathBone
-  753. $63,058 Pyigyli
-  754. $63,095 DubNubDub
-  755. $63,305 Qthey
-  756. $63,364 SpandexN00dle
-  757. $63,393 jfo
-  758. $63,578 <a href="google.com">Google</a>
-  759. $64,537 lucasychan08
-  760. $64,984 Waity5
-  761. $65,075 Malgotgame
-  762. $66,490 Stinodrak (KLITORYS)
-  763. $67,112 croc.
-  764. $67,402 gamer253
-  765. $68,048 staubman1
-  766. $70,081 dmtjmurphy
-  767. $70,974 Pengujedi
-  768. $71,171 Lil Pepe
-  769. $72,910 kzvts123
-  770. $73,353 Chagi
-  771. $74,596 BOT Adam
-  772. $74,836 Schnitzel
-  773. $74,996 DennisYoghurtsen
-  774. $75,092 cade
-  775. $75,899 superneuras
-  776. $79,071 Cupar Guy
-  777. $79,498 Miner_vdv
-  778. $80,975 khodis2002
-  779. $81,273 aBacIdEe
-  780. $81,340 Whee_dudes
-  781. $83,218 Potato
-  782. $84,665 AntiMatter
-  783. $84,723 frayjog
-  784. $85,099 ebrotherto
-  785. $88,335 GR 25
-  786. $92,137 SilverShadow
-  787. $95,422 tanba-22
-  788. $98,930 jbloemscheer
- *789. $99,258 twistedsister86
-  790. $99,716 geroniberry
+  719. $53,282 Souths
+  720. $53,377 dtomkoski
+  721. $53,978 Fockey15
+  722. $54,077 Carefully Concealed Dolphin
+  723. $54,400 WINTER
+  724. $54,741 zinc
+  725. $55,217 Navet
+  726. $55,222 aj27harris
+  727. $56,814 Salty Snail
+  728. $56,840 Sebarooo
+  729. $57,269 Pumpnog
+  730. $57,381 leonid_krebs
+  731. $57,949 Barnevernet
+  732. $58,241 Con-Man Moran
+  733. $58,282 Túró Rudi :3
+  734. $58,646 hhking
+  735. $58,714 ThiccRacc
+  736. $58,849 Mr_Robot
+  737. $59,045 Jimbo77
+  738. $59,219 morganbarrett
+  739. $60,076 Poto
+  740. $60,187 Prism ghost
+  741. $60,248 jcskhs
+  742. $60,401 Oxsy
+  743. $60,406 Valquoi
+ *744. $60,412 .
+  745. $60,505 Rob Boss
+  746. $60,928 OwO
+  747. $61,150 Lerin
+ *748. $61,320 andrew
+  749. $61,566 bobthebike
+  750. $61,826 Kampfsau
+  751. $61,958 Wildst
+  752. $62,915 Venntrical
+  753. $62,961 DeathBone
+  754. $63,058 Pyigyli
+  755. $63,095 DubNubDub
+  756. $63,305 Qthey
+  757. $63,364 SpandexN00dle
+  758. $63,393 jfo
+  759. $63,578 <a href="google.com">Google</a>
+  760. $64,537 lucasychan08
+  761. $64,984 Waity5
+  762. $65,075 Malgotgame
+  763. $66,490 Stinodrak (KLITORYS)
+  764. $67,112 croc.
+  765. $67,402 gamer253
+  766. $68,048 staubman1
+  767. $70,081 dmtjmurphy
+  768. $70,974 Pengujedi
+  769. $71,171 Lil Pepe
+  770. $72,910 kzvts123
+  771. $73,353 Chagi
+  772. $74,596 BOT Adam
+  773. $74,836 Schnitzel
+  774. $74,996 DennisYoghurtsen
+  775. $75,092 cade
+  776. $75,899 superneuras
+  777. $79,071 Cupar Guy
+  778. $79,498 Miner_vdv
+  779. $80,975 khodis2002
+  780. $81,273 aBacIdEe
+  781. $81,340 Whee_dudes
+  782. $83,218 Potato
+  783. $84,665 AntiMatter
+  784. $84,723 frayjog
+  785. $85,099 ebrotherto
+  786. $88,335 GR 25
+  787. $92,137 SilverShadow
+  788. $95,422 tanba-22
+  789. $98,394 transvana
+  790. $98,930 jbloemscheer
+ *791. $99,258 twistedsister86
+  792. $99,716 geroniberry
