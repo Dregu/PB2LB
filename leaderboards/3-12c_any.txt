@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-12C "Emergency Interference" any% leaderboard (* = breaks)
-Updated 2022-01-02T00:22:55.145Z
-1000/3700 unique ranks shown
+Updated 2022-01-04T00:23:17.538Z
+1000/3703 unique ranks shown
 
    *1. $12,999 Fathom
    *2. $15,538 Zen
@@ -79,7 +79,7 @@ Updated 2022-01-02T00:22:55.145Z
   *75. $27,978 Hipsterfred
    76. $27,991 Arak'nae
    77. $28,168 Apicedda
-   78. $28,250 Freedom_IT
+  *78. $28,250 Freedom_IT
    79. $28,253 Minnesota.Nice
    80. $28,297 brandonstitt64
    81. $28,396 climberpi
@@ -387,7 +387,7 @@ Updated 2022-01-02T00:22:55.145Z
   383. $35,375 harryschaefer
   384. $35,385 TheMoen
   385. $35,397 MaMumsCar
- *386. $35,413 celesteal
+  386. $35,413 celesteal
   387. $35,445 Juzless
  *388. $35,447 YALDY
   389. $35,453 Noobybooby
@@ -766,8 +766,8 @@ Updated 2022-01-02T00:22:55.145Z
  *762. $40,625 alec.mitchellthomson
   763. $40,672 XPatt
   764. $40,675 ZanyZando
- *765. $40,677 sj070602
-  766. $40,677 dakkarkom
+  765. $40,677 dakkarkom
+ *766. $40,677 sj070602
   767. $40,690 popcorniosaurus
   768. $40,702 Meerkat890
   769. $40,709 ✪ tom1911
@@ -896,8 +896,8 @@ Updated 2022-01-02T00:22:55.145Z
   892. $42,110 CheesyGamer201
   893. $42,122 SadfacesX10
   894. $42,122  Arabic In My Blood 
- *895. $42,126 0123
-  896. $42,126 GameWolves
+  895. $42,126 GameWolves
+ *896. $42,126 0123
   897. $42,134 tfries0011
   898. $42,136 Aminalul
   899. $42,137 nordseefischkutterpirat
@@ -951,54 +951,54 @@ Updated 2022-01-02T00:22:55.145Z
   947. $42,491 philm302
   948. $42,505 SamaraCZ pvpro.com
   949. $42,508 A Sloth.
-  950. $42,566 Santafu
+ *950. $42,566 Santafu
   951. $42,569 Xelo
   952. $42,576 MasonatorRoblox
   953. $42,581 BZR4876432
   954. $42,596 elisholst
   955. $42,597 Brobocop
-  956. $42,604 DSMann
-  957. $42,604 Lord Fusion
-  958. $42,609 PABOOLo.gonzales@hotmail.com
-  959. $42,622 At424
-  960. $42,655 lionale29ten
-  961. $42,684 ⎠⎞™∞²°²°⎛⎝
- *962. $42,691 BEES
-  963. $42,702 Simon08
-  964. $42,725 GiantJigglyPanda
-  965. $42,730 Skybar
-  966. $42,730 Spitzkopf Larry
-  967. $42,756 JMichaelC98
-  968. $42,772 chosen feeder
-  969. $42,785 Liennie
-  970. $42,785 Monsieur Spock
-  971. $42,821 GoodMath
-  972. $42,834 Fizzy
-  973. $42,845 Rugs
-  974. $42,853 Purrfect | Rawwrr | XD | ;3
-  975. $42,856 Schnubbelheinski
-  976. $42,868 Chappy
- *977. $42,869 matthew.salzmann
-  978. $42,871 adikprokop
-  979. $42,878 swaq
-  980. $42,882 leigh.pattinson
-  981. $42,890 Whiskerfish.kun
-  982. $42,890 DominatorACR
-  983. $42,896 aigongar02
-  984. $42,914 nick
- *985. $42,916 SNOW
-  986. $42,924 martimrudge
-  987. $42,931 Steele
-  988. $42,937 call me Jaun
-  989. $42,944 MrglMrgl
-  990. $42,947 alexander
-  991. $42,948 Tampio
-  992. $42,952 Neil
-  993. $42,963 phuchs
-  994. $42,969 jbloemscheer
-  995. $42,978 sebastian.d.higgins
-  996. $43,014 Tracca
- *997. $43,041 Gibby
-  998. $43,044 Juender
-  999. $43,048 LUCAS1
- 1000. $43,050 liamjwaller
+  956. $42,600 OragamiYoda
+  957. $42,604 DSMann
+  958. $42,604 Lord Fusion
+  959. $42,609 PABOOLo.gonzales@hotmail.com
+  960. $42,622 At424
+  961. $42,655 lionale29ten
+  962. $42,684 ⎠⎞™∞²°²°⎛⎝
+ *963. $42,691 BEES
+  964. $42,702 Simon08
+  965. $42,725 GiantJigglyPanda
+  966. $42,730 Skybar
+  967. $42,730 Spitzkopf Larry
+  968. $42,756 JMichaelC98
+  969. $42,772 chosen feeder
+  970. $42,785 Liennie
+  971. $42,785 Monsieur Spock
+  972. $42,821 GoodMath
+  973. $42,834 Fizzy
+  974. $42,845 Rugs
+  975. $42,853 Purrfect | Rawwrr | XD | ;3
+  976. $42,856 Schnubbelheinski
+  977. $42,868 Chappy
+ *978. $42,869 matthew.salzmann
+  979. $42,871 adikprokop
+  980. $42,878 swaq
+  981. $42,882 leigh.pattinson
+  982. $42,890 Whiskerfish.kun
+  983. $42,890 DominatorACR
+  984. $42,896 aigongar02
+  985. $42,914 nick
+ *986. $42,916 SNOW
+  987. $42,924 martimrudge
+  988. $42,931 Steele
+  989. $42,937 call me Jaun
+  990. $42,944 MrglMrgl
+  991. $42,947 alexander
+  992. $42,948 Tampio
+  993. $42,952 Neil
+  994. $42,963 phuchs
+  995. $42,969 jbloemscheer
+  996. $42,978 sebastian.d.higgins
+  997. $43,014 Tracca
+ *998. $43,041 Gibby
+  999. $43,044 Juender
+ 1000. $43,048 LUCAS1
