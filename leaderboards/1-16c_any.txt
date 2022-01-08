@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-16C "Large Bridge" any% leaderboard (* = breaks)
-Updated 2022-01-07T00:24:00.730Z
-1000/12941 unique ranks shown
+Updated 2022-01-08T00:24:03.241Z
+1000/12957 unique ranks shown
 
     1. $11,141 Roevhaal
     2. $11,188 7777Alex7777
@@ -9,7 +9,7 @@ Updated 2022-01-07T00:24:00.730Z
     5. $11,399 GuacamoleLover27
     6. $11,403 Icysnowman
     7. $11,404 Trygeve
-   *8. $11,405 Crimson
+    8. $11,405 Crimson
     9. $11,422 Cookieblues
    10. $11,456 MOD
    11. $11,736 Zen
@@ -62,7 +62,7 @@ Updated 2022-01-07T00:24:00.730Z
    58. $18,216 rahut3004
    59. $18,236 Marco
    60. $18,238 loganstephensmith
-   61. $18,245 popcorniosaurus
+  *61. $18,245 popcorniosaurus
    62. $18,264 1541397267
    63. $18,267 Soba
    64. $18,297 Noahsorou
@@ -120,13 +120,13 @@ Updated 2022-01-07T00:24:00.730Z
   116. $19,758 DildoBike
   117. $19,764 Grorious Reader
   118. $19,801 nhpuppy
-  119. $19,810 레이치
- *120. $19,810 jason.fritsch18
+ *119. $19,810 jason.fritsch18
+  120. $19,810 레이치
  *121. $19,835 fG.SlimJim RustMoney.com
   122. $19,919 Муджимер
   123. $19,923 Luuroon
   124. $19,931 Snorflof
-  125. $19,933 henpenben
+ *125. $19,933 henpenben
   126. $19,936 Oubaas Kaksak
   127. $19,953 Handsome man
  *128. $19,960 Master Squid
@@ -500,7 +500,7 @@ Updated 2022-01-07T00:24:00.730Z
   496. $22,782 Samlauderuel
   497. $22,788 自由闊達
  *498. $22,789 JimothyCricket
- *499. $22,792 lollyH2O
+  499. $22,792 lollyH2O
   500. $22,799 The Magic Taco Truck
   501. $22,806 MrAztecL
   502. $22,807 Face7
@@ -695,8 +695,8 @@ Updated 2022-01-07T00:24:00.730Z
   691. $23,495 PraisH1t1er
  *692. $23,496 noahtheninja
   693. $23,500 Mikrobys
- *694. $23,508 zinc
-  695. $23,508 LUCse MENSEN
+  694. $23,508 LUCse MENSEN
+  695. $23,508 zinc
  *696. $23,509 Taosboy2
   697. $23,513 rakankma
   698. $23,515 BW
@@ -754,8 +754,8 @@ Updated 2022-01-07T00:24:00.730Z
   750. $23,685 Argontic
   751. $23,690 Jakke
   752. $23,690 beanie
- *753. $23,692 dadda
-  754. $23,692 artur.platzek
+  753. $23,692 artur.platzek
+ *754. $23,692 dadda
   755. $23,695 Quicksilver
   756. $23,696 Gravitron
   757. $23,700 acoster00
@@ -985,20 +985,20 @@ Updated 2022-01-07T00:24:00.730Z
   981. $24,254 Co
   982. $24,255 BruderTux
   983. $24,257 thomasjboote
-  984. $24,268 FireMuffins | RIP Yomps
-  985. $24,272 LewD
-  986. $24,276 3DPrinterGuy
-  987. $24,278 ✪ SynTaxX
- *988. $24,279 Discordian
- *989. $24,280 chairdude21
-  990. $24,280 ericj824
-  991. $24,285 Dr stowaters
-  992. $24,288 Agent Toasty
-  993. $24,288 minelegoo7
- *994. $24,290 Harry Wragg
- *995. $24,294 Gabe Itch
-  996. $24,298 Ramako
-  997. $24,298 PlazmaBlade
-  998. $24,299 RyGuy
-  999. $24,306 vonwarewolfe58
- 1000. $24,309 Water
+  984. $24,267 e_bonett
+  985. $24,268 FireMuffins | RIP Yomps
+  986. $24,272 LewD
+  987. $24,276 3DPrinterGuy
+  988. $24,278 ✪ SynTaxX
+ *989. $24,279 Discordian
+ *990. $24,280 chairdude21
+  991. $24,280 ericj824
+  992. $24,285 Dr stowaters
+  993. $24,288 Agent Toasty
+  994. $24,288 minelegoo7
+ *995. $24,290 Harry Wragg
+ *996. $24,294 Gabe Itch
+  997. $24,298 Ramako
+  998. $24,298 PlazmaBlade
+  999. $24,299 RyGuy
+ 1000. $24,306 vonwarewolfe58
