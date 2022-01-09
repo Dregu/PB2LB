@@ -1,14 +1,14 @@
 Poly Bridge 2 - 3-08 "Crossed Paths" any% leaderboard (* = breaks)
-Updated 2022-01-08T00:24:03.436Z
-1000/64471 unique ranks shown
+Updated 2022-01-09T00:23:29.917Z
+1000/64561 unique ranks shown
 
-   *1. $2,153  Lagiiiie
-   *2. $2,153  minecat
+   *1. $2,153  minecat
+   *2. $2,153  Lagiiiie
    *3. $2,590  Cookieblues
    *4. $3,420  9k5
-   *5. $3,662  palfly15
-   *6. $3,662  Fathom
-   *7. $3,662  MOD
+   *5. $3,662  MOD
+   *6. $3,662  palfly15
+   *7. $3,662  Fathom
     8. $7,283  7777Alex7777
     9. $7,284  Bellair08
    10. $9,344  Trygeve
@@ -168,8 +168,8 @@ Updated 2022-01-08T00:24:03.436Z
   164. $15,595 jeremywinick
   165. $15,649 gaphasus
   166. $15,672 jakemccullagh
- *167. $15,684 Horixens
-  168. $15,684 rileymcaz
+  167. $15,684 rileymcaz
+ *168. $15,684 Horixens
   169. $15,700 Hacker Duck
   170. $15,700 DuuSuu
  *171. $15,721 bille
@@ -286,7 +286,7 @@ Updated 2022-01-08T00:24:03.436Z
  *282. $17,207 Charles-W
   283. $17,214 noobskinninja
   284. $17,216 Martin
- *285. $17,221 Adaven
+  285. $17,221 Adaven
   286. $17,224 XanderB234
   287. $17,234 Mad Dogg
   288. $17,255 funnyman122
@@ -300,7 +300,7 @@ Updated 2022-01-08T00:24:03.436Z
   296. $17,405 Hannah
   297. $17,412 Michlop
   298. $17,415 Zynthian
- *299. $17,416 M47145dg
+  299. $17,416 M47145dg
   300. $17,428 cam
   301. $17,435 mocjunk
   302. $17,437 ✕ T-800 ✕
@@ -354,13 +354,13 @@ Updated 2022-01-08T00:24:03.436Z
   350. $17,865 The Medic
   351. $17,870 SWEet
   352. $17,871 TheRealDarius
- *353. $17,883 Lord Koia
-  354. $17,883 SkeptikBlaze
+  353. $17,883 SkeptikBlaze
+ *354. $17,883 Lord Koia
  *355. $17,884 Peppermaster
   356. $17,902 Haphazard
   357. $17,915 Count Ronin
- *358. $17,923 gengi ninga
- *359. $17,923 Bushy2700
+ *358. $17,923 Bushy2700
+ *359. $17,923 gengi ninga
   360. $17,927 Newgreen
   361. $17,935 JamieCook
  *362. $17,935 Sheler
@@ -369,8 +369,8 @@ Updated 2022-01-08T00:24:03.436Z
   365. $17,952 TheSadSlinky
  *366. $17,960 rx7man
   367. $17,960 Phloofy
- *368. $17,963 joshuak1899
-  369. $17,963 Anesthetics.
+  368. $17,963 Anesthetics.
+ *369. $17,963 joshuak1899
   370. $17,980 romyk
   371. $17,983 nhaven14
   372. $17,991 17uu
@@ -483,7 +483,7 @@ Updated 2022-01-08T00:24:03.436Z
   479. $18,593 figure.f
  *480. $18,597 1796073361
   481. $18,599 Kastrull
- *482. $18,602 Teh
+  482. $18,602 Teh
   483. $18,604 jamiegbreault
   484. $18,605 Darkhalis
   485. $18,612 42nd|BovineDiozzi
@@ -515,8 +515,8 @@ Updated 2022-01-08T00:24:03.436Z
   511. $18,718 Whyit1
   512. $18,727 abfgern_
   513. $18,728 bennatwil
-  514. $18,733 NEMO
- *515. $18,733 jason.fritsch18
+ *514. $18,733 jason.fritsch18
+  515. $18,733 NEMO
   516. $18,734 bjchristman
   517. $18,762 Road to 6k
   518. $18,764 Skylifter
@@ -850,8 +850,8 @@ Updated 2022-01-08T00:24:03.436Z
   846. $19,900 jongunzerg
   847. $19,901 h.lahdelma
   848. $19,902 Nova_
-  849. $19,909 eric03
- *850. $19,909 Skywalkertrem
+ *849. $19,909 Skywalkertrem
+  850. $19,909 eric03
   851. $19,910 stab-anders
   852. $19,912 Dwdzijó
   853. $19,914 nyasfa02
@@ -870,8 +870,8 @@ Updated 2022-01-08T00:24:03.436Z
   866. $19,943 iso Compass
  *867. $19,944 a trained kitten
   868. $19,953 King_of_Hertz
- *869. $19,956 FuegoN
- *870. $19,956 Arapscal
+ *869. $19,956 Arapscal
+ *870. $19,956 FuegoN
   871. $19,958 NitroMonkey
  *872. $19,963 beriangratian
   873. $19,968 ItMe404
@@ -1000,5 +1000,5 @@ Updated 2022-01-08T00:24:03.436Z
   996. $20,219 Jetstreamer
   997. $20,223 toniogx12
   998. $20,224 Mr_Schrecklich
-  999. $20,227 bitjetson
- 1000. $20,227 Aetherllama
+  999. $20,225 baimin26
+ 1000. $20,227 bitjetson
