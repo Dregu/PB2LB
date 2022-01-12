@@ -1,6 +1,6 @@
 Poly Bridge 2 - 6-15 "Special Delivery" any% leaderboard (* = breaks)
-Updated 2022-01-11T00:24:49.220Z
-625/846 unique ranks shown
+Updated 2022-01-12T00:23:41.652Z
+626/847 unique ranks shown
 
    *1. $27,887  Trygeve
    *2. $27,887  minecat
@@ -96,19 +96,19 @@ Updated 2022-01-11T00:24:49.220Z
    92. $57,561  davidloh
    93. $57,978  Outragedgamer14
    94. $58,054  danskupel
-   95. $58,288  Sothyl
-   96. $58,294  6175804
-   97. $58,363  mpmanikas
-   98. $58,433  떡실신13호
-  *99. $58,473  dickreiter
-  100. $58,481  Bubi
-  101. $58,589  archerboi14
-  102. $58,752  RaphaBertachine
-  103. $58,782  BaconPancakes
- *104. $59,456  ivwaurt
-  105. $59,583  LittlePriest
-  106. $59,790  jacobsedk
-  107. $59,866  leiberich
+   95. $58,169  leiberich
+   96. $58,288  Sothyl
+   97. $58,294  6175804
+   98. $58,363  mpmanikas
+   99. $58,433  떡실신13호
+ *100. $58,473  dickreiter
+  101. $58,481  Bubi
+  102. $58,589  archerboi14
+  103. $58,752  RaphaBertachine
+  104. $58,782  BaconPancakes
+ *105. $59,456  ivwaurt
+  106. $59,583  LittlePriest
+  107. $59,790  jacobsedk
   108. $60,440  HaZard
   109. $60,544  MoscaTonta
  *110. $60,568  zhaohuaye54
@@ -573,57 +573,58 @@ Updated 2022-01-11T00:24:49.220Z
   569. $99,884  DefintelyNotSean
  *570. $99,889  D1GDuG05
   571. $99,891  Coobold
-  572. $99,893  LAslug
-  573. $99,894  Daybou
-  574. $99,894  Jmk5704
-  575. $99,896  xXSIRNOOBXx
-  576. $99,897  lollyH2O
-  577. $99,910  12ohkay
-  578. $99,912  米国刘后
-  579. $99,913  1000crystal
-  580. $99,920  Teywer
-  581. $99,920  WiadrOrbaiW
-  582. $99,921  TheBaby
-  583. $99,928  Kaiser
-  584. $99,934  Yennefer
-  585. $99,938  yuna12527
-  586. $99,946  湊あくあ
-  587. $99,951  alexander
-  588. $99,953  No problem.
-  589. $99,961  TobyDog
-  590. $99,961  CJ7771000
-  591. $99,971  Jacky McJackFace
-  592. $99,973  Bot Zket
-  593. $99,973  wcopeland25
-  594. $99,975  opperser
-  595. $99,980  Samurai Gamer
-  596. $99,982  Souths
-  597. $99,983  sarp01
-  598. $99,984  InfinitySay
-  599. $99,987  Knoxy
-  600. $99,987  LevoRey
-  601. $99,989  Robokop
-  602. $99,992  ☼ ☼ ☼
-  603. $99,993  Yaky
-  604. $99,995  Aklhys
-  605. $99,995  DEVerdier
-  606. $99,997  Godlard
-  607. $99,997  SM2086
-  608. $99,999  getShooked
-  609. $100,000 Soba
-  610. $100,000 Max Galingumas
-  611. $100,526 *****
- *612. $100,579 ultimatedgambler
-  613. $104,054 PLIER
- *614. $106,172 willgundee
-  615. $109,019 Teh
-  616. $109,020 Chico Escobar
-  617. $109,830 Kris2603
-  618. $111,934 adamladam484
- *619. $122,210 Alexander barbarinko
- *620. $126,797 crazyjonnyblaze
- *621. $130,326 timohoogendoorn2
- *622. $132,762 Orbifold
- *623. $140,937 The Camp One 007
-  624. $176,547 maineah75
- *625. $200,000 ebrotherto
+  572. $99,891  Cleverson
+  573. $99,893  LAslug
+  574. $99,894  Daybou
+  575. $99,894  Jmk5704
+  576. $99,896  xXSIRNOOBXx
+  577. $99,897  lollyH2O
+  578. $99,910  12ohkay
+  579. $99,912  米国刘后
+  580. $99,913  1000crystal
+  581. $99,920  Teywer
+  582. $99,920  WiadrOrbaiW
+  583. $99,921  TheBaby
+  584. $99,928  Kaiser
+  585. $99,934  Yennefer
+  586. $99,938  yuna12527
+  587. $99,946  湊あくあ
+  588. $99,951  alexander
+  589. $99,953  No problem.
+  590. $99,961  TobyDog
+  591. $99,961  CJ7771000
+  592. $99,971  Jacky McJackFace
+  593. $99,973  Bot Zket
+  594. $99,973  wcopeland25
+  595. $99,975  opperser
+  596. $99,980  Samurai Gamer
+  597. $99,982  Souths
+  598. $99,983  sarp01
+  599. $99,984  InfinitySay
+  600. $99,987  Knoxy
+  601. $99,987  LevoRey
+  602. $99,989  Robokop
+  603. $99,992  ☼ ☼ ☼
+  604. $99,993  Yaky
+  605. $99,995  Aklhys
+  606. $99,995  DEVerdier
+  607. $99,997  Godlard
+  608. $99,997  SM2086
+  609. $99,999  getShooked
+  610. $100,000 Soba
+  611. $100,000 Max Galingumas
+  612. $100,526 *****
+ *613. $100,579 ultimatedgambler
+  614. $104,054 PLIER
+ *615. $106,172 willgundee
+  616. $109,019 Teh
+  617. $109,020 Chico Escobar
+  618. $109,830 Kris2603
+  619. $111,934 adamladam484
+ *620. $122,210 Alexander barbarinko
+ *621. $126,797 crazyjonnyblaze
+ *622. $130,326 timohoogendoorn2
+ *623. $132,762 Orbifold
+ *624. $140,937 The Camp One 007
+  625. $176,547 maineah75
+ *626. $200,000 ebrotherto
