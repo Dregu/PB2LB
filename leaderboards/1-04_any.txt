@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-04 "Fourteen Meter Overpass" any% leaderboard (* = breaks)
-Updated 2022-01-18T00:25:35.344Z
-1000/337490 unique ranks shown
+Updated 2022-01-19T00:21:42.546Z
+1000/337758 unique ranks shown
 
    *1. $4,165 7777Alex7777
    *2. $4,257 Trygeve
@@ -46,15 +46,15 @@ Updated 2022-01-18T00:25:35.344Z
   *42. $4,723 JakubBouska
   *43. $4,744 philipppaulsen
   *44. $4,746 BaconPancakes
-  *45. $4,767 genevieve.m.draper
-   46. $4,774 Shadow
-  *47. $4,775 Nin-Tanner
-  *48. $4,787 SAM45!!!
-  *49. $4,791 marciochb
-  *50. $4,797 RiddledHorse
-  *51. $4,799 amandachertavu
-  *52. $4,802 getShooked
-  *53. $4,818 ~ Smithy ~
+  *45. $4,765 ~ Smithy ~
+  *46. $4,767 genevieve.m.draper
+   47. $4,774 Shadow
+  *48. $4,775 Nin-Tanner
+  *49. $4,787 SAM45!!!
+  *50. $4,791 marciochb
+  *51. $4,797 RiddledHorse
+  *52. $4,799 amandachertavu
+  *53. $4,802 getShooked
   *54. $4,820 iwantmore29
   *55. $4,842 Throwout123
   *56. $4,849 whaledong69
@@ -723,68 +723,68 @@ Updated 2022-01-18T00:25:35.344Z
   719. $6,218 lionale29ten
   720. $6,219 Kirby Kidd
   721. $6,219 dlo_olb
-  722. $6,222 kiwizzzzzz
-  723. $6,223 TheTorst
-  724. $6,223 Jemkat
- *725. $6,226 Thudios
-  726. $6,226 cybranin
- *727. $6,226 22612978
-  728. $6,226 1723945294
-  729. $6,227 蓝七
-  730. $6,227 Mikie
- *731. $6,228 nobledrewt
- *732. $6,228 I Love yoghurt
- *733. $6,229 ben55418
-  734. $6,230 veikko
-  735. $6,231 aaronsimon2008
-  736. $6,231 jharmon198513
-  737. $6,232 k-aki
-  738. $6,232 :(
-  739. $6,232 Sgt.Komander
-  740. $6,232 gustavus66
-  741. $6,233 Hawkwing
-  742. $6,233 Cullen
- *743. $6,233 Antimatter Rain
-  744. $6,233 armancjuma
-  745. $6,236 Red Charge
- *746. $6,237 clayc21
- *747. $6,237 Thpetre
-  748. $6,239 Lainilly
-  749. $6,239 michadonald1
- *750. $6,239 CourageousCade
-  751. $6,240 TheChosen KaP
-  752. $6,240 K_R_I_S_N_A
-  753. $6,241 Maax
- *754. $6,242 Friar Laurence
- *755. $6,242 sethandtiki
-  756. $6,242 173875818
- *757. $6,243 Soy Henry
-  758. $6,243 Pumpnog
-  759. $6,244 閃亮
-  760. $6,245 Intuition
-  761. $6,246 Boi...
-  762. $6,248 BlorkBorkey
- *763. $6,249 jbenshoof1
-  764. $6,251 HoneyBadger
- *765. $6,251 TimeDrifter
-  766. $6,251 Filipowskyy
-  767. $6,251 Knowbody
-  768. $6,252 Jaso
-  769. $6,252 Tahm Kench
-  770. $6,252 R
-  771. $6,253 JukeLones15
-  772. $6,254 Icysnowman
-  773. $6,254 jonavenk
-  774. $6,255 Kilburn
- *775. $6,255 Vinuelax3
-  776. $6,255 AimBob
-  777. $6,257 BigMommyGames
-  778. $6,257 xtract
-  779. $6,259 叫我阿神就好了(阿瓦隆组局请叫我)
-  780. $6,259 Thoomor
-  781. $6,259 jasond8788
-  782. $6,260 Ivee Nara "El Cid"
- *783. $6,260 maxblue456
+  722. $6,219 maxblue456
+  723. $6,222 kiwizzzzzz
+  724. $6,223 TheTorst
+  725. $6,223 Jemkat
+ *726. $6,226 Thudios
+  727. $6,226 cybranin
+ *728. $6,226 22612978
+  729. $6,226 1723945294
+  730. $6,227 蓝七
+  731. $6,227 Mikie
+ *732. $6,228 nobledrewt
+ *733. $6,228 I Love yoghurt
+ *734. $6,229 ben55418
+  735. $6,230 veikko
+  736. $6,231 aaronsimon2008
+  737. $6,231 jharmon198513
+  738. $6,232 k-aki
+  739. $6,232 :(
+  740. $6,232 Sgt.Komander
+  741. $6,232 gustavus66
+  742. $6,233 Hawkwing
+  743. $6,233 Cullen
+ *744. $6,233 Antimatter Rain
+  745. $6,233 armancjuma
+  746. $6,236 Red Charge
+ *747. $6,237 clayc21
+ *748. $6,237 Thpetre
+  749. $6,239 Lainilly
+  750. $6,239 michadonald1
+ *751. $6,239 CourageousCade
+  752. $6,240 TheChosen KaP
+  753. $6,240 K_R_I_S_N_A
+  754. $6,241 Maax
+ *755. $6,242 Friar Laurence
+ *756. $6,242 sethandtiki
+  757. $6,242 173875818
+ *758. $6,243 Soy Henry
+  759. $6,243 Pumpnog
+  760. $6,244 閃亮
+  761. $6,245 Intuition
+  762. $6,246 Boi...
+  763. $6,248 BlorkBorkey
+ *764. $6,249 jbenshoof1
+  765. $6,251 HoneyBadger
+ *766. $6,251 TimeDrifter
+  767. $6,251 Filipowskyy
+  768. $6,251 Knowbody
+  769. $6,252 Jaso
+  770. $6,252 Tahm Kench
+  771. $6,252 R
+  772. $6,253 JukeLones15
+  773. $6,254 Icysnowman
+  774. $6,254 jonavenk
+  775. $6,255 Kilburn
+ *776. $6,255 Vinuelax3
+  777. $6,255 AimBob
+  778. $6,257 BigMommyGames
+  779. $6,257 xtract
+  780. $6,259 叫我阿神就好了(阿瓦隆组局请叫我)
+  781. $6,259 Thoomor
+  782. $6,259 jasond8788
+  783. $6,260 Ivee Nara "El Cid"
  *784. $6,262 orangeP
   785. $6,262 olivapaa
  *786. $6,262 haWk
