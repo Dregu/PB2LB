@@ -1,9 +1,9 @@
 Poly Bridge 2 - 3-12C "Emergency Interference" any% leaderboard (* = breaks)
-Updated 2022-01-21T00:22:06.332Z
-1000/3740 unique ranks shown
+Updated 2022-01-22T00:20:39.335Z
+1000/3744 unique ranks shown
 
-   *1. $12,999 Cookieblues
-   *2. $12,999 Fathom
+   *1. $12,999 Fathom
+   *2. $12,999 Cookieblues
    *3. $15,538 Zen
     4. $17,142 Roevhaal
     5. $17,349 Lagiiiie
@@ -96,7 +96,7 @@ Updated 2022-01-21T00:22:06.332Z
   *92. $28,790 Skye_Homes
    93. $28,819 maxjmiles
    94. $28,871 iressle
-   95. $28,893 ~ Smithy ~
+  *95. $28,893 ~ Smithy ~
   *96. $28,998 Bairdy
    97. $29,148 Enchanted Spider
   *98. $29,188 Dad
@@ -521,8 +521,8 @@ Updated 2022-01-21T00:22:06.332Z
   517. $37,394 musmus101
   518. $37,398 Jacosama
   519. $37,421 小飞侠
-  520. $37,423 9847
- *521. $37,423 zerd
+ *520. $37,423 zerd
+  521. $37,423 9847
   522. $37,427 我是你超哥
   523. $37,452 Mizuhana
  *524. $37,461 Tactical Insomnia
@@ -770,8 +770,8 @@ Updated 2022-01-21T00:22:06.332Z
  *766. $40,625 alec.mitchellthomson
   767. $40,672 XPatt
   768. $40,675 ZanyZando
- *769. $40,677 sj070602
-  770. $40,677 dakkarkom
+  769. $40,677 dakkarkom
+ *770. $40,677 sj070602
   771. $40,690 popcorniosaurus
   772. $40,702 Meerkat890
   773. $40,709 ✪ tom1911
@@ -925,7 +925,7 @@ Updated 2022-01-21T00:22:06.332Z
   921. $42,254 loriscao
   922. $42,259 Fractyll
   923. $42,273 Tiznadete
- *924. $42,274 Tiuza 私の弟子になる
+  924. $42,274 Tiuza 私の弟子になる
   925. $42,276 Cedrick
   926. $42,278 makko
   927. $42,278 AntiMatter
@@ -976,29 +976,29 @@ Updated 2022-01-21T00:22:06.332Z
   972. $42,730 Spitzkopf Larry
   973. $42,756 JMichaelC98
   974. $42,772 chosen feeder
-  975. $42,785 Liennie
-  976. $42,785 Monsieur Spock
-  977. $42,821 GoodMath
-  978. $42,834 Fizzy
-  979. $42,845 Rugs
-  980. $42,853 Purrfect | Rawwrr | XD | ;3
-  981. $42,856 Schnubbelheinski
-  982. $42,868 Chappy
- *983. $42,869 matthew.salzmann
-  984. $42,871 adikprokop
-  985. $42,878 swaq
-  986. $42,882 leigh.pattinson
-  987. $42,890 Whiskerfish.kun
-  988. $42,890 DominatorACR
-  989. $42,896 aigongar02
-  990. $42,914 nick
- *991. $42,916 SNOW
-  992. $42,924 martimrudge
-  993. $42,931 Steele
-  994. $42,937 call me Jaun
-  995. $42,944 MrglMrgl
-  996. $42,947 alexander
-  997. $42,948 Tampio
-  998. $42,952 Neil
-  999. $42,963 phuchs
- 1000. $42,969 jbloemscheer
+  975. $42,783 matteo.dolcin
+  976. $42,785 Liennie
+  977. $42,785 Monsieur Spock
+  978. $42,821 GoodMath
+  979. $42,834 Fizzy
+  980. $42,845 Rugs
+  981. $42,853 Purrfect | Rawwrr | XD | ;3
+  982. $42,856 Schnubbelheinski
+  983. $42,868 Chappy
+ *984. $42,869 matthew.salzmann
+  985. $42,871 adikprokop
+  986. $42,878 swaq
+  987. $42,882 leigh.pattinson
+  988. $42,890 Whiskerfish.kun
+  989. $42,890 DominatorACR
+  990. $42,896 aigongar02
+  991. $42,914 nick
+ *992. $42,916 SNOW
+  993. $42,924 martimrudge
+  994. $42,931 Steele
+  995. $42,937 call me Jaun
+  996. $42,944 MrglMrgl
+  997. $42,947 alexander
+  998. $42,948 Tampio
+  999. $42,952 Neil
+ 1000. $42,963 phuchs
