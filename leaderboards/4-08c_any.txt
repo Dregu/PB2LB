@@ -1,15 +1,15 @@
 Poly Bridge 2 - 4-08C "Thread the Needle" any% leaderboard (* = breaks)
-Updated 2022-01-22T00:20:39.432Z
-1000/3954 unique ranks shown
+Updated 2022-01-23T00:21:21.509Z
+1000/3956 unique ranks shown
 
-   *1. $899    9k5
-   *2. $899    Lagiiiie
-   *3. $1,088  Cookieblues
-   *4. $1,088  MOD
+   *1. $899    Lagiiiie
+   *2. $899    9k5
+   *3. $1,088  MOD
+   *4. $1,088  Cookieblues
    *5. $1,142  Zen
    *6. $1,142  Trygeve
    *7. $1,531  BaconPancakes
-    8. $1,672  nVentex
+   *8. $1,672  nVentex
    *9. $1,878  BEEF
   *10. $1,984  Bellair08
   *11. $1,992  Fathom
@@ -35,7 +35,7 @@ Updated 2022-01-22T00:20:39.432Z
    31. $2,837  Zhus118
    32. $2,959  Soba
   *33. $3,050  Cix
-   34. $3,057  adambrianschmidt
+  *34. $3,057  adambrianschmidt
    35. $3,077  Me 10 Jin
   *36. $3,145  Loner
   *37. $3,186  BushySushi
@@ -101,8 +101,8 @@ Updated 2022-01-22T00:20:39.432Z
    97. $5,252  AGENT_BLARPY0009
   *98. $5,293  Retrolith
    99. $5,323  Big Al Chimpo
-  100. $5,338  TheSadSlinky
- *101. $5,338  滑地上之小稽
+ *100. $5,338  滑地上之小稽
+  101. $5,338  TheSadSlinky
   102. $5,344  ultraroar101
  *103. $5,378  Pat
   104. $5,387  floofiepoes
@@ -197,7 +197,7 @@ Updated 2022-01-22T00:20:39.432Z
   193. $6,985  Kint
   194. $6,986  NetEng
  *195. $7,038  piccolo_SPA
-  196. $7,078  nhaven14
+ *196. $7,078  nhaven14
  *197. $7,137  GoodMath
  *198. $7,147  theo.louesdon
  *199. $7,212  123hibye321
@@ -252,8 +252,8 @@ Updated 2022-01-22T00:20:39.432Z
   248. $7,889  bastian.bello.c
  *249. $7,904  Chuckpoo
  *250. $7,908  Couch
- *251. $7,918  naphack
- *252. $7,918  meepS ツ
+ *251. $7,918  meepS ツ
+ *252. $7,918  naphack
   253. $7,924  KAPPPS
   254. $7,934  Zky-Chan
   255. $7,956  BOT Alisec
@@ -273,8 +273,8 @@ Updated 2022-01-22T00:20:39.432Z
  *269. $8,165  thueman
   270. $8,170  PROwill3
   271. $8,172  magaly_mondaca
- *272. $8,198  Leftclick
-  273. $8,198  W@rri0r
+  272. $8,198  W@rri0r
+ *273. $8,198  Leftclick
  *274. $8,209  genevieve.m.draper
  *275. $8,211  Delta_Mage
  *276. $8,246  Jassuuuuu
@@ -288,8 +288,8 @@ Updated 2022-01-22T00:20:39.432Z
   284. $8,306  flustered
   285. $8,324  Erik the best
   286. $8,334  Shadowygrave
-  287. $8,356  Cremefraiche
- *288. $8,356  kraal
+ *287. $8,356  kraal
+  288. $8,356  Cremefraiche
  *289. $8,369  bysscorre
  *290. $8,370  ellisk1
   291. $8,398  jakob.infuehr
@@ -654,8 +654,8 @@ Updated 2022-01-22T00:20:39.432Z
  *650. $11,266 tallguyproblems12
   651. $11,269 Australia is my City
   652. $11,276 Louis
- *653. $11,280 jaredkazoo
- *654. $11,280 Lachycorn
+ *653. $11,280 Lachycorn
+ *654. $11,280 jaredkazoo
  *655. $11,282 dav245
   656. $11,282 Loaded
   657. $11,287 max0307
@@ -697,8 +697,8 @@ Updated 2022-01-22T00:20:39.432Z
   693. $11,530 ParadoxIvy
   694. $11,538 zach90888
  *695. $11,538 Tiznadete
- *696. $11,540 Irrelevant
-  697. $11,540 kuziranawa
+  696. $11,540 kuziranawa
+ *697. $11,540 Irrelevant
  *698. $11,543 OhmsAreFutile
   699. $11,544 AntiMatter
   700. $11,545 The Disastrous Village
@@ -798,8 +798,8 @@ Updated 2022-01-22T00:20:39.432Z
  *794. $12,033 ClownRay
   795. $12,058 Des_troy_er
   796. $12,063 MatthewB
- *797. $12,066 philm302
-  798. $12,066 OCTDUMPUS
+  797. $12,066 OCTDUMPUS
+ *798. $12,066 philm302
   799. $12,068 snowfire247
   800. $12,074 Yojaun Tamata Costly
   801. $12,076 Xeoran
@@ -807,8 +807,8 @@ Updated 2022-01-22T00:20:39.432Z
   803. $12,084 Iuuca
   804. $12,086 yessem
   805. $12,088 Hierbaseca
- *806. $12,089 connerfelllee
-  807. $12,089 Momo
+  806. $12,089 Momo
+ *807. $12,089 connerfelllee
   808. $12,092 Johannes652
  *809. $12,093 bolong
   810. $12,094 wwylele
