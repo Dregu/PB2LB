@@ -1,13 +1,13 @@
 Poly Bridge 2 - 4-01C "Edgy" any% leaderboard (* = breaks)
-Updated 2022-01-25T00:23:26.190Z
-1000/3952 unique ranks shown
+Updated 2022-01-26T00:23:27.602Z
+1000/3955 unique ranks shown
 
-   *1. $2,999  minecat
-   *2. $2,999  Cookieblues
-    3. $2,999  Lagiiiie
-   *4. $2,999  Fathom
-   *5. $3,579  somefakegamer
-   *6. $3,579  7777Alex7777
+   *1. $2,999  Cookieblues
+   *2. $2,999  Fathom
+   *3. $2,999  minecat
+    4. $2,999  Lagiiiie
+   *5. $3,579  7777Alex7777
+   *6. $3,579  somefakegamer
     7. $11,320 Trygeve
     8. $11,666 Soba
     9. $11,763 Enchanted Spider
@@ -25,7 +25,7 @@ Updated 2022-01-25T00:23:26.190Z
    21. $15,303 Heater
    22. $15,999 lukas.bornheim
    23. $16,622 BaconPancakes
-   24. $16,789 jonaTHOT
+  *24. $16,789 jonaTHOT
    25. $16,838 lee731017
   *26. $16,902 nhaven14
    27. $17,244 ZiuTinyat
@@ -37,7 +37,7 @@ Updated 2022-01-25T00:23:26.190Z
   *33. $17,683 lancekro
    34. $17,722 Uniquepotatoes
   *35. $17,744 olivapaa
-  *36. $17,803 zinc
+   36. $17,803 zinc
    37. $17,912 Babou
    38. $18,267 Firesquirrel
    39. $18,519 Igloo
@@ -96,7 +96,7 @@ Updated 2022-01-25T00:23:26.190Z
    92. $21,365 SM2086
    93. $21,378 Draradech
    94. $21,405 tylerhbateman
-   95. $21,424 POLAR
+  *95. $21,424 POLAR
    96. $21,465 Diggsey
    97. $21,467 The_Vaccine
   *98. $21,470 Kordy
@@ -210,7 +210,7 @@ Updated 2022-01-25T00:23:26.190Z
   206. $22,925 Patrick the Pure
   207. $22,930 zbf539942737
   208. $22,933 arthurklimas
- *209. $22,940 bille
+  209. $22,940 bille
  *210. $22,941 ma23
   211. $22,942 jonah.freeland
   212. $22,958 DanielPXL
@@ -331,8 +331,8 @@ Updated 2022-01-25T00:23:26.190Z
   327. $24,079 jakob.infuehr
   328. $24,083 cody
  *329. $24,106 desti
-  330. $24,109 veggie stix
- *331. $24,109 Chickenzilla
+ *330. $24,109 Chickenzilla
+  331. $24,109 veggie stix
  *332. $24,128 Spug
   333. $24,131 anijoker
   334. $24,132 Corgi996
@@ -340,7 +340,7 @@ Updated 2022-01-25T00:23:26.190Z
   336. $24,143 Foxyrenard
   337. $24,144 The Great Pretender
   338. $24,144 Teywer
- *339. $24,153 piccolo_SPA
+  339. $24,153 piccolo_SPA
   340. $24,179 Shieber
  *341. $24,181 Cs2O2
   342. $24,186 Quantum
@@ -489,8 +489,8 @@ Updated 2022-01-25T00:23:26.190Z
  *485. $25,328 snowmaniac
   486. $25,332 duncanwerner
   487. $25,335 TheSuperNR
- *488. $25,341 Muen47
-  489. $25,341 TheBaby
+  488. $25,341 TheBaby
+  489. $25,341 Muen47
   490. $25,350 MechanicalPencil
   491. $25,352 obsidious
   492. $25,358 jjones18
@@ -526,8 +526,8 @@ Updated 2022-01-25T00:23:26.190Z
   522. $25,574 AngryFungus
   523. $25,576 Sketchzi
   524. $25,602 Tiznadete
-  525. $25,620 mcj201
- *526. $25,620 Krazy Koi Fish
+ *525. $25,620 Krazy Koi Fish
+  526. $25,620 mcj201
   527. $25,623 oiughiuzg
   528. $25,624 jimloafer
   529. $25,626 Immabird
@@ -580,8 +580,8 @@ Updated 2022-01-25T00:23:26.190Z
   576. $25,884 Invasian
   577. $25,885 DuncanAM
   578. $25,889 sirchance2002
- *579. $25,898 flustered
- *580. $25,898 Jonas_H1307
+ *579. $25,898 Jonas_H1307
+ *580. $25,898 flustered
  *581. $25,902 Nomix
   582. $25,906 marapara033
   583. $25,913 aferalsheep
@@ -748,8 +748,8 @@ Updated 2022-01-25T00:23:26.190Z
   744. $26,818 Yaky
   745. $26,818 Sith Phil Less
   746. $26,820 Patfou
-  747. $26,831 Frotty
- *748. $26,831 Gzuz
+ *747. $26,831 Gzuz
+  748. $26,831 Frotty
   749. $26,834 joel.rspence
   750. $26,840 Exapithicus
   751. $26,840 das fat catov
@@ -860,7 +860,7 @@ Updated 2022-01-25T00:23:26.190Z
   856. $27,407 hobz [REG]
   857. $27,408 adikprokop
   858. $27,408 skya774005
-  859. $27,413 The Toasted Marshmallow
+ *859. $27,413 The Toasted Marshmallow
   860. $27,430 LarsIngo
   861. $27,441 Bachlead
   862. $27,442 Xeetos
