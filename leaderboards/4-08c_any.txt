@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-08C "Thread the Needle" any% leaderboard (* = breaks)
-Updated 2022-01-27T00:21:56.703Z
-1000/3967 unique ranks shown
+Updated 2022-01-28T00:23:46.961Z
+1000/3969 unique ranks shown
 
    *1. $899    Lagiiiie
    *2. $899    9k5
@@ -9,7 +9,7 @@ Updated 2022-01-27T00:21:56.703Z
    *5. $1,142  Trygeve
    *6. $1,142  Zen
    *7. $1,531  BaconPancakes
-   *8. $1,672  nVentex
+    8. $1,672  nVentex
    *9. $1,878  BEEF
   *10. $1,984  Bellair08
   *11. $1,992  Fathom
@@ -35,7 +35,7 @@ Updated 2022-01-27T00:21:56.703Z
    31. $2,837  Zhus118
    32. $2,959  Soba
   *33. $3,050  Cix
-   34. $3,057  adambrianschmidt
+  *34. $3,057  adambrianschmidt
    35. $3,077  Me 10 Jin
   *36. $3,145  Loner
   *37. $3,186  BushySushi
@@ -253,8 +253,8 @@ Updated 2022-01-27T00:21:56.703Z
   249. $7,889  bastian.bello.c
  *250. $7,904  Chuckpoo
  *251. $7,908  Couch
- *252. $7,918  naphack
- *253. $7,918  meepS ツ
+ *252. $7,918  meepS ツ
+ *253. $7,918  naphack
   254. $7,924  KAPPPS
   255. $7,934  Zky-Chan
   256. $7,956  BOT Alisec
@@ -296,8 +296,8 @@ Updated 2022-01-27T00:21:56.703Z
   292. $8,398  jakob.infuehr
  *293. $8,412  West
   294. $8,416  CursorCoercer
-  295. $8,429  CantTouchDis
- *296. $8,429  Sockum
+ *295. $8,429  Sockum
+  296. $8,429  CantTouchDis
   297. $8,440  snova0112
  *298. $8,445  FoonTheRaccoon
   299. $8,450  QuantiumIm
@@ -356,8 +356,8 @@ Updated 2022-01-27T00:21:56.703Z
  *352. $8,922  Baaf
   353. $8,923  TitiMcFly_
  *354. $8,939  ☣ KILLERZΣUS ☣
- *355. $8,940  jeremywinick
- *356. $8,940  GChilley
+ *355. $8,940  GChilley
+ *356. $8,940  jeremywinick
  *357. $8,947  matthewsabio
   358. $8,972  snorkel_head
  *359. $8,981  Vïnora
@@ -377,14 +377,14 @@ Updated 2022-01-27T00:21:56.703Z
   373. $9,095  Rico The Saboteur
   374. $9,099  shock_block
   375. $9,100  Hiquake
- *376. $9,103  The Shire
-  377. $9,103  sirchance2002
+  376. $9,103  sirchance2002
+ *377. $9,103  The Shire
   378. $9,111  FlexSeal
   379. $9,115  TAMAN SHUD
   380. $9,135  Paintchip
  *381. $9,145  Chipper
-  382. $9,158  Ben Curren
- *383. $9,158  RoDoX
+ *382. $9,158  RoDoX
+  383. $9,158  Ben Curren
   384. $9,174  Jebediah1000
   385. $9,175  Rastapoulpe
   386. $9,184  Lemon cubes
@@ -450,7 +450,7 @@ Updated 2022-01-27T00:21:56.703Z
  *446. $9,779  Fiku121
  *447. $9,794  Lavisch
   448. $9,802  Ground15
-  449. $9,809  OverTheTop423
+ *449. $9,809  OverTheTop423
   450. $9,818  Volardin
   451. $9,820  sidschurgin
  *452. $9,833  SThomas [GER]
@@ -640,8 +640,8 @@ Updated 2022-01-27T00:21:56.703Z
   636. $11,177 [7H3_13U7CH3R]
   637. $11,180 drathkus
  *638. $11,183 Wickerznn ⚫⃤
- *639. $11,185 calvin.love
- *640. $11,185 Sith Phil Less
+ *639. $11,185 Sith Phil Less
+ *640. $11,185 calvin.love
   641. $11,196 Kertelik (✿◠‿◠)
   642. $11,198 lint100ace
  *643. $11,217 Confuse
@@ -656,8 +656,8 @@ Updated 2022-01-27T00:21:56.703Z
  *652. $11,266 tallguyproblems12
   653. $11,269 Australia is my City
   654. $11,276 Louis
- *655. $11,280 jaredkazoo
- *656. $11,280 Lachycorn
+ *655. $11,280 Lachycorn
+ *656. $11,280 jaredkazoo
  *657. $11,282 dav245
   658. $11,282 Loaded
   659. $11,287 max0307
@@ -833,8 +833,8 @@ Updated 2022-01-27T00:21:56.703Z
   829. $12,167 ExploDot
   830. $12,171 Wot
   831. $12,175 KyleCow
- *832. $12,179 Kastrull
-  833. $12,179 Bajerlykke
+  832. $12,179 Bajerlykke
+ *833. $12,179 Kastrull
   834. $12,184 tomaschonnie
   835. $12,189 Hey all you cool cats n kittens
   836. $12,190 KettleMan
