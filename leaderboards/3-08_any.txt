@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-08 "Crossed Paths" any% leaderboard (* = breaks)
-Updated 2022-01-29T00:20:28.494Z
-1000/65808 unique ranks shown
+Updated 2022-01-30T00:22:41.292Z
+1000/65870 unique ranks shown
 
    *1. $2,153  Lagiiiie
    *2. $2,153  Cookieblues
@@ -88,7 +88,7 @@ Updated 2022-01-29T00:20:28.494Z
    84. $12,987 Tehninza
   *85. $13,004 Nöten
    86. $13,058 shinflames
-  *87. $13,093 Adjoint
+   87. $13,093 Adjoint
    88. $13,098 Sev
    89. $13,131 jb_77
    90. $13,210 TheLex05
@@ -362,13 +362,13 @@ Updated 2022-01-29T00:20:28.494Z
  *358. $17,923 Bushy2700
  *359. $17,923 gengi ninga
   360. $17,927 Newgreen
-  361. $17,935 JamieCook
-  362. $17,935 NADMaster
- *363. $17,935 Sheler
+ *361. $17,935 Sheler
+  362. $17,935 JamieCook
+  363. $17,935 NADMaster
   364. $17,936 caioswfr
   365. $17,952 TheSadSlinky
- *366. $17,960 rx7man
-  367. $17,960 Phloofy
+  366. $17,960 Phloofy
+ *367. $17,960 rx7man
   368. $17,963 Anesthetics.
  *369. $17,963 joshuak1899
   370. $17,980 romyk
@@ -484,7 +484,7 @@ Updated 2022-01-29T00:20:28.494Z
   480. $18,593 figure.f
  *481. $18,597 1796073361
   482. $18,599 Kastrull
-  483. $18,602 Teh
+ *483. $18,602 Teh
   484. $18,604 jamiegbreault
   485. $18,605 Darkhalis
   486. $18,612 42nd|BovineDiozzi
@@ -560,8 +560,8 @@ Updated 2022-01-29T00:20:28.494Z
  *556. $18,951 spade_14
   557. $18,952 Egonb4
   558. $18,957 DerVierus
- *559. $18,958 StumpyWumpy
-  560. $18,958 cliff007
+  559. $18,958 cliff007
+ *560. $18,958 StumpyWumpy
   561. $18,959 lerock77
  *562. $18,969 Miyako
   563. $18,969 Patches
@@ -686,8 +686,8 @@ Updated 2022-01-29T00:20:28.494Z
   682. $19,430 BackForComeback
   683. $19,442 Pippin2026
   684. $19,443 Arloten
-  685. $19,446 Ocmerr
- *686. $19,446 barryreichphd
+ *685. $19,446 barryreichphd
+  686. $19,446 Ocmerr
   687. $19,448 Bambino
   688. $19,453 LLCoolDave
   689. $19,458 Zelbinian
@@ -874,8 +874,8 @@ Updated 2022-01-29T00:20:28.494Z
   870. $19,943 iso Compass
  *871. $19,944 a trained kitten
   872. $19,953 King_of_Hertz
- *873. $19,956 Arapscal
- *874. $19,956 FuegoN
+ *873. $19,956 FuegoN
+ *874. $19,956 Arapscal
   875. $19,958 NitroMonkey
  *876. $19,963 beriangratian
   877. $19,968 ItMe404
@@ -1001,4 +1001,4 @@ Updated 2022-01-29T00:20:28.494Z
  *997. $20,214 Dirk
   998. $20,215 2215849817
   999. $20,215 vathymon
-*1000. $20,215 Rapidz Tempest
+ 1000. $20,215 Rackham
