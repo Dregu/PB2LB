@@ -1,11 +1,11 @@
 Poly Bridge 2 - 4-13 "Diagonal Drawbridge" any% leaderboard (* = breaks)
-Updated 2022-01-30T00:22:41.490Z
-1000/36548 unique ranks shown
+Updated 2022-01-31T00:22:58.745Z
+1000/36566 unique ranks shown
 
-   *1. $2,442  Cookieblues
-   *2. $2,442  Zen
-   *3. $2,442  7777Alex7777
-   *4. $2,442  Lagiiiie
+   *1. $2,442  Zen
+   *2. $2,442  Cookieblues
+   *3. $2,442  Lagiiiie
+   *4. $2,442  7777Alex7777
    *5. $2,444  somefakegamer
    *6. $2,450  Fathom
    *7. $2,525  palfly15
@@ -14,17 +14,17 @@ Updated 2022-01-30T00:22:41.490Z
   *10. $2,898  9k5
   *11. $2,996  Trygeve
   *12. $3,300  Bellair08
-  *13. $3,692  FierceKitty131
-  *14. $3,692  Crimson
-  *15. $3,692  Icysnowman
+  *13. $3,692  Crimson
+  *14. $3,692  Icysnowman
+  *15. $3,692  FierceKitty131
   *16. $3,743  ~ Smithy ~
   *17. $3,763  CursorCoercer
   *18. $3,784  Bibbb
   *19. $3,854  At424
   *20. $3,882  Sexy Boy Industries [woop]
-  *21. $3,890  mooseman0423
+  *21. $3,890  Gaotosky10
   *22. $3,890  minecat
-  *23. $3,890  Gaotosky10
+  *23. $3,890  mooseman0423
   *24. $4,663  Toto00
   *25. $6,396  114623050
   *26. $6,399  matiesnop
@@ -87,7 +87,7 @@ Updated 2022-01-30T00:22:41.490Z
    83. $20,896 Boris
   *84. $20,897 BW
    85. $20,919 egulio
-   86. $20,938 h.lahdelma
+  *86. $20,938 h.lahdelma
   *87. $20,970 Costco Bread Aisle
    88. $20,972 XxTrollFacexX
   *89. $20,985 local person
@@ -286,10 +286,10 @@ Updated 2022-01-30T00:22:41.490Z
   282. $24,627 AwesomeHolden6
   283. $24,630 hkkjyob76
  *284. $24,633 jwis
- *285. $24,667 Jormungandr
+  285. $24,667 Jormungandr
   286. $24,670 TheRocket
- *287. $24,678 ki1law
- *288. $24,678 1723945294
+ *287. $24,678 1723945294
+ *288. $24,678 ki1law
   289. $24,682 zig2003zak
   290. $24,697 Linus
   291. $24,715 lee731017
@@ -335,9 +335,9 @@ Updated 2022-01-30T00:22:41.490Z
   331. $25,130 [RPTM][rptm][RAPTUM]wxyzsupermod
   332. $25,158 Rutututututin
  *333. $25,193 ole.van.tiel
- *334. $25,194 Archimedes
- *335. $25,194 Dannybobjoe
-  336. $25,194 Zacharooster
+ *334. $25,194 Dannybobjoe
+  335. $25,194 Zacharooster
+ *336. $25,194 Archimedes
   337. $25,210 BoomZillo
   338. $25,222 anwsnyder
  *339. $25,228 MilkingYouGuy
@@ -759,16 +759,16 @@ Updated 2022-01-30T00:22:41.490Z
   755. $29,313 Mihkel
  *756. $29,321 danz1023
   757. $29,340 Dingo
-  758. $29,393 Beastia
-  759. $29,393 bjorkiz
-  760. $29,409 Lucky_Luciano
-  761. $29,409 Tobiwanz
+  758. $29,393 bjorkiz
+  759. $29,393 Beastia
+  760. $29,409 Tobiwanz
+  761. $29,409 Lucky_Luciano
   762. $29,414 gutterlife
   763. $29,417 ActuallyMichael
   764. $29,426 M37
   765. $29,426 coppy1111
- *766. $29,433 titisee5
-  767. $29,433 Paps
+  766. $29,433 Paps
+ *767. $29,433 titisee5
  *768. $29,434 1940168104
   769. $29,436 paranoidgeek
   770. $29,438 Pale Tone
@@ -847,11 +847,11 @@ Updated 2022-01-30T00:22:41.490Z
   843. $29,995 No problem.
  *844. $29,997 zwahlm14
   845. $29,997 Phal.
-  846. $29,999 TinySnecc
-  847. $29,999 ShopSketch
-  848. $30,000 Clean Baguette
-  849. $30,000 shadowimmage
-  850. $30,000 gorun1234
+  846. $29,999 ShopSketch
+  847. $29,999 TinySnecc
+  848. $30,000 gorun1234
+  849. $30,000 Clean Baguette
+  850. $30,000 shadowimmage
   851. $30,002 Tsuuga
   852. $30,017 ¦Flash830¦
   853. $30,029 Pugejs
@@ -986,7 +986,7 @@ Updated 2022-01-30T00:22:41.490Z
  *982. $31,105 V01DBREAKER
  *983. $31,129 Amateur-28
   984. $31,147 poe77
-  985. $31,147 MajorGeneralDespair
+ *985. $31,147 MajorGeneralDespair
  *986. $31,153 matty.ball
  *987. $31,165 Zeddik
   988. $31,172 ThomasIsDead
