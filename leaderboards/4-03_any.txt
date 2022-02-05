@@ -1,21 +1,21 @@
 Poly Bridge 2 - 4-03 "Sloped Drawbridge" any% leaderboard (* = breaks)
-Updated 2022-02-04T00:21:23.004Z
-1000/47892 unique ranks shown
+Updated 2022-02-05T00:18:51.972Z
+1000/47943 unique ranks shown
 
-    1. $3,420  Trygeve
-   *2. $3,420  9k5
+   *1. $3,420  9k5
+    2. $3,420  Trygeve
    *3. $3,669  Lagiiiie
     4. $3,669  Cookieblues
    *5. $3,868  Fathom
    *6. $4,662  somefakegamer
    *7. $4,724  ~ Smithy ~
    *8. $5,465  Zen
-   *9. $5,488  Pengujedi
-  *10. $5,488  mooseman0423
+   *9. $5,488  mooseman0423
+  *10. $5,488  Pengujedi
   *11. $5,493  Bibbb
-  *12. $5,494  palfly15
-  *13. $5,494  MOD
-  *14. $5,494  FierceKitty131
+  *12. $5,494  MOD
+  *13. $5,494  FierceKitty131
+  *14. $5,494  palfly15
   *15. $6,969  minecat
   *16. $11,564 Yennefer
   *17. $12,246 Bellair08
@@ -133,8 +133,8 @@ Updated 2022-02-04T00:21:23.004Z
   129. $26,039 Kayasakra
   130. $26,102 Spug
   131. $26,189 benevanssmith
-  132. $26,264 Cremefraiche
-  133. $26,264 cfloyd2002
+ *132. $26,264 cfloyd2002
+  133. $26,264 Cremefraiche
   134. $26,273 No Nipple Nate
   135. $26,291 Kc
   136. $26,334 Hermanart
@@ -487,8 +487,8 @@ Updated 2022-02-04T00:21:23.004Z
   483. $29,577 Lanilor
   484. $29,588 MianMiao
   485. $29,589 Martin
- *486. $29,610 Helper_Monkey
-  487. $29,610 Karmiilla
+  486. $29,610 Karmiilla
+ *487. $29,610 Helper_Monkey
   488. $29,615 tom.brabbin
   489. $29,622 [DEA] Capt. N.Cross
   490. $29,623 jeremywinick
@@ -761,8 +761,8 @@ Updated 2022-02-04T00:21:23.004Z
   757. $30,936 Dj.OmNiMaN
   758. $30,946 DriftingManiacX
   759. $30,950 marr
-  760. $30,950 mbutton15
- *761. $30,950 PDTM
+ *760. $30,950 PDTM
+  761. $30,950 mbutton15
   762. $30,953 williamaprabowo
   763. $30,954 Myk0o0
   764. $30,954 bapgar91701
@@ -788,8 +788,8 @@ Updated 2022-02-04T00:21:23.004Z
   784. $31,038 bennas
   785. $31,044 ElRen0204
  *786. $31,053 pete
-  787. $31,055 DeScheleVogel
-  788. $31,055 Bram2323
+ *787. $31,055 Bram2323
+  788. $31,055 DeScheleVogel
   789. $31,060 Tubson
   790. $31,061 Beesechurger
   791. $31,062 spicypaul
@@ -889,8 +889,8 @@ Updated 2022-02-04T00:21:23.004Z
   885. $31,445 powan
   886. $31,446 SirPig
   887. $31,447 jorritbock
- *888. $31,449 AZ-LT
- *889. $31,449 Knufire
+ *888. $31,449 Knufire
+ *889. $31,449 AZ-LT
   890. $31,451 Farøn
   891. $31,453 bryan.iddings
   892. $31,455 Businessman
@@ -971,34 +971,34 @@ Updated 2022-02-04T00:21:23.004Z
   967. $31,673 rtai
   968. $31,676 elisholst
   969. $31,676 ViLiV
-  970. $31,698 killpoo
-  971. $31,700 LeifEricsonDay
-  972. $31,702 Kosher Karambwan
-  973. $31,703 NotFound
-  974. $31,706 Tony Lars
- *975. $31,706 Coco
-  976. $31,710 gaston231
-  977. $31,712 SophieSooph
-  978. $31,714 Nec
-  979. $31,715 sirene
-  980. $31,719 Alfram Weetmann
-  981. $31,722 JInx  22 year old boy
-  982. $31,740 akul13
-  983. $31,742 Blurple
-  984. $31,743 BigFatCough
-  985. $31,744 Djoser
-  986. $31,745 minemyj
-  987. $31,745 LittlePriest
-  988. $31,746 Hocop
-  989. $31,750 _playerschoice
-  990. $31,758 Creeper_D
-  991. $31,759 Alex
-  992. $31,760 ada-zwei
-  993. $31,761 NintendoJedi
-  994. $31,769 NesTea Lemon
-  995. $31,771 retAerded tekh supurot
-  996. $31,774 Zero Rights
-  997. $31,774 maxxverrr
-  998. $31,775 xavierlagore
-  999. $31,777 wayne
- 1000. $31,784 Steve
+  970. $31,691 ThegameJ
+  971. $31,698 killpoo
+  972. $31,700 LeifEricsonDay
+  973. $31,702 Kosher Karambwan
+  974. $31,703 NotFound
+  975. $31,706 Tony Lars
+ *976. $31,706 Coco
+  977. $31,710 gaston231
+  978. $31,712 SophieSooph
+  979. $31,714 Nec
+  980. $31,715 sirene
+  981. $31,719 Alfram Weetmann
+  982. $31,722 JInx  22 year old boy
+  983. $31,740 akul13
+  984. $31,742 Blurple
+  985. $31,743 BigFatCough
+  986. $31,744 Djoser
+  987. $31,745 minemyj
+  988. $31,745 LittlePriest
+  989. $31,746 Hocop
+  990. $31,750 _playerschoice
+  991. $31,758 Creeper_D
+  992. $31,759 Alex
+  993. $31,760 ada-zwei
+  994. $31,761 NintendoJedi
+  995. $31,769 NesTea Lemon
+  996. $31,771 retAerded tekh supurot
+  997. $31,774 Zero Rights
+  998. $31,774 maxxverrr
+  999. $31,775 xavierlagore
+ 1000. $31,777 wayne
