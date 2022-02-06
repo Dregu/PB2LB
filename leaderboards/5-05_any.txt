@@ -1,20 +1,20 @@
 Poly Bridge 2 - 5-05 "Sorting" any% leaderboard (* = breaks)
-Updated 2022-02-05T00:18:52.144Z
-1000/10545 unique ranks shown
+Updated 2022-02-06T00:26:35.157Z
+1000/10555 unique ranks shown
 
    *1. $5,969  Zen
-   *2. $5,969  Cookieblues
-   *3. $5,969  Fathom
+   *2. $5,969  Fathom
+   *3. $5,969  Cookieblues
    *4. $8,947  Lagiiiie
    *5. $9,017  Bibbb
-   *6. $9,081  Trygeve
-   *7. $9,081  9k5
-   *8. $9,081  minecat
-   *9. $9,081  MOD
-  *10. $9,720  Sexy Boy Industries [woop]
-  *11. $9,720  Icysnowman
-  *12. $9,720  palfly15
-  *13. $9,720  somefakegamer
+   *6. $9,081  minecat
+   *7. $9,081  MOD
+   *8. $9,081  9k5
+   *9. $9,081  Trygeve
+  *10. $9,720  somefakegamer
+  *11. $9,720  Sexy Boy Industries [woop]
+  *12. $9,720  Icysnowman
+  *13. $9,720  palfly15
   *14. $19,260 7777Alex7777
   *15. $19,351 FierceKitty131
   *16. $20,038 ~ Smithy ~
@@ -287,8 +287,8 @@ Updated 2022-02-05T00:18:52.144Z
   283. $38,904 Salamandre
   284. $38,905 JayDepp
   285. $38,912 Kraudy
- *286. $38,924 MacDaCat
-  287. $38,924 Johannes652
+  286. $38,924 Johannes652
+ *287. $38,924 MacDaCat
   288. $38,929 hippi
   289. $38,933 bwong31415
   290. $38,964 dglee0612
@@ -584,7 +584,7 @@ Updated 2022-02-05T00:18:52.144Z
   580. $42,304 ProchyY!
   581. $42,317 angelsrule934
   582. $42,324 F-Tang Shadow
-  583. $42,339 nermy spermy hellcase.com
+ *583. $42,339 nermy spermy hellcase.com
   584. $42,342 brocktacular
   585. $42,351 Revolves
   586. $42,353 dragonzues720
@@ -845,7 +845,7 @@ Updated 2022-02-05T00:18:52.144Z
   841. $43,894 viramoshonorio10
   842. $43,914 jb_77
   843. $43,918 Colin
- *844. $43,924 B3taWulf
+  844. $43,924 B3taWulf
   845. $43,927 BoomZillo
   846. $43,930 drjbananas
   847. $43,936 samuelpierog
@@ -944,61 +944,61 @@ Updated 2022-02-05T00:18:52.144Z
   940. $44,430 derock79
   941. $44,439 Somerandom1922
   942. $44,464 Poto
-  943. $44,485 Heer Virus
-  944. $44,489 LewD
-  945. $44,494 tonyz01234
-  946. $44,502 DocEquinox0739
-  947. $44,504 pierreoo
-  948. $44,504 liamcameron456
-  949. $44,515 123hibye321
-  950. $44,518 Krazy Koi Fish
-  951. $44,524 jo.hova.ca
-  952. $44,524 HardTotem
-  953. $44,529 Fred The Flipin' Puffer Fish
-  954. $44,537 hmmrsmshdfce
-  955. $44,540 jeppi
-  956. $44,542 Firesquirrel
-  957. $44,549 Abraham-V
-  958. $44,552 Derpy
-  959. $44,556 Schmee323
-  960. $44,559 tinytomblack
-  961. $44,565 Shanuck
-  962. $44,567 felix.thecall
-  963. $44,568 Lafmano
-  964. $44,575 oket.net
-  965. $44,583 Sufferas
-  966. $44,585 ckrucke
-  967. $44,595 Oddysen
-  968. $44,599 Tompie01
-  969. $44,600 DaveMcW
-  970. $44,606 Meth Surphy
-  971. $44,627 no coffee
-  972. $44,632 Straggo1337
-  973. $44,635 Bartinair
-  974. $44,648 christof
-  975. $44,651 Luna Kampling
-  976. $44,651 hippolippo
-  977. $44,672 Chad
-  978. $44,672 cjstretton
-  979. $44,673 flower snek
-  980. $44,686 McLoud
-  981. $44,693 analcarnival
-  982. $44,700 neatoizer
-  983. $44,701 Meta70
-  984. $44,707 VideoGamesG33k
-  985. $44,710 12ohkay
-  986. $44,713 Spagett (#GamersRiseUp)
-  987. $44,720 Dad
-  988. $44,728 Eden
-  989. $44,729 Strixx
-  990. $44,730 instant karma
-  991. $44,730 maxblue456
-  992. $44,732 Carole Fuggin Baskin
-  993. $44,733 s.desaintsalvy
-  994. $44,750 Radializer
-  995. $44,755 Swashbuckler142
-  996. $44,764 Slide
-  997. $44,774 urok
-  998. $44,777 Mr. Dalmore
-  999. $44,790 twitch.tv/tezzyontwitch
- 1000. $44,794 rebot333
+  943. $44,483 Ma.U.S.
+  944. $44,485 Heer Virus
+  945. $44,489 LewD
+  946. $44,494 tonyz01234
+  947. $44,502 DocEquinox0739
+  948. $44,504 pierreoo
+  949. $44,504 liamcameron456
+  950. $44,515 123hibye321
+  951. $44,518 Krazy Koi Fish
+  952. $44,524 jo.hova.ca
+  953. $44,524 HardTotem
+  954. $44,529 Fred The Flipin' Puffer Fish
+  955. $44,537 hmmrsmshdfce
+  956. $44,540 jeppi
+  957. $44,542 Firesquirrel
+  958. $44,549 Abraham-V
+  959. $44,552 Derpy
+  960. $44,556 Schmee323
+  961. $44,559 tinytomblack
+  962. $44,565 Shanuck
+  963. $44,567 felix.thecall
+  964. $44,568 Lafmano
+  965. $44,575 oket.net
+  966. $44,583 Sufferas
+  967. $44,585 ckrucke
+  968. $44,595 Oddysen
+  969. $44,599 Tompie01
+  970. $44,600 DaveMcW
+  971. $44,606 Meth Surphy
+  972. $44,627 no coffee
+  973. $44,632 Straggo1337
+  974. $44,635 Bartinair
+  975. $44,648 christof
+  976. $44,651 Luna Kampling
+  977. $44,651 hippolippo
+  978. $44,672 Chad
+  979. $44,672 cjstretton
+  980. $44,673 flower snek
+  981. $44,686 McLoud
+  982. $44,693 analcarnival
+  983. $44,700 neatoizer
+  984. $44,701 Meta70
+  985. $44,707 VideoGamesG33k
+  986. $44,710 12ohkay
+  987. $44,713 Spagett (#GamersRiseUp)
+  988. $44,720 Dad
+  989. $44,728 Eden
+  990. $44,729 Strixx
+  991. $44,730 instant karma
+  992. $44,730 maxblue456
+  993. $44,732 Carole Fuggin Baskin
+  994. $44,733 s.desaintsalvy
+  995. $44,750 Radializer
+  996. $44,755 Swashbuckler142
+  997. $44,764 Slide
+  998. $44,774 urok
+  999. $44,777 Mr. Dalmore
+ 1000. $44,790 twitch.tv/tezzyontwitch

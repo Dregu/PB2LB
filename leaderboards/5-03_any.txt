@@ -1,10 +1,10 @@
 Poly Bridge 2 - 5-03 "Trading Places" any% leaderboard (* = breaks)
-Updated 2022-02-05T00:18:52.128Z
-1000/14780 unique ranks shown
+Updated 2022-02-06T00:26:35.141Z
+1000/14797 unique ranks shown
 
    *1. $2,999  ~ Smithy ~
-   *2. $2,999  Cookieblues
-   *3. $2,999  minecat
+   *2. $2,999  minecat
+   *3. $2,999  Cookieblues
    *4. $3,150  geroniberry
    *5. $3,589  Fathom
    *6. $3,963  somefakegamer
@@ -18,12 +18,12 @@ Updated 2022-02-05T00:18:52.128Z
    14. $5,548  Tryrik
   *15. $5,587  Tactical Insomnia
   *16. $5,587  哎呦微
-   17. $5,610  Enchanted Spider
-  *18. $5,610  palfly15
+  *17. $5,610  palfly15
+   18. $5,610  Enchanted Spider
   *19. $5,618  imcharnetski
    20. $5,623  SaltySeal
-  *21. $5,715  Ren Otonashi
-  *22. $5,715  Megoman16
+  *21. $5,715  Megoman16
+  *22. $5,715  Ren Otonashi
   *23. $5,735  Noahsorou
    24. $5,745  The Worst
    25. $5,782  GuacamoleLover27
@@ -53,7 +53,7 @@ Updated 2022-02-05T00:18:52.128Z
    49. $6,618  gimo2740
    50. $6,635  Dusk
   *51. $6,650  BaconPancakes
-  *52. $6,651  Mommy
+   52. $6,651  Mommy
    53. $6,660  Loner
    54. $6,746  CursorCoercer
    55. $6,792  qib
@@ -68,10 +68,10 @@ Updated 2022-02-05T00:18:52.128Z
   *64. $7,306  gamespilgame
   *65. $7,319  delightfulgiraffe
    66. $7,371  Commie Slotter
-  *67. $7,408  metatropic
+  *67. $7,408  Alison
   *68. $7,408  cavetroll
-  *69. $7,408  Alison
-  *70. $7,408  zeller-alex
+  *69. $7,408  zeller-alex
+  *70. $7,408  metatropic
   *71. $7,429  j.bottomley87595
    72. $7,557  akkun_ouo
    73. $7,704  The_Vaccine
@@ -307,8 +307,8 @@ Updated 2022-02-05T00:18:52.128Z
   303. $11,984 Pitbull
   304. $11,988 fong.
   305. $12,000 Iced Evolved
-  306. $12,014 1918090410
- *307. $12,014 augieinpdx
+ *306. $12,014 augieinpdx
+  307. $12,014 1918090410
   308. $12,030 RedstoneTier
  *309. $12,031 Kromch
   310. $12,032 chowchunfu
@@ -413,7 +413,7 @@ Updated 2022-02-05T00:18:52.128Z
   409. $12,952 Adrian17
   410. $12,973 thelastprime
   411. $12,977 Smile
- *412. $12,978 craftingtacos
+  412. $12,978 craftingtacos
   413. $12,978 Zeru-el
   414. $12,986 水印星空
   415. $12,987 The_Darebear
@@ -466,8 +466,8 @@ Updated 2022-02-05T00:18:52.128Z
   462. $13,500 ernet[KSF]
   463. $13,500 TIGERX706
   464. $13,509 Fradex
- *465. $13,525 Shimbo12
-  466. $13,525 Trent Hyster
+  465. $13,525 Trent Hyster
+ *466. $13,525 Shimbo12
   467. $13,526 KahlanDragonblood
   468. $13,527 goosewhammy
   469. $13,543 The Slam Program
@@ -510,8 +510,8 @@ Updated 2022-02-05T00:18:52.128Z
   506. $13,811 Yashimata
  *507. $13,820 Hyppis
   508. $13,831 JustThatKid
- *509. $13,832 d1spositiu
- *510. $13,832 Lofull
+ *509. $13,832 Lofull
+ *510. $13,832 d1spositiu
   511. $13,837 Potato
  *512. $13,850 Jelepinos
   513. $13,858 cathy.obernuefeman
@@ -566,8 +566,8 @@ Updated 2022-02-05T00:18:52.128Z
   562. $14,257 ice bear
   563. $14,262 Pasi
  *564. $14,267 로보크랩
-  565. $14,278 Wheels
- *566. $14,278 KillSwitch
+ *565. $14,278 KillSwitch
+  566. $14,278 Wheels
   567. $14,282 ManTheMister
   568. $14,286 blockychief89
   569. $14,287 tony65536
@@ -627,8 +627,8 @@ Updated 2022-02-05T00:18:52.128Z
   623. $14,611 racebmx
   624. $14,618 Strawman
   625. $14,621 CheesyGamer201
- *626. $14,638 hangaari0214
- *627. $14,638 ultimatedgambler
+ *626. $14,638 ultimatedgambler
+ *627. $14,638 hangaari0214
   628. $14,642 Fiku121
   629. $14,664 흑냥B612
   630. $14,667 psychonumber1
@@ -672,9 +672,9 @@ Updated 2022-02-05T00:18:52.128Z
   668. $14,856 HappyFishboy
   669. $14,857 markkazmierowicz
   670. $14,861 Craze
-  671. $14,872 e.kolya16
-  672. $14,872 ivan
- *673. $14,872 dickreiter
+ *671. $14,872 dickreiter
+  672. $14,872 e.kolya16
+  673. $14,872 ivan
  *674. $14,874 alpstreams
  *675. $14,875 Mh_Jigun
   676. $14,876 Marcel
@@ -729,8 +729,8 @@ Updated 2022-02-05T00:18:52.128Z
   725. $15,044 흑우쉑
   726. $15,047 Kimnet328
   727. $15,047 polybrige_2_pro
- *728. $15,051 nathan.spend
- *729. $15,051 StellarPatellar
+ *728. $15,051 StellarPatellar
+ *729. $15,051 nathan.spend
   730. $15,058 billyaiken1
   731. $15,062 sonjiryong
   732. $15,066 Dejocikus
@@ -802,8 +802,8 @@ Updated 2022-02-05T00:18:52.128Z
   798. $15,440 ratafiarodrigez
   799. $15,446 owlby09
   800. $15,448 mhg0709
-  801. $15,449 Zounius
- *802. $15,449 Derpy
+ *801. $15,449 Derpy
+  802. $15,449 Zounius
   803. $15,451 erconzaymu1973
   804. $15,456 Vandassar
   805. $15,460 Sir Brother Dragonov
@@ -930,7 +930,7 @@ Updated 2022-02-05T00:18:52.128Z
   926. $15,949 Looming
   927. $15,952 B Y
   928. $15,956 alex.schultink
- *929. $15,960 tao
+  929. $15,960 tao
   930. $15,965 ChubbyJokes
   931. $15,970 chen.li1981
   932. $15,972 The Good Duke
@@ -939,8 +939,8 @@ Updated 2022-02-05T00:18:52.128Z
  *935. $15,994 Coniferkiller
   936. $15,999 DuuSuu
   937. $16,004 jbmatt
- *938. $16,019 Exyator
- *939. $16,019 rahut3004
+ *938. $16,019 rahut3004
+ *939. $16,019 Exyator
   940. $16,027 lionale29ten
  *941. $16,030 koppeng
   942. $16,036 Friedchicken
