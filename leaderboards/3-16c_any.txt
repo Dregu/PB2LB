@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-16C "Monster Truck Rally" any% leaderboard (* = breaks)
-Updated 2022-02-09T00:22:35.953Z
-1000/3249 unique ranks shown
+Updated 2022-02-10T00:23:25.988Z
+1000/3252 unique ranks shown
 
     1. $12,699 MOD
     2. $13,177 minecat
@@ -110,7 +110,7 @@ Updated 2022-02-09T00:22:35.953Z
   106. $30,775 TheSpyFrom1947
   107. $30,816 Chavra
  *108. $30,858 HammeR
- *109. $30,860 Jacowboy
+  109. $30,860 Jacowboy
   110. $30,887 Azean
   111. $31,096 The_Darebear
   112. $31,122 Maironne
@@ -354,8 +354,8 @@ Updated 2022-02-09T00:22:35.953Z
   350. $38,262 Teh
   351. $38,271 Bram1999999
   352. $38,280 Jezre
- *353. $38,284 Sinblio
-  354. $38,284 parsodark
+  353. $38,284 parsodark
+ *354. $38,284 Sinblio
   355. $38,292 Shmojelfed
   356. $38,298 Adranium
   357. $38,332 mbutton15
@@ -374,7 +374,7 @@ Updated 2022-02-09T00:22:35.953Z
   370. $38,546 Daybou
   371. $38,568 jjones18
   372. $38,579 Malcom Ballon D'or
- *373. $38,641 anijoker
+  373. $38,641 anijoker
   374. $38,676 liquor snurf
   375. $38,679 TW_Strange
   376. $38,691 TriggerMuffin
@@ -554,8 +554,8 @@ Updated 2022-02-09T00:22:35.953Z
   550. $40,934 Realyum
  *551. $40,947 Lachy579
   552. $40,948 hippolippo
-  553. $40,949 Kaesemann
-  554. $40,957 Jonas
+ *553. $40,949 Kaesemann
+ *554. $40,957 Jonas
   555. $40,957 Zuruckai
   556. $40,970 gashpot
   557. $40,984 Tiaga
@@ -563,8 +563,8 @@ Updated 2022-02-09T00:22:35.953Z
   559. $40,993 actionaa
  *560. $40,995 Herkenderr
   561. $40,999 lorddraegon
- *562. $41,042 Jakobs
- *563. $41,042 Simonius
+ *562. $41,042 Simonius
+ *563. $41,042 Jakobs
  *564. $41,046 jeskko
   565. $41,055 justin4all1
   566. $41,082 Bryan
@@ -626,7 +626,7 @@ Updated 2022-02-09T00:22:35.953Z
   622. $41,721 spacejam
   623. $41,724 j.bottomley87595
   624. $41,756 Stinodrak (KLITORYS)
- *625. $41,763 Tiuza 私の弟子になる
+  625. $41,763 Tiuza 私の弟子になる
  *626. $41,770 Buh
   627. $41,770 bennisweet582
   628. $41,779 Bush did Five-SeveN
@@ -776,7 +776,7 @@ Updated 2022-02-09T00:22:35.953Z
   772. $43,157 CTU_STIG
  *773. $43,168 Pickle Rick
   774. $43,182 fatilla
- *775. $43,188 CypherTault
+  775. $43,188 CypherTault
   776. $43,217 grande précipitation du moment
   777. $43,245 Silvatos
   778. $43,250 Jabloňátor2000
@@ -802,8 +802,8 @@ Updated 2022-02-09T00:22:35.953Z
   798. $43,431 Me 10 Jin
  *799. $43,431 theo.louesdon
   800. $43,441 Hyperion
- *801. $43,445 engineer gaming
- *802. $43,445 bryce
+ *801. $43,445 bryce
+ *802. $43,445 engineer gaming
   803. $43,462 Way_of_Cows
   804. $43,497 mocjunk
   805. $43,499 Bolis
@@ -916,8 +916,8 @@ Updated 2022-02-09T00:22:35.953Z
   912. $44,477 9847
  *913. $44,488 Minty.GT
   914. $44,505 mata.led223
- *915. $44,525 gamerlrh
-  916. $44,525 Tarja
+  915. $44,525 Tarja
+ *916. $44,525 gamerlrh
  *917. $44,544 nozoo4u
   918. $44,578 B.
   919. $44,583 theunputdownable
@@ -1001,4 +1001,4 @@ Updated 2022-02-09T00:22:35.953Z
   997. $45,220 sebe.schulze
   998. $45,266 TheSuperNR
  *999. $45,268 radimaulicky
- 1000. $45,277 aRandomFinn
+*1000. $45,277 Neil

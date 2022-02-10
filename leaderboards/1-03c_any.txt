@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-03C "Bridge of Steel" any% leaderboard (* = breaks)
-Updated 2022-02-09T00:22:35.542Z
-1000/17686 unique ranks shown
+Updated 2022-02-10T00:23:25.572Z
+1000/17702 unique ranks shown
 
     1. $5,123  Cookieblues
     2. $5,123  Bellair08
@@ -9,8 +9,8 @@ Updated 2022-02-09T00:22:35.542Z
     5. $5,147  MOD
     6. $5,150  Crimson
     7. $5,158  Trygeve
-   *8. $5,163  Astrodaly
-    9. $5,163  DaveMcW
+    8. $5,163  DaveMcW
+   *9. $5,163  Astrodaly
    10. $5,163  zztop03
    11. $5,168  MeeepTheUnique
    12. $5,176  Flubbles
@@ -42,13 +42,13 @@ Updated 2022-02-09T00:22:35.542Z
    38. $5,237  GF——LONGWU
    39. $5,237  lmhe
    40. $5,238  MYCRAFTisbest
-  *41. $5,238  zinc
-   42. $5,238  TucLTU
+   41. $5,238  TucLTU
+  *42. $5,238  zinc
    43. $5,238  Morgothor
    44. $5,239  delightfulgiraffe
    45. $5,239  Cypheri
-  *46. $5,240  CasualSanta
-  *47. $5,240  kiwiz
+  *46. $5,240  kiwiz
+  *47. $5,240  CasualSanta
    48. $5,241  zeller-alex
    49. $5,241  Honn
    50. $5,241  hsphere
@@ -65,8 +65,8 @@ Updated 2022-02-09T00:22:35.542Z
    61. $5,248  Valnix
    62. $5,248  PepperJackPizza
    63. $5,248  Zm Galaxy
-   64. $5,251  tokki10
-  *65. $5,251  Abandoned
+  *64. $5,251  Abandoned
+   65. $5,251  tokki10
    66. $5,253  leparkourguy
    67. $5,253  SThomas [GER]
    68. $5,256  ZGORM19
@@ -209,7 +209,7 @@ Updated 2022-02-09T00:22:35.542Z
   205. $8,495  RapierThe
   206. $8,922  moonrid3r
   207. $8,924  >> EviLLegolaS <<
-  208. $8,984  bolt986
+ *208. $8,984  bolt986
   209. $9,173  RippeR
   210. $9,225  francois.brand
   211. $9,269  cyko
