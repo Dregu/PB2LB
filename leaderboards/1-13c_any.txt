@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-13C "Redraw" any% leaderboard (* = breaks)
-Updated 2022-02-10T00:23:25.689Z
-1000/14464 unique ranks shown
+Updated 2022-02-11T00:23:01.711Z
+1000/14475 unique ranks shown
 
     1. $7,860  Roevhaal
     2. $7,998  ellisk1
@@ -71,7 +71,7 @@ Updated 2022-02-10T00:23:25.689Z
    67. $9,395  Pimpstyle9008
    68. $9,398  YoungTeezy
    69. $9,399  ole.van.tiel
-   70. $9,400  Larry the Dota Guy
+  *70. $9,400  Larry the Dota Guy
    71. $9,402  Xypher
    72. $9,411  Wadusher
    73. $9,412  OCTDUMPUS
@@ -111,8 +111,8 @@ Updated 2022-02-10T00:23:25.689Z
   107. $9,521  lee731017
  *108. $9,529  poptart
   109. $9,534  XxTrollFacexX
-  110. $9,544  QuantiumIm
- *111. $9,544  marciochb
+ *110. $9,544  marciochb
+  111. $9,544  QuantiumIm
   112. $9,548  Honax
   113. $9,556  MoscaTonta
   114. $9,560  Sorter
@@ -123,7 +123,7 @@ Updated 2022-02-10T00:23:25.689Z
   119. $9,611  Gaotosky10
   120. $9,621  bolt986
   121. $9,642  Kingly Red Lion Guy
- *122. $9,658  bille
+  122. $9,658  bille
   123. $9,662  Solus
   124. $9,669  TJarsun
   125. $9,669  jikennosamurai
@@ -159,7 +159,7 @@ Updated 2022-02-10T00:23:25.689Z
   155. $9,920  Jezre
   156. $9,921  TheSameAsItEverWas
   157. $9,940  Mitch Szlachetka
-  158. $9,942  lollyH2O
+ *158. $9,942  lollyH2O
   159. $9,946  GolEden
   160. $9,948  Камушек
   161. $9,957  Spooderman
@@ -296,7 +296,7 @@ Updated 2022-02-10T00:23:25.689Z
   292. $10,570 Sticky Kitty!
   293. $10,574 rbnhd >-|)-->
   294. $10,575 elisholst
-  295. $10,586 dylanwenger9
+ *295. $10,586 dylanwenger9
  *296. $10,596 k.a.huckshold
   297. $10,598 coreopa #3718 @ VALORANT
   298. $10,598 cam
@@ -367,9 +367,9 @@ Updated 2022-02-10T00:23:25.689Z
   363. $10,855 tera
   364. $10,856 fay
   365. $10,860 Jacowboy
-  366. $10,860 Ogremor
-  367. $10,860 I poopied
- *368. $10,860 Alex!
+ *366. $10,860 Alex!
+  367. $10,860 Ogremor
+  368. $10,860 I poopied
   369. $10,861 MGC
   370. $10,864 Bobcheez ✔
   371. $10,876 2209071714
@@ -435,7 +435,7 @@ Updated 2022-02-10T00:23:25.689Z
   431. $11,062 R
   432. $11,062 Rüdenhausen
   433. $11,067 Leevi
-  434. $11,069 FoonTheRaccoon
+ *434. $11,069 FoonTheRaccoon
   435. $11,069 jorritbock
   436. $11,070 Chappy
   437. $11,071 Billy's mom
@@ -550,10 +550,10 @@ Updated 2022-02-10T00:23:25.689Z
   546. $11,376 josefa
   547. $11,380 NaZ
   548. $11,381 robd.lives
-  549. $11,383 TheBear
-  550. $11,383 twise4435
-  551. $11,383 Воня
- *552. $11,383 samwise38
+ *549. $11,383 samwise38
+  550. $11,383 TheBear
+  551. $11,383 twise4435
+  552. $11,383 Воня
   553. $11,384 LegitGopnik
   554. $11,388 emil_mniszko
   555. $11,388 「Marshmallow Justice」
@@ -708,8 +708,8 @@ Updated 2022-02-10T00:23:25.689Z
   704. $11,663 gamehunter
   705. $11,665 tchukki
   706. $11,666 Doomcow
- *707. $11,666 Arbeitsloser Trümmertürke
-  708. $11,666 Mimbrone
+  707. $11,666 Mimbrone
+ *708. $11,666 Arbeitsloser Trümmertürke
   709. $11,669 Bullet_KO
   710. $11,672 leucome
   711. $11,673 ChallenJer
@@ -798,8 +798,8 @@ Updated 2022-02-10T00:23:25.689Z
   794. $11,822 Μην παροχής συμβουλών
   795. $11,822 00frank
   796. $11,822 Notyalc
-  797. $11,823 Waven
- *798. $11,823 Kotto4Ever
+ *797. $11,823 Kotto4Ever
+  798. $11,823 Waven
   799. $11,825 Stabhole
   800. $11,826 GalahadRounds
   801. $11,827 Mr. Aakje
@@ -823,11 +823,11 @@ Updated 2022-02-10T00:23:25.689Z
   819. $11,852 rosso.tiago
   820. $11,853 Flo The Po
   821. $11,854 solidstrongbad
-  822. $11,859 NesTea Lemon
-  823. $11,859 Oprheus
- *824. $11,859 Corgle
-  825. $11,859 ElephantTacoYT
- *826. $11,859 Patfou
+ *822. $11,859 Corgle
+  823. $11,859 NesTea Lemon
+ *824. $11,859 Patfou
+  825. $11,859 Oprheus
+  826. $11,859 ElephantTacoYT
   827. $11,859 mikehuntehertz
   828. $11,859 goosewhammy
   829. $11,859 fLeX oN yOu In My MiNi CoPpErU
@@ -903,25 +903,25 @@ Updated 2022-02-10T00:23:25.689Z
   899. $11,948 steinvalentijn
   900. $11,948 daniel.mittermaier
   901. $11,948 Max
-  902. $11,948 Grandpa Shark
-  903. $11,948 Jakard93
-  904. $11,948 Gäppy
-  905. $11,948 jimbug26
-  906. $11,948 twitch.tv/mysterefire
-  907. $11,948 Pelbou
-  908. $11,948 Malte Rosenholm
-  909. $11,948 Anth
-  910. $11,948 magikman246
-  911. $11,948 22612978
-  912. $11,948 Retrolith
-  913. $11,948 alicele14
-  914. $11,948 Maro
-  915. $11,948 Leer
-  916. $11,948 joegv711
-  917. $11,948 bauch1234
-  918. $11,948 moleir
-  919. $11,948 扯一路的蛋
- *920. $11,948 wickes
+ *902. $11,948 wickes
+  903. $11,948 Grandpa Shark
+  904. $11,948 Jakard93
+  905. $11,948 Gäppy
+  906. $11,948 jimbug26
+  907. $11,948 twitch.tv/mysterefire
+ *908. $11,948 alicele14
+  909. $11,948 Pelbou
+  910. $11,948 Malte Rosenholm
+  911. $11,948 Anth
+  912. $11,948 magikman246
+  913. $11,948 22612978
+  914. $11,948 Retrolith
+  915. $11,948 Maro
+  916. $11,948 Leer
+  917. $11,948 joegv711
+  918. $11,948 bauch1234
+  919. $11,948 moleir
+  920. $11,948 扯一路的蛋
   921. $11,948 Hawwy1
   922. $11,948 silke.jaeker
   923. $11,948 Georgedg1
@@ -944,9 +944,9 @@ Updated 2022-02-10T00:23:25.689Z
   940. $11,961 Nedcut
   941. $11,967 piaseknadmorski
   942. $11,968 Irrelevant
-  943. $11,970 squang8
-  944. $11,970 Treshaun420
- *945. $11,970 klrwayant083
+ *943. $11,970 klrwayant083
+  944. $11,970 squang8
+  945. $11,970 Treshaun420
   946. $11,982 jacobsedk
   947. $11,983 ferdinandball67
   948. $11,984 Part 3 Wu Tang Forever
@@ -975,9 +975,9 @@ Updated 2022-02-10T00:23:25.689Z
   971. $12,019 FrzMtrsprt
   972. $12,021 Zach 929U
   973. $12,023 Mercedes Truck
- *974. $12,023 francois.trempe
+ *974. $12,023 MrLelface
   975. $12,023 Agresiel
- *976. $12,023 MrLelface
+ *976. $12,023 francois.trempe
   977. $12,025 Clean Baguette
   978. $12,026 ilia.gureev
   979. $12,029 simonder3te
@@ -996,8 +996,8 @@ Updated 2022-02-10T00:23:25.689Z
   992. $12,046 maxraaijvan992
   993. $12,048 Thicc Boy Jent
   994. $12,048 Inhuman Erection
- *995. $12,051 noahtheninja
-  996. $12,051 artur.platzek
+  995. $12,051 artur.platzek
+ *996. $12,051 noahtheninja
   997. $12,052 UraniumSauce
   998. $12,052 cpawell
   999. $12,054 Welin
