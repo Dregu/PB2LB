@@ -1,23 +1,23 @@
 Poly Bridge 2 - 4-11 "Lean on Me" any% leaderboard (* = breaks)
-Updated 2022-02-20T00:30:37.703Z
-1000/30584 unique ranks shown
+Updated 2022-02-22T00:27:23.274Z
+1000/30625 unique ranks shown
 
-   *1. $22,487 Trygeve
-    2. $22,487 7777Alex7777
-   *3. $22,487 Cookieblues
-    4. $22,487 minecat
+    1. $22,487 7777Alex7777
+    2. $22,487 minecat
+   *3. $22,487 Trygeve
+   *4. $22,487 Cookieblues
     5. $22,672 Bellair08
     6. $23,113 Fathom
    *7. $23,498 lcmbo
-    8. $23,912 noobskinninja
-    9. $24,057 JakubBouska
-   10. $24,068 PakSap
-   11. $24,151 Heater
-   12. $24,270 GuacamoleLover27
-   13. $24,320 Mister Doctor
-   14. $24,444 zinc
-   15. $24,449 goldenpggie
-   16. $24,658 MOD
+   *8. $23,699 MOD
+    9. $23,912 noobskinninja
+   10. $24,057 JakubBouska
+   11. $24,068 PakSap
+   12. $24,151 Heater
+   13. $24,270 GuacamoleLover27
+   14. $24,320 Mister Doctor
+   15. $24,444 zinc
+   16. $24,449 goldenpggie
    17. $24,957 gthompson1129
    18. $25,031 alex
    19. $25,316 Enchanted Spider
@@ -200,7 +200,7 @@ Updated 2022-02-20T00:30:37.703Z
   196. $33,333 Meowzila
   197. $33,333 Lippy aka Ted
   198. $33,333 Gaotosky10
- *199. $33,336 Arrow
+  199. $33,336 Arrow
   200. $33,399 dsco
   201. $33,424 2RAF2
   202. $33,430 Sam
@@ -303,8 +303,8 @@ Updated 2022-02-20T00:30:37.703Z
   299. $34,662 Ossi Eastborn
   300. $34,670 tony65536
  *301. $34,671 Jmk5704
-  302. $34,694 zMyst
-  303. $34,694 bille
+ *302. $34,694 bille
+  303. $34,694 zMyst
   304. $34,702 GeneralSurimi
   305. $34,705 Raging penguin
   306. $34,707 bennas
@@ -646,8 +646,8 @@ Updated 2022-02-20T00:30:37.703Z
   642. $36,851 Dr. Nick
  *643. $36,852 vmana
   644. $36,856 Kronicle Blobbles
-  645. $36,860 tomanooblr
- *646. $36,860 Gary
+ *645. $36,860 Gary
+  646. $36,860 tomanooblr
   647. $36,866 kg_0168
   648. $36,871 mosescalhan
   649. $36,878 cara
@@ -685,8 +685,8 @@ Updated 2022-02-20T00:30:37.703Z
   681. $36,983 Rjj4
   682. $36,984 josephhadous
   683. $36,985 honeybadger
- *684. $36,988 Spatulum
-  685. $36,988 The Mitch Doctor
+  684. $36,988 The Mitch Doctor
+ *685. $36,988 Spatulum
   686. $36,990 Fuyachaka
   687. $36,992 Darebear009
   688. $37,000 badjackjack
@@ -935,8 +935,8 @@ Updated 2022-02-20T00:30:37.703Z
   931. $37,724 L.E.S
   932. $37,725 Kurtzo
   933. $37,726 shasta.pete
-  934. $37,727 wlimpie
- *935. $37,727 timfozothy
+ *934. $37,727 timfozothy
+  935. $37,727 wlimpie
   936. $37,727 Slide
   937. $37,728 darkgeorok
   938. $37,739 CompterMan
