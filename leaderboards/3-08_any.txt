@@ -1,14 +1,14 @@
 Poly Bridge 2 - 3-08 "Crossed Paths" any% leaderboard (* = breaks)
-Updated 2022-02-25T00:27:46.099Z
-1000/67286 unique ranks shown
+Updated 2022-02-26T00:26:14.283Z
+1000/67346 unique ranks shown
 
    *1. $2,153  Cookieblues
    *2. $2,153  Lagiiiie
    *3. $2,153  minecat
    *4. $3,420  9k5
-   *5. $3,662  Fathom
+   *5. $3,662  MOD
    *6. $3,662  Trygeve
-   *7. $3,662  MOD
+   *7. $3,662  Fathom
    *8. $3,662  palfly15
     9. $7,283  7777Alex7777
    10. $7,284  Bellair08
@@ -73,7 +73,7 @@ Updated 2022-02-25T00:27:46.099Z
    69. $11,997 jimmyscully
   *70. $12,047 theo.louesdon
    71. $12,080 Frogn
-   72. $12,099 SaltySeal
+  *72. $12,099 SaltySeal
    73. $12,203 1226875104
    74. $12,430 Aklhys
    75. $12,455 Red Charge
@@ -89,7 +89,7 @@ Updated 2022-02-25T00:27:46.099Z
    85. $12,987 Tehninza
   *86. $13,004 Nöten
    87. $13,058 shinflames
-   88. $13,093 Adjoint
+  *88. $13,093 Adjoint
    89. $13,098 Sev
    90. $13,131 jb_77
    91. $13,210 TheLex05
@@ -302,7 +302,7 @@ Updated 2022-02-25T00:27:46.099Z
   298. $17,405 Hannah
   299. $17,412 Michlop
   300. $17,415 Zynthian
- *301. $17,416 M47145dg
+  301. $17,416 M47145dg
   302. $17,428 cam
   303. $17,435 mocjunk
   304. $17,437 ✕ T-800 ✕
@@ -325,8 +325,8 @@ Updated 2022-02-25T00:27:46.099Z
  *321. $17,639 satochyy
   322. $17,642 smokedscrod
  *323. $17,644 saker1
- *324. $17,656 simon.drlink
-  325. $17,656 Revolves
+  324. $17,656 Revolves
+  325. $17,656 simon.drlink
  *326. $17,675 nigile
   327. $17,683 UkiArcticFox
   328. $17,689 beckernm
@@ -361,16 +361,16 @@ Updated 2022-02-25T00:27:46.099Z
  *357. $17,884 Peppermaster
   358. $17,902 Haphazard
   359. $17,915 Count Ronin
- *360. $17,923 Bushy2700
- *361. $17,923 gengi ninga
+ *360. $17,923 gengi ninga
+ *361. $17,923 Bushy2700
   362. $17,927 Newgreen
-  363. $17,935 JamieCook
- *364. $17,935 Sheler
+ *363. $17,935 Sheler
+  364. $17,935 JamieCook
   365. $17,935 NADMaster
   366. $17,936 caioswfr
   367. $17,952 TheSadSlinky
-  368. $17,960 Phloofy
- *369. $17,960 rx7man
+ *368. $17,960 rx7man
+  369. $17,960 Phloofy
   370. $17,963 Anesthetics.
  *371. $17,963 joshuak1899
   372. $17,980 romyk
@@ -411,7 +411,7 @@ Updated 2022-02-25T00:27:46.099Z
   407. $18,181 gajiro240
  *408. $18,189 Sam
   409. $18,191 .vers
- *410. $18,193 Da Real Inventor
+  410. $18,193 Da Real Inventor
  *411. $18,202 GraphMiner
  *412. $18,204 Mr Rock Drake
   413. $18,207 Amonet
@@ -488,7 +488,7 @@ Updated 2022-02-25T00:27:46.099Z
   484. $18,593 figure.f
  *485. $18,597 1796073361
   486. $18,599 Kastrull
- *487. $18,602 Teh
+  487. $18,602 Teh
   488. $18,604 jamiegbreault
   489. $18,605 Darkhalis
   490. $18,612 42nd|BovineDiozzi
@@ -589,8 +589,8 @@ Updated 2022-02-25T00:27:46.099Z
   585. $19,051 Wholesome Bober | Road2DMG
   586. $19,055 jedyobidan
   587. $19,056 Chase1mod
- *588. $19,060 Inferior Asian
-  589. $19,060 Gorby
+  588. $19,060 Gorby
+ *589. $19,060 Inferior Asian
   590. $19,079 dnsdhrj
   591. $19,080 [HELLD]spiegie
  *592. $19,080 壶中之天
@@ -616,7 +616,7 @@ Updated 2022-02-25T00:27:46.099Z
   612. $19,165 t.lau
   613. $19,166 326553575
   614. $19,168 ste_z
-  615. $19,176 christof
+ *615. $19,176 christof
   616. $19,179 Triskel
   617. $19,179 tinytomblack
   618. $19,182 abazibiz
@@ -720,8 +720,8 @@ Updated 2022-02-25T00:27:46.099Z
   716. $19,526 silverSeb
   717. $19,526 Toastbrot
   718. $19,531 toomas
-  719. $19,533 vissy
- *720. $19,533 Ima pineapple
+ *719. $19,533 Ima pineapple
+  720. $19,533 vissy
   721. $19,534 SheQ
  *722. $19,540 testicles of obsidian
   723. $19,541 Grimforse
@@ -757,8 +757,8 @@ Updated 2022-02-25T00:27:46.099Z
   753. $19,605 TheAltAddict
  *754. $19,610 Bayerbond
   755. $19,616 Commie Slotter
-  756. $19,619 French
- *757. $19,619 Eric
+ *756. $19,619 Eric
+  757. $19,619 French
   758. $19,620 Gomëlz
   759. $19,629 AERO
   760. $19,631 hhuueeyy
