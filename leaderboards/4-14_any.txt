@@ -1,12 +1,12 @@
 Poly Bridge 2 - 4-14 "Big Rigs" any% leaderboard (* = breaks)
-Updated 2022-03-02T00:29:27.463Z
-1000/32390 unique ranks shown
+Updated 2022-03-03T00:31:16.169Z
+1000/32405 unique ranks shown
 
-   *1. $1,884  Lagiiiie
-   *2. $1,884  Cookieblues
-   *3. $1,884  9k5
-   *4. $1,884  Fathom
-   *5. $1,950  Zen
+   *1. $1,699  9k5
+   *2. $1,880  Zen
+   *3. $1,884  Cookieblues
+   *4. $1,884  Lagiiiie
+   *5. $1,884  Fathom
    *6. $2,147  palfly15
    *7. $2,169  Pengujedi
    *8. $2,259  Bibbb
@@ -31,11 +31,11 @@ Updated 2022-03-02T00:29:27.463Z
   *27. $29,893 Tactical Insomnia
    28. $31,158 Kalorienreduziert
    29. $31,230 TheRocket
-   30. $31,236 DaveMcW
+  *30. $31,236 DaveMcW
   *31. $31,252 Luuroon
   *32. $31,310 michaelandbrother
-  *33. $31,585 E
-   34. $31,585 Herneerius
+   33. $31,585 Herneerius
+  *34. $31,585 E
    35. $31,742 MoonlitJolty
    36. $31,781 Off5pring
    37. $31,928 ~ Smithy ~
@@ -597,8 +597,8 @@ Updated 2022-03-02T00:29:27.463Z
   593. $42,115 The Shadow
   594. $42,118 BrianTho2010
   595. $42,141 POLOsGame
- *596. $42,148 Baasmommel
-  597. $42,148 贪污鬼才和珅
+  596. $42,148 贪污鬼才和珅
+ *597. $42,148 Baasmommel
   598. $42,153 Ninja
   599. $42,155 PoTeTo_SaN
   600. $42,157 andrew.gillham
@@ -739,8 +739,8 @@ Updated 2022-03-02T00:29:27.463Z
   735. $43,075 Lipe3BrokeN
   736. $43,081 Hot Cold Shoto
   737. $43,092 Raveger
- *738. $43,112 ALPTech75
-  739. $43,112 SirBigGuy
+  738. $43,112 SirBigGuy
+ *739. $43,112 ALPTech75
   740. $43,116 Painless
   741. $43,123 John
   742. $43,124 Rashiro
@@ -845,8 +845,8 @@ Updated 2022-03-02T00:29:27.463Z
   841. $43,655 794265745
   842. $43,658 hiromukaggg
   843. $43,664 jonah.freeland
-  844. $43,678 Istas
- *845. $43,678 76561198063712610
+ *844. $43,678 76561198063712610
+  845. $43,678 Istas
   846. $43,683 merpha
   847. $43,685 michael
   848. $43,692 silver_ghost
@@ -943,7 +943,7 @@ Updated 2022-03-02T00:29:27.463Z
   939. $44,210 BluePhoenix109
   940. $44,225 Moribund
   941. $44,226 HoLySHIFT
-  942. $44,228 Bram2323
+ *942. $44,228 Bram2323
   943. $44,231 Slick
   944. $44,231 mnb
  *945. $44,232 poptart
@@ -988,7 +988,7 @@ Updated 2022-03-02T00:29:27.463Z
   984. $44,407 Marko
   985. $44,415 XIEPER
   986. $44,439 DEUTSCHLAND7007
-  987. $44,441 Sticky Kitty!
+ *987. $44,441 Sticky Kitty!
   988. $44,451 Mangodesk
   989. $44,453 SSJ2 Gohan
  *990. $44,456 Zamzibar
