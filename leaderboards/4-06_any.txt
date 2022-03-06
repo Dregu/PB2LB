@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-06 "Safety Gap" any% leaderboard (* = breaks)
-Updated 2022-03-05T00:29:32.118Z
-1000/37190 unique ranks shown
+Updated 2022-03-06T00:27:42.017Z
+1000/37220 unique ranks shown
 
    *1. $499    Cookieblues
    *2. $499    Zen
@@ -8,20 +8,20 @@ Updated 2022-03-05T00:29:32.118Z
    *4. $525    9k5
    *5. $817    Trygeve
    *6. $817    MOD
-   *7. $998    Fathom
-    8. $1,799  Sexy Boy Industries [woop]
-    9. $1,799  7777Alex7777
-   10. $1,799  somefakegamer
-   11. $1,799  Bibbb
-   12. $1,834  Resilia_
-  *13. $2,962  Valnix
-   14. $3,708  amandachertavu
-  *15. $3,718  gajisai
-   16. $3,889  Roevhaal
-   17. $3,941  geroniberry
-   18. $4,000  Shadow
-   19. $4,029  Bellair08
-   20. $4,394  minecat
+   *7. $817    minecat
+   *8. $998    Fathom
+    9. $1,799  Sexy Boy Industries [woop]
+   10. $1,799  7777Alex7777
+   11. $1,799  somefakegamer
+   12. $1,799  Bibbb
+   13. $1,834  Resilia_
+  *14. $2,962  Valnix
+   15. $3,662  amandachertavu
+  *16. $3,718  gajisai
+   17. $3,889  Roevhaal
+   18. $3,941  geroniberry
+   19. $4,000  Shadow
+   20. $4,029  Bellair08
    21. $4,395  BaconPancakes
    22. $4,401  ~ Smithy ~
    23. $4,549  Crimson
@@ -86,8 +86,8 @@ Updated 2022-03-05T00:29:32.118Z
   *82. $9,573  goldenpggie
   *83. $9,576  jonaTHOT
    84. $9,629  Confirm NotJonah
-   85. $9,638  augieinpdx
-  *86. $9,638  栀璃鸢年
+  *85. $9,638  栀璃鸢年
+   86. $9,638  augieinpdx
    87. $9,649  |FAQ-YU| Fishezzz
    88. $9,652  tinypenguin000
    89. $9,652  UkiArcticFox
@@ -486,11 +486,11 @@ Updated 2022-03-05T00:29:32.118Z
  *482. $17,230 Ash Kerwood
   483. $17,247 FlammableZelda
   484. $17,270 Otonashi
-  485. $17,270 jeg_er_en_bjørn
-  486. $17,270 CodingTom
-  487. $17,270 Quarteresque
-  488. $17,270 Brodo Faggins
-  489. $17,270 euan9douglas
+  485. $17,270 CodingTom
+  486. $17,270 Quarteresque
+  487. $17,270 Brodo Faggins
+  488. $17,270 euan9douglas
+  489. $17,270 jeg_er_en_bjørn
   490. $17,311 hankanghyun
  *491. $17,315 FruitJS
   492. $17,332 JoLi
@@ -683,8 +683,8 @@ Updated 2022-03-05T00:29:32.118Z
   679. $20,451 Deplo
   680. $20,461 dssiegel
   681. $20,465 DOOM23
-  682. $20,470 Terrigible
-  683. $20,470 wardziak1
+  682. $20,470 wardziak1
+  683. $20,470 Terrigible
   684. $20,476 Bishop
   685. $20,500 罪恶の教科書
   686. $20,515 gregakramer
@@ -768,19 +768,19 @@ Updated 2022-03-05T00:29:32.118Z
   764. $21,419 gdfksj
   765. $21,420 cgraewer
   766. $21,420 exmirt
-  767. $21,420 근육런
-  768. $21,420 Sai_o
-  769. $21,420 fizziesoupjr
-  770. $21,420 Jazumojo
-  771. $21,420 Dropmought
-  772. $21,420 neongrass
-  773. $21,420 NappoBappo
-  774. $21,420 KKLG
+  767. $21,420 fizziesoupjr
+  768. $21,420 Jazumojo
+  769. $21,420 근육런
+  770. $21,420 neongrass
+  771. $21,420 Sai_o
+  772. $21,420 NappoBappo
+  773. $21,420 KKLG
+  774. $21,420 Dropmought
   775. $21,436 jang7220
   776. $21,442 laerling
   777. $21,454 wikizera ♛
-  778. $21,480 卡卡卡卡比多巴
-  779. $21,480 Maghzan
+  778. $21,480 Maghzan
+  779. $21,480 卡卡卡卡比多巴
   780. $21,487 FaRmEr
   781. $21,496 Imneveron
   782. $21,499 chrisgabrielsen269
@@ -802,10 +802,10 @@ Updated 2022-03-05T00:29:32.118Z
   798. $21,653 kev
   799. $21,665 Shark!!
   800. $21,670 HDF_Rockstar
-  801. $21,670 Liko Shepwolfox
-  802. $21,670 Jelly-J
-  803. $21,670 ilban.sno
-  804. $21,670 Maironne
+ *801. $21,670 Maironne
+  802. $21,670 Liko Shepwolfox
+  803. $21,670 Jelly-J
+  804. $21,670 ilban.sno
   805. $21,670 Coffe
   806. $21,670 Nobody
   807. $21,678 Elwin
@@ -825,8 +825,8 @@ Updated 2022-03-05T00:29:32.118Z
   821. $21,820 Eq5i
   822. $21,824 jimzhao6598
   823. $21,829 RubyRuby284
-  824. $21,832 Dr. Baldwin
-  825. $21,832 🎀 Catherine 🎀
+  824. $21,832 🎀 Catherine 🎀
+  825. $21,832 Dr. Baldwin
   826. $21,836 awoogabeluga
   827. $21,839 D_Bowd
   828. $21,853 abc_lx
@@ -938,8 +938,8 @@ Updated 2022-03-05T00:29:32.118Z
   934. $22,853 loicduchiron
   935. $22,858 vany365 cs.money
   936. $22,860 施磊
-  937. $22,866 nicnex
-  938. $22,866 363645569
+  937. $22,866 363645569
+  938. $22,866 nicnex
   939. $22,873 anwsnyder
   940. $22,878 Maxtyren
   941. $22,898 gajiro240
@@ -970,11 +970,11 @@ Updated 2022-03-05T00:29:32.118Z
   966. $23,169 EchoSaber97
   967. $23,169 necro191
   968. $23,169 ln
-  969. $23,169 oh_gotta_groove
-  970. $23,169 Lalka
-  971. $23,169 rlawlsgh426
-  972. $23,169 darthfabian
-  973. $23,169 sezgi.gunes
+  969. $23,169 sezgi.gunes
+  970. $23,169 oh_gotta_groove
+  971. $23,169 Lalka
+  972. $23,169 rlawlsgh426
+  973. $23,169 darthfabian
   974. $23,176 Joseph
   975. $23,178 Bagbag
   976. $23,191 Foop
