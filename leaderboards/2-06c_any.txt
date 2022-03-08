@@ -1,6 +1,6 @@
 Poly Bridge 2 - 2-06C "Roundabout" any% leaderboard (* = breaks)
-Updated 2022-03-06T00:27:41.689Z
-1000/10046 unique ranks shown
+Updated 2022-03-08T00:28:10.179Z
+1000/10052 unique ranks shown
 
     1. $5,351  Cookieblues
     2. $5,351  Trygeve
@@ -18,7 +18,7 @@ Updated 2022-03-06T00:27:41.689Z
    14. $6,430  7777Alex7777
    15. $6,443  adambrianschmidt
    16. $6,454  david_r_baker
-   17. $6,484  Rüdenhausen
+  *17. $6,484  Rüdenhausen
    18. $6,552  alexmoreno524
   *19. $6,597  Honn
    20. $6,644  Kidsune
@@ -175,8 +175,8 @@ Updated 2022-03-06T00:27:41.689Z
   171. $11,497 Kristian_R_05
   172. $11,528 ジャッカル斉藤
  *173. $11,564 |Bread|
-  174. $11,590 david.c.hagglund
- *175. $11,590 Toe Knee
+ *174. $11,590 Toe Knee
+  175. $11,590 david.c.hagglund
   176. $11,605 Z da man
  *177. $11,639 Johannes652
   178. $11,640 tinytomblack
@@ -219,8 +219,8 @@ Updated 2022-03-06T00:27:41.689Z
   215. $12,703 maxxverrr
   216. $12,789 actionaa
   217. $12,808 dlaldud5
-  218. $12,818 Gabetron
- *219. $12,818 <!DOCTYPE Pink [<!ENTITY> Dracon
+ *218. $12,818 <!DOCTYPE Pink [<!ENTITY> Dracon
+  219. $12,818 Gabetron
  *220. $12,870 zinc
   221. $12,874 orangeboooy
   222. $12,880 eddepet74
@@ -393,7 +393,7 @@ Updated 2022-03-06T00:27:41.689Z
   389. $15,323 Wolfeter
   390. $15,333 Jambo
   391. $15,335 noahtheninja
- *392. $15,343 sj070602
+  392. $15,343 sj070602
   393. $15,345 Boris
   394. $15,357 Allanb
   395. $15,363 Svensgaard YT
@@ -556,8 +556,8 @@ Updated 2022-03-06T00:27:41.689Z
   552. $16,592 zach90888
   553. $16,595 K.O.
   554. $16,596 Grand
- *555. $16,608 MageGeraint
- *556. $16,608 JPat
+ *555. $16,608 JPat
+ *556. $16,608 MageGeraint
   557. $16,622 [SF3]^1Scott^0freee3
   558. $16,624 majane
   559. $16,631 pawloes
@@ -669,8 +669,8 @@ Updated 2022-03-06T00:27:41.689Z
   665. $17,223 Thoomor
  *666. $17,224 Black Chicken
   667. $17,230 Urmamasllama
-  668. $17,233 Inhuman Erection
- *669. $17,233 Patches
+ *668. $17,233 Patches
+  669. $17,233 Inhuman Erection
   670. $17,234 meshalkharanji2020
   671. $17,238 markusgeiersberger
   672. $17,241 alvdh
@@ -724,8 +724,8 @@ Updated 2022-03-06T00:27:41.689Z
   720. $17,482 dutch
   721. $17,494 samuelpierog
   722. $17,505 stereotyper
- *723. $17,507 Lord Of Beans
-  724. $17,507 Nyk
+  723. $17,507 Nyk
+  724. $17,507 Lord Of Beans
  *725. $17,524 carloseas11
  *726. $17,528 KBM | plourk
   727. $17,538 Keks
@@ -807,7 +807,7 @@ Updated 2022-03-06T00:27:41.689Z
   803. $17,917 Versatilus
   804. $17,922 -znegva-
  *805. $17,927 naphack
- *806. $17,935 rdsarmientog
+  806. $17,935 rdsarmientog
   807. $17,938 bolong
   808. $17,941 Xavier the Savior
   809. $17,947 RedTekk8
@@ -834,8 +834,8 @@ Updated 2022-03-06T00:27:41.689Z
   830. $18,019 romyk
   831. $18,027 Adjoint
   832. $18,035 oiiaa77
-  833. $18,045 MasterHorst_Skunk
- *834. $18,045 Collatz
+ *833. $18,045 Collatz
+  834. $18,045 MasterHorst_Skunk
  *835. $18,045 Linus Dayvan
   836. $18,045 XxBest_Bill_Main_38xX
   837. $18,059 thecormister
@@ -860,8 +860,8 @@ Updated 2022-03-06T00:27:41.689Z
   856. $18,105 Smokepurrp
   857. $18,119 nick.pilsbury
   858. $18,120 Rastrello_197
- *859. $18,125 V01DBREAKER
- *860. $18,125 matthewsabio
+ *859. $18,125 matthewsabio
+ *860. $18,125 V01DBREAKER
   861. $18,127 Noob
   862. $18,129 shvesser
   863. $18,143 lobstr
@@ -930,8 +930,8 @@ Updated 2022-03-06T00:27:41.689Z
   926. $18,328 Handurion
   927. $18,333 抱歉不予顯示
  *928. $18,333 Rudy
- *929. $18,343 charliehavens06
-  930. $18,343 mos31f
+  929. $18,343 mos31f
+ *930. $18,343 charliehavens06
   931. $18,346 我不知道。╯︿╰
   932. $18,355 Kiste
   933. $18,356 Scott
@@ -978,8 +978,8 @@ Updated 2022-03-06T00:27:41.689Z
   974. $18,500 Grorious Reader
   975. $18,500 Erik the best
   976. $18,502 Aerlynn
- *977. $18,503 Choochie
-  978. $18,503 isaac
+  977. $18,503 isaac
+ *978. $18,503 Choochie
   979. $18,508 haWk
   980. $18,510 metalpimple
   981. $18,510 ElephantTacoYT

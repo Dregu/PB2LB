@@ -1,21 +1,21 @@
 Poly Bridge 2 - 1-16C "Large Bridge" any% leaderboard (* = breaks)
-Updated 2022-03-06T00:27:41.635Z
-1000/13494 unique ranks shown
+Updated 2022-03-08T00:28:10.128Z
+1000/13517 unique ranks shown
 
-   *1. $5,851  MOD
-   *2. $5,851  9k5
-   *3. $5,851  Trygeve
-   *4. $5,851  Zen
-   *5. $5,851  Cookieblues
-   *6. $5,851  minecat
-   *7. $5,851  geroniberry
+   *1. $5,851  minecat
+   *2. $5,851  MOD
+   *3. $5,851  Zen
+   *4. $5,851  Cookieblues
+   *5. $5,851  9k5
+   *6. $5,851  geroniberry
+   *7. $5,851  Trygeve
     8. $11,141 Roevhaal
     9. $11,188 7777Alex7777
    10. $11,370 Bellair08
    11. $11,399 GuacamoleLover27
    12. $11,399 Lagiiiie
    13. $11,403 Icysnowman
-   14. $11,405 Crimson
+  *14. $11,405 Crimson
    15. $11,764 Bibbb
    16. $11,786 coxsta
    17. $11,871 Heater
@@ -274,8 +274,8 @@ Updated 2022-03-06T00:27:41.635Z
   270. $21,416 zimmi
   271. $21,424 Yenick
   272. $21,430 Holy Llama!
-  273. $21,436 Chezmono
-  274. $21,436 huurainotoruneko
+  273. $21,436 huurainotoruneko
+  274. $21,436 Chezmono
   275. $21,466 McLoud
   276. $21,476 DuuSuu
   277. $21,480 Jacowboy
@@ -317,8 +317,8 @@ Updated 2022-03-06T00:27:41.635Z
   313. $21,782 07USB
   314. $21,786 davidmdland
   315. $21,788 stackofpancakes
- *316. $21,793 Hooden
-  317. $21,793 滑地上之小稽
+  316. $21,793 滑地上之小稽
+ *317. $21,793 Hooden
   318. $21,794 cliff007
   319. $21,800 Freedom_IT
   320. $21,806 Quality
@@ -394,8 +394,8 @@ Updated 2022-03-06T00:27:41.635Z
   390. $22,215 hsphere
   391. $22,215 Adjoint
   392. $22,218 BdeBettencourt
-  393. $22,222 olivapaa
- *394. $22,222 Turd Ferguson
+ *393. $22,222 Turd Ferguson
+  394. $22,222 olivapaa
   395. $22,223 benjamingibs
   396. $22,225 Teywer
   397. $22,228 SRA
@@ -510,7 +510,7 @@ Updated 2022-03-06T00:27:41.635Z
   506. $22,782 Samlauderuel
   507. $22,788 自由闊達
  *508. $22,789 JimothyCricket
- *509. $22,792 lollyH2O
+  509. $22,792 lollyH2O
   510. $22,799 The Magic Taco Truck
   511. $22,806 MrAztecL
   512. $22,807 Face7
@@ -558,8 +558,8 @@ Updated 2022-03-06T00:27:41.635Z
   554. $22,985 roi.ein.zar
   555. $22,985 Oragif
   556. $22,993 jimit1982
-  557. $22,994 Pátriárka
-  558. $22,994 ose
+  557. $22,994 ose
+  558. $22,994 Pátriárka
   559. $22,995 Stavis
   560. $23,007 Slacker
   561. $23,007 Baked Cheese
@@ -582,8 +582,8 @@ Updated 2022-03-06T00:27:41.635Z
   578. $23,056 VaroufakisGreekMinisterOfAwesome
   579. $23,067 Low
   580. $23,079 JoJo Reference
-  581. $23,089 steinvalentijn
-  582. $23,089 Abitos
+  581. $23,089 Abitos
+  582. $23,089 steinvalentijn
   583. $23,090 EthanIV
   584. $23,095 ace90210ace
   585. $23,097 Awashie
@@ -599,8 +599,8 @@ Updated 2022-03-06T00:27:41.635Z
   595. $23,144 Pottan
   596. $23,146 Hodson
   597. $23,146 Biskit
-  598. $23,150 Scott
-  599. $23,150 A 2016 Toyota Corolla
+  598. $23,150 A 2016 Toyota Corolla
+  599. $23,150 Scott
   600. $23,150 Oreocraft2
   601. $23,155 niku_bac
  *602. $23,168 samsteadman1000
@@ -646,8 +646,8 @@ Updated 2022-03-06T00:27:41.635Z
   642. $23,325 DrGold
   643. $23,327 ichinowanan
   644. $23,327 3DbunnMan
-  645. $23,331 Dany
- *646. $23,331 jonesraisor
+ *645. $23,331 jonesraisor
+  646. $23,331 Dany
   647. $23,331 anijoker
   648. $23,334 Coffe is Evil
   649. $23,337 invictus0x0
@@ -740,8 +740,8 @@ Updated 2022-03-06T00:27:41.635Z
   736. $23,570 oubeidong
   737. $23,576 +25 Only
   738. $23,582 Sanic
-  739. $23,585 dενil Ψ
-  740. $23,585 Uncle
+  739. $23,585 Uncle
+  740. $23,585 dενil Ψ
   741. $23,601 Snow_chYld
   742. $23,603 Sol3N
   743. $23,606 Moose
@@ -751,8 +751,8 @@ Updated 2022-03-06T00:27:41.635Z
   747. $23,621 reichu
   748. $23,628 Kaosfire3
   749. $23,629 export Psyonix.rl.me
-  750. $23,633 jim_flint
-  751. $23,633 ted.u.rowe
+  750. $23,633 ted.u.rowe
+  751. $23,633 jim_flint
   752. $23,644 BANANYA
   753. $23,647 pstoldt
   754. $23,649 Cspar
@@ -796,15 +796,15 @@ Updated 2022-03-06T00:27:41.635Z
   792. $23,733 Champagne
   793. $23,735 zugy
   794. $23,735 Sral2510
-  795. $23,737 leonmarti2018
-  796. $23,737 RonSwa
-  797. $23,737 Der Blitzmerker
+  795. $23,737 Der Blitzmerker
+  796. $23,737 leonmarti2018
+  797. $23,737 RonSwa
   798. $23,737 puhnitor
   799. $23,740 mdchaff
   800. $23,741 Fantehula
   801. $23,742 prkbennett
-  802. $23,745 hayden.pugh
-  803. $23,745 Care.Less
+  802. $23,745 Care.Less
+  803. $23,745 hayden.pugh
   804. $23,748 fudgefool98
   805. $23,751 DARN
   806. $23,751 Bullw
@@ -868,8 +868,8 @@ Updated 2022-03-06T00:27:41.635Z
   864. $23,907 MattA
   865. $23,914 TheCherry
   866. $23,917 rolled
-  867. $23,925 PiratJack13
-  868. $23,925 vroot
+  867. $23,925 vroot
+  868. $23,925 PiratJack13
   869. $23,926 WizardWandering
   870. $23,933 Haca
   871. $23,933 Karata
@@ -894,8 +894,8 @@ Updated 2022-03-06T00:27:41.635Z
   890. $23,969 _DaCoolOne_
   891. $23,973 forestho1
   892. $23,976 Lasagne
- *893. $23,979 Alex!
-  894. $23,979 DeSwag21
+  893. $23,979 DeSwag21
+ *894. $23,979 Alex!
   895. $23,983 millercraig0
   896. $23,986 HaveYouSeenMyPigeon
   897. $23,987 Water
@@ -913,18 +913,18 @@ Updated 2022-03-06T00:27:41.635Z
   909. $24,012 tetu i_s
   910. $24,013 CroissantWithCheese
   911. $24,014 Red_Shallots_
-  912. $24,014 Javy
-  913. $24,014 Proud
+  912. $24,014 Proud
+  913. $24,014 zaneistheman94
   914. $24,014 Leevi
   915. $24,014 米国刘后
-  916. $24,014 REDundant.'
+  916. $24,014 Javy
   917. $24,014 2328872388
-  918. $24,014 Asphyxia
+  918. $24,014 REDundant.'
   919. $24,014 万人的死角
-  920. $24,014 提莫队长、
-  921. $24,014 RafaelJR8
-  922. $24,014 zaneistheman94
-  923. $24,014 听冬岩尘开
+  920. $24,014 RafaelJR8
+  921. $24,014 提莫队长、
+  922. $24,014 听冬岩尘开
+  923. $24,014 Asphyxia
   924. $24,017 Virgil Ianțu
   925. $24,020 AkillezII
   926. $24,021 RobinSen28
@@ -991,10 +991,10 @@ Updated 2022-03-06T00:27:41.635Z
   987. $24,212 MR_Mose_
   988. $24,216 mathil
   989. $24,219 red
-  990. $24,222 Loaded
-  991. $24,222 >> EviLLegolaS <<
-  992. $24,226 oxontheroof
- *993. $24,226 Maironne
+  990. $24,222 >> EviLLegolaS <<
+  991. $24,222 Loaded
+ *992. $24,226 Maironne
+  993. $24,226 oxontheroof
  *994. $24,228 emailonthefly
   995. $24,235 SPOOKY WAGONS
   996. $24,236 Drychne
