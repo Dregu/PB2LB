@@ -1,11 +1,11 @@
 Poly Bridge 2 - 4-05C "Triple Decker Drawbridge" any% leaderboard (* = breaks)
-Updated 2022-03-11T00:33:00.875Z
-1000/3174 unique ranks shown
+Updated 2022-03-12T00:28:20.968Z
+1000/3175 unique ranks shown
 
-   *1. $14,499 Fathom
-    2. $14,499 Lagiiiie
-    3. $14,499 somefakegamer
-    4. $14,499 Trygeve
+    1. $14,499 Lagiiiie
+    2. $14,499 somefakegamer
+    3. $14,499 Trygeve
+   *4. $14,499 Fathom
    *5. $15,999 Cookieblues
    *6. $20,869 7777Alex7777
     7. $21,666 MOD
@@ -158,8 +158,8 @@ Updated 2022-03-11T00:33:00.875Z
   154. $40,768 Jormungandr
   155. $40,780 Kwek
   156. $40,863 GoodMath
-  157. $40,872 Curuda
- *158. $40,872 Panoz the Great
+ *157. $40,872 Panoz the Great
+  158. $40,872 Curuda
   159. $40,905 ma23
   160. $40,926 Djoser
   161. $41,048 Katamari (old)
@@ -239,8 +239,8 @@ Updated 2022-03-11T00:33:00.875Z
   235. $44,486 areabfx
   236. $44,531 The_Darebear
   237. $44,560 ayhonglu
- *238. $44,572 goosewhammy
- *239. $44,572 The Worst
+ *238. $44,572 The Worst
+ *239. $44,572 goosewhammy
   240. $44,593 MiddleOrder321
   241. $44,595 GreenMachine8
   242. $44,626 Pat
@@ -465,7 +465,7 @@ Updated 2022-03-11T00:33:00.875Z
   461. $51,280 Commie Slotter
   462. $51,291 nboying4
   463. $51,308 Rugs
- *464. $51,312 FoxTheVictor
+  464. $51,312 FoxTheVictor
   465. $51,333 kYY
   466. $51,351 Michlop
  *467. $51,386 Jonas_H1307
@@ -558,8 +558,8 @@ Updated 2022-03-11T00:33:00.875Z
  *554. $53,549 Duck2
   555. $53,550 Basseeeh
   556. $53,570 joel.rspence
-  557. $53,633 TATZUfin
- *558. $53,633 Owenster06(5'9") (69'') nice
+ *557. $53,633 Owenster06(5'9") (69'') nice
+  558. $53,633 TATZUfin
   559. $53,638 Kertelik (✿◠‿◠)
  *560. $53,662 zeusphd13
   561. $53,671 noobskinninja
@@ -620,7 +620,7 @@ Updated 2022-03-11T00:33:00.875Z
   616. $54,934 Nitekap
   617. $55,036 [SF3]^1Scott^0freee3
   618. $55,046 Khaos
-  619. $55,052 Jakke
+ *619. $55,052 Jakke
   620. $55,070 Diliviur
   621. $55,107 Shane
  *622. $55,158 Hoopahoa
@@ -706,16 +706,16 @@ Updated 2022-03-11T00:33:00.875Z
   702. $56,717 GreenGunGuy
   703. $56,725 Wolfelix123
   704. $56,725 Radowan
- *705. $56,725 M A V R I
+ *705. $56,725 RoDi
   706. $56,725 breadeaterlol
- *707. $56,725 RoDi
-  708. $56,725 Berzelt
-  709. $56,725 Stalemate
-  710. $56,725 Flartibartfast
-  711. $56,725 ScreechyNutz
-  712. $56,725 Azinegamer
-  713. $56,725 elli_rynbw
-  714. $56,725 spidey
+  707. $56,725 Berzelt
+  708. $56,725 Stalemate
+  709. $56,725 Flartibartfast
+  710. $56,725 ScreechyNutz
+  711. $56,725 Azinegamer
+  712. $56,725 elli_rynbw
+  713. $56,725 spidey
+ *714. $56,725 M A V R I
   715. $56,725 Piżamka_
   716. $56,725 Ax7ro
   717. $56,725 DerKopf
@@ -738,10 +738,10 @@ Updated 2022-03-11T00:33:00.875Z
   734. $56,782 PeterHoHK
   735. $56,803 DerMarwin
   736. $56,818 Wahlensky
-  737. $56,818 paltry
-  738. $56,818 Coobold
-  739. $56,818 bee0215
- *740. $56,818 SJZombie
+ *737. $56,818 SJZombie
+  738. $56,818 paltry
+  739. $56,818 Coobold
+  740. $56,818 bee0215
   741. $56,832 KoolKev66
   742. $56,834 NORWXGIAN
   743. $56,841 Gardrium
@@ -795,8 +795,8 @@ Updated 2022-03-11T00:33:00.875Z
   791. $57,402 Fugukichi
   792. $57,425 Bloodjkeee
   793. $57,427 shinoha
-  794. $57,433 gani
- *795. $57,433 BomBinoPookano hellcase.com
+ *794. $57,433 BomBinoPookano hellcase.com
+  795. $57,433 gani
   796. $57,446 Karl_Krispy
   797. $57,446 The Big Suck
   798. $57,500 GREENMAN
@@ -864,7 +864,7 @@ Updated 2022-03-11T00:33:00.875Z
   860. $58,643 matthew.salzmann
   861. $58,675 Pitfall Trap
   862. $58,699 Broodje Bal
-  863. $58,700 Freedom_IT
+ *863. $58,700 Freedom_IT
   864. $58,706 YKitten
   865. $58,711 j.bottomley87595
   866. $58,721 lucasychan08
@@ -1000,5 +1000,5 @@ Updated 2022-03-11T00:33:00.875Z
   996. $60,440 willwang343
   997. $60,449 louis.carpentier
   998. $60,458 tyler.diep9
- *999. $60,484 adamjpoole
-*1000. $60,484 Fradex
+ *999. $60,484 Fradex
+*1000. $60,484 adamjpoole
