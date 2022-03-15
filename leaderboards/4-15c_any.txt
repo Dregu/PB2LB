@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-15C "Twists and Turns" any% leaderboard (* = breaks)
-Updated 2022-03-13T00:28:09.564Z
-1000/2783 unique ranks shown
+Updated 2022-03-15T00:29:47.368Z
+1000/2784 unique ranks shown
 
    *1. $5,233  Trygeve
     2. $5,233  Cookieblues
@@ -84,7 +84,7 @@ Updated 2022-03-13T00:28:09.564Z
    80. $8,057  Noahsorou
    81. $8,069  Fizzy
    82. $8,084  dayuanxian
-  *83. $8,098  Pengujedi
+   83. $8,098  Pengujedi
    84. $8,104  SoulWager
    85. $8,139  lee731017
    86. $8,148  Napoleonic99
@@ -183,7 +183,7 @@ Updated 2022-03-13T00:28:09.564Z
   179. $9,259  PATA
   180. $9,264  sauceasaurus
   181. $9,265  wallyworld
- *182. $9,277  Captain_M53
+  182. $9,277  Captain_M53
   183. $9,277  Glu
   184. $9,306  ZiuTinyat
   185. $9,307  Sandor Of The MIsts
@@ -482,19 +482,19 @@ Updated 2022-03-13T00:28:09.564Z
   478. $11,678 drwatsonlosen
   479. $11,683 andreaslohse
   480. $11,689 eddepet74
-  481. $11,696 brad.cogger
- *482. $11,707 bryce
-  483. $11,708 抽象派桥梁设计师
-  484. $11,714 bellowey
- *485. $11,714 minecraftlegend1336
-  486. $11,716 Sieko
-  487. $11,717 504874975
-  488. $11,719 JCworks
-  489. $11,722 ✪ Blink46
-  490. $11,740 Sl0ter
-  491. $11,745 TW_Strange
-  492. $11,755 Scott
-  493. $11,759 samurekun
+  481. $11,690 samurekun
+  482. $11,696 brad.cogger
+ *483. $11,707 bryce
+  484. $11,708 抽象派桥梁设计师
+  485. $11,714 bellowey
+ *486. $11,714 minecraftlegend1336
+  487. $11,716 Sieko
+  488. $11,717 504874975
+  489. $11,719 JCworks
+  490. $11,722 ✪ Blink46
+  491. $11,740 Sl0ter
+  492. $11,745 TW_Strange
+  493. $11,755 Scott
   494. $11,760 DuncanAM
   495. $11,770 Kukukoke
   496. $11,775 DaggerDoom
@@ -698,7 +698,7 @@ Updated 2022-03-13T00:28:09.564Z
   694. $12,977 littleboluonb
   695. $12,986 PeterHoHK
   696. $12,996 Mystic
- *697. $13,000 Freedom_IT
+  697. $13,000 Freedom_IT
   698. $13,001 auntratty
   699. $13,006 Texas Red
   700. $13,017 Imagine Pears
@@ -801,21 +801,21 @@ Updated 2022-03-13T00:28:09.564Z
   797. $13,498 Baldur
   798. $13,505 Ledaled
   799. $13,508 CANALETA
-  800. $13,508 Goscinny Uderzo
-  801. $13,508 Deathstroke
- *802. $13,508 Sir_Raven
- *803. $13,508 Bambo
-  804. $13,508 Hypikole
- *805. $13,508 Nomix
- *806. $13,508 Not Dasher
-  807. $13,508 VegitoRS
-  808. $13,508 Mønneren
-  809. $13,508 RafaelJR8
-  810. $13,508 Jrillr
-  811. $13,508 Psicodeli@
- *812. $13,508 LUCse MENSEN
-  813. $13,508 Matty90509
-  814. $13,508 dylanjcoolguy
+ *800. $13,508 Bambo
+  801. $13,508 Goscinny Uderzo
+ *802. $13,508 Not Dasher
+  803. $13,508 Deathstroke
+ *804. $13,508 Sir_Raven
+  805. $13,508 Hypikole
+  806. $13,508 VegitoRS
+  807. $13,508 Mønneren
+  808. $13,508 RafaelJR8
+  809. $13,508 Jrillr
+  810. $13,508 Psicodeli@
+ *811. $13,508 Nomix
+  812. $13,508 Matty90509
+  813. $13,508 dylanjcoolguy
+ *814. $13,508 LUCse MENSEN
   815. $13,508 BWKapp
   816. $13,508 What_did_I_SAY_?
   817. $13,508 Luisjnc
@@ -938,7 +938,7 @@ Updated 2022-03-13T00:28:09.564Z
   934. $14,265 Cupar Guy
   935. $14,266 cornshitfuck
   936. $14,269 Xeetos
-  937. $14,276 piccolo_SPA
+ *937. $14,276 piccolo_SPA
   938. $14,287 DrZobos
   939. $14,293 Shmangetron
   940. $14,296 315Lukas
