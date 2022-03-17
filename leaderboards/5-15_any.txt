@@ -1,15 +1,15 @@
 Poly Bridge 2 - 5-15 "Double Duty" any% leaderboard (* = breaks)
-Updated 2022-03-16T00:29:11.330Z
-1000/7531 unique ranks shown
+Updated 2022-03-17T00:28:58.400Z
+1000/7536 unique ranks shown
 
-   *1. $4,939  9k5
-   *2. $4,939  Trygeve
-   *3. $4,939  geroniberry
-   *4. $4,939  Cookieblues
-   *5. $4,939  minecat
-   *6. $4,939  MOD
-   *7. $4,939  Zen
-   *8. $4,939  7777Alex7777
+   *1. $4,939  geroniberry
+   *2. $4,939  MOD
+   *3. $4,939  Cookieblues
+   *4. $4,939  7777Alex7777
+   *5. $4,939  Zen
+   *6. $4,939  Trygeve
+   *7. $4,939  9k5
+   *8. $4,939  minecat
    *9. $5,999  Fathom
    10. $14,999 Roevhaal
   *11. $15,585 Bellair08
@@ -48,8 +48,8 @@ Updated 2022-03-16T00:29:11.330Z
   *44. $33,063 Sexy Boy Industries [woop]
    45. $33,323 Heater
    46. $33,400 sethandtiki
-  *47. $33,495 cavetroll
-  *48. $33,495 gamespilgame
+  *47. $33,495 gamespilgame
+  *48. $33,495 cavetroll
    49. $33,530 滑地上之小稽
    50. $33,732 Jhay80416
    51. $33,867 1723945294
@@ -133,8 +133,8 @@ Updated 2022-03-16T00:29:11.330Z
   129. $43,741 Apicedda
   130. $43,997 Kieselmeister
   131. $44,012 1794982934
- *132. $44,056 adambrianschmidt
-  133. $44,056 gashpot
+  132. $44,056 gashpot
+ *133. $44,056 adambrianschmidt
   134. $44,072 GalahadRounds
   135. $44,199 tylerdg22
  *136. $44,277 Zen Ti
@@ -304,8 +304,8 @@ Updated 2022-03-16T00:29:11.330Z
   300. $51,484 PhiliPdB
   301. $51,485 Silpal ☻
   302. $51,504 Master Squid
-  303. $51,532 jonaTHOT
- *304. $51,532 XPatt
+ *303. $51,532 XPatt
+  304. $51,532 jonaTHOT
  *305. $51,577 RON C3NA | YouTube
   306. $51,613 Turd Ferguson
   307. $51,617 stackofpancakes
@@ -402,8 +402,8 @@ Updated 2022-03-16T00:29:11.330Z
   398. $54,412 SnowLaa
   399. $54,511 Platypus
   400. $54,734 flustered
-  401. $54,750 4hud
- *402. $54,750 titan
+ *401. $54,750 titan
+  402. $54,750 4hud
   403. $54,764 mopure33266
   404. $54,764 ZT Xperimentor
   405. $54,772 ultimatedgambler
@@ -428,7 +428,7 @@ Updated 2022-03-16T00:29:11.330Z
   424. $55,166 jeremywinick
   425. $55,185 Jippopotamus
   426. $55,185 simonkilhoffer
-  427. $55,282 dis_enchanted
+ *427. $55,282 dis_enchanted
   428. $55,288 MIIchael
   429. $55,327 shmine1
   430. $55,392 Fireball
@@ -564,8 +564,8 @@ Updated 2022-03-16T00:29:11.330Z
   560. $58,552 Immabird
   561. $58,560 mushroboy
  *562. $58,590 CrabMoon
- *563. $58,683 malega
-  564. $58,683 pallas11235
+  563. $58,683 pallas11235
+ *564. $58,683 malega
  *565. $58,726 achoofa
   566. $58,782 Mirco165
   567. $58,819 DarkZ2650
@@ -787,8 +787,8 @@ Updated 2022-03-16T00:29:11.330Z
  *783. $63,699 bitomarci
   784. $63,742 somefakegamer
  *785. $63,744 chixenlegjo
- *786. $63,793 zia
- *787. $63,793 Cheesus
+ *786. $63,793 Cheesus
+ *787. $63,793 zia
   788. $63,801 Me 10 Jin
  *789. $63,807 tmg2
   790. $63,808 Derpy
@@ -823,8 +823,8 @@ Updated 2022-03-16T00:29:11.330Z
  *819. $64,543 c58paleo
  *820. $64,558 Momo ^,^
   821. $64,559 adammethven37
- *822. $64,563 Randomgamer
-  823. $64,563 fifito
+  822. $64,563 fifito
+ *823. $64,563 Randomgamer
  *824. $64,577 oooo1004
   825. $64,583 SimOet
   826. $64,586 微笑小香香丶
@@ -834,8 +834,8 @@ Updated 2022-03-16T00:29:11.330Z
   830. $64,695 +25 Only
   831. $64,702 AshBill
   832. $64,723 Orzulak_
-  833. $64,727 GarlicChives
- *834. $64,727 ellisk1
+ *833. $64,727 ellisk1
+  834. $64,727 GarlicChives
  *835. $64,732 PROwill3
   836. $64,736 Maistas
   837. $64,739 lbrinkey01
@@ -856,7 +856,7 @@ Updated 2022-03-16T00:29:11.330Z
   852. $64,909 Unholy
   853. $64,911 3MidgetsInATrenchcoat
   854. $64,935 wickes
-  855. $64,951 Wada Bueno
+ *855. $64,951 Wada Bueno
   856. $64,984 DragonTamer98
   857. $64,990 Way_of_Cows
  *858. $65,012 zezetel
