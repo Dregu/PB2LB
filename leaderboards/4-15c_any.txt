@@ -1,10 +1,10 @@
 Poly Bridge 2 - 4-15C "Twists and Turns" any% leaderboard (* = breaks)
-Updated 2022-03-20T00:30:10.672Z
-1000/2789 unique ranks shown
+Updated 2022-03-22T00:30:16.358Z
+1000/2790 unique ranks shown
 
-   *1. $5,233  Trygeve
-    2. $5,233  Bellair08
-    3. $5,233  Cookieblues
+    1. $5,233  Bellair08
+    2. $5,233  Cookieblues
+   *3. $5,233  Trygeve
     4. $5,427  Lagiiiie
     5. $5,429  minecat
    *6. $5,514  Enchanted Spider
@@ -183,8 +183,8 @@ Updated 2022-03-20T00:30:10.672Z
   179. $9,259  PATA
   180. $9,264  sauceasaurus
   181. $9,265  wallyworld
-  182. $9,277  Glu
-  183. $9,277  Captain_M53
+ *182. $9,277  Captain_M53
+  183. $9,277  Glu
   184. $9,306  ZiuTinyat
   185. $9,307  Sandor Of The MIsts
   186. $9,345  Bajerlykke
@@ -360,7 +360,7 @@ Updated 2022-03-20T00:30:10.672Z
   356. $10,719 Tapperij
   357. $10,736 CamA
   358. $10,764 Waifu Art Thou Romeo
- *359. $10,766 Weyong
+  359. $10,766 Weyong
   360. $10,774 Pugloney29
   361. $10,775 aZu
   362. $10,783 Elodie
@@ -577,7 +577,7 @@ Updated 2022-03-20T00:30:10.672Z
   573. $12,210 willflipper
   574. $12,212 Tachizuu
   575. $12,230 FuegoN
-  576. $12,231 This isn't Valorant
+ *576. $12,231 This isn't Valorant
   577. $12,231 Gnister
   578. $12,253 Atomguy
   579. $12,263 bolong
@@ -603,8 +603,8 @@ Updated 2022-03-20T00:30:10.672Z
   599. $12,396 ultraroar101
   600. $12,398 s08hasegawa
   601. $12,398 Cxxmbs
- *602. $12,424 dmarzani
-  603. $12,424 The Disastrous Village
+  602. $12,424 The Disastrous Village
+ *603. $12,424 dmarzani
   604. $12,429 ilia.gureev
  *605. $12,431 Dahutix
   606. $12,431 I Like Ugly Mammals.
@@ -656,7 +656,7 @@ Updated 2022-03-20T00:30:10.672Z
   652. $12,752 hjerppe
   653. $12,761 camtora
   654. $12,761 zeroEnter
- *655. $12,774 Valnix
+  655. $12,774 Valnix
   656. $12,775 DOOM MARINE
   657. $12,775 Pam Plemousse
   658. $12,777 Stanian
@@ -699,7 +699,7 @@ Updated 2022-03-20T00:30:10.672Z
   695. $12,977 littleboluonb
   696. $12,986 PeterHoHK
   697. $12,996 Mystic
-  698. $13,000 Freedom_IT
+ *698. $13,000 Freedom_IT
   699. $13,001 auntratty
   700. $13,006 Texas Red
   701. $13,017 Imagine Pears
@@ -750,8 +750,8 @@ Updated 2022-03-20T00:30:10.672Z
   746. $13,243 明明是我先
   747. $13,245 ben55418
   748. $13,245 egg
-  749. $13,258 Kiriba
- *750. $13,258 Juspe
+ *749. $13,258 Juspe
+  750. $13,258 Kiriba
   751. $13,260 Tea In A Bottle Boy
   752. $13,263 BattlePie
   753. $13,267 Tehninza
@@ -802,24 +802,24 @@ Updated 2022-03-20T00:30:10.672Z
   798. $13,498 Baldur
   799. $13,505 Ledaled
   800. $13,508 dylanjcoolguy
- *801. $13,508 BWKapp
-  802. $13,508 Deathstroke
- *803. $13,508 Nomix
- *804. $13,508 Sir_Raven
-  805. $13,508 Hypikole
-  806. $13,508 VegitoRS
-  807. $13,508 Mønneren
-  808. $13,508 RafaelJR8
-  809. $13,508 Jrillr
-  810. $13,508 Psicodeli@
-  811. $13,508 CANALETA
-  812. $13,508 Matty90509
- *813. $13,508 Bambo
- *814. $13,508 Not Dasher
+  801. $13,508 Deathstroke
+  802. $13,508 Hypikole
+ *803. $13,508 Sir_Raven
+  804. $13,508 VegitoRS
+  805. $13,508 Mønneren
+  806. $13,508 RafaelJR8
+  807. $13,508 Jrillr
+  808. $13,508 Psicodeli@
+  809. $13,508 CANALETA
+ *810. $13,508 Bambo
+  811. $13,508 Matty90509
+ *812. $13,508 Not Dasher
+  813. $13,508 Goscinny Uderzo
+  814. $13,508 BWKapp
  *815. $13,508 LUCse MENSEN
-  816. $13,508 Goscinny Uderzo
-  817. $13,508 What_did_I_SAY_?
-  818. $13,508 Luisjnc
+  816. $13,508 What_did_I_SAY_?
+  817. $13,508 Luisjnc
+ *818. $13,508 Nomix
   819. $13,508 out middle
   820. $13,512 burritobrown
   821. $13,515 Wr0mb3l
@@ -867,8 +867,8 @@ Updated 2022-03-20T00:30:10.672Z
   863. $13,778 A Happy Bunny
   864. $13,778 Merc249
   865. $13,778 SWIGGITY SWOOTY
-  866. $13,778 Iska74
- *867. $13,778 T0ast3dPoptart
+ *866. $13,778 T0ast3dPoptart
+  867. $13,778 Iska74
   868. $13,778 markbriscoe2006
   869. $13,780 mcree
   870. $13,782 gotem_good
@@ -949,8 +949,8 @@ Updated 2022-03-20T00:30:10.672Z
   945. $14,318 Bird of Many Birds
   946. $14,323 The_Doge68
   947. $14,327 derookie
-  948. $14,341 The Doctor
- *949. $14,341 The Slam Program
+ *948. $14,341 The Slam Program
+  949. $14,341 The Doctor
   950. $14,344 LUCAS1
   951. $14,344 Foop
   952. $14,348 Michlop
@@ -970,8 +970,8 @@ Updated 2022-03-20T00:30:10.672Z
   966. $14,443 CApybaraLORDgOD
   967. $14,444 Exabyte
   968. $14,452 ʇɐɔԀ
-  969. $14,458 sidschurgin
- *970. $14,458 bmckenna5
+ *969. $14,458 bmckenna5
+  970. $14,458 sidschurgin
   971. $14,462 ToneManMGB
   972. $14,462 Hannah
   973. $14,463 JumpingMouse
@@ -984,8 +984,8 @@ Updated 2022-03-20T00:30:10.672Z
   980. $14,531 traemine7
   981. $14,547 A_Person
  *982. $14,569 Minty.GT
- *983. $14,588 Kittenz420
-  984. $14,588 thueman
+  983. $14,588 thueman
+ *984. $14,588 Kittenz420
   985. $14,590 LOtown
   986. $14,594 orcus
   987. $14,603 marciochb
