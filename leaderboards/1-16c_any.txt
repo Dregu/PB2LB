@@ -1,14 +1,14 @@
 Poly Bridge 2 - 1-16C "Large Bridge" any% leaderboard (* = breaks)
-Updated 2022-03-22T00:30:15.919Z
-1000/13649 unique ranks shown
+Updated 2022-03-23T00:33:52.224Z
+1000/13658 unique ranks shown
 
-   *1. $5,851  MOD
-   *2. $5,851  Zen
-   *3. $5,851  geroniberry
-   *4. $5,851  Cookieblues
-   *5. $5,851  minecat
-   *6. $5,851  Trygeve
-   *7. $5,851  9k5
+   *1. $5,851  9k5
+   *2. $5,851  minecat
+   *3. $5,851  Trygeve
+   *4. $5,851  MOD
+   *5. $5,851  Zen
+   *6. $5,851  geroniberry
+   *7. $5,851  Cookieblues
     8. $11,141 Roevhaal
     9. $11,188 7777Alex7777
    10. $11,370 Bellair08
@@ -17,7 +17,7 @@ Updated 2022-03-22T00:30:15.919Z
    13. $11,403 Icysnowman
   *14. $11,405 Crimson
    15. $11,764 Bibbb
-   16. $11,786 coxsta
+  *16. $11,786 coxsta
    17. $11,871 Heater
    18. $11,899 Fathom
    19. $11,911 caldermarshall
@@ -396,8 +396,8 @@ Updated 2022-03-22T00:30:15.919Z
   392. $22,215 Adjoint
   393. $22,215 hsphere
   394. $22,218 BdeBettencourt
-  395. $22,222 olivapaa
- *396. $22,222 Turd Ferguson
+ *395. $22,222 Turd Ferguson
+  396. $22,222 olivapaa
   397. $22,223 benjamingibs
   398. $22,225 Teywer
   399. $22,228 SRA
@@ -544,8 +544,8 @@ Updated 2022-03-22T00:30:15.919Z
   540. $22,909 weisserkaffee
   541. $22,915 VisdethLatgehr
   542. $22,917 EEvanCC
- *543. $22,930 noahford2203
-  544. $22,930 Henne
+  543. $22,930 Henne
+ *544. $22,930 noahford2203
   545. $22,936 hot cereal
   546. $22,938 leopold.schamal
   547. $22,940 oyvaer
@@ -649,9 +649,9 @@ Updated 2022-03-22T00:30:15.919Z
   645. $23,325 DrGold
   646. $23,327 3DbunnMan
   647. $23,327 ichinowanan
-  648. $23,331 anijoker
-  649. $23,331 Dany
- *650. $23,331 jonesraisor
+ *648. $23,331 jonesraisor
+  649. $23,331 anijoker
+  650. $23,331 Dany
   651. $23,334 Coffe is Evil
   652. $23,337 invictus0x0
   653. $23,337 Kedrak
@@ -899,8 +899,8 @@ Updated 2022-03-22T00:30:15.919Z
   895. $23,969 _DaCoolOne_
   896. $23,973 forestho1
   897. $23,976 Lasagne
-  898. $23,979 DeSwag21
- *899. $23,979 Alex!
+ *898. $23,979 Alex!
+  899. $23,979 DeSwag21
   900. $23,983 millercraig0
   901. $23,986 HaveYouSeenMyPigeon
   902. $23,987 Water
@@ -1001,4 +1001,4 @@ Updated 2022-03-22T00:30:15.919Z
   997. $24,222 Loaded
   998. $24,226 oxontheroof
  *999. $24,226 Maironne
- 1000. $24,228 emailonthefly
+*1000. $24,228 emailonthefly

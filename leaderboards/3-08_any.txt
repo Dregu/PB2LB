@@ -1,14 +1,14 @@
 Poly Bridge 2 - 3-08 "Crossed Paths" any% leaderboard (* = breaks)
-Updated 2022-03-22T00:30:16.129Z
-1000/68829 unique ranks shown
+Updated 2022-03-23T00:33:52.440Z
+1000/68884 unique ranks shown
 
    *1. $2,153  Zen
-   *2. $2,153  minecat
-   *3. $2,153  Cookieblues
-   *4. $2,153  Lagiiiie
+   *2. $2,153  Cookieblues
+   *3. $2,153  Lagiiiie
+   *4. $2,153  minecat
    *5. $2,969  9k5
-   *6. $3,662  Trygeve
-   *7. $3,662  Fathom
+   *6. $3,662  Fathom
+   *7. $3,662  Trygeve
    *8. $3,662  MOD
    *9. $3,662  palfly15
    10. $7,283  7777Alex7777
@@ -171,11 +171,11 @@ Updated 2022-03-22T00:30:16.129Z
   167. $15,595 jeremywinick
   168. $15,649 gaphasus
   169. $15,672 jakemccullagh
- *170. $15,684 Horixens
-  171. $15,684 rileymcaz
+  170. $15,684 rileymcaz
+ *171. $15,684 Horixens
   172. $15,700 Hacker Duck
   173. $15,700 DuuSuu
-  174. $15,721 bille
+ *174. $15,721 bille
   175. $15,735 davidantabi
   176. $15,746 Wadusher
   177. $15,761 E.
@@ -212,7 +212,7 @@ Updated 2022-03-22T00:30:16.129Z
   208. $16,272 Thun_A
   209. $16,285 goaljim1
   210. $16,302 淫丁ヽ(￣▽￣)ﾉ
-  211. $16,328 da.jake06
+ *211. $16,328 da.jake06
   212. $16,341 FatedToFail
   213. $16,344 j.bottomley87595
   214. $16,353 thomas.vdlf
@@ -229,7 +229,7 @@ Updated 2022-03-22T00:30:16.129Z
  *225. $16,423 Red
  *226. $16,443 to915
   227. $16,451 秋本久美子
- *228. $16,468 Parzivilian
+  228. $16,468 Parzivilian
   229. $16,474 pekapeka1181
   230. $16,486 MWMWMWMWMWMWMWMWMWMWMWMWMWMWMWMW
  *231. $16,491 footington
@@ -240,7 +240,7 @@ Updated 2022-03-22T00:30:16.129Z
   236. $16,599 ma23
   237. $16,605 Chief Bold
   238. $16,626 yk
- *239. $16,631 Shadow134
+  239. $16,631 Shadow134
   240. $16,635 local person
   241. $16,658 Tylenol_Qc
   242. $16,679 狩野英孝(本物)
@@ -290,7 +290,7 @@ Updated 2022-03-22T00:30:16.129Z
  *286. $17,207 Charles-W
   287. $17,214 noobskinninja
   288. $17,216 Martin
- *289. $17,221 Adaven
+  289. $17,221 Adaven
   290. $17,224 XanderB234
   291. $17,234 Mad Dogg
   292. $17,255 funnyman122
@@ -365,16 +365,16 @@ Updated 2022-03-22T00:30:16.129Z
  *361. $17,884 Peppermaster
   362. $17,902 Haphazard
   363. $17,915 Count Ronin
- *364. $17,923 gengi ninga
- *365. $17,923 Bushy2700
+ *364. $17,923 Bushy2700
+ *365. $17,923 gengi ninga
   366. $17,927 Newgreen
- *367. $17,935 Sheler
-  368. $17,935 JamieCook
-  369. $17,935 NADMaster
+  367. $17,935 JamieCook
+  368. $17,935 NADMaster
+ *369. $17,935 Sheler
   370. $17,936 caioswfr
   371. $17,952 TheSadSlinky
- *372. $17,960 rx7man
-  373. $17,960 Phloofy
+  372. $17,960 Phloofy
+ *373. $17,960 rx7man
   374. $17,963 Anesthetics.
  *375. $17,963 joshuak1899
   376. $17,980 romyk
@@ -416,7 +416,7 @@ Updated 2022-03-22T00:30:16.129Z
   412. $18,181 gajiro240
  *413. $18,189 Sam
   414. $18,191 .vers
-  415. $18,193 Da Real Inventor
+ *415. $18,193 Da Real Inventor
  *416. $18,202 GraphMiner
  *417. $18,204 Mr Rock Drake
   418. $18,207 Amonet
@@ -529,8 +529,8 @@ Updated 2022-03-22T00:30:16.129Z
   525. $18,718 Whyit1
   526. $18,727 abfgern_
   527. $18,728 bennatwil
-  528. $18,733 NEMO
- *529. $18,733 jason.fritsch18
+ *528. $18,733 jason.fritsch18
+  529. $18,733 NEMO
   530. $18,734 bjchristman
   531. $18,762 Road to 6k
   532. $18,764 Skylifter
@@ -574,8 +574,8 @@ Updated 2022-03-22T00:30:16.129Z
   570. $18,958 cliff007
  *571. $18,958 StumpyWumpy
   572. $18,959 lerock77
-  573. $18,969 Patches
- *574. $18,969 Miyako
+ *573. $18,969 Miyako
+  574. $18,969 Patches
   575. $18,970 Kasi
   576. $18,976 LooperNor
   577. $18,977 TurtleByte
@@ -596,11 +596,11 @@ Updated 2022-03-22T00:30:16.129Z
   592. $19,051 Wholesome Bober | Road2DMG
   593. $19,055 jedyobidan
   594. $19,056 Chase1mod
- *595. $19,060 Inferior Asian
-  596. $19,060 Gorby
+  595. $19,060 Gorby
+ *596. $19,060 Inferior Asian
   597. $19,079 dnsdhrj
- *598. $19,080 壶中之天
-  599. $19,080 [HELLD]spiegie
+  598. $19,080 [HELLD]spiegie
+ *599. $19,080 壶中之天
   600. $19,084 (HCG) black_head1981
   601. $19,090 Flo
   602. $19,097 Ados
@@ -623,7 +623,7 @@ Updated 2022-03-22T00:30:16.129Z
   619. $19,165 t.lau
  *620. $19,166 326553575
   621. $19,168 ste_z
-  622. $19,176 christof
+ *622. $19,176 christof
   623. $19,179 tinytomblack
   624. $19,179 Triskel
   625. $19,182 abazibiz
@@ -790,8 +790,8 @@ Updated 2022-03-22T00:30:16.129Z
   786. $19,669 Caim
   787. $19,669 Bucketofnubbins
   788. $19,670 Salamandre
-  789. $19,676 BamseBæst
- *790. $19,676 nathan.spend
+ *789. $19,676 nathan.spend
+  790. $19,676 BamseBæst
   791. $19,677 FaulTigger
   792. $19,678 ruslan.195
   793. $19,681 ✪ Eto♪
