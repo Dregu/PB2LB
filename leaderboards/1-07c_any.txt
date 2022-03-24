@@ -1,20 +1,20 @@
 Poly Bridge 2 - 1-07C "Taxi Task" any% leaderboard (* = breaks)
-Updated 2022-03-23T00:33:52.146Z
-1000/17903 unique ranks shown
+Updated 2022-03-24T00:30:01.410Z
+1000/17915 unique ranks shown
 
    *1. $2,590 Fathom
    *2. $2,653 CursorCoercer
    *3. $3,154 Trygeve
-   *4. $3,699 9k5
-   *5. $3,699 Lagiiiie
+   *4. $3,699 Lagiiiie
+   *5. $3,699 9k5
    *6. $3,728 minecat
    *7. $3,744 Bibbb
-   *8. $3,810 palfly15
-   *9. $3,810 7777Alex7777
-  *10. $3,810 Pengujedi
-  *11. $3,810 geroniberry
-  *12. $3,810 Cookieblues
-  *13. $3,810 MOD
+   *8. $3,810 7777Alex7777
+   *9. $3,810 Pengujedi
+  *10. $3,810 geroniberry
+  *11. $3,810 Cookieblues
+  *12. $3,810 MOD
+  *13. $3,810 palfly15
   *14. $4,489 Shadow
    15. $5,799 LUCse MENSEN
    16. $5,799 Chipper
@@ -44,28 +44,28 @@ Updated 2022-03-23T00:33:52.146Z
    40. $5,831 Heater
    41. $5,831 Sexy Boy Industries [woop]
    42. $5,832 BaconPancakes
-   43. $5,832 Dwerto
-  *44. $5,832 Tiaga
+  *43. $5,832 Tiaga
+   44. $5,832 Dwerto
    45. $5,834 OCAdam
    46. $5,834 misidaly2007
    47. $5,834 Hoopou
    48. $5,836 pkmarcotte
    49. $5,836 willwang343
    50. $5,836 genevieve.m.draper
-   51. $5,837 gold torizo
-  *52. $5,837 AsaOfHearts
+  *51. $5,837 AsaOfHearts
+   52. $5,837 gold torizo
    53. $5,838 rakankma
    54. $5,838 Conqu3red
    55. $5,839 Pimpstyle9008
    56. $5,839 celesteal
    57. $5,839 Red Shoehart
   *58. $5,840 Tomimator
-  *59. $5,841 Dubious
-   60. $5,841 Hnusný Slimák
-   61. $5,841 non victus
+   59. $5,841 Hnusný Slimák
+   60. $5,841 non victus
+  *61. $5,841 Dubious
    62. $5,841 inv > Smesh
-   63. $5,842 Mr. Clean | _james#1711
-  *64. $5,842 Crimson
+  *63. $5,842 Crimson
+   64. $5,842 Mr. Clean | _james#1711
    65. $5,842 Enchanted Spider
    66. $5,843 Gaming_With_Ev
    67. $5,843 InfinitySay
@@ -104,8 +104,8 @@ Updated 2022-03-23T00:33:52.146Z
   100. $5,856 Down Taunt
   101. $5,856 Harkler
   102. $5,857 Aiferion
- *103. $5,859 Zharra
-  104. $5,859 ThatDamnJackal
+  103. $5,859 ThatDamnJackal
+ *104. $5,859 Zharra
   105. $5,860 Mitch
  *106. $5,860 Kordy
   107. $5,861 Icysnowman
@@ -148,21 +148,21 @@ Updated 2022-03-23T00:33:52.146Z
   144. $5,878 Michuley
   145. $5,878 GranterPants
   146. $5,878 jeremywinick
- *147. $5,878 clownlord06
-  148. $5,878 Me 10 Jin
-  149. $5,878 Tarontos
-  150. $5,878 Nacin
-  151. $5,878 sulliwan
+  147. $5,878 Me 10 Jin
+  148. $5,878 Tarontos
+  149. $5,878 Nacin
+  150. $5,878 sulliwan
+ *151. $5,878 clownlord06
   152. $5,878 Elemental Corgi
   153. $5,878 dominik-peyer
   154. $5,879 harryschaefer
-  155. $5,879 b.woelffel
-  156. $5,879 Pineappleboi96
-  157. $5,879 Mr.ThisGuy
- *158. $5,879 King Hippo
+ *155. $5,879 King Hippo
+  156. $5,879 b.woelffel
+  157. $5,879 Pineappleboi96
+  158. $5,879 Mr.ThisGuy
   159. $5,880 Supernye
-  160. $5,880 beta
- *161. $5,880 zinc
+ *160. $5,880 zinc
+  161. $5,880 beta
   162. $5,880 2heavy2carry
   163. $5,881 ~ <@=:
   164. $5,881 风之颠
@@ -172,11 +172,11 @@ Updated 2022-03-23T00:33:52.146Z
   168. $5,881 david.c.hagglund
   169. $5,881 John H.
   170. $5,882 Nix
- *171. $5,883 Frits
-  172. $5,883 yoavr123
-  173. $5,883 cataclysm
+  171. $5,883 yoavr123
+  172. $5,883 cataclysm
+  173. $5,883 Lampy
  *174. $5,883 Sofie
-  175. $5,883 Lampy
+ *175. $5,883 Frits
   176. $5,883 dan
   177. $5,884 Papi Gelapi
   178. $5,884 NetEng
@@ -305,7 +305,7 @@ Updated 2022-03-23T00:33:52.146Z
   301. $7,578 alexingoglia
   302. $7,584 I Eats Milk
  *303. $7,601 ultimatedgambler
-  304. $7,613 henpenben
+ *304. $7,613 henpenben
   305. $7,622 Bobby Boi
  *306. $7,623 The Duggler!!
   307. $7,623 EAMoney97
@@ -411,8 +411,8 @@ Updated 2022-03-23T00:33:52.146Z
   407. $7,949 Quality
   408. $7,951 TimZower
   409. $7,955 LordForce
- *410. $7,955 SubSonix
-  411. $7,955 Pure_Radiance
+  410. $7,955 Pure_Radiance
+ *411. $7,955 SubSonix
   412. $7,957 dakachips
   413. $7,957 Tyler For President 2020©
   414. $7,958 3rd.star.up
@@ -437,8 +437,8 @@ Updated 2022-03-23T00:33:52.146Z
   433. $7,983 Brady2000100
   434. $7,986 Buldulin
   435. $7,986 sondret5
- *436. $7,991 ZiuTinyat
-  437. $7,991 Rene De Games
+  436. $7,991 Rene De Games
+ *437. $7,991 ZiuTinyat
   438. $7,992 SmokedawgXD
   439. $7,993 Alex
  *440. $7,995 malcolmshirk
@@ -504,9 +504,9 @@ Updated 2022-03-23T00:33:52.146Z
  *500. $8,070 Yaky
   501. $8,071 Soya 소야
   502. $8,071 Desty
-  503. $8,072 gab42
-  504. $8,072 Babou
- *505. $8,072 klrwayant083
+ *503. $8,072 klrwayant083
+  504. $8,072 gab42
+  505. $8,072 Babou
   506. $8,073 B1nk
   507. $8,073 CFF-Andre
   508. $8,074 HellBllaze
@@ -536,8 +536,8 @@ Updated 2022-03-23T00:33:52.146Z
   532. $8,093 The Dutch Master
   533. $8,096 neofitou
   534. $8,096 SRA
-  535. $8,096 Eevee
- *536. $8,096 Tax Evasion
+ *535. $8,096 Tax Evasion
+  536. $8,096 Eevee
   537. $8,097 winy
   538. $8,097 MOTEL F. ALVA
   539. $8,098 haasofdetroit
@@ -612,9 +612,9 @@ Updated 2022-03-23T00:33:52.146Z
   608. $8,144 Zekava
   609. $8,145 ZeratulAud
   610. $8,146 mb
-  611. $8,148 craftingtacos
-  612. $8,148 Sean_99
- *613. $8,148 noahtheninja
+ *611. $8,148 noahtheninja
+  612. $8,148 craftingtacos
+  613. $8,148 Sean_99
   614. $8,150 UnsanityLIVE
   615. $8,152 flo
   616. $8,155 Light_MG
@@ -707,8 +707,8 @@ Updated 2022-03-23T00:33:52.146Z
   703. $8,208 JakeSteak
   704. $8,209 impishcheese
   705. $8,209 SkyGod
- *706. $8,210 Jakobs
-  707. $8,210 Jacowboy
+  706. $8,210 Jacowboy
+ *707. $8,210 Jakobs
   708. $8,211 emil_mniszko
   709. $8,211 sirchance2002
   710. $8,212 tonyz01234
@@ -730,9 +730,9 @@ Updated 2022-03-23T00:33:52.146Z
  *726. $8,223 woooowamazingplayerplayingshit
   727. $8,223 Zynthian
   728. $8,224 N1234
- *729. $8,226 Andoot
-  730. $8,226 nmcconn3
-  731. $8,226 KingMario
+  729. $8,226 nmcconn3
+  730. $8,226 KingMario
+ *731. $8,226 Andoot
   732. $8,227 Bot#21
   733. $8,228 Pigglyjuff
   734. $8,230 jteckerle
@@ -844,8 +844,8 @@ Updated 2022-03-23T00:33:52.146Z
   840. $8,289 Aan'allein
   841. $8,289 Colors
  *842. $8,290 whitegreendinosaur
- *843. $8,291 noahford2203
-  844. $8,291 actionaa
+  843. $8,291 actionaa
+ *844. $8,291 noahford2203
   845. $8,292 Odd Man
   846. $8,293 tz_young
   847. $8,293 BOT Nadir
@@ -860,8 +860,8 @@ Updated 2022-03-23T00:33:52.146Z
   856. $8,298 Scotty
   857. $8,299 mdocod
   858. $8,300 Armin lass et
-  859. $8,300 Lima
- *860. $8,300 すみ
+ *859. $8,300 すみ
+  860. $8,300 Lima
   861. $8,301 HammeR
   862. $8,301 Funkeee
   863. $8,301 Sticky Kitty!
@@ -925,9 +925,9 @@ Updated 2022-03-23T00:33:52.146Z
   921. $8,327 Lulero
   922. $8,328 DomineerBeer
   923. $8,330 Russian Doggo
-  924. $8,330 Astyn Ziller
-  925. $8,330 cilet
- *926. $8,330 Ash Kerwood
+ *924. $8,330 Ash Kerwood
+  925. $8,330 Astyn Ziller
+  926. $8,330 cilet
   927. $8,331 radimaulicky
   928. $8,332 robfisk100
   929. $8,332 Captain_M53
