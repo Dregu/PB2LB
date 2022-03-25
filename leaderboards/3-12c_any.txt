@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-12C "Emergency Interference" any% leaderboard (* = breaks)
-Updated 2022-03-24T00:30:01.724Z
-1000/3816 unique ranks shown
+Updated 2022-03-25T00:30:02.463Z
+1000/3819 unique ranks shown
 
    *1. $12,999 Fathom
    *2. $12,999 Cookieblues
@@ -28,7 +28,7 @@ Updated 2022-03-24T00:30:01.724Z
    24. $24,097 Babou
    25. $24,257 thueman
    26. $24,282 Soba
-  *27. $24,353 BaconPancakes
+   27. $24,353 BaconPancakes
    28. $24,484 lancekro
    29. $24,490 chadstacey
    30. $24,593 geroniberry
@@ -73,8 +73,8 @@ Updated 2022-03-24T00:30:01.724Z
    69. $27,599 samuelpierog
    70. $27,681 lil succ
    71. $27,724 The Universe
-   72. $27,861 Lima
-   73. $27,861 CursorCoercer
+  *72. $27,861 CursorCoercer
+   73. $27,861 Lima
    74. $27,937 calebbur
    75. $27,950 cilet
    76. $27,969 jomba45
@@ -82,7 +82,7 @@ Updated 2022-03-24T00:30:01.724Z
   *78. $27,978 Hipsterfred
    79. $27,991 Arak'nae
    80. $28,168 Apicedda
-  *81. $28,250 Freedom_IT
+   81. $28,250 Freedom_IT
    82. $28,253 Minnesota.Nice
    83. $28,297 brandonstitt64
    84. $28,369 cliff007
@@ -100,7 +100,7 @@ Updated 2022-03-24T00:30:01.724Z
   *96. $28,790 Skye_Homes
    97. $28,819 maxjmiles
    98. $28,871 iressle
-   99. $28,893 ~ Smithy ~
+  *99. $28,893 ~ Smithy ~
  *100. $28,998 Bairdy
   101. $29,148 Enchanted Spider
  *102. $29,188 Dad
@@ -401,7 +401,7 @@ Updated 2022-03-24T00:30:01.724Z
   397. $35,375 harryschaefer
   398. $35,385 TheMoen
   399. $35,397 MaMumsCar
-  400. $35,413 celesteal
+ *400. $35,413 celesteal
   401. $35,445 Juzless
  *402. $35,447 YALDY
   403. $35,453 Noobybooby
@@ -493,11 +493,11 @@ Updated 2022-03-24T00:30:01.724Z
   489. $36,871 Steely Erik
   490. $36,891 The Good Goomba
   491. $36,899 the pastaway
-  492. $36,914 Yaky
- *493. $36,914 GracefulPanicz
+ *492. $36,914 GracefulPanicz
+  493. $36,914 Yaky
  *494. $36,920 spanner
   495. $36,957 Phoneas
- *496. $36,992 Chavra
+  496. $36,992 Chavra
   497. $36,993 coersed
   498. $36,999 Матченововский
   499. $37,000 Aaron Barrett
@@ -537,8 +537,8 @@ Updated 2022-03-24T00:30:01.724Z
   533. $37,394 musmus101
   534. $37,398 Jacosama
   535. $37,421 小飞侠
-  536. $37,423 9847
- *537. $37,423 zerd
+ *536. $37,423 zerd
+  537. $37,423 9847
   538. $37,427 我是你超哥
   539. $37,452 Mizuhana
  *540. $37,461 Tactical Insomnia
@@ -923,8 +923,8 @@ Updated 2022-03-24T00:30:01.724Z
   919. $42,066 CeeJay
   920. $42,088 VKNG
   921. $42,105 LankyBoi
-  922. $42,109 Sketchzi
- *923. $42,109 Chauvinism Revival
+ *922. $42,109 Chauvinism Revival
+  923. $42,109 Sketchzi
   924. $42,110 CheesyGamer201
   925. $42,122 SadfacesX10
   926. $42,122  Arabic In My Blood 
@@ -952,7 +952,7 @@ Updated 2022-03-24T00:30:01.724Z
   948. $42,254 loriscao
   949. $42,259 Fractyll
   950. $42,273 Tiznadete
-  951. $42,274 Tiuza 私の弟子になる
+ *951. $42,274 Tiuza 私の弟子になる
   952. $42,276 Cedrick
   953. $42,278 makko
   954. $42,278 AntiMatter
