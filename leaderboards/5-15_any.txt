@@ -1,14 +1,14 @@
 Poly Bridge 2 - 5-15 "Double Duty" any% leaderboard (* = breaks)
-Updated 2022-03-29T00:36:37.455Z
-1000/7609 unique ranks shown
+Updated 2022-03-30T00:31:13.098Z
+1000/7615 unique ranks shown
 
-   *1. $4,939  Cookieblues
-   *2. $4,939  7777Alex7777
-   *3. $4,939  geroniberry
-   *4. $4,939  9k5
-   *5. $4,939  MOD
-   *6. $4,939  Trygeve
-   *7. $4,939  minecat
+   *1. $4,939  9k5
+   *2. $4,939  minecat
+   *3. $4,939  Cookieblues
+   *4. $4,939  7777Alex7777
+   *5. $4,939  geroniberry
+   *6. $4,939  MOD
+   *7. $4,939  Trygeve
    *8. $4,939  Zen
    *9. $5,999  Fathom
    10. $14,999 Roevhaal
@@ -48,8 +48,8 @@ Updated 2022-03-29T00:36:37.455Z
   *44. $33,063 Sexy Boy Industries [woop]
    45. $33,323 Heater
    46. $33,400 sethandtiki
-  *47. $33,495 cavetroll
-  *48. $33,495 gamespilgame
+  *47. $33,495 gamespilgame
+  *48. $33,495 cavetroll
    49. $33,530 滑地上之小稽
    50. $33,732 Jhay80416
    51. $33,867 1723945294
@@ -431,7 +431,7 @@ Updated 2022-03-29T00:36:37.455Z
   427. $55,166 jeremywinick
   428. $55,185 Jippopotamus
   429. $55,185 simonkilhoffer
-  430. $55,282 dis_enchanted
+ *430. $55,282 dis_enchanted
   431. $55,288 MIIchael
   432. $55,327 shmine1
   433. $55,392 Fireball
@@ -552,7 +552,7 @@ Updated 2022-03-29T00:36:37.455Z
  *548. $58,255 RiCo9425
   549. $58,260 cold milk
  *550. $58,283 Sarius2009
- *551. $58,307 CA3D0
+  551. $58,307 CA3D0
  *552. $58,320 Baldur
   553. $58,332 cireleumas
   554. $58,363 hmx0311
@@ -567,8 +567,8 @@ Updated 2022-03-29T00:36:37.455Z
   563. $58,552 Immabird
   564. $58,560 mushroboy
  *565. $58,590 CrabMoon
- *566. $58,683 malega
-  567. $58,683 pallas11235
+  566. $58,683 pallas11235
+ *567. $58,683 malega
  *568. $58,726 achoofa
   569. $58,782 Mirco165
   570. $58,819 DarkZ2650
@@ -861,7 +861,7 @@ Updated 2022-03-29T00:36:37.455Z
   857. $64,909 Unholy
   858. $64,911 3MidgetsInATrenchcoat
   859. $64,935 wickes
-  860. $64,951 Wada Bueno
+ *860. $64,951 Wada Bueno
   861. $64,984 DragonTamer98
   862. $64,990 Way_of_Cows
  *863. $65,012 zezetel
