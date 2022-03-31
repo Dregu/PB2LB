@@ -1,12 +1,12 @@
 Poly Bridge 2 - 4-14 "Big Rigs" any% leaderboard (* = breaks)
-Updated 2022-03-30T00:31:12.958Z
-1000/33099 unique ranks shown
+Updated 2022-03-31T00:31:18.381Z
+1000/33121 unique ranks shown
 
    *1. $1,499  9k5
    *2. $1,879  Zen
-   *3. $1,884  Fathom
-   *4. $1,884  Cookieblues
-   *5. $1,884  Lagiiiie
+   *3. $1,884  Cookieblues
+   *4. $1,884  Lagiiiie
+   *5. $1,884  Fathom
    *6. $2,147  palfly15
    *7. $2,169  Pengujedi
    *8. $2,259  Bibbb
@@ -36,37 +36,37 @@ Updated 2022-03-30T00:31:12.958Z
   *32. $31,310 michaelandbrother
   *33. $31,585 E
    34. $31,585 Herneerius
-   35. $31,742 MoonlitJolty
-   36. $31,781 Off5pring
-   37. $31,928 ~ Smithy ~
-   38. $31,934 alexingoglia
-   39. $31,992 cam
-   40. $32,114 Never Lie
-   41. $32,217 Enchanted Spider
-   42. $32,245 Honn
-   43. $32,282 mester
-   44. $32,369 Jale
-   45. $32,408 BaconPancakes
-   46. $32,624 hmx0311
-   47. $32,677 melkat
-   48. $32,702 Loner
-   49. $32,773 fantakilla
-   50. $32,944 alex
-   51. $33,016 114623050
-   52. $33,131 971703929
-   53. $33,174 chapmandav
-   54. $33,248 geryuganshoop
-   55. $33,333 popcorniosaurus
-  *56. $33,457 questionmark
-   57. $33,491 J0hm
-  *58. $33,510 ilia.gureev
-   59. $33,511 bastian.bello.c
-   60. $33,514 CosecTheta
-   61. $33,515 Stinky
-   62. $33,525 [THC] tgxn
-   63. $33,526 GoldTarget
-   64. $33,573 featc08
-   65. $33,627 JakubBouska
+   35. $31,692 JakubBouska
+   36. $31,742 MoonlitJolty
+   37. $31,781 Off5pring
+   38. $31,928 ~ Smithy ~
+   39. $31,934 alexingoglia
+   40. $31,992 cam
+   41. $32,114 Never Lie
+   42. $32,217 Enchanted Spider
+   43. $32,245 Honn
+   44. $32,282 mester
+   45. $32,369 Jale
+   46. $32,408 BaconPancakes
+   47. $32,624 hmx0311
+   48. $32,677 melkat
+   49. $32,702 Loner
+   50. $32,773 fantakilla
+   51. $32,944 alex
+   52. $33,016 114623050
+   53. $33,131 971703929
+   54. $33,174 chapmandav
+   55. $33,248 geryuganshoop
+   56. $33,333 popcorniosaurus
+  *57. $33,457 questionmark
+   58. $33,491 J0hm
+  *59. $33,510 ilia.gureev
+   60. $33,511 bastian.bello.c
+   61. $33,514 CosecTheta
+   62. $33,515 Stinky
+   63. $33,525 [THC] tgxn
+   64. $33,526 GoldTarget
+   65. $33,573 featc08
    66. $33,665 DarkTheFailure
    67. $33,684 Quadley
    68. $33,698 cyko
@@ -303,7 +303,7 @@ Updated 2022-03-30T00:31:12.958Z
   299. $38,581 meatloaf42
   300. $38,587 hendrick
  *301. $38,592 avidolsm
-  302. $38,595 Ava
+ *302. $38,595 Ava
   303. $38,597 Reptoman68
   304. $38,597 Baconranchsalad
   305. $38,605 3633133329
@@ -373,8 +373,8 @@ Updated 2022-03-30T00:31:12.958Z
   369. $39,497 305637677
  *370. $39,504 delightfulgiraffe
   371. $39,507 jbeardslee
-  372. $39,525 Tor
-  373. $39,525 TA Wintermute
+  372. $39,525 TA Wintermute
+  373. $39,525 Tor
   374. $39,541 Canned Pineapple
   375. $39,553 Twiddles
   376. $39,554 Aulis
@@ -949,8 +949,8 @@ Updated 2022-03-30T00:31:12.958Z
   945. $44,178 FireContrived
   946. $44,182 Shadowshock
   947. $44,193 TheCherry
-  948. $44,200 CosmicCookie
-  949. $44,200 brandhaug
+  948. $44,200 brandhaug
+  949. $44,200 CosmicCookie
   950. $44,210 BluePhoenix109
   951. $44,225 Moribund
   952. $44,226 HoLySHIFT
@@ -999,6 +999,6 @@ Updated 2022-03-30T00:31:12.958Z
   995. $44,399 Ysuran
   996. $44,407 Marko
   997. $44,415 XIEPER
-  998. $44,439 DEUTSCHLAND7007
- *999. $44,441 Sticky Kitty!
- 1000. $44,451 Mangodesk
+  998. $44,437 fprabh
+  999. $44,439 DEUTSCHLAND7007
+ 1000. $44,441 Sticky Kitty!
