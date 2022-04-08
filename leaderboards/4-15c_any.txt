@@ -1,10 +1,10 @@
 Poly Bridge 2 - 4-15C "Twists and Turns" any% leaderboard (* = breaks)
-Updated 2022-04-07T00:34:30.341Z
-1000/2806 unique ranks shown
+Updated 2022-04-08T00:33:38.730Z
+1000/2808 unique ranks shown
 
-   *1. $5,233  Trygeve
-    2. $5,233  Bellair08
-    3. $5,233  Cookieblues
+    1. $5,233  Bellair08
+    2. $5,233  Cookieblues
+   *3. $5,233  Trygeve
     4. $5,427  Lagiiiie
     5. $5,429  minecat
    *6. $5,514  Enchanted Spider
@@ -62,7 +62,7 @@ Updated 2022-04-07T00:34:30.341Z
    58. $7,826  kraal
    59. $7,837  BEEF
    60. $7,858  alexkajan
-   61. $7,877  Nova_789
+  *61. $7,877  Nova_789
    62. $7,885  9847
    63. $7,887  MooseWolf2000
    64. $7,901  Lima
@@ -184,7 +184,7 @@ Updated 2022-04-07T00:34:30.341Z
   180. $9,264  sauceasaurus
   181. $9,265  wallyworld
   182. $9,277  Glu
- *183. $9,277  Captain_M53
+  183. $9,277  Captain_M53
   184. $9,306  ZiuTinyat
   185. $9,307  Sandor Of The MIsts
   186. $9,345  Bajerlykke
@@ -361,7 +361,7 @@ Updated 2022-04-07T00:34:30.341Z
   357. $10,719 Tapperij
   358. $10,736 CamA
   359. $10,764 Waifu Art Thou Romeo
-  360. $10,766 Weyong
+ *360. $10,766 Weyong
   361. $10,774 Pugloney29
   362. $10,775 aZu
   363. $10,783 Elodie
@@ -438,7 +438,7 @@ Updated 2022-04-07T00:34:30.341Z
   434. $11,337 Sem Chance
  *435. $11,347 pkclark
   436. $11,349 mooseman0423
- *437. $11,351 ~ Smithy ~
+  437. $11,351 ~ Smithy ~
   438. $11,353 MaxOyaggi
   439. $11,365 alicele14
   440. $11,371 stpdsnrt
@@ -610,8 +610,8 @@ Updated 2022-04-07T00:34:30.341Z
  *606. $12,424 dmarzani
   607. $12,424 The Disastrous Village
   608. $12,429 ilia.gureev
- *609. $12,431 Dahutix
-  610. $12,431 I Like Ugly Mammals.
+  609. $12,431 I Like Ugly Mammals.
+ *610. $12,431 Dahutix
   611. $12,433 polak1 -sz
   612. $12,434 bazdesh
  *613. $12,469 tao
@@ -661,7 +661,7 @@ Updated 2022-04-07T00:34:30.341Z
   657. $12,752 hjerppe
   658. $12,761 camtora
   659. $12,761 zeroEnter
-  660. $12,774 Valnix
+ *660. $12,774 Valnix
   661. $12,775 DOOM MARINE
   662. $12,775 Pam Plemousse
   663. $12,777 Stanian
@@ -704,7 +704,7 @@ Updated 2022-04-07T00:34:30.341Z
   700. $12,977 littleboluonb
   701. $12,986 PeterHoHK
   702. $12,996 Mystic
- *703. $13,000 Freedom_IT
+  703. $13,000 Freedom_IT
   704. $13,001 auntratty
   705. $13,006 Texas Red
   706. $13,017 Imagine Pears
@@ -755,8 +755,8 @@ Updated 2022-04-07T00:34:30.341Z
   751. $13,243 明明是我先
   752. $13,245 ben55418
   753. $13,245 egg
- *754. $13,258 Juspe
-  755. $13,258 Kiriba
+  754. $13,258 Kiriba
+ *755. $13,258 Juspe
   756. $13,260 Tea In A Bottle Boy
   757. $13,263 BattlePie
   758. $13,267 Tehninza
@@ -806,25 +806,25 @@ Updated 2022-04-07T00:34:30.341Z
   802. $13,493 TheRainCrow
   803. $13,498 Baldur
   804. $13,505 Ledaled
-  805. $13,508 Deathstroke
-  806. $13,508 Hypikole
- *807. $13,508 Sir_Raven
- *808. $13,508 BWKapp
-  809. $13,508 VegitoRS
-  810. $13,508 Mønneren
-  811. $13,508 RafaelJR8
-  812. $13,508 Jrillr
-  813. $13,508 Psicodeli@
- *814. $13,508 Not Dasher
- *815. $13,508 Nomix
-  816. $13,508 CANALETA
- *817. $13,508 Bambo
- *818. $13,508 LUCse MENSEN
-  819. $13,508 Matty90509
-  820. $13,508 dylanjcoolguy
-  821. $13,508 Goscinny Uderzo
-  822. $13,508 What_did_I_SAY_?
-  823. $13,508 Luisjnc
+ *805. $13,508 LUCse MENSEN
+  806. $13,508 Deathstroke
+  807. $13,508 Hypikole
+ *808. $13,508 Nomix
+ *809. $13,508 Not Dasher
+  810. $13,508 VegitoRS
+  811. $13,508 Mønneren
+  812. $13,508 RafaelJR8
+  813. $13,508 Jrillr
+  814. $13,508 Psicodeli@
+  815. $13,508 CANALETA
+ *816. $13,508 Sir_Raven
+ *817. $13,508 BWKapp
+  818. $13,508 Matty90509
+  819. $13,508 dylanjcoolguy
+  820. $13,508 Goscinny Uderzo
+  821. $13,508 What_did_I_SAY_?
+  822. $13,508 Luisjnc
+ *823. $13,508 Bambo
   824. $13,508 out middle
   825. $13,512 burritobrown
   826. $13,515 Wr0mb3l
@@ -944,7 +944,7 @@ Updated 2022-04-07T00:34:30.341Z
   940. $14,265 Cupar Guy
   941. $14,266 cornshitfuck
   942. $14,269 Xeetos
-  943. $14,276 piccolo_SPA
+ *943. $14,276 piccolo_SPA
   944. $14,287 DrZobos
   945. $14,293 Shmangetron
   946. $14,296 315Lukas
@@ -990,8 +990,8 @@ Updated 2022-04-07T00:34:30.341Z
   986. $14,531 traemine7
   987. $14,547 A_Person
  *988. $14,569 Minty.GT
-  989. $14,588 thueman
- *990. $14,588 Kittenz420
+ *989. $14,588 Kittenz420
+  990. $14,588 thueman
   991. $14,590 LOtown
   992. $14,594 orcus
   993. $14,603 marciochb
