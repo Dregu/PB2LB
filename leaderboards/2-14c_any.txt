@@ -1,6 +1,6 @@
 Poly Bridge 2 - 2-14C "Dip N' Draw" any% leaderboard (* = breaks)
-Updated 2022-04-08T00:33:38.481Z
-1000/6304 unique ranks shown
+Updated 2022-04-09T00:30:45.764Z
+1000/6310 unique ranks shown
 
     1. $11,777 Trygeve
     2. $11,777 Noahsorou
@@ -19,7 +19,7 @@ Updated 2022-04-08T00:33:38.481Z
    15. $17,973 Zen
    16. $18,755 maash
    17. $19,446 Babou
-   18. $19,770 qiuqiuhulstrom
+  *18. $19,770 qiuqiuhulstrom
    19. $19,871 Heater
    20. $19,883 Exapithicus
    21. $19,902 Soba
@@ -136,7 +136,7 @@ Updated 2022-04-08T00:33:38.481Z
   132. $23,969 Lampy
   133. $23,981 QuantiumIm
   134. $23,983 daniel.mittermaier
-  135. $23,984 cooperjramos
+ *135. $23,984 cooperjramos
  *136. $23,989 lancekro
   137. $24,020 lcmbo
   138. $24,047 LeonardRodriguez
@@ -145,7 +145,7 @@ Updated 2022-04-08T00:33:38.481Z
  *141. $24,115 Patches
   142. $24,131 Looming
   143. $24,167 Scotty
-  144. $24,186 henpenben
+ *144. $24,186 henpenben
  *145. $24,188 Gotbeef
   146. $24,188 nVentex
   147. $24,198 Blind Square
@@ -181,7 +181,7 @@ Updated 2022-04-08T00:33:38.481Z
   177. $24,804 The Slam Program
   178. $24,809 听冬岩尘开
   179. $24,833 Laxattak
-  180. $24,843 Jakke
+ *180. $24,843 Jakke
   181. $24,866 Hazmat
   182. $24,875 Acid RAIN
   183. $24,881 mig_
@@ -214,7 +214,7 @@ Updated 2022-04-08T00:33:38.481Z
  *210. $25,293 everydaystranger
   211. $25,339 anijoker
  *212. $25,365 Zaphod Beeblebrox
-  213. $25,369 Pengujedi
+ *213. $25,369 Pengujedi
   214. $25,372 Krashafa
   215. $25,380 JJ_oshea
  *216. $25,399 SzGamer227
@@ -380,8 +380,8 @@ Updated 2022-04-08T00:33:38.481Z
  *376. $27,272 Marcus4
   377. $27,273 jan.haavkes
   378. $27,294 Herr Hövels
-  379. $27,318 peng_yun1205
-  380. $27,318 PROwill3
+  379. $27,318 PROwill3
+  380. $27,318 peng_yun1205
   381. $27,350 ThatOneRival
   382. $27,363 metalpimple
   383. $27,393 I Like Ugly Mammals.
