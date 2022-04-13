@@ -1,15 +1,15 @@
 Poly Bridge 2 - 5-15 "Double Duty" any% leaderboard (* = breaks)
-Updated 2022-04-12T00:29:22.207Z
-1000/7663 unique ranks shown
+Updated 2022-04-13T00:32:40.467Z
+1000/7667 unique ranks shown
 
    *1. $4,939  Cookieblues
-   *2. $4,939  9k5
-   *3. $4,939  minecat
-   *4. $4,939  MOD
+   *2. $4,939  minecat
+   *3. $4,939  MOD
+   *4. $4,939  9k5
    *5. $4,939  geroniberry
    *6. $4,939  7777Alex7777
-   *7. $4,939  Trygeve
-   *8. $4,939  Zen
+   *7. $4,939  Zen
+   *8. $4,939  Trygeve
    *9. $5,999  Fathom
    10. $14,999 Roevhaal
   *11. $15,585 Bellair08
@@ -368,8 +368,8 @@ Updated 2022-04-12T00:29:22.207Z
  *364. $53,269 Wr0mb3l
   365. $53,306 Kraechel
   366. $53,366 Z da man
-  367. $53,403 dengdaye
-  368. $53,403 Challenger.X
+  367. $53,403 Challenger.X
+  368. $53,403 dengdaye
   369. $53,431 Miku
  *370. $53,462 Salamandre
   371. $53,495 Starstorm
@@ -432,7 +432,7 @@ Updated 2022-04-12T00:29:22.207Z
   428. $55,166 jeremywinick
   429. $55,185 Jippopotamus
   430. $55,185 simonkilhoffer
- *431. $55,282 dis_enchanted
+  431. $55,282 dis_enchanted
   432. $55,288 MIIchael
   433. $55,327 shmine1
   434. $55,392 Fireball
@@ -592,8 +592,8 @@ Updated 2022-04-12T00:29:22.207Z
   588. $59,396 andrew
   589. $59,428 Go Seigen
   590. $59,447 Coldey
- *591. $59,492 Windows 95
-  592. $59,492 UrGreat
+  591. $59,492 UrGreat
+ *592. $59,492 Windows 95
  *593. $59,494 Bilbo
   594. $59,512 Elimunning
   595. $59,562 Nyze x ViRuZz
@@ -715,11 +715,11 @@ Updated 2022-04-12T00:29:22.207Z
   711. $62,148 maash
   712. $62,182 toqlc4179
   713. $62,183 Talon31304
-  714. $62,188 Pam Plemousse
-  715. $62,188 라그리아
+  714. $62,188 라그리아
+  715. $62,188 Pam Plemousse
   716. $62,195 Maaki
-  717. $62,223 Lima
-  718. $62,223 Arrokoth
+  717. $62,223 Arrokoth
+  718. $62,223 Lima
   719. $62,258 Maximator
   720. $62,318 513942169
   721. $62,353 vreugd5
@@ -866,7 +866,7 @@ Updated 2022-04-12T00:29:22.207Z
   862. $64,909 Unholy
   863. $64,911 3MidgetsInATrenchcoat
   864. $64,935 wickes
- *865. $64,951 Wada Bueno
+  865. $64,951 Wada Bueno
   866. $64,984 DragonTamer98
   867. $64,990 Way_of_Cows
  *868. $65,012 zezetel
@@ -885,8 +885,8 @@ Updated 2022-04-12T00:29:22.207Z
  *881. $65,195 dub89
  *882. $65,198 Kamerat
   883. $65,215 randomalyzer
-  884. $65,226 sondret5
- *885. $65,226 Berixis
+ *884. $65,226 Berixis
+  885. $65,226 sondret5
   886. $65,228 Defund the Police
   887. $65,235 le caca
  *888. $65,245 _Dan2908_
@@ -1001,4 +1001,4 @@ Updated 2022-04-12T00:29:22.207Z
  *997. $67,114 jabbathepug722
   998. $67,132 Diego Rodriguez
  *999. $67,149 n00b hunta
- 1000. $67,209 asidoko
+*1000. $67,209 clydesdalefan
