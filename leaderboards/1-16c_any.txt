@@ -1,14 +1,14 @@
 Poly Bridge 2 - 1-16C "Large Bridge" any% leaderboard (* = breaks)
-Updated 2022-04-14T00:38:26.582Z
-1000/13832 unique ranks shown
+Updated 2022-04-15T00:32:30.408Z
+1000/13835 unique ranks shown
 
-   *1. $5,851  geroniberry
-   *2. $5,851  Cookieblues
-   *3. $5,851  Zen
-   *4. $5,851  Trygeve
-   *5. $5,851  9k5
-   *6. $5,851  minecat
-   *7. $5,851  MOD
+   *1. $5,851  Trygeve
+   *2. $5,851  geroniberry
+   *3. $5,851  MOD
+   *4. $5,851  Cookieblues
+   *5. $5,851  Zen
+   *6. $5,851  9k5
+   *7. $5,851  minecat
     8. $11,141 Roevhaal
     9. $11,188 7777Alex7777
    10. $11,370 Bellair08
@@ -17,13 +17,13 @@ Updated 2022-04-14T00:38:26.582Z
    13. $11,403 Icysnowman
   *14. $11,405 Crimson
    15. $11,764 Bibbb
-   16. $11,786 coxsta
+  *16. $11,786 coxsta
    17. $11,871 Heater
    18. $11,899 Fathom
    19. $11,911 caldermarshall
    20. $11,989 DevilSquirrel
    21. $12,302 Shrimpstar
-  *22. $12,708 XxTrollFacexX
+   22. $12,708 XxTrollFacexX
    23. $13,207 somefakegamer
    24. $13,214 TheSadSlinky
    25. $13,221 alex
@@ -65,7 +65,7 @@ Updated 2022-04-14T00:38:26.582Z
    61. $18,218 Solus
    62. $18,236 Marco
    63. $18,238 loganstephensmith
-  *64. $18,245 popcorniosaurus
+   64. $18,245 popcorniosaurus
    65. $18,264 1541397267
    66. $18,267 Soba
    67. $18,297 Noahsorou
@@ -319,10 +319,10 @@ Updated 2022-04-14T00:38:26.582Z
   315. $21,782 07USB
   316. $21,786 davidmdland
   317. $21,788 stackofpancakes
-  318. $21,793 滑地上之小稽
- *319. $21,793 Hooden
+ *318. $21,793 Hooden
+  319. $21,793 滑地上之小稽
   320. $21,794 cliff007
-  321. $21,800 Freedom_IT
+ *321. $21,800 Freedom_IT
   322. $21,806 Quality
   323. $21,810 Miku
   324. $21,816 dog
@@ -459,8 +459,8 @@ Updated 2022-04-14T00:38:26.582Z
   455. $22,520 Artilleryfire
   456. $22,522 J_Hodgie
   457. $22,526 prestonmburgess
-  458. $22,533 redskanto331
- *459. $22,533 West
+ *458. $22,533 West
+  459. $22,533 redskanto331
   460. $22,539 mdocod
   461. $22,541 CorneliousCrowe
   462. $22,545 ersint87
@@ -514,7 +514,7 @@ Updated 2022-04-14T00:38:26.582Z
   510. $22,782 Samlauderuel
   511. $22,788 自由闊達
  *512. $22,789 JimothyCricket
-  513. $22,792 lollyH2O
+ *513. $22,792 lollyH2O
   514. $22,799 The Magic Taco Truck
   515. $22,806 MrAztecL
   516. $22,807 Face7
@@ -708,8 +708,8 @@ Updated 2022-04-14T00:38:26.582Z
   704. $23,463 ChefBoyarEric
   705. $23,464 erethizon
   706. $23,466 temmiii
- *707. $23,467 Friedchicken
-  708. $23,467 Terreliv
+  707. $23,467 Terreliv
+ *708. $23,467 Friedchicken
   709. $23,476 17721001768
   710. $23,479 Thomason
   711. $23,481 Croney
@@ -722,7 +722,7 @@ Updated 2022-04-14T00:38:26.582Z
   718. $23,500 Mikrobys
   719. $23,501 Mikkel
   720. $23,508 LUCse MENSEN
- *721. $23,508 zinc
+  721. $23,508 zinc
  *722. $23,509 Taosboy2
   723. $23,513 rakankma
   724. $23,515 BW
@@ -782,8 +782,8 @@ Updated 2022-04-14T00:38:26.582Z
   778. $23,685 Argontic
   779. $23,690 beanie
   780. $23,690 Jakke
- *781. $23,692 dadda
-  782. $23,692 artur.platzek
+  781. $23,692 artur.platzek
+ *782. $23,692 dadda
   783. $23,695 Quicksilver
   784. $23,696 Gravitron
   785. $23,700 acoster00
@@ -903,8 +903,8 @@ Updated 2022-04-14T00:38:26.582Z
   899. $23,969 _DaCoolOne_
   900. $23,973 forestho1
   901. $23,976 Lasagne
-  902. $23,979 DeSwag21
- *903. $23,979 Alex!
+ *902. $23,979 Alex!
+  903. $23,979 DeSwag21
   904. $23,983 millercraig0
   905. $23,986 HaveYouSeenMyPigeon
   906. $23,987 Water
