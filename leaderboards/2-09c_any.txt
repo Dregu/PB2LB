@@ -1,9 +1,9 @@
 Poly Bridge 2 - 2-09C "Anchors Away" any% leaderboard (* = breaks)
-Updated 2022-04-22T00:37:55.843Z
-1000/8085 unique ranks shown
+Updated 2022-04-23T00:32:35.511Z
+1000/8090 unique ranks shown
 
-   *1. $474    Cookieblues
-   *2. $474    Lagiiiie
+   *1. $474    Lagiiiie
+   *2. $474    Cookieblues
    *3. $476    Zen
    *4. $491    9k5
    *5. $496    7777Alex7777
@@ -11,8 +11,8 @@ Updated 2022-04-22T00:37:55.843Z
    *7. $523    palfly15
    *8. $524    Bibbb
    *9. $555    somefakegamer
-  *10. $562    MOD
-  *11. $562    Trygeve
+  *10. $562    Trygeve
+  *11. $562    MOD
   *12. $612    minecat
   *13. $686    zeller-alex
    14. $2,279  KommunistaShpion
@@ -95,8 +95,8 @@ Updated 2022-04-22T00:37:55.843Z
    91. $4,496  RENAULT12
    92. $4,496  CCDouble
   *93. $4,498  Ayson
-  *94. $4,503  Rusty Shackleford
-   95. $4,503  alexkajan
+   94. $4,503  alexkajan
+  *95. $4,503  Rusty Shackleford
    96. $4,506  BENNO
    97. $4,513  BeljihnWahfl
    98. $4,519  gamespilgame
@@ -161,8 +161,8 @@ Updated 2022-04-22T00:37:55.843Z
  *157. $4,723  Burbasuar
   158. $4,732  JamesBulpett
   159. $4,735  Adranium
- *160. $4,736  zinc
-  161. $4,736  ☠☠☠YYD☠☠☠
+  160. $4,736  ☠☠☠YYD☠☠☠
+ *161. $4,736  zinc
   162. $4,739  bille
   163. $4,739  lucasychan08
   164. $4,741  simon.green
@@ -232,8 +232,8 @@ Updated 2022-04-22T00:37:55.843Z
   228. $5,217  WiFilip
   229. $5,236  504874975
   230. $5,240  UrethraTickler
-  231. $5,245  PiMattmann
- *232. $5,245  FrankNirvana
+ *231. $5,245  FrankNirvana
+  232. $5,245  PiMattmann
  *233. $5,253  FruitJS
   234. $5,262  xIRasten
   235. $5,263  Schledodri
@@ -258,8 +258,8 @@ Updated 2022-04-22T00:37:55.843Z
   254. $5,388  Vortex159_
   255. $5,390  Beep beep I'm a jeep
  *256. $5,391  Maine
- *257. $5,393  Shimbo12
-  258. $5,393  ted.wachtel
+  257. $5,393  ted.wachtel
+ *258. $5,393  Shimbo12
   259. $5,397  Number 1
   260. $5,399  Jonathan
  *261. $5,399  Reefie
@@ -269,7 +269,7 @@ Updated 2022-04-22T00:37:55.843Z
   265. $5,412  zyc1102zyc
   266. $5,430  Otso91
   267. $5,432  Jonny Cage
-  268. $5,439  Jonas
+ *268. $5,439  Jonas
   269. $5,447  chenail.liam
  *270. $5,451  the_dko
   271. $5,451  recket
@@ -293,8 +293,8 @@ Updated 2022-04-22T00:37:55.843Z
   289. $5,558  5chmendrick
   290. $5,571  spottypeas
   291. $5,599  Tecnarca
- *292. $5,609  tarte
-  293. $5,609  CatBurger
+  292. $5,609  CatBurger
+ *293. $5,609  tarte
  *294. $5,628  CursorCoercer
   295. $5,634  AGiantDwarf
  *296. $5,650  pete
@@ -675,7 +675,7 @@ Updated 2022-04-22T00:37:55.843Z
   671. $11,361 Juli_324 | Julian
   672. $11,368 AAARGH
   673. $11,368 ma23
- *674. $11,372 Desolan
+  674. $11,372 Desolan
   675. $11,373 909043381
  *676. $11,373 Teque5
   677. $11,380 Bandwidth Bandit
@@ -763,7 +763,7 @@ Updated 2022-04-22T00:37:55.843Z
   759. $11,579 narib00
   760. $11,580 superconductors7
   761. $11,582 Perdex
- *762. $11,582 R
+  762. $11,582 R
   763. $11,584 Stebois
   764. $11,586 Dado
   765. $11,586 Burnwood
@@ -888,8 +888,8 @@ Updated 2022-04-22T00:37:55.843Z
   884. $11,869 Kavu
   885. $11,871 FortusHD
   886. $11,872 Perfect
- *887. $11,884 Toe Knee
-  888. $11,884 jaxxjohnstonex
+  887. $11,884 jaxxjohnstonex
+ *888. $11,884 Toe Knee
   889. $11,886 cccmeat
   890. $11,888 xuve2
   891. $11,888 cube
@@ -910,8 +910,8 @@ Updated 2022-04-22T00:37:55.843Z
   906. $11,940 Jonths
   907. $11,942 MuscleMuscleDigDa
   908. $11,944 eliminator1357
-  909. $11,946 jakobpalsson
- *910. $11,946 Patfou
+ *909. $11,946 Patfou
+  910. $11,946 jakobpalsson
   911. $11,949 DuuSuu
   912. $11,953 Qcrist
  *913. $11,955 keshigom
@@ -972,7 +972,7 @@ Updated 2022-04-22T00:37:55.843Z
   968. $12,082 dlundh
   969. $12,085 Buh
  *970. $12,087 svenvannugteren
-  971. $12,087 Pat
+ *971. $12,087 Pat
   972. $12,088 Totulhu
   973. $12,088 Dave
  *974. $12,088 tommmmmmmm
