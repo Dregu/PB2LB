@@ -1,6 +1,6 @@
 Poly Bridge 2 - 5-08C "Bus Routes" any% leaderboard (* = breaks)
-Updated 2022-05-05T00:34:12.780Z
-704/900 unique ranks shown
+Updated 2022-05-06T00:32:50.961Z
+706/903 unique ranks shown
 
    *1. $8,480   ~ Smithy ~
     2. $12,184  Roevhaal
@@ -635,74 +635,76 @@ Updated 2022-05-05T00:34:12.780Z
   631. $71,943  Sothyl
   632. $71,944  razpe
   633. $71,944  chowchunfu
-  634. $71,947  Strawman
-  635. $71,951  toqlc4179
-  636. $71,954  Mannor
-  637. $71,955  Platypus
-  638. $71,957  pome.😈
-  639. $71,965  SuperGamerDude
-  640. $71,965  Whee_dudes
-  641. $71,966  ☼ ☼ ☼
-  642. $71,966  Craze
-  643. $71,967  snova0112
-  644. $71,967  nooboftheforest
-  645. $71,968  coolninjaboyudude1234
-  646. $71,971  yuna12527
-  647. $71,972  Barppy
- *648. $71,975  Dr_Geo
-  649. $71,976  LENTObANAANI
-  650. $71,976  heogeon5
-  651. $71,979  jakers0011
-  652. $71,979  Kertelik (✿◠‿◠)
-  653. $71,982  ferd
-  654. $71,982  rosenrotxiii
-  655. $71,984  Atomguy
-  656. $71,984  TugBoatGames
-  657. $71,986  HenryDan2018
-  658. $71,986  elisholst
-  659. $71,987  The Worst
-  660. $71,989  Hyppis
-  661. $71,991  Sloane
-  662. $71,992  791837327
-  663. $71,995  I Like Ugly Mammals.
-  664. $71,995  PlebMaster69
-  665. $71,995  kevin.
-  666. $71,997  vkelloku
-  667. $71,997  GolEden
-  668. $71,997  aizenshtadt
-  669. $71,998  Mulalu
-  670. $71,998  ragin_asian247
-  671. $71,999  Kastrull
-  672. $71,999  Doggo
-  673. $71,999  Bram2323
-  674. $71,999  Loaded
-  675. $71,999  Bram1999999
-  676. $71,999  Jakesparky
-  677. $71,999  Souths
-  678. $72,000  antioxidanti
-  679. $72,000  Gaotosky10
-  680. $72,000  AwesomeHolden6
-  681. $72,000  jorkrohn
-  682. $72,000  wesleyvh
-  683. $75,876  Get There Plane
-  684. $76,775  Sebarooo
- *685. $76,780  PeculiarKnot
-  686. $76,969  MIIchael
-  687. $77,737  jtfutbol
-  688. $79,421  Adranium
-  689. $80,679  DubNubDub
- *690. $81,999  Night_Walker_Z
-  691. $82,354  Waity5
-  692. $82,554  sirchance2002
- *693. $84,236  yadielruiz823
- *694. $84,269  Gibby
- *695. $84,821  Cix
-  696. $87,023  andrew
- *697. $88,290  dylanwenger9
-  698. $89,199  antony.interlandi
- *699. $102,052 Navet
-  700. $103,307 Salamandre
-  701. $108,390 oiiaa77
-  702. $109,972 Fritösenfett Fred
- *703. $110,943 twistedsister86
-  704. $110,970 Existence is Pain
+  634. $71,944  rodeotemis
+  635. $71,947  Strawman
+  636. $71,951  toqlc4179
+  637. $71,954  Mannor
+  638. $71,955  Platypus
+  639. $71,957  pome.😈
+  640. $71,965  SuperGamerDude
+  641. $71,965  Whee_dudes
+  642. $71,966  ☼ ☼ ☼
+  643. $71,966  Craze
+  644. $71,967  snova0112
+  645. $71,967  nooboftheforest
+  646. $71,968  coolninjaboyudude1234
+  647. $71,971  yuna12527
+  648. $71,972  Barppy
+ *649. $71,975  Dr_Geo
+  650. $71,976  LENTObANAANI
+  651. $71,976  heogeon5
+  652. $71,979  jakers0011
+  653. $71,979  Kertelik (✿◠‿◠)
+  654. $71,982  ferd
+  655. $71,982  rosenrotxiii
+  656. $71,984  Atomguy
+  657. $71,984  TugBoatGames
+  658. $71,986  HenryDan2018
+  659. $71,986  elisholst
+  660. $71,987  The Worst
+  661. $71,989  Hyppis
+  662. $71,991  Sloane
+  663. $71,992  791837327
+  664. $71,995  I Like Ugly Mammals.
+  665. $71,995  PlebMaster69
+  666. $71,995  kevin.
+  667. $71,997  vkelloku
+  668. $71,997  GolEden
+  669. $71,997  aizenshtadt
+  670. $71,998  Mulalu
+  671. $71,998  ragin_asian247
+  672. $71,999  Kastrull
+  673. $71,999  Doggo
+  674. $71,999  Bram2323
+  675. $71,999  Loaded
+  676. $71,999  Bram1999999
+  677. $71,999  Jakesparky
+  678. $71,999  Souths
+  679. $72,000  antioxidanti
+  680. $72,000  Gaotosky10
+  681. $72,000  AwesomeHolden6
+  682. $72,000  jorkrohn
+  683. $72,000  wesleyvh
+  684. $75,876  Get There Plane
+  685. $76,775  Sebarooo
+ *686. $76,780  PeculiarKnot
+  687. $76,969  MIIchael
+  688. $77,737  jtfutbol
+  689. $79,421  Adranium
+  690. $80,679  DubNubDub
+ *691. $81,999  Night_Walker_Z
+  692. $82,354  Waity5
+  693. $82,554  sirchance2002
+ *694. $84,236  yadielruiz823
+ *695. $84,269  Gibby
+ *696. $84,821  Cix
+  697. $87,023  andrew
+ *698. $88,290  dylanwenger9
+  699. $89,199  antony.interlandi
+ *700. $102,052 Navet
+  701. $103,307 Salamandre
+  702. $108,390 oiiaa77
+ *703. $108,709 gregory.gainey
+  704. $109,972 Fritösenfett Fred
+ *705. $110,943 twistedsister86
+  706. $110,970 Existence is Pain
