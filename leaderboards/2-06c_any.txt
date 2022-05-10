@@ -1,6 +1,6 @@
 Poly Bridge 2 - 2-06C "Roundabout" any% leaderboard (* = breaks)
-Updated 2022-05-08T00:33:00.496Z
-1000/10320 unique ranks shown
+Updated 2022-05-10T00:36:44.122Z
+1000/10332 unique ranks shown
 
     1. $5,351  Trygeve
     2. $5,351  Cookieblues
@@ -18,7 +18,7 @@ Updated 2022-05-08T00:33:00.496Z
    14. $6,430  Bellair08
    15. $6,443  adambrianschmidt
    16. $6,454  david_r_baker
-  *17. $6,484  Rüdenhausen
+   17. $6,484  Rüdenhausen
    18. $6,552  alexmoreno524
   *19. $6,597  Honn
    20. $6,644  Kidsune
@@ -550,8 +550,8 @@ Updated 2022-05-08T00:33:00.496Z
   546. $16,489 hmx0311
   547. $16,511 Aan'allein
   548. $16,524 Chosen
-  549. $16,533 w00zy
- *550. $16,533 Panoz the Great
+ *549. $16,533 Panoz the Great
+  550. $16,533 w00zy
   551. $16,541 The Doctor
   552. $16,555 dazamy79
  *553. $16,561 dan
@@ -561,12 +561,12 @@ Updated 2022-05-08T00:33:00.496Z
   557. $16,584 Acid RAIN
   558. $16,584 Apex2000
   559. $16,588 mathil
-  560. $16,592 zach90888
- *561. $16,592 Lava Pototo
+ *560. $16,592 Lava Pototo
+  561. $16,592 zach90888
   562. $16,595 K.O.
   563. $16,596 Grand
- *564. $16,608 MageGeraint
- *565. $16,608 JPat
+ *564. $16,608 JPat
+ *565. $16,608 MageGeraint
   566. $16,622 [SF3]^1Scott^0freee3
   567. $16,624 majane
   568. $16,631 pawloes
@@ -844,7 +844,7 @@ Updated 2022-05-08T00:33:00.496Z
   840. $17,995 mnb
   841. $17,997 jems
   842. $17,999 thoma7fglut6
-  843. $17,999 callekung
+ *843. $17,999 callekung
   844. $18,009 sasynks2
   845. $18,012 HeManu
   846. $18,014 Bananes
@@ -856,8 +856,8 @@ Updated 2022-05-08T00:33:00.496Z
   852. $18,039 c.potter14
  *853. $18,045 Linus Dayvan
   854. $18,045 MasterHorst_Skunk
-  855. $18,045 XxBest_Bill_Main_38xX
- *856. $18,045 Collatz
+ *855. $18,045 Collatz
+  856. $18,045 XxBest_Bill_Main_38xX
   857. $18,059 thecormister
   858. $18,062 Canteen
   859. $18,064 marcgigliuto
@@ -870,7 +870,7 @@ Updated 2022-05-08T00:33:00.496Z
   866. $18,075 TeX
   867. $18,082 bazey.berrier
  *868. $18,084 PeterHoHK
-  869. $18,095 Triss :)
+ *869. $18,095 Triss :)
   870. $18,095 Albino
   871. $18,096 1213176647
  *872. $18,097 At424
@@ -896,109 +896,109 @@ Updated 2022-05-08T00:33:00.496Z
   892. $18,179 Hamel
   893. $18,180 Maarto
   894. $18,182 Plutt 1
-  895. $18,187 Pommes_Peter
-  896. $18,189 RatonesM
-  897. $18,190 pallas11235
-  898. $18,199 oubeidong
-  899. $18,199 Marcel
-  900. $18,201 A cat
-  901. $18,205 Lima
- *902. $18,206 piccolo_SPA
-  903. $18,209 Xmind
-  904. $18,210 Frächdax cs.money
-  905. $18,212 SlowRick
-  906. $18,213 huurainotoruneko
-  907. $18,215 IBimsVonNebenan
-  908. $18,217 simon.green
-  909. $18,224 yammaboo
- *910. $18,225 Faber
-  911. $18,227 i2
- *912. $18,229 Muen47
-  913. $18,231 DanielRT
-  914. $18,235 LongDingDong
-  915. $18,236 Henry
-  916. $18,239 CrizBN
-  917. $18,242 juan_ctg
-  918. $18,242 Plow
-  919. $18,245 Thpetre
-  920. $18,247 mania35
- *921. $18,251 lonetong
- *922. $18,252 tao
-  923. $18,254 angelsrule934
-  924. $18,256 Snek
-  925. $18,259 beckernm
-  926. $18,262 muniek86
-  927. $18,262 King Guilty
-  928. $18,274 YoutubeHammer
-  929. $18,274 enyos
-  930. $18,274 toqlc4179
-  931. $18,277 Dogg1
- *932. $18,278 WinterMetal
-  933. $18,282 BadZombie99
-  934. $18,284 DrZobos
-  935. $18,284 mikehuntehertz
-  936. $18,285 SansSkill
-  937. $18,285 Schmuck18
- *938. $18,290 I need ham
-  939. $18,290 Ereku
-  940. $18,290 らっぴぃ
-  941. $18,293 LeonardRodriguez
-  942. $18,299 Petr
-  943. $18,311 Existence is Pain
-  944. $18,312 Farmer-Rudi
-  945. $18,315 Uncle
-  946. $18,317 Scott Ludlam
-  947. $18,320 Vicmurstan
-  948. $18,320 Dr. Wareheim
-  949. $18,327 Ryepizor
-  950. $18,328 Handurion
-  951. $18,333 抱歉不予顯示
+  895. $18,183 alstrup.jan
+  896. $18,187 Pommes_Peter
+  897. $18,189 RatonesM
+  898. $18,190 pallas11235
+  899. $18,199 oubeidong
+  900. $18,199 Marcel
+  901. $18,201 A cat
+  902. $18,205 Lima
+ *903. $18,206 piccolo_SPA
+  904. $18,209 Xmind
+  905. $18,210 Frächdax cs.money
+  906. $18,212 SlowRick
+  907. $18,213 huurainotoruneko
+  908. $18,215 IBimsVonNebenan
+  909. $18,217 simon.green
+  910. $18,224 yammaboo
+ *911. $18,225 Faber
+  912. $18,227 i2
+ *913. $18,229 Muen47
+  914. $18,231 DanielRT
+  915. $18,235 LongDingDong
+  916. $18,236 Henry
+  917. $18,239 CrizBN
+  918. $18,242 juan_ctg
+  919. $18,242 Plow
+  920. $18,245 Thpetre
+  921. $18,247 mania35
+ *922. $18,251 lonetong
+ *923. $18,252 tao
+  924. $18,254 angelsrule934
+  925. $18,256 Snek
+  926. $18,259 beckernm
+  927. $18,262 muniek86
+  928. $18,262 King Guilty
+  929. $18,274 YoutubeHammer
+  930. $18,274 enyos
+  931. $18,274 toqlc4179
+  932. $18,277 Dogg1
+ *933. $18,278 WinterMetal
+  934. $18,282 BadZombie99
+  935. $18,284 DrZobos
+  936. $18,284 mikehuntehertz
+  937. $18,285 SansSkill
+  938. $18,285 Schmuck18
+ *939. $18,290 I need ham
+  940. $18,290 Ereku
+  941. $18,290 らっぴぃ
+  942. $18,293 LeonardRodriguez
+  943. $18,299 Petr
+  944. $18,311 Existence is Pain
+  945. $18,312 Farmer-Rudi
+  946. $18,315 Uncle
+  947. $18,317 Scott Ludlam
+  948. $18,320 Vicmurstan
+  949. $18,320 Dr. Wareheim
+  950. $18,327 Ryepizor
+  951. $18,328 Handurion
  *952. $18,333 Rudy
- *953. $18,343 charliehavens06
-  954. $18,343 mos31f
-  955. $18,346 我不知道。╯︿╰
-  956. $18,355 Kiste
-  957. $18,356 Scott
-  958. $18,359 Numerousluke
-  959. $18,363 Simonx350
-  960. $18,364 trpark90
-  961. $18,366 Kimbul
- *962. $18,369 ben55418
-  963. $18,375 Frits
-  964. $18,377 zurchty
-  965. $18,378 ти
- *966. $18,379 poptart
-  967. $18,381 sunnyshin
-  968. $18,386 Oubaas Kaksak
-  969. $18,388 MKBridger
-  970. $18,391 True SmolSir
-  971. $18,392 7:76
-  972. $18,396 DaGinger
-  973. $18,397 Gumii
- *974. $18,402 CybrZero
-  975. $18,407 QwertyEn
-  976. $18,409 Larry the Dota Guy
-  977. $18,415 Hovnokop
-  978. $18,415 RandomStuff
- *979. $18,416 Bentley - Trueno style
-  980. $18,423 FreeFull
-  981. $18,424 as.089
-  982. $18,428 B1nk
-  983. $18,434 ewe
-  984. $18,437 impishcheese
-  985. $18,447 omg
-  986. $18,449 lil succ
-  987. $18,456 Floki_San
- *988. $18,458 dtee3
-  989. $18,459 stinod2
-  990. $18,460 NomNom
-  991. $18,464 j.bottomley87595
-  992. $18,467 NAMASJAM
-  993. $18,467 Ploit
-  994. $18,471 Flartibartfast
-  995. $18,479 DarkyPlayz
-  996. $18,486 manky.man
-  997. $18,488 Otonashi
-  998. $18,489 StreamGames
-  999. $18,490 Kernfusion
- 1000. $18,490 onion
+  953. $18,333 抱歉不予顯示
+ *954. $18,343 charliehavens06
+  955. $18,343 mos31f
+  956. $18,346 我不知道。╯︿╰
+  957. $18,355 Kiste
+  958. $18,356 Scott
+  959. $18,359 Numerousluke
+  960. $18,363 Simonx350
+  961. $18,364 trpark90
+  962. $18,366 Kimbul
+ *963. $18,369 ben55418
+  964. $18,375 Frits
+  965. $18,377 zurchty
+  966. $18,378 ти
+ *967. $18,379 poptart
+  968. $18,381 sunnyshin
+  969. $18,386 Oubaas Kaksak
+  970. $18,388 MKBridger
+  971. $18,391 True SmolSir
+  972. $18,392 7:76
+  973. $18,396 DaGinger
+  974. $18,397 Gumii
+ *975. $18,402 CybrZero
+  976. $18,407 QwertyEn
+  977. $18,409 Larry the Dota Guy
+  978. $18,415 Hovnokop
+  979. $18,415 RandomStuff
+ *980. $18,416 Bentley - Trueno style
+  981. $18,423 FreeFull
+  982. $18,424 as.089
+  983. $18,428 B1nk
+  984. $18,430 321321dre
+  985. $18,434 ewe
+  986. $18,437 impishcheese
+  987. $18,447 omg
+  988. $18,449 lil succ
+  989. $18,456 Floki_San
+ *990. $18,458 dtee3
+  991. $18,459 stinod2
+  992. $18,460 NomNom
+  993. $18,464 j.bottomley87595
+  994. $18,467 NAMASJAM
+  995. $18,467 Ploit
+  996. $18,471 Flartibartfast
+  997. $18,479 DarkyPlayz
+  998. $18,486 manky.man
+  999. $18,488 Otonashi
+ 1000. $18,489 StreamGames
