@@ -1,14 +1,14 @@
 Poly Bridge 2 - 4-01C "Edgy" any% leaderboard (* = breaks)
-Updated 2022-05-10T00:36:44.331Z
-1000/4119 unique ranks shown
+Updated 2022-05-11T00:35:55.958Z
+1000/4120 unique ranks shown
 
-    1. $2,999  Lagiiiie
-   *2. $2,999  9k5
-   *3. $2,999  Cookieblues
+   *1. $2,999  9k5
+    2. $2,999  Lagiiiie
+   *3. $2,999  minecat
    *4. $2,999  Fathom
-   *5. $2,999  minecat
-   *6. $3,579  somefakegamer
-   *7. $3,579  7777Alex7777
+   *5. $2,999  Cookieblues
+   *6. $3,579  7777Alex7777
+   *7. $3,579  somefakegamer
     8. $11,320 Trygeve
     9. $11,666 Soba
    10. $11,763 Enchanted Spider
@@ -37,7 +37,7 @@ Updated 2022-05-10T00:36:44.331Z
   *33. $17,683 lancekro
    34. $17,722 Uniquepotatoes
   *35. $17,744 olivapaa
-  *36. $17,803 zinc
+   36. $17,803 zinc
    37. $17,912 Babou
    38. $18,267 Firesquirrel
    39. $18,519 Igloo
@@ -100,7 +100,7 @@ Updated 2022-05-10T00:36:44.331Z
    96. $21,365 SM2086
    97. $21,378 Draradech
    98. $21,405 tylerhbateman
-   99. $21,424 POLAR
+  *99. $21,424 POLAR
   100. $21,465 Diggsey
   101. $21,467 The_Vaccine
  *102. $21,470 Kordy
@@ -123,7 +123,7 @@ Updated 2022-05-10T00:36:44.331Z
   119. $21,788 TheXqisit
   120. $21,813 local person
   121. $21,813 tkismr
- *122. $21,818 Hacker Duck
+  122. $21,818 Hacker Duck
   123. $21,839 henpenben
  *124. $21,881 david.c.hagglund
   125. $21,884 I Eat Bunnies
@@ -325,14 +325,14 @@ Updated 2022-05-10T00:36:44.331Z
   321. $23,956 Megadar
   322. $23,958 ivwaurt
   323. $23,961 MR_Mose_
- *324. $23,965 tttttttttt
+  324. $23,965 tttttttttt
   325. $23,972 simon.green
   326. $23,980 Burnt Toast
   327. $23,991 Wizzy-chan
   328. $23,998 BOT Alisec
   329. $23,999 >:(
   330. $23,999 jordivenema.jv
-  331. $24,000 k.a.huckshold
+ *331. $24,000 k.a.huckshold
   332. $24,010 HeManu
   333. $24,028 ThePietro06
   334. $24,049 Durek
@@ -349,8 +349,8 @@ Updated 2022-05-10T00:36:44.331Z
   345. $24,079 jakob.infuehr
   346. $24,083 cody
  *347. $24,106 desti
- *348. $24,109 Chickenzilla
-  349. $24,109 veggie stix
+  348. $24,109 veggie stix
+ *349. $24,109 Chickenzilla
  *350. $24,128 Spug
   351. $24,131 anijoker
   352. $24,132 Corgi996
@@ -602,8 +602,8 @@ Updated 2022-05-10T00:36:44.331Z
   598. $25,884 Invasian
   599. $25,885 DuncanAM
   600. $25,889 sirchance2002
- *601. $25,898 Jonas_H1307
- *602. $25,898 flustered
+ *601. $25,898 flustered
+ *602. $25,898 Jonas_H1307
  *603. $25,902 Nomix
   604. $25,906 marapara033
   605. $25,913 aferalsheep
@@ -672,8 +672,8 @@ Updated 2022-05-10T00:36:44.331Z
   668. $26,235 theodore.k.liu
   669. $26,236 ben.prange116
  *670. $26,237 zip.png
-  671. $26,237 simonder3te
- *672. $26,237 arronon
+ *671. $26,237 arronon
+  672. $26,237 simonder3te
   673. $26,251 Bram2323
   674. $26,258 tnafkaj
   675. $26,263 park002
@@ -777,8 +777,8 @@ Updated 2022-05-10T00:36:44.331Z
   773. $26,818 Yaky
   774. $26,818 Sith Phil Less
   775. $26,820 Patfou
- *776. $26,831 Gzuz
-  777. $26,831 Frotty
+  776. $26,831 Frotty
+ *777. $26,831 Gzuz
   778. $26,834 joel.rspence
   779. $26,840 das fat catov
   780. $26,840 Exapithicus
@@ -828,10 +828,10 @@ Updated 2022-05-10T00:36:44.331Z
  *824. $27,061 RENAULT12
   825. $27,063 readerh7
   826. $27,064 Scrimps
- *827. $27,078 harryald6
+  827. $27,078 harryald6
   828. $27,079 Moritzstz
-  829. $27,082 Sir_Raven
- *830. $27,082 DrSoepbal
+ *829. $27,082 DrSoepbal
+  830. $27,082 Sir_Raven
   831. $27,084 逗比的熊大
   832. $27,096 gullej
   833. $27,100 security_bot
@@ -940,7 +940,7 @@ Updated 2022-05-10T00:36:44.331Z
   936. $27,763 帅气xiaowang
   937. $27,765 #whitelivesmatter
   938. $27,771 kephran
-  939. $27,773 aBacIdEe
+ *939. $27,773 aBacIdEe
   940. $27,775 dalerardon
   941. $27,787 Manuel_lol
  *942. $27,794 Diggerdoge99
@@ -987,9 +987,9 @@ Updated 2022-05-10T00:36:44.331Z
   983. $27,998 Pepper
   984. $28,012 Stratocaster35
   985. $28,018 taxmaxgoodman
- *986. $28,023 Esmouse
-  987. $28,036 Waifu Art Thou Romeo
- *988. $28,036 Fritösenfett Fred
+  986. $28,023 Esmouse
+ *987. $28,036 Fritösenfett Fred
+  988. $28,036 Waifu Art Thou Romeo
   989. $28,037 A Chunk of Butter
  *990. $28,040 Hiquake
   991. $28,052 aelarhawkeye
