@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-03C "Sloped Drawbridge" any% leaderboard (* = breaks)
-Updated 2022-05-18T00:32:25.317Z
-1000/3430 unique ranks shown
+Updated 2022-05-19T00:39:47.928Z
+1000/3431 unique ranks shown
 
    *1. $2,599  9k5
    *2. $2,999  Trygeve
@@ -13,8 +13,8 @@ Updated 2022-05-18T00:32:25.317Z
    *9. $5,488  Pengujedi
   *10. $5,493  Bibbb
   *11. $5,494  MOD
-  *12. $5,494  Icysnowman
-  *13. $5,494  geroniberry
+  *12. $5,494  geroniberry
+  *13. $5,494  Icysnowman
   *14. $6,969  minecat
   *15. $12,246 Bellair08
   *16. $12,670 7777Alex7777
@@ -321,7 +321,7 @@ Updated 2022-05-18T00:32:25.317Z
  *317. $34,891 Morgothor
   318. $34,892 Revolves
   319. $34,937 aaron.steinke
-  320. $34,979 Tiaga
+ *320. $34,979 Tiaga
   321. $34,999 Imagine Pears
   322. $35,009 Cremefraiche
   323. $35,010 Moja
@@ -643,8 +643,8 @@ Updated 2022-05-18T00:32:25.317Z
  *639. $40,137 marie.ryjackova
   640. $40,145 BeljihnWahfl
   641. $40,146 Juspe
-  642. $40,150 pallas11235
- *643. $40,150 TheRealEel78
+ *642. $40,150 TheRealEel78
+  643. $40,150 pallas11235
   644. $40,168 meat_master
   645. $40,169 wumengyundf
   646. $40,178 amani576
@@ -660,7 +660,7 @@ Updated 2022-05-18T00:32:25.317Z
   656. $40,336 Ozzy
   657. $40,336 -1-1-
   658. $40,341 drizzitdudden
- *659. $40,342 Cherubael
+  659. $40,342 Cherubael
   660. $40,343 Gromit
   661. $40,348 冉宝
   662. $40,371 yellowmastodon
@@ -782,11 +782,11 @@ Updated 2022-05-18T00:32:25.317Z
   778. $41,798 malega
   779. $41,801 Valnix
   780. $41,802 510 Years old
- *781. $41,812 fasobrinho
-  782. $41,812 juan_ctg
+  781. $41,812 juan_ctg
+ *782. $41,812 fasobrinho
   783. $41,814 tomaschonnie
-  784. $41,831 dridhaswana2
- *785. $41,831 Pickle Rick
+ *784. $41,831 Pickle Rick
+  785. $41,831 dridhaswana2
   786. $41,831 Ħasħɇđ ⱣøŧȺŧøɇs
   787. $41,831 Pasky
   788. $41,831 Snail's nipple
@@ -980,19 +980,19 @@ Updated 2022-05-18T00:32:25.317Z
   976. $43,406 breadeaterlol
   977. $43,406 robby
   978. $43,406 elli_rynbw
- *979. $43,406 WesleySaurusRex
-  980. $43,406 Ax7ro
-  981. $43,406 Will2875
- *982. $43,406 M A V R I
-  983. $43,406 C_liuc23
-  984. $43,406 Stalemate
-  985. $43,406 NORWXGIAN
-  986. $43,406 rainy
-  987. $43,406 toqlc4179
-  988. $43,406 Paul Codio
-  989. $43,406 Mannor
-  990. $43,406 Ashen
-  991. $43,406 gonzomenden
+  979. $43,406 Ax7ro
+  980. $43,406 Will2875
+  981. $43,406 C_liuc23
+  982. $43,406 Stalemate
+  983. $43,406 NORWXGIAN
+  984. $43,406 rainy
+  985. $43,406 toqlc4179
+  986. $43,406 Paul Codio
+  987. $43,406 Mannor
+ *988. $43,406 WesleySaurusRex
+  989. $43,406 Ashen
+  990. $43,406 gonzomenden
+ *991. $43,406 M A V R I
   992. $43,408 mikkel383ss
   993. $43,410 Duyzee
   994. $43,411 chosen feeder
