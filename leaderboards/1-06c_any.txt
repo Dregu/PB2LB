@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-06C "First Drawbridge" any% leaderboard (* = breaks)
-Updated 2022-05-19T00:39:47.496Z
-1000/21811 unique ranks shown
+Updated 2022-05-20T00:35:45.459Z
+1000/21823 unique ranks shown
 
    *1. $600    Lagiiiie
    *2. $600    Bibbb
@@ -21,15 +21,15 @@ Updated 2022-05-19T00:39:47.496Z
   *17. $1,712  CavoX5
   *18. $1,723  johannes
   *19. $1,751  diamondpig425
-  *20. $1,754  transvana
-  *21. $1,754  7777Alex7777
+  *20. $1,754  7777Alex7777
+  *21. $1,754  transvana
   *22. $1,763  MOD
   *23. $1,782  geroniberry
   *24. $1,818  Icysnowman
-  *25. $1,818  Pengujedi
+  *25. $1,818  Noahsorou
   *26. $1,818  Resilia_
-  *27. $1,818  amandachertavu
-  *28. $1,818  Noahsorou
+  *27. $1,818  Pengujedi
+  *28. $1,818  amandachertavu
   *29. $1,844  metatropic
   *30. $1,852  Toto00
   *31. $1,883  emilhogenkamp
@@ -41,21 +41,21 @@ Updated 2022-05-19T00:39:47.496Z
   *37. $2,134  gamespilgame
   *38. $2,147  jtornqvist
   *39. $2,167  Heater
-  *40. $2,220  Ak-ak
-  *41. $2,220  bumbum
-  *42. $2,220  Nawe876
-  *43. $2,220  heungchungsing
-  *44. $2,220  gajisai
-  *45. $2,220  dreadwolf
-  *46. $2,220  ~ Smithy ~
-  *47. $2,220  Simonx350
-  *48. $2,220  zeller-alex
-  *49. $2,220  mastinmichael
-  *50. $2,287  maash
-  *51. $2,287  fantakilla
-  *52. $2,287  Codeman999
-  *53. $2,287  Enchanted Spider
-  *54. $2,287  mooseman0423
+  *40. $2,220  bumbum
+  *41. $2,220  dreadwolf
+  *42. $2,220  Simonx350
+  *43. $2,220  zeller-alex
+  *44. $2,220  ~ Smithy ~
+  *45. $2,220  Ak-ak
+  *46. $2,220  mastinmichael
+  *47. $2,220  gajisai
+  *48. $2,220  heungchungsing
+  *49. $2,220  Nawe876
+  *50. $2,287  Codeman999
+  *51. $2,287  Enchanted Spider
+  *52. $2,287  maash
+  *53. $2,287  mooseman0423
+  *54. $2,287  fantakilla
   *55. $2,414  runningcrazy
   *56. $3,425  goldenpggie
    57. $4,527  St3rd_
@@ -166,8 +166,8 @@ Updated 2022-05-19T00:39:47.496Z
   162. $5,423  Morgothor
   163. $5,424  The_Vaccine
  *164. $5,425  Inferior Asian
-  165. $5,430  ms0719584
- *166. $5,430  torry
+ *165. $5,430  torry
+  166. $5,430  ms0719584
   167. $5,446  Tarontos
   168. $5,453  Venin
   169. $5,455  Weirdone
@@ -459,8 +459,8 @@ Updated 2022-05-19T00:39:47.496Z
   455. $9,162  matttev
   456. $9,167  brandonpayne234
   457. $9,169  Amiyakrizi
- *458. $9,174  Woof.
-  459. $9,174  jonas.beachy
+ *458. $9,174  jonas.beachy
+ *459. $9,174  Woof.
   460. $9,177  HappyFishboy
   461. $9,185  jdogg565
   462. $9,186  Inhuman Erection
@@ -474,8 +474,8 @@ Updated 2022-05-19T00:39:47.496Z
   470. $9,207  kocour.xyz.rxryrz
  *471. $9,210  random_chimp_event
   472. $9,212  Audible
- *473. $9,225  King Hippo
-  474. $9,225  720 Foam Cuts
+  473. $9,225  720 Foam Cuts
+ *474. $9,225  King Hippo
   475. $9,232  NotFound
   476. $9,233  Sunny Disposition
  *477. $9,234  Colteor
@@ -692,8 +692,8 @@ Updated 2022-05-19T00:39:47.496Z
   688. $9,644  Smashed Avo
  *689. $9,645  Hawk
   690. $9,646  Waifu Art Thou Romeo
- *691. $9,647  Dimma the Wifebeater
-  692. $9,647  Kosher Karambwan
+  691. $9,647  Kosher Karambwan
+ *692. $9,647  Dimma the Wifebeater
   693. $9,648  Bobcheez ✔
   694. $9,648  sidschurgin
   695. $9,651  Ewyx
@@ -781,7 +781,7 @@ Updated 2022-05-19T00:39:47.496Z
   777. $9,786  Char1983
   778. $9,786  crudy_
   779. $9,787  Danimal
- *780. $9,787  Zharra
+  780. $9,787  Zharra
   781. $9,788  TheMatser34
   782. $9,790  Otter.peek
  *783. $9,795  klrwayant083
@@ -861,8 +861,8 @@ Updated 2022-05-19T00:39:47.496Z
   857. $9,919  gerd.freiberg
   858. $9,921  SwagMander
   859. $9,922  Chucky0809
-  860. $9,923  Buddermario7
- *861. $9,923  raym55
+ *860. $9,923  raym55
+  861. $9,923  Buddermario7
   862. $9,924  Jucone
   863. $9,928  Craftjakob_HD
   864. $9,930  DieselDaddy
@@ -879,8 +879,8 @@ Updated 2022-05-19T00:39:47.496Z
  *875. $9,950  PABOOLo.gonzales@hotmail.com
   876. $9,952  813680199
   877. $9,952  AFK.PhlopSer
-  878. $9,955  Tjeard
- *879. $9,955  kyle.j.myers
+ *878. $9,955  kyle.j.myers
+  879. $9,955  Tjeard
   880. $9,961  Fr4nyo
   881. $9,965  eliakilcher2001
   882. $9,966  Dansta2106
@@ -924,9 +924,9 @@ Updated 2022-05-19T00:39:47.496Z
  *920. $9,998  8th coming of Jesus
   921. $9,998  Elvishbarbecue
   922. $9,999  FURYMAGE1210
-  923. $9,999  BxRAW
-  924. $9,999  Zero Rights
- *925. $9,999  YottaCat
+ *923. $9,999  YottaCat
+  924. $9,999  BxRAW
+  925. $9,999  Zero Rights
   926. $10,000 Mr. Jelly Bean
   927. $10,000 tegl
   928. $10,000 SRA
@@ -966,8 +966,8 @@ Updated 2022-05-19T00:39:47.496Z
   962. $10,064 Spyroflex
   963. $10,066 SevenKenyansInATrenchcoat
   964. $10,068 Gutterman2010
- *965. $10,071 KAPPPS
-  966. $10,071 Criplor
+  965. $10,071 Criplor
+ *966. $10,071 KAPPPS
   967. $10,077 knower
   968. $10,078 MeeepTheUnique
   969. $10,079 Satcher
@@ -992,8 +992,8 @@ Updated 2022-05-19T00:39:47.496Z
   988. $10,105 2baseballboys
   989. $10,107 moosemoss
   990. $10,108 Sjakie
-  991. $10,110 manojmact
- *992. $10,110 TimboRimbo
+ *991. $10,110 TimboRimbo
+  992. $10,110 manojmact
   993. $10,112 konkave
   994. $10,113 veggie stix
   995. $10,114 Shaun135
