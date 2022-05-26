@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-13C "Redraw" any% leaderboard (* = breaks)
-Updated 2022-05-25T00:37:58.836Z
-1000/15279 unique ranks shown
+Updated 2022-05-26T00:36:59.899Z
+1000/15285 unique ranks shown
 
     1. $7,860  Roevhaal
     2. $7,998  ellisk1
@@ -74,7 +74,7 @@ Updated 2022-05-25T00:37:58.836Z
    70. $9,395  Pimpstyle9008
    71. $9,398  YoungTeezy
    72. $9,399  ole.van.tiel
-   73. $9,400  Larry the Dota Guy
+  *73. $9,400  Larry the Dota Guy
    74. $9,402  Xypher
    75. $9,411  Wadusher
    76. $9,412  OCTDUMPUS
@@ -115,8 +115,8 @@ Updated 2022-05-25T00:37:58.836Z
   111. $9,521  lee731017
  *112. $9,529  poptart
   113. $9,534  XxTrollFacexX
- *114. $9,544  marciochb
-  115. $9,544  QuantiumIm
+  114. $9,544  QuantiumIm
+ *115. $9,544  marciochb
   116. $9,548  Honax
   117. $9,556  MoscaTonta
   118. $9,560  Sorter
@@ -127,7 +127,7 @@ Updated 2022-05-25T00:37:58.836Z
   123. $9,611  Gaotosky10
   124. $9,621  bolt986
   125. $9,642  Kingly Red Lion Guy
- *126. $9,658  bille
+  126. $9,658  bille
   127. $9,662  Solus
   128. $9,669  TJarsun
   129. $9,669  jikennosamurai
@@ -138,7 +138,7 @@ Updated 2022-05-25T00:37:58.836Z
   134. $9,750  v-fourteen
   135. $9,750  chupa71
   136. $9,755  Neill
- *137. $9,765  Baldur
+  137. $9,765  Baldur
   138. $9,776  InfinitySay
   139. $9,787  Shrimpstar
   140. $9,790  Sponsored by LYFT
@@ -165,11 +165,11 @@ Updated 2022-05-25T00:37:58.836Z
   161. $9,920  Jezre
   162. $9,921  TheSameAsItEverWas
   163. $9,940  Mitch Szlachetka
- *164. $9,942  lollyH2O
+  164. $9,942  lollyH2O
   165. $9,946  GolEden
   166. $9,948  Камушек
   167. $9,957  Spooderman
-  168. $9,959  adambrianschmidt
+ *168. $9,959  adambrianschmidt
   169. $9,977  minemyj
  *170. $9,982  Kristian_R_05
   171. $9,983  Triss :)
@@ -463,7 +463,7 @@ Updated 2022-05-25T00:37:58.836Z
   459. $11,097 matthias
  *460. $11,097 pietschie
   461. $11,100 Rooul
- *462. $11,102 Bull Moose
+  462. $11,102 Bull Moose
   463. $11,107 s08hasegawa
   464. $11,108 kareki00
   465. $11,114 adwagner89
@@ -473,7 +473,7 @@ Updated 2022-05-25T00:37:58.836Z
   469. $11,120 brunell90
   470. $11,122 delightfulgiraffe
   471. $11,124 bolong
- *472. $11,125 XIEPER
+  472. $11,125 XIEPER
   473. $11,131 chuxx0088
   474. $11,133 Co
   475. $11,133 theblackcat81
@@ -569,8 +569,8 @@ Updated 2022-05-25T00:37:58.836Z
   565. $11,380 NaZ
   566. $11,381 robd.lives
   567. $11,383 twise4435
-  568. $11,383 Воня
- *569. $11,383 samwise38
+ *568. $11,383 samwise38
+  569. $11,383 Воня
   570. $11,383 TheBear
   571. $11,384 LegitGopnik
   572. $11,388 「Marshmallow Justice」
@@ -729,8 +729,8 @@ Updated 2022-05-25T00:37:58.836Z
   725. $11,659 marcgigliuto
   726. $11,663 gamehunter
   727. $11,665 tchukki
-  728. $11,666 Mimbrone
- *729. $11,666 Arbeitsloser Trümmertürke
+ *728. $11,666 Arbeitsloser Trümmertürke
+  729. $11,666 Mimbrone
   730. $11,666 Doomcow
   731. $11,669 Bullet_KO
   732. $11,672 leucome
@@ -851,17 +851,17 @@ Updated 2022-05-25T00:37:58.836Z
   847. $11,855 NouchezMouchez
   848. $11,859 fLeX oN yOu In My MiNi CoPpErU
   849. $11,859 Laberynthium13YT
- *850. $11,859 Corgle
-  851. $11,859 NesTea Lemon
-  852. $11,859 ✗
-  853. $11,859 Floki_San
-  854. $11,859 goosewhammy
-  855. $11,859 Xanjay03
- *856. $11,859 Patfou
-  857. $11,859 Oprheus
-  858. $11,859 le caca
-  859. $11,859 ElephantTacoYT
-  860. $11,859 mikehuntehertz
+  850. $11,859 NesTea Lemon
+  851. $11,859 ✗
+  852. $11,859 Floki_San
+  853. $11,859 goosewhammy
+  854. $11,859 Xanjay03
+  855. $11,859 Oprheus
+ *856. $11,859 Corgle
+  857. $11,859 le caca
+  858. $11,859 ElephantTacoYT
+  859. $11,859 mikehuntehertz
+ *860. $11,859 Patfou
   861. $11,859 KLONE
   862. $11,860 footington
  *863. $11,860 mr_lumpy
@@ -943,62 +943,62 @@ Updated 2022-05-25T00:37:58.836Z
   939. $11,948 jhhpp
   940. $11,948 Georgedg1
   941. $11,948 daniel.mittermaier
-  942. $11,948 Anth
- *943. $11,948 alicele14
+ *942. $11,948 alicele14
+  943. $11,948 Anth
   944. $11,948 Pelbou
   945. $11,948 silke.jaeker
-  946. $11,948 GATS
-  947. $11,948 Jakard93
-  948. $11,948 Retrolith
-  949. $11,948 MrFox1509
-  950. $11,948 Glevett21
-  951. $11,948 Dylan/4W
-  952. $11,948 twitch.tv/mysterefire
-  953. $11,948 Leer
-  954. $11,948 DeathDilo
-  955. $11,948 扯一路的蛋
-  956. $11,948 bauch1234
- *957. $11,948 wickes
+  946. $11,948 xXSIRNOOBXx
+  947. $11,948 GATS
+  948. $11,948 Jakard93
+  949. $11,948 Retrolith
+  950. $11,948 MrFox1509
+  951. $11,948 Glevett21
+  952. $11,948 Dylan/4W
+  953. $11,948 twitch.tv/mysterefire
+  954. $11,948 Leer
+  955. $11,948 DeathDilo
+  956. $11,948 扯一路的蛋
+  957. $11,948 bauch1234
   958. $11,948 moleir
   959. $11,948 ___VITUS___
   960. $11,948 jimbug26
   961. $11,948 HeadLine™
   962. $11,948 Grandpa Shark
-  963. $11,948 Moose
-  964. $11,948 22612978
- *965. $11,949 Cyborg Minotaur
-  966. $11,951 nicolandu
-  967. $11,951 Paul ⁽ᴾᵃᵘˡ⁾
-  968. $11,951 Enoch
-  969. $11,954 Alelon28
-  970. $11,954 skya774005
-  971. $11,958 MrBigy
- *972. $11,959 Jona
-  973. $11,960 SpencerWasHere
-  974. $11,960 Jemkat
-  975. $11,961 Nedcut
-  976. $11,961 COVID-19
-  977. $11,963 Larry
-  978. $11,967 piaseknadmorski
-  979. $11,968 Irrelevant
-  980. $11,968 omg
-  981. $11,970 squang8
+ *963. $11,948 wickes
+  964. $11,948 Moose
+  965. $11,948 22612978
+ *966. $11,949 Cyborg Minotaur
+  967. $11,951 nicolandu
+  968. $11,951 Paul ⁽ᴾᵃᵘˡ⁾
+  969. $11,951 Enoch
+  970. $11,954 Alelon28
+  971. $11,954 skya774005
+  972. $11,958 MrBigy
+ *973. $11,959 Jona
+  974. $11,960 SpencerWasHere
+  975. $11,960 Jemkat
+  976. $11,961 Nedcut
+  977. $11,961 COVID-19
+  978. $11,963 Larry
+  979. $11,967 piaseknadmorski
+  980. $11,968 Irrelevant
+  981. $11,968 omg
  *982. $11,970 klrwayant083
-  983. $11,970 Treshaun420
-  984. $11,982 jacobsedk
-  985. $11,983 ferdinandball67
-  986. $11,984 Part 3 Wu Tang Forever
-  987. $11,989 Callummy
-  988. $11,989 Noisyboy
-  989. $11,993 No problem.
-  990. $11,993 tkismr
-  991. $11,994 neo_gr
-  992. $11,995 StellarisAlice
-  993. $11,995 Dragnad
-  994. $11,996 Cwilson2
-  995. $11,997 Jim
-  996. $11,997 Ty4on|ne
-  997. $11,999 ikeashelf
-  998. $12,000 KasaiNoTe
-  999. $12,000 quin
- 1000. $12,000 Lord_PhIlDEx
+  983. $11,970 squang8
+  984. $11,970 Treshaun420
+  985. $11,982 jacobsedk
+  986. $11,983 ferdinandball67
+  987. $11,984 Part 3 Wu Tang Forever
+  988. $11,989 Callummy
+  989. $11,989 Noisyboy
+  990. $11,993 No problem.
+  991. $11,993 tkismr
+  992. $11,994 neo_gr
+  993. $11,995 StellarisAlice
+  994. $11,995 Dragnad
+  995. $11,996 Cwilson2
+  996. $11,997 Jim
+  997. $11,997 Ty4on|ne
+  998. $11,999 ikeashelf
+  999. $12,000 KasaiNoTe
+ 1000. $12,000 quin
