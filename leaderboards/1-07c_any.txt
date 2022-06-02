@@ -1,20 +1,20 @@
 Poly Bridge 2 - 1-07C "Taxi Task" any% leaderboard (* = breaks)
-Updated 2022-06-01T00:39:28.398Z
-1000/18502 unique ranks shown
+Updated 2022-06-02T00:44:01.651Z
+1000/18526 unique ranks shown
 
    *1. $2,590 Fathom
    *2. $2,653 CursorCoercer
    *3. $3,154 Trygeve
-   *4. $3,699 Lagiiiie
-   *5. $3,699 9k5
+   *4. $3,699 9k5
+   *5. $3,699 Lagiiiie
    *6. $3,728 minecat
    *7. $3,744 Bibbb
-   *8. $3,810 MOD
-   *9. $3,810 Cookieblues
+   *8. $3,810 geroniberry
+   *9. $3,810 palfly15
   *10. $3,810 7777Alex7777
-  *11. $3,810 palfly15
-  *12. $3,810 geroniberry
-  *13. $3,810 Pengujedi
+  *11. $3,810 Cookieblues
+  *12. $3,810 Pengujedi
+  *13. $3,810 MOD
   *14. $4,489 Shadow
    15. $5,799 Chipper
    16. $5,799 LUCse MENSEN
@@ -43,9 +43,9 @@ Updated 2022-06-01T00:39:28.398Z
    39. $5,831 TucLTU
    40. $5,831 Sexy Boy Industries [woop]
    41. $5,831 Heater
-   42. $5,832 BaconPancakes
-   43. $5,832 Dwerto
-  *44. $5,832 Tiaga
+  *42. $5,832 Tiaga
+   43. $5,832 BaconPancakes
+   44. $5,832 Dwerto
    45. $5,834 Weirdone
    46. $5,834 OCAdam
    47. $5,834 misidaly2007
@@ -53,8 +53,8 @@ Updated 2022-06-01T00:39:28.398Z
    49. $5,836 pkmarcotte
    50. $5,836 willwang343
    51. $5,836 genevieve.m.draper
-  *52. $5,837 AsaOfHearts
-   53. $5,837 gold torizo
+   52. $5,837 gold torizo
+  *53. $5,837 AsaOfHearts
    54. $5,838 rakankma
    55. $5,838 Conqu3red
    56. $5,839 celesteal
@@ -78,12 +78,12 @@ Updated 2022-06-01T00:39:28.398Z
    74. $5,846 benjamingibs
    75. $5,846 Garguth
   *76. $5,846 Key112211
-  *77. $5,847 mazdapivot
-   78. $5,847 poipoi300
+   77. $5,847 poipoi300
+  *78. $5,847 mazdapivot
    79. $5,847 cyko
    80. $5,847 Rugs
-   81. $5,848 therrieur
-  *82. $5,848 Xena-8791
+  *81. $5,848 Xena-8791
+   82. $5,848 therrieur
    83. $5,849 Confirm NotJonah
    84. $5,849 WirJun
    85. $5,851 mooseman0423
@@ -139,8 +139,8 @@ Updated 2022-06-01T00:39:28.398Z
   135. $5,874 hsphere
   136. $5,874 A Magical Penguin Wizard
   137. $5,874 Lindoo
- *138. $5,875 TheUnbeatableFrog
-  139. $5,875 akkun_ouo
+  138. $5,875 akkun_ouo
+ *139. $5,875 TheUnbeatableFrog
   140. $5,875 Bellair08
   141. $5,875 POLAR
   142. $5,876 AwesomeHolden6
@@ -149,21 +149,21 @@ Updated 2022-06-01T00:39:28.398Z
   145. $5,878 sulliwan
   146. $5,878 Michuley
   147. $5,878 GranterPants
- *148. $5,878 clownlord06
-  149. $5,878 jeremywinick
+  148. $5,878 jeremywinick
+ *149. $5,878 clownlord06
   150. $5,878 Me 10 Jin
   151. $5,878 Tarontos
   152. $5,878 Nacin
   153. $5,878 dominik-peyer
   154. $5,878 Elemental Corgi
- *155. $5,879 King Hippo
-  156. $5,879 b.woelffel
-  157. $5,879 Pineappleboi96
-  158. $5,879 Mr.ThisGuy
+  155. $5,879 b.woelffel
+  156. $5,879 Pineappleboi96
+  157. $5,879 Mr.ThisGuy
+ *158. $5,879 King Hippo
   159. $5,879 harryschaefer
- *160. $5,880 zinc
-  161. $5,880 Supernye
-  162. $5,880 beta
+  160. $5,880 Supernye
+  161. $5,880 beta
+ *162. $5,880 zinc
   163. $5,880 2heavy2carry
   164. $5,881 ~ <@=:
   165. $5,881 风之颠
@@ -173,12 +173,12 @@ Updated 2022-06-01T00:39:28.398Z
   169. $5,881 david.c.hagglund
   170. $5,881 John H.
   171. $5,882 Nix
-  172. $5,883 Lampy
-  173. $5,883 yoavr123
-  174. $5,883 cataclysm
- *175. $5,883 Sofie
- *176. $5,883 Frits
-  177. $5,883 dan
+ *172. $5,883 Frits
+  173. $5,883 Lampy
+  174. $5,883 yoavr123
+  175. $5,883 cataclysm
+  176. $5,883 dan
+ *177. $5,883 Sofie
   178. $5,884 Papi Gelapi
   179. $5,884 NetEng
   180. $5,884 immo
@@ -418,9 +418,9 @@ Updated 2022-06-01T00:39:28.398Z
   414. $7,947 didi
   415. $7,949 Quality
   416. $7,951 TimZower
-  417. $7,955 Pure_Radiance
-  418. $7,955 LordForce
- *419. $7,955 SubSonix
+ *417. $7,955 SubSonix
+  418. $7,955 Pure_Radiance
+  419. $7,955 LordForce
   420. $7,957 Tyler For President 2020©
   421. $7,957 dakachips
   422. $7,958 3rd.star.up
@@ -588,13 +588,13 @@ Updated 2022-06-01T00:39:28.398Z
   584. $8,129 Fear
   585. $8,129 chipsAhoi
   586. $8,130 fwwarr
- *587. $8,130 Sopa
-  588. $8,130 Welin
-  589. $8,130 barryreichphd
-  590. $8,130 MoltenCyclone
+  587. $8,130 Welin
+  588. $8,130 barryreichphd
+  589. $8,130 MoltenCyclone
+ *590. $8,130 Sopa
   591. $8,131 callekung
- *592. $8,131 TheSuperNR
-  593. $8,131 jellorain
+  592. $8,131 jellorain
+ *593. $8,131 TheSuperNR
   594. $8,132 IxC
   595. $8,132 Doomcow
   596. $8,133 Burger
@@ -606,8 +606,8 @@ Updated 2022-06-01T00:39:28.398Z
   602. $8,137 Draradech
   603. $8,137 mw.moller89
   604. $8,137 Leve
-  605. $8,139 xDerAlmanPanzer
-  606. $8,139 ma23
+ *605. $8,139 ma23
+  606. $8,139 xDerAlmanPanzer
   607. $8,139 jimihenrik
   608. $8,140 morris960929
  *609. $8,141 Hiro
@@ -739,8 +739,8 @@ Updated 2022-06-01T00:39:28.398Z
   735. $8,222 jdogg565
   736. $8,222 Care.Less
   737. $8,222 ✪ Owli
- *738. $8,223 woooowamazingplayerplayingshit
-  739. $8,223 No problem.
+  738. $8,223 No problem.
+ *739. $8,223 woooowamazingplayerplayingshit
   740. $8,223 Zynthian
   741. $8,224 N1234
   742. $8,226 nmcconn3
@@ -763,9 +763,9 @@ Updated 2022-06-01T00:39:28.398Z
   759. $8,236 Lemon Grenadine
   760. $8,237 alec.mitchellthomson
   761. $8,238 simonder3te
- *762. $8,238 Corgle
-  763. $8,238 Rela
-  764. $8,238 Walbyoff
+  762. $8,238 Rela
+  763. $8,238 Walbyoff
+ *764. $8,238 Corgle
   765. $8,239 Jarg Salt
   766. $8,240 sky
   767. $8,240 Seven
@@ -894,15 +894,15 @@ Updated 2022-06-01T00:39:28.398Z
   890. $8,304 ankecopihue
   891. $8,304 TotoDobler
   892. $8,304 Okoye's #1
- *893. $8,305 TimboRimbo
-  894. $8,305 Sheldak
+  893. $8,305 Sheldak
+ *894. $8,305 TimboRimbo
   895. $8,306 DarkHawk106
   896. $8,306 LunarXK
   897. $8,306 bati
   898. $8,307 GreenGunGuy
   899. $8,308 rucklet
- *900. $8,308 thoasbeon
-  901. $8,308 WARdd
+  900. $8,308 WARdd
+ *901. $8,308 thoasbeon
   902. $8,308 shinji0ishihara
   903. $8,310 Rizam
   904. $8,310 FarrieMan
@@ -970,8 +970,8 @@ Updated 2022-06-01T00:39:28.398Z
   966. $8,339 SmoothTrooper
   967. $8,341 DrGo0fy
   968. $8,341 wwwmtshop
- *969. $8,342 ricksaramoore
-  970. $8,342 shainze
+  969. $8,342 shainze
+ *970. $8,342 ricksaramoore
   971. $8,343 Zynth
   972. $8,343 meatloaf42
   973. $8,344 Asterius
