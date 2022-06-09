@@ -1,6 +1,6 @@
 Poly Bridge 2 - 2-04 "Buggy Bouncer" any% leaderboard (* = breaks)
-Updated 2022-06-08T00:35:36.111Z
-1000/123023 unique ranks shown
+Updated 2022-06-09T00:38:33.464Z
+1000/123270 unique ranks shown
 
    *1. $969   Zen
    *2. $969   Lagiiiie
@@ -40,63 +40,63 @@ Updated 2022-06-08T00:35:36.111Z
    36. $1,783 Holy Bunguz
    37. $1,785 Mommy
    38. $1,792 KonechsKnee
-   39. $1,808 2963080846
-   40. $1,808 Gaotosky10
-   41. $1,811 gbhg666
-   42. $1,821 FGSB
-   43. $1,821 silverfrostlsc
-   44. $1,823 Honn
-   45. $1,835 Snorflof
-   46. $1,845 沪上冷少
-   47. $1,848 Rowan
-   48. $1,852 Tactical Insomnia
-   49. $1,855 staubman1
-   50. $1,860 Bibbb
-   51. $1,865 Ryanocerou5
-   52. $1,866 Heater
-   53. $1,869 Cooooooope
-   54. $1,871 Skretchii
-   55. $1,887 joshwoz118
-   56. $1,890 ManMadeOfGouda
-  *57. $1,898 114623050
-   58. $1,902 celesteal
-   59. $1,903 Trochilidude
-   60. $1,905 Confirm NotJonah
-   61. $1,910 rockyrock3
-   62. $1,918 CursorCoercer
-   63. $1,918 Icysnowman
-   64. $1,931 serial killer
-   65. $1,942 TucLTU
-   66. $1,942 Gray
-   67. $1,945 killindinosaur
-   68. $1,949 CavoX5
-   69. $1,957 SCHM1TTY
-   70. $1,957 神一般的隊友
-   71. $1,958 henpenben
-   72. $1,963 Kool Kid Karl
-   73. $1,968 scottie.uk
-   74. $1,980 BaconPancakes
-   75. $1,984 araskerem
-   76. $1,998 DARK PHANTOM
-   77. $1,999 akkun_ouo
-   78. $2,001 Fred Figglehorn
-   79. $2,005 blue
-   80. $2,006 Osmarツ
-   81. $2,017 gijshomminga7
-   82. $2,040 泡泡茶壶
-   83. $2,052 ...
-   84. $2,056 Jhay80416
-   85. $2,073 Weiss ich nicht
-   86. $2,077 King Mydos
-   87. $2,082 A Tsarist Bovine
-   88. $2,086 MayDay88
-   89. $2,093 whdrhks3999
-   90. $2,096 XxTrollFacexX
-   91. $2,096 UkiArcticFox
-   92. $2,098 zeller-alex
-   93. $2,116 Mr. Robot Trader
-   94. $2,120 EasyX
-   95. $2,130 Player
+   39. $1,807 Player
+   40. $1,808 2963080846
+   41. $1,808 Gaotosky10
+   42. $1,811 gbhg666
+   43. $1,821 FGSB
+   44. $1,821 silverfrostlsc
+   45. $1,823 Honn
+   46. $1,835 Snorflof
+   47. $1,845 沪上冷少
+   48. $1,848 Rowan
+   49. $1,852 Tactical Insomnia
+   50. $1,855 staubman1
+   51. $1,860 Bibbb
+   52. $1,865 Ryanocerou5
+   53. $1,866 Heater
+   54. $1,869 Cooooooope
+   55. $1,871 Skretchii
+   56. $1,887 joshwoz118
+   57. $1,890 ManMadeOfGouda
+  *58. $1,898 114623050
+   59. $1,902 celesteal
+   60. $1,903 Trochilidude
+   61. $1,905 Confirm NotJonah
+   62. $1,910 rockyrock3
+   63. $1,918 CursorCoercer
+   64. $1,918 Icysnowman
+   65. $1,931 serial killer
+   66. $1,942 TucLTU
+   67. $1,942 Gray
+   68. $1,945 killindinosaur
+   69. $1,949 CavoX5
+   70. $1,957 SCHM1TTY
+   71. $1,957 神一般的隊友
+   72. $1,958 henpenben
+   73. $1,963 Kool Kid Karl
+   74. $1,968 scottie.uk
+   75. $1,980 BaconPancakes
+   76. $1,984 araskerem
+   77. $1,998 DARK PHANTOM
+   78. $1,999 akkun_ouo
+   79. $2,001 Fred Figglehorn
+   80. $2,005 blue
+   81. $2,006 Osmarツ
+   82. $2,017 gijshomminga7
+   83. $2,040 泡泡茶壶
+   84. $2,052 ...
+   85. $2,056 Jhay80416
+   86. $2,073 Weiss ich nicht
+   87. $2,077 King Mydos
+   88. $2,082 A Tsarist Bovine
+   89. $2,086 MayDay88
+   90. $2,093 whdrhks3999
+   91. $2,096 XxTrollFacexX
+   92. $2,096 UkiArcticFox
+   93. $2,098 zeller-alex
+   94. $2,116 Mr. Robot Trader
+   95. $2,120 EasyX
    96. $2,133 moonrid3r
    97. $2,136 lawrenceblackbourne1
    98. $2,148 nhaven14
@@ -613,9 +613,9 @@ Updated 2022-06-08T00:35:36.111Z
   609. $3,463 _Cyberdragon_
  *610. $3,463 我锤石你德玛
   611. $3,463 Hakurei_Reimu
-  612. $3,466 Lamma
-  613. $3,466 CasterNinja
- *614. $3,467 yangyidd
+  612. $3,464 yangyidd
+  613. $3,466 Lamma
+  614. $3,466 CasterNinja
   615. $3,467 Basken
   616. $3,468 MyGameIsLagging26
   617. $3,468 fraettchen
