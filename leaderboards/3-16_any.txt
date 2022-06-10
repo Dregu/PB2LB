@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-16 "Monster Truck Rally" any% leaderboard (* = breaks)
-Updated 2022-06-09T00:38:33.740Z
-1000/58015 unique ranks shown
+Updated 2022-06-10T00:40:37.443Z
+1000/58099 unique ranks shown
 
     1. $9,999  Fathom
    *2. $10,547 somefakegamer
@@ -159,7 +159,7 @@ Updated 2022-06-09T00:38:33.740Z
   155. $22,528 CheesyGamer201
   156. $22,536 Trash Panda (Remastered)
   157. $22,555 fantakilla
-  158. $22,558 GoldTarget
+ *158. $22,558 GoldTarget
   159. $22,565 Tehninza
   160. $22,572 The Shire
  *161. $22,572 Nöten
@@ -221,9 +221,9 @@ Updated 2022-06-09T00:38:33.740Z
   217. $22,983 Sexy Boy Industries [woop]
   218. $22,986 michi.janke
   219. $22,989 I Hate Long Usernames And Irony
-  220. $22,999 PX3UAden
- *221. $22,999 Pengujedi
- *222. $23,000 v.g.plante
+ *220. $22,999 Pengujedi
+  221. $22,999 PX3UAden
+  222. $23,000 v.g.plante
   223. $23,009 Timlesuer9
   224. $23,015  Vixxrn
   225. $23,016 iKrustyy
@@ -238,8 +238,8 @@ Updated 2022-06-09T00:38:33.740Z
   234. $23,055 schmier
   235. $23,068 Un3XisT
   236. $23,070 Ryka
- *237. $23,079 martentaudt
-  238. $23,079 Salad
+  237. $23,079 Salad
+ *238. $23,079 martentaudt
   239. $23,085 olivapaa
   240. $23,088 Buzykill
   241. $23,090 konings.joeri
@@ -351,8 +351,8 @@ Updated 2022-06-09T00:38:33.740Z
  *347. $23,515 FusedZirconium
   348. $23,524 Chraller97
   349. $23,528 jefka
-  350. $23,529 Rickput
- *351. $23,529 HappyFishboy
+ *350. $23,529 HappyFishboy
+  351. $23,529 Rickput
   352. $23,545 CS2100
   353. $23,552 D. Lisboa
   354. $23,554 canat
@@ -362,8 +362,8 @@ Updated 2022-06-09T00:38:33.740Z
   358. $23,567 zinc
   359. $23,568 I SH1TT3D THEN I F4RTED
   360. $23,568 MOTEL F. ALVA
- *361. $23,570 Fockey15
-  362. $23,570 bolt986
+  361. $23,570 bolt986
+ *362. $23,570 Fockey15
   363. $23,573 dorschloch
   364. $23,575 lorddraegon
   365. $23,575 TakenoAki
@@ -522,9 +522,9 @@ Updated 2022-06-09T00:38:33.740Z
   518. $23,979 pazzz
   519. $23,980 Caddl
   520. $23,986 Guacamole Jim
- *521. $23,986 TheSuperNR
-  522. $23,986 Game Master
-  523. $23,986 NitroMonkey
+  521. $23,986 Game Master
+  522. $23,986 NitroMonkey
+ *523. $23,986 TheSuperNR
   524. $23,986 smash mouth (official)
  *525. $23,987 spencercarroll.gg
   526. $23,989 nathan.pangracs
@@ -748,8 +748,8 @@ Updated 2022-06-09T00:38:33.740Z
   744. $24,579 Antenchant
   745. $24,583 tHiborg
   746. $24,583 Richie Rich
- *747. $24,584 r_drawothermodels 2
-  748. $24,584 spirit9
+  747. $24,584 spirit9
+ *748. $24,584 r_drawothermodels 2
   749. $24,586 Moederkoekje
   750. $24,588 yupoko
   751. $24,596 crunchy
@@ -832,8 +832,8 @@ Updated 2022-06-09T00:38:33.740Z
   828. $24,745 ki1law
   829. $24,750 thedudeguy
   830. $24,751 FrankTheodore
-  831. $24,751 Patches
- *832. $24,751 not stonks
+ *831. $24,751 not stonks
+  832. $24,751 Patches
   833. $24,756 JoDougie
   834. $24,757 Akame
   835. $24,757 XxBest_Bill_Main_38xX
@@ -893,14 +893,14 @@ Updated 2022-06-09T00:38:33.740Z
   889. $24,852 Ricardo
   890. $24,852 Smarty
   891. $24,852 King
- *892. $24,852 Beefshankz
-  893. $24,852 Spectre HD
-  894. $24,852 Jekku_99
-  895. $24,852 Riken218
-  896. $24,852 Temetias
-  897. $24,852 TIGERX706
-  898. $24,852 Ezo
-  899. $24,852 Mojum
+  892. $24,852 Spectre HD
+  893. $24,852 Jekku_99
+  894. $24,852 Riken218
+  895. $24,852 Temetias
+  896. $24,852 TIGERX706
+  897. $24,852 Ezo
+  898. $24,852 Mojum
+ *899. $24,852 Beefshankz
   900. $24,852 Janus
   901. $24,852 Luca Fiorini
   902. $24,853 arvin900
@@ -982,7 +982,7 @@ Updated 2022-06-09T00:38:33.740Z
   978. $24,987 SpawnMOD
   979. $24,989 Ataraktes
   980. $24,990 rrhcsladl123
- *981. $24,991 Julius969d
+  981. $24,991 Julius969d
   982. $24,992 Spud Bencer
   983. $24,995 PRNDL
   984. $24,996 BowTieGuy
