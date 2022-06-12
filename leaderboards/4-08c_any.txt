@@ -1,12 +1,12 @@
 Poly Bridge 2 - 4-08C "Thread the Needle" any% leaderboard (* = breaks)
-Updated 2022-06-11T00:36:05.451Z
-1000/4148 unique ranks shown
+Updated 2022-06-12T00:37:21.138Z
+1000/4154 unique ranks shown
 
    *1. $829    Lagiiiie
    *2. $829    9k5
-   *3. $1,088  MOD
+   *3. $1,088  Cookieblues
    *4. $1,088  minecat
-   *5. $1,088  Cookieblues
+   *5. $1,088  MOD
    *6. $1,142  Trygeve
    *7. $1,142  Zen
    *8. $1,531  BaconPancakes
@@ -36,7 +36,7 @@ Updated 2022-06-11T00:36:05.451Z
    32. $2,837  Zhus118
    33. $2,959  Soba
   *34. $3,050  Cix
-  *35. $3,057  adambrianschmidt
+   35. $3,057  adambrianschmidt
    36. $3,077  Me 10 Jin
   *37. $3,145  Loner
   *38. $3,186  BushySushi
@@ -255,8 +255,8 @@ Updated 2022-06-11T00:36:05.451Z
  *251. $7,788  Larger Than Average Brain Player
  *252. $7,807  jonas.beachy
  *253. $7,820  acmorar9
- *254. $7,821  MiddleOrder321
-  255. $7,821  BlueFlame
+  254. $7,821  BlueFlame
+ *255. $7,821  MiddleOrder321
  *256. $7,833  MagicalMagikarp
   257. $7,852  VaWo13
   258. $7,863  SM2086
@@ -285,8 +285,8 @@ Updated 2022-06-11T00:36:05.451Z
  *281. $8,165  thueman
   282. $8,170  PROwill3
   283. $8,172  magaly_mondaca
-  284. $8,198  W@rri0r
- *285. $8,198  Leftclick
+ *284. $8,198  Leftclick
+  285. $8,198  W@rri0r
  *286. $8,209  genevieve.m.draper
  *287. $8,211  Delta_Mage
  *288. $8,246  Jassuuuuu
@@ -373,8 +373,8 @@ Updated 2022-06-11T00:36:05.451Z
   369. $8,923  TitiMcFly_
   370. $8,937  Strike274
  *371. $8,939  ☣ KILLERZΣUS ☣
- *372. $8,940  jeremywinick
- *373. $8,940  GChilley
+ *372. $8,940  GChilley
+ *373. $8,940  jeremywinick
  *374. $8,947  matthewsabio
   375. $8,972  snorkel_head
  *376. $8,981  Vïnora
@@ -395,14 +395,14 @@ Updated 2022-06-11T00:36:05.451Z
   391. $9,095  Rico The Saboteur
   392. $9,099  shock_block
   393. $9,100  Hiquake
-  394. $9,103  sirchance2002
- *395. $9,103  The Shire
+ *394. $9,103  The Shire
+  395. $9,103  sirchance2002
   396. $9,111  FlexSeal
   397. $9,115  TAMAN SHUD
   398. $9,135  Paintchip
  *399. $9,145  Chipper
- *400. $9,158  RoDoX
-  401. $9,158  Ben Curren
+  400. $9,158  Ben Curren
+ *401. $9,158  RoDoX
   402. $9,172  lokea
   403. $9,174  Jebediah1000
   404. $9,175  Rastapoulpe
@@ -472,7 +472,7 @@ Updated 2022-06-11T00:36:05.451Z
  *468. $9,779  Fiku121
  *469. $9,794  Lavisch
   470. $9,802  Ground15
- *471. $9,809  OverTheTop423
+  471. $9,809  OverTheTop423
   472. $9,818  Volardin
   473. $9,820  sidschurgin
  *474. $9,833  SThomas [GER]
@@ -563,12 +563,12 @@ Updated 2022-06-11T00:36:05.451Z
  *559. $10,618 tylerdg22
   560. $10,620 drjbananas
  *561. $10,634 Bun5gPlays
-  562. $10,638 HypersonicPineapple
- *563. $10,638 A spy in the haus
+ *562. $10,638 A spy in the haus
+  563. $10,638 HypersonicPineapple
   564. $10,642 Jakobs
  *565. $10,644 enderquest
-  566. $10,650 Totulhu
- *567. $10,650 DrMacTastic
+ *566. $10,650 DrMacTastic
+  567. $10,650 Totulhu
   568. $10,654 MechanicalPencil
   569. $10,657 Ninzin
  *570. $10,659 Uwma Senhur
@@ -622,8 +622,8 @@ Updated 2022-06-11T00:36:05.451Z
  *618. $10,915 Jupiter
   619. $10,916 takeoff
  *620. $10,935 Hazmat
-  621. $10,946 Random Retard
- *622. $10,946 connor_farmer
+ *621. $10,946 connor_farmer
+  622. $10,946 Random Retard
  *623. $10,947 Brubby
   624. $10,950 lbrinkey01
   625. $10,956 jt14lego
@@ -770,8 +770,8 @@ Updated 2022-06-11T00:36:05.451Z
   766. $11,674 michi.janke
   767. $11,674 Thudios
  *768. $11,678 LOtown
- *769. $11,687 Oehoe de uil
- *770. $11,687 Pam Plemousse
+ *769. $11,687 Pam Plemousse
+ *770. $11,687 Oehoe de uil
   771. $11,690 Rudy
  *772. $11,715 VeilUnveiled
   773. $11,719 ThatBloodyPanda
@@ -808,8 +808,8 @@ Updated 2022-06-11T00:36:05.451Z
   804. $11,883 Meerkat890
   805. $11,889 LFB
  *806. $11,898 craftingtacos
-  807. $11,906 Con-Man Moran
- *808. $11,906 dtee3
+ *807. $11,906 dtee3
+  808. $11,906 Con-Man Moran
   809. $11,908 guaranteed_whales
  *810. $11,911 Road to beat Squishy
  *811. $11,931 marleowa02
@@ -838,8 +838,8 @@ Updated 2022-06-11T00:36:05.451Z
   834. $12,051 garcia4you
   835. $12,058 Des_troy_er
   836. $12,063 MatthewB
-  837. $12,066 OCTDUMPUS
- *838. $12,066 philm302
+ *837. $12,066 philm302
+  838. $12,066 OCTDUMPUS
   839. $12,068 snowfire247
   840. $12,074 Yojaun Tamata Costly
   841. $12,076 Xeoran
@@ -959,8 +959,8 @@ Updated 2022-06-11T00:36:05.451Z
   955. $12,502 BearlyHere
   956. $12,508 Audity
  *957. $12,509 17uu
- *958. $12,512 sebe.schulze
-  959. $12,512 StumpyWumpy
+  958. $12,512 StumpyWumpy
+ *959. $12,512 sebe.schulze
  *960. $12,513 aidenmcmuffin
  *961. $12,517 Parimad
   962. $12,521 Bulletpruuv
