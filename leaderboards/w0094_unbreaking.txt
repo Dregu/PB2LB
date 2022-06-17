@@ -1,9 +1,9 @@
 Poly Bridge 2 - W0094 "Weekly Challenge #94" unbreaking leaderboard
-Updated 2022-06-16T00:36:19.121Z
-106/106 unique ranks shown
+Updated 2022-06-17T00:30:55.040Z
+124/124 unique ranks shown
 
     1. $39,999  Trygeve
-    2. $47,363  lee731017
+    2. $46,583  lee731017
     3. $47,889  cliff007
     4. $47,891  Dregu
     5. $58,531  jonaTHOT
@@ -17,94 +17,112 @@ Updated 2022-06-16T00:36:19.121Z
    13. $98,374  kareki00
    14. $99,770  w00zy
    15. $99,845  SoulWager
-   16. $105,139 mbutton15
-   17. $109,951 leiberich
-   18. $110,406 Looming
-   19. $110,427 maxblue456
-   20. $111,947 Thoomor
-   21. $112,429 huurainotoruneko
-   22. $115,102 wcopeland25
-   23. $115,577 ArborealOyster
-   24. $116,354 9k5
-   25. $120,735 1624413338
-   26. $123,284 cristobaalandre
-   27. $123,830 chenail.liam
-   28. $124,507 alejandroafuentes045
-   29. $126,219 lazy comet
-   30. $127,135 R
-   31. $131,486 MintAgeStudios
-   32. $137,654 maash
-   33. $139,235 TheKDub
-   34. $140,213 JusthellTV [GER]
-   35. $141,185 pmzzz
-   36. $141,417 JakubBouska
-   37. $142,850 palfly15
-   38. $143,361 trigophers
-   39. $146,278 MC_LOVIN_LOVER
-   40. $146,779 3155760000kuo
-   41. $148,696 chadstacey
-   42. $148,819 Favmir
-   43. $151,462 Deka
-   44. $152,197 fallenseraph0212
-   45. $153,018 GOZZ
-   46. $153,159 strax
-   47. $153,614 transvana
-   48. $154,769 actionaa
-   49. $156,306 tetsu_yamamon
-   50. $157,955 pufaxx
-   51. $159,950 Seiho2659
-   52. $160,682 Euphoria
-   53. $162,827 nKAir
-   54. $164,010 phkmoney
-   55. $164,332 takayoshi_0111
-   56. $164,442 sherry-hampton
-   57. $164,711 Markrosoft Word
-   58. $164,972 Bubi
-   59. $165,843 canevarijp
-   60. $166,106 drewsdesktop
-   61. $166,804 Elwin
-   62. $167,536 HowieFTW
-   63. $167,546 CAMAGOCO
-   64. $167,583 leuo
-   65. $167,842 denisa.aguirre
-   66. $168,055 Kyle
-   67. $169,236 gavinm5521
-   68. $170,713 BuildingDR
-   69. $170,806 233333
-   70. $171,041 scout_2001
-   71. $171,328 Zurli
-   72. $174,435 hyeonjeongg546
-   73. $175,277 zhaohuaye54
-   74. $175,775 killofki
-   75. $175,822 Jeevus
-   76. $175,919 Scroot McJib
-   77. $176,575 Noob
-   78. $176,938 Nigi9002.
-   79. $177,045 Christopher Rockefeller
-   80. $177,309 WarrenAlee
-   81. $178,111 howwouldiknow
-   82. $178,697 porthara
-   83. $178,827 jack_the_maniac
-   84. $178,958 axwellmay56
-   85. $179,325 svcb642868
-   86. $179,388 TheHearts
-   87. $179,489 m.grabowski80
-   88. $179,755 Kizzer
-   89. $179,844 hexaforce678
-   90. $179,862 Thpetre
-   91. $179,979 kade.capps
-   92. $180,796 SuperMidget_99
-   93. $186,400 rucklet
-   94. $188,999 Captain_Cool93
-   95. $189,378 erikmekler
-   96. $228,471 dhoover1
-   97. $230,157 cashgold
-   98. $234,167 Pretender
-   99. $235,503 bgardner1225
-  100. $243,037 Arakill
-  101. $256,983 1983 Nissan Shitbox
-  102. $272,488 Fn_xy
-  103. $277,911 gilhillelwolff1
-  104. $279,860 Magarael
-  105. $302,642 neioku
-  106. $353,282 TRBulece
+   16. $104,557 leiberich
+   17. $105,139 mbutton15
+   18. $107,964 huurainotoruneko
+   19. $110,406 Looming
+   20. $110,427 maxblue456
+   21. $110,675 R
+   22. $111,947 Thoomor
+   23. $115,102 wcopeland25
+   24. $115,577 ArborealOyster
+   25. $116,354 9k5
+   26. $119,857 TheMilOne
+   27. $120,735 1624413338
+   28. $123,284 cristobaalandre
+   29. $123,830 chenail.liam
+   30. $124,507 alejandroafuentes045
+   31. $126,219 lazy comet
+   32. $131,486 MintAgeStudios
+   33. $132,516 actionaa
+   34. $133,694 fvillaca
+   35. $137,654 maash
+   36. $138,840 ViVi
+   37. $139,235 TheKDub
+   38. $140,213 JusthellTV [GER]
+   39. $141,185 pmzzz
+   40. $141,417 JakubBouska
+   41. $142,850 palfly15
+   42. $143,361 trigophers
+   43. $146,278 MC_LOVIN_LOVER
+   44. $146,779 3155760000kuo
+   45. $148,696 chadstacey
+   46. $148,819 Favmir
+   47. $148,859 Kyle
+   48. $151,462 Deka
+   49. $152,197 fallenseraph0212
+   50. $153,018 GOZZ
+   51. $153,159 strax
+   52. $153,614 transvana
+   53. $155,320 pork_cake
+   54. $156,306 tetsu_yamamon
+   55. $157,955 pufaxx
+   56. $159,619 bastian.bello.c
+   57. $159,950 Seiho2659
+   58. $160,164 Engineered kaos
+   59. $160,682 Euphoria
+   60. $162,827 nKAir
+   61. $164,010 phkmoney
+   62. $164,332 takayoshi_0111
+   63. $164,442 sherry-hampton
+   64. $164,711 Markrosoft Word
+   65. $164,972 Bubi
+   66. $165,843 canevarijp
+   67. $166,106 drewsdesktop
+   68. $166,804 Elwin
+   69. $167,167 SirHootsAlot
+   70. $167,536 HowieFTW
+   71. $167,546 CAMAGOCO
+   72. $167,583 leuo
+   73. $167,842 denisa.aguirre
+   74. $169,236 gavinm5521
+   75. $170,713 BuildingDR
+   76. $170,806 233333
+   77. $171,041 scout_2001
+   78. $171,328 Zurli
+   79. $172,198 Danieul
+   80. $174,435 hyeonjeongg546
+   81. $175,277 zhaohuaye54
+   82. $175,775 killofki
+   83. $175,822 Jeevus
+   84. $175,842 Luisjnc
+   85. $175,919 Scroot McJib
+   86. $176,575 Noob
+   87. $176,937 mggolden2001
+   88. $176,938 Nigi9002.
+   89. $177,045 Christopher Rockefeller
+   90. $177,309 WarrenAlee
+   91. $178,111 howwouldiknow
+   92. $178,697 porthara
+   93. $178,827 jack_the_maniac
+   94. $178,958 axwellmay56
+   95. $179,325 svcb642868
+   96. $179,388 TheHearts
+   97. $179,489 m.grabowski80
+   98. $179,606 Gaming_Jak3
+   99. $179,615 Okaytuff dude
+  100. $179,641 ~ Smithy ~
+  101. $179,755 Kizzer
+  102. $179,844 hexaforce678
+  103. $179,862 Thpetre
+  104. $179,883 dennismail4
+  105. $179,979 kade.capps
+  106. $179,983 Pretender
+  107. $180,796 SuperMidget_99
+  108. $186,400 rucklet
+  109. $188,999 Captain_Cool93
+  110. $189,378 erikmekler
+  111. $199,944 Douce09
+  112. $228,471 dhoover1
+  113. $230,157 cashgold
+  114. $230,631 Creative Kiwi
+  115. $235,503 bgardner1225
+  116. $243,037 Arakill
+  117. $256,983 1983 Nissan Shitbox
+  118. $270,030 decuTree
+  119. $272,488 Fn_xy
+  120. $277,911 gilhillelwolff1
+  121. $279,860 Magarael
+  122. $298,840 CaptMike
+  123. $302,642 neioku
+  124. $353,282 TRBulece
