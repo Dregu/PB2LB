@@ -1,6 +1,6 @@
 Poly Bridge 2 - W0094 "Weekly Challenge #94" unbreaking leaderboard
-Updated 2022-06-17T00:30:55.040Z
-124/124 unique ranks shown
+Updated 2022-06-18T00:39:02.031Z
+132/132 unique ranks shown
 
     1. $39,999  Trygeve
     2. $46,583  lee731017
@@ -12,10 +12,10 @@ Updated 2022-06-17T00:30:55.040Z
     8. $69,420  tonyz01234
     9. $84,624  杯冰
    10. $87,791  niff-Tea_UK
-   11. $96,568  LENTObANAANI
-   12. $97,320  Stabhole
-   13. $98,374  kareki00
-   14. $99,770  w00zy
+   11. $93,257  w00zy
+   12. $96,568  LENTObANAANI
+   13. $97,320  Stabhole
+   14. $98,374  kareki00
    15. $99,845  SoulWager
    16. $104,557 leiberich
    17. $105,139 mbutton15
@@ -33,96 +33,104 @@ Updated 2022-06-17T00:30:55.040Z
    29. $123,830 chenail.liam
    30. $124,507 alejandroafuentes045
    31. $126,219 lazy comet
-   32. $131,486 MintAgeStudios
-   33. $132,516 actionaa
-   34. $133,694 fvillaca
-   35. $137,654 maash
-   36. $138,840 ViVi
-   37. $139,235 TheKDub
-   38. $140,213 JusthellTV [GER]
-   39. $141,185 pmzzz
-   40. $141,417 JakubBouska
-   41. $142,850 palfly15
-   42. $143,361 trigophers
-   43. $146,278 MC_LOVIN_LOVER
-   44. $146,779 3155760000kuo
-   45. $148,696 chadstacey
-   46. $148,819 Favmir
-   47. $148,859 Kyle
-   48. $151,462 Deka
-   49. $152,197 fallenseraph0212
-   50. $153,018 GOZZ
-   51. $153,159 strax
-   52. $153,614 transvana
-   53. $155,320 pork_cake
-   54. $156,306 tetsu_yamamon
-   55. $157,955 pufaxx
-   56. $159,619 bastian.bello.c
-   57. $159,950 Seiho2659
-   58. $160,164 Engineered kaos
-   59. $160,682 Euphoria
-   60. $162,827 nKAir
-   61. $164,010 phkmoney
-   62. $164,332 takayoshi_0111
-   63. $164,442 sherry-hampton
-   64. $164,711 Markrosoft Word
-   65. $164,972 Bubi
-   66. $165,843 canevarijp
-   67. $166,106 drewsdesktop
-   68. $166,804 Elwin
-   69. $167,167 SirHootsAlot
-   70. $167,536 HowieFTW
-   71. $167,546 CAMAGOCO
-   72. $167,583 leuo
-   73. $167,842 denisa.aguirre
-   74. $169,236 gavinm5521
-   75. $170,713 BuildingDR
-   76. $170,806 233333
-   77. $171,041 scout_2001
-   78. $171,328 Zurli
-   79. $172,198 Danieul
-   80. $174,435 hyeonjeongg546
-   81. $175,277 zhaohuaye54
-   82. $175,775 killofki
-   83. $175,822 Jeevus
-   84. $175,842 Luisjnc
-   85. $175,919 Scroot McJib
-   86. $176,575 Noob
-   87. $176,937 mggolden2001
-   88. $176,938 Nigi9002.
-   89. $177,045 Christopher Rockefeller
-   90. $177,309 WarrenAlee
-   91. $178,111 howwouldiknow
-   92. $178,697 porthara
-   93. $178,827 jack_the_maniac
-   94. $178,958 axwellmay56
-   95. $179,325 svcb642868
-   96. $179,388 TheHearts
-   97. $179,489 m.grabowski80
-   98. $179,606 Gaming_Jak3
-   99. $179,615 Okaytuff dude
-  100. $179,641 ~ Smithy ~
-  101. $179,755 Kizzer
-  102. $179,844 hexaforce678
-  103. $179,862 Thpetre
-  104. $179,883 dennismail4
-  105. $179,979 kade.capps
-  106. $179,983 Pretender
-  107. $180,796 SuperMidget_99
-  108. $186,400 rucklet
-  109. $188,999 Captain_Cool93
-  110. $189,378 erikmekler
-  111. $199,944 Douce09
-  112. $228,471 dhoover1
-  113. $230,157 cashgold
-  114. $230,631 Creative Kiwi
-  115. $235,503 bgardner1225
-  116. $243,037 Arakill
-  117. $256,983 1983 Nissan Shitbox
-  118. $270,030 decuTree
-  119. $272,488 Fn_xy
-  120. $277,911 gilhillelwolff1
-  121. $279,860 Magarael
-  122. $298,840 CaptMike
-  123. $302,642 neioku
-  124. $353,282 TRBulece
+   32. $130,821 antony.interlandi
+   33. $131,486 MintAgeStudios
+   34. $132,516 actionaa
+   35. $133,694 fvillaca
+   36. $137,654 maash
+   37. $138,840 ViVi
+   38. $139,235 TheKDub
+   39. $140,140 Luisjnc
+   40. $140,213 JusthellTV [GER]
+   41. $141,185 pmzzz
+   42. $141,417 JakubBouska
+   43. $142,850 palfly15
+   44. $143,361 trigophers
+   45. $146,278 MC_LOVIN_LOVER
+   46. $146,779 3155760000kuo
+   47. $148,696 chadstacey
+   48. $148,819 Favmir
+   49. $148,859 Kyle
+   50. $151,462 Deka
+   51. $152,197 fallenseraph0212
+   52. $153,018 GOZZ
+   53. $153,159 strax
+   54. $153,327 minecat
+   55. $153,614 transvana
+   56. $155,320 pork_cake
+   57. $156,306 tetsu_yamamon
+   58. $157,955 pufaxx
+   59. $159,619 bastian.bello.c
+   60. $159,950 Seiho2659
+   61. $160,164 Engineered kaos
+   62. $160,658 derekchung722
+   63. $160,682 Euphoria
+   64. $162,827 nKAir
+   65. $164,010 phkmoney
+   66. $164,332 takayoshi_0111
+   67. $164,442 sherry-hampton
+   68. $164,711 Markrosoft Word
+   69. $164,972 Bubi
+   70. $165,843 canevarijp
+   71. $166,106 drewsdesktop
+   72. $166,804 Elwin
+   73. $167,167 SirHootsAlot
+   74. $167,536 HowieFTW
+   75. $167,546 CAMAGOCO
+   76. $167,583 leuo
+   77. $167,842 denisa.aguirre
+   78. $169,236 gavinm5521
+   79. $170,713 BuildingDR
+   80. $170,806 233333
+   81. $171,041 scout_2001
+   82. $171,328 Zurli
+   83. $171,955 Uncommon Rat
+   84. $172,198 Danieul
+   85. $174,435 hyeonjeongg546
+   86. $175,277 zhaohuaye54
+   87. $175,775 killofki
+   88. $175,822 Jeevus
+   89. $175,919 Scroot McJib
+   90. $176,575 Noob
+   91. $176,937 mggolden2001
+   92. $176,938 Nigi9002.
+   93. $176,989 iPwn
+   94. $177,045 Christopher Rockefeller
+   95. $177,309 WarrenAlee
+   96. $177,965 -znegva-
+   97. $178,111 howwouldiknow
+   98. $178,697 porthara
+   99. $178,827 jack_the_maniac
+  100. $178,958 axwellmay56
+  101. $179,325 svcb642868
+  102. $179,388 TheHearts
+  103. $179,489 m.grabowski80
+  104. $179,606 Gaming_Jak3
+  105. $179,615 Okaytuff dude
+  106. $179,641 ~ Smithy ~
+  107. $179,755 Kizzer
+  108. $179,844 hexaforce678
+  109. $179,862 Thpetre
+  110. $179,883 dennismail4
+  111. $179,966 carolin_koenig
+  112. $179,979 kade.capps
+  113. $179,983 Pretender
+  114. $180,796 SuperMidget_99
+  115. $186,400 rucklet
+  116. $188,999 Captain_Cool93
+  117. $189,378 erikmekler
+  118. $199,944 Douce09
+  119. $228,471 dhoover1
+  120. $230,157 cashgold
+  121. $230,631 Creative Kiwi
+  122. $235,503 bgardner1225
+  123. $243,037 Arakill
+  124. $256,983 1983 Nissan Shitbox
+  125. $270,030 decuTree
+  126. $272,488 Fn_xy
+  127. $277,911 gilhillelwolff1
+  128. $279,860 Magarael
+  129. $298,840 CaptMike
+  130. $302,642 neioku
+  131. $353,282 TRBulece
+  132. $359,007 oliver280
