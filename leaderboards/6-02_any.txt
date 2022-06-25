@@ -1,6 +1,6 @@
 Poly Bridge 2 - 6-02 "Canyon Carriage" any% leaderboard (* = breaks)
-Updated 2022-06-24T00:36:59.296Z
-1000/2737 unique ranks shown
+Updated 2022-06-25T00:37:19.901Z
+1000/2739 unique ranks shown
 
    *1. $513    Zen
    *2. $513    minecat
@@ -10,9 +10,9 @@ Updated 2022-06-24T00:36:59.296Z
    *6. $525    Lagiiiie
    *7. $550    Bibbb
    *8. $777    Trygeve
-   *9. $803    MOD
-  *10. $803    geroniberry
-  *11. $803    palfly15
+   *9. $803    geroniberry
+  *10. $803    palfly15
+  *11. $803    MOD
   *12. $1,175  Pengujedi
   *13. $1,475  albertlove33
   *14. $1,475  Icysnowman
@@ -36,10 +36,10 @@ Updated 2022-06-24T00:36:59.296Z
   *32. $11,557 bryan31385
   *33. $11,666 gamespilgame
   *34. $11,683 『　　』
-  *35. $11,706 metatropic
-  *36. $11,706 cavetroll
+  *35. $11,706 zeller-alex
+  *36. $11,706 metatropic
   *37. $11,706 mooseman0423
-  *38. $11,706 zeller-alex
+  *38. $11,706 cavetroll
    39. $11,738 0123
   *40. $11,824 WarrenAlee
   *41. $12,179 Valnix
@@ -966,39 +966,39 @@ Updated 2022-06-24T00:36:59.296Z
   962. $32,353 dayuanxian
   963. $32,367 dream_lin_1982
   964. $32,393 Fu
-  965. $32,402 vesslan83
-  966. $32,459 HappyPiggy
-  967. $32,464 FalkorTheLuckDragon
-  968. $32,489 Dizzle
-  969. $32,490 lexidoodles1
-  970. $32,494 gab42
- *971. $32,528 Sebarooo
-  972. $32,529 yy9881124
-  973. $32,529 Blublahh
-  974. $32,540 cccmeat
-  975. $32,548 VeggieBurrito
-  976. $32,555 spottypeas
-  977. $32,565 lukas.bornheim
-  978. $32,583 Jumpyball16
-  979. $32,584 mic1004c
-  980. $32,587 BlorkBorkey
-  981. $32,592 uyutaso
-  982. $32,613 WirJun
-  983. $32,623 Saverin
-  984. $32,627 檸檬
-  985. $32,636 WeveBigGun
-  986. $32,636 txchrx
-  987. $32,651 Dragon Fruit
-  988. $32,687 JustLittleKraTom
-  989. $32,689 sHad3s-67
-  990. $32,702 ProfiAmWerk
-  991. $32,717 megonmejia003
-  992. $32,727 tarr2015
-  993. $32,730 piccolo_SPA
-  994. $32,732 Stuntman Mike
-  995. $32,737 waltsawesome
-  996. $32,737 Chosen
-  997. $32,742 a trained kitten
-  998. $32,755 reofarp
-  999. $32,756 Cissell
- 1000. $32,774 Uke
+  965. $32,394 DarkHawkEyes
+  966. $32,402 vesslan83
+  967. $32,459 HappyPiggy
+  968. $32,464 FalkorTheLuckDragon
+  969. $32,489 Dizzle
+  970. $32,490 lexidoodles1
+  971. $32,494 gab42
+ *972. $32,528 Sebarooo
+  973. $32,529 yy9881124
+  974. $32,529 Blublahh
+  975. $32,540 cccmeat
+  976. $32,548 VeggieBurrito
+  977. $32,555 spottypeas
+  978. $32,565 lukas.bornheim
+  979. $32,583 Jumpyball16
+  980. $32,584 mic1004c
+  981. $32,587 BlorkBorkey
+  982. $32,592 uyutaso
+  983. $32,613 WirJun
+  984. $32,623 Saverin
+  985. $32,627 檸檬
+  986. $32,636 WeveBigGun
+  987. $32,636 txchrx
+  988. $32,651 Dragon Fruit
+  989. $32,687 JustLittleKraTom
+  990. $32,689 sHad3s-67
+  991. $32,702 ProfiAmWerk
+  992. $32,717 megonmejia003
+  993. $32,727 tarr2015
+  994. $32,730 piccolo_SPA
+  995. $32,732 Stuntman Mike
+  996. $32,737 waltsawesome
+  997. $32,737 Chosen
+  998. $32,742 a trained kitten
+  999. $32,755 reofarp
+ 1000. $32,756 Cissell
