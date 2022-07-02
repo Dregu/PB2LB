@@ -1,11 +1,11 @@
 Poly Bridge 2 - 3-06C "Rock Skipping" any% leaderboard (* = breaks)
-Updated 2022-07-01T00:40:07.352Z
-1000/5508 unique ranks shown
+Updated 2022-07-02T00:40:35.541Z
+1000/5510 unique ranks shown
 
-   *1. $444    Cookieblues
-   *2. $444    9k5
-   *3. $444    Zen
-   *4. $444    Lagiiiie
+   *1. $444    Zen
+   *2. $444    Lagiiiie
+   *3. $444    9k5
+   *4. $444    Cookieblues
    *5. $444    Trygeve
    *6. $799    MOD
    *7. $799    minecat
@@ -40,7 +40,7 @@ Updated 2022-07-01T00:40:07.352Z
    36. $4,588  Luuroon
    37. $4,617  Hamel
   *38. $4,633  celesteal
-  *39. $4,690  nhaven14
+   39. $4,690  nhaven14
    40. $4,723  BlockBreaker
    41. $4,792  Weirdone
    42. $4,799  Heater
@@ -191,8 +191,8 @@ Updated 2022-07-01T00:40:07.352Z
   187. $7,163  toga
   188. $7,165  Conqu3red
  *189. $7,172  Jacosama
- *190. $7,186  Alison
- *191. $7,186  LassDasMal
+ *190. $7,186  LassDasMal
+ *191. $7,186  Alison
   192. $7,189  UnsanityLIVE
   193. $7,205  Drnoob0208
   194. $7,224  Reto
@@ -247,8 +247,8 @@ Updated 2022-07-01T00:40:07.352Z
   243. $7,835  담율
  *244. $7,864  Reedy_Jack_
   245. $7,868  Siberian Simians
- *246. $7,895  tinypenguin000
-  247. $7,895  lokea
+  246. $7,895  lokea
+ *247. $7,895  tinypenguin000
   248. $7,908  Loner
  *249. $7,908  Wr0mb3l
   250. $7,918  e.kolya16
@@ -270,7 +270,7 @@ Updated 2022-07-01T00:40:07.352Z
   266. $8,058  Time Kitt
   267. $8,110  sauensean420
   268. $8,112  Jemkat
-  269. $8,150  Pengujedi
+ *269. $8,150  Pengujedi
   270. $8,178  peng_yun1205
   271. $8,181  jamiegbreault
   272. $8,184  dhartwell
@@ -370,8 +370,8 @@ Updated 2022-07-01T00:40:07.352Z
  *366. $8,856  Sofie
   367. $8,867  Ace_Falken
  *368. $8,868  Noobirini
-  369. $8,880  Turd Ferguson
- *370. $8,880  TuttuT Les Rageux
+ *369. $8,880  TuttuT Les Rageux
+  370. $8,880  Turd Ferguson
   371. $8,883  Leo
   372. $8,884  Pedra
   373. $8,891  Riachuxgamer
@@ -422,9 +422,9 @@ Updated 2022-07-01T00:40:07.352Z
   418. $9,179  musmus101
   419. $9,180  Kedini
   420. $9,181  Luna Kampling
- *421. $9,181  The Magic Taco Truck
-  422. $9,181  hippolippo
-  423. $9,181  [ok.] Teaksanny
+  421. $9,181  hippolippo
+  422. $9,181  [ok.] Teaksanny
+ *423. $9,181  The Magic Taco Truck
   424. $9,191  schaufan
   425. $9,200  CWYO
  *426. $9,216  ChalmersSantiago
@@ -447,8 +447,8 @@ Updated 2022-07-01T00:40:07.352Z
   443. $9,365  iHax Joker
   444. $9,368  GoodMath
   445. $9,371  samuelpierog
- *446. $9,376  Raglock
-  447. $9,376  taxmaxgoodman
+  446. $9,376  taxmaxgoodman
+ *447. $9,376  Raglock
  *448. $9,388  ferncrombie
   449. $9,397  WalkingPotato
   450. $9,407  uniuno
@@ -506,7 +506,7 @@ Updated 2022-07-01T00:40:07.352Z
   502. $9,687  RexlanV
   503. $9,693  slicedtoad
   504. $9,695  Turtle_God
-  505. $9,698  Kastrull
+ *505. $9,698  Kastrull
   506. $9,700  Reo
   507. $9,700  manojmact
  *508. $9,701  j4d
@@ -634,10 +634,10 @@ Updated 2022-07-01T00:40:07.352Z
  *630. $10,538 Kittenz420
   631. $10,543 henpenben
   632. $10,546 maxjmiles
- *633. $10,555 shasta.pete
-  634. $10,555 MarkFinn
-  635. $10,555 Acid RAIN
-  636. $10,555 thelastprime
+  633. $10,555 MarkFinn
+  634. $10,555 Acid RAIN
+  635. $10,555 thelastprime
+ *636. $10,555 shasta.pete
   637. $10,558 Induced
   638. $10,558 Dom
   639. $10,562 Arigami
@@ -653,8 +653,8 @@ Updated 2022-07-01T00:40:07.352Z
   649. $10,622 Anders
   650. $10,622 polak1 -sz
   651. $10,633 MyGameIsLagging26
- *652. $10,646 LucasOriginal
-  653. $10,646 pegarneau
+  652. $10,646 pegarneau
+ *653. $10,646 LucasOriginal
   654. $10,649 DanielBK
   655. $10,660 david.veit
   656. $10,667 Lupo
@@ -797,8 +797,8 @@ Updated 2022-07-01T00:40:07.352Z
   793. $11,379 Jonathanos
   794. $11,395 Jakobs
   795. $11,406 johannes
- *796. $11,413 Noisyboy
- *797. $11,413 pete
+ *796. $11,413 pete
+ *797. $11,413 Noisyboy
  *798. $11,437 Flashmiester205
   799. $11,437 Allanb
  *800. $11,442 Shrek
@@ -876,7 +876,7 @@ Updated 2022-07-01T00:40:07.352Z
   872. $11,758 Yangnyeom Chicken
   873. $11,760 Jezre
   874. $11,761 PNT_88
- *875. $11,780 omdidit
+  875. $11,780 omdidit
   876. $11,787 TheWisestGiraffe
   877. $11,791 Masonator
   878. $11,791 whatever
@@ -939,8 +939,8 @@ Updated 2022-07-01T00:40:07.352Z
  *935. $12,081 Entsel
   936. $12,083 Yoshisapple
   937. $12,089 fakue1
- *938. $12,093 salazar_zin
-  939. $12,093 Cubes
+  938. $12,093 Cubes
+ *939. $12,093 salazar_zin
   940. $12,105 Wyld
   941. $12,107 veggie stix
   942. $12,116 HappyPiggy
@@ -971,12 +971,12 @@ Updated 2022-07-01T00:40:07.352Z
   967. $12,233 Howard Beale
   968. $12,233 NyteShade
   969. $12,234 Katamari (old)
- *970. $12,243 DaggerDoom
-  971. $12,243 oBSTER
+  970. $12,243 oBSTER
+ *971. $12,243 DaggerDoom
   972. $12,247 hjerppe
  *973. $12,248 itzlukeYT21
-  974. $12,250 Doomcake12345
-  975. $12,250 Freedom_IT
+ *974. $12,250 Freedom_IT
+  975. $12,250 Doomcake12345
   976. $12,252 pineapplebacon777
  *977. $12,264 mikehuntehertz
   978. $12,267 Herr Hövels
