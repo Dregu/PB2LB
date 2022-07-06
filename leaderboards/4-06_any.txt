@@ -1,13 +1,13 @@
 Poly Bridge 2 - 4-06 "Safety Gap" any% leaderboard (* = breaks)
-Updated 2022-07-05T00:38:21.063Z
-1000/40428 unique ranks shown
+Updated 2022-07-06T00:42:08.492Z
+1000/40461 unique ranks shown
 
-   *1. $499    Zen
-   *2. $499    Cookieblues
-   *3. $499    9k5
+   *1. $499    9k5
+   *2. $499    Zen
+   *3. $499    Cookieblues
    *4. $525    Lagiiiie
-   *5. $817    MOD
-   *6. $817    minecat
+   *5. $817    minecat
+   *6. $817    MOD
    *7. $817    Trygeve
    *8. $998    Fathom
     9. $1,799  7777Alex7777
@@ -200,8 +200,8 @@ Updated 2022-07-05T00:38:21.063Z
   196. $11,529 Charles_F_Adams
   197. $11,569 nhaven14
  *198. $11,577 cmccann1578
-  199. $11,605 ⛧łmbo⛧
- *200. $11,605 Cracklepappy
+ *199. $11,605 Cracklepappy
+  200. $11,605 ⛧łmbo⛧
   201. $11,623 Polymyr
   202. $11,628 Parzival
  *203. $11,691 TesllaTea マックス
@@ -213,7 +213,7 @@ Updated 2022-07-05T00:38:21.063Z
   209. $11,812 FiTy
  *210. $11,819 bees
   211. $11,839 Recket
- *212. $11,857 Dubious
+  212. $11,857 Dubious
   213. $11,864 Aregada
   214. $11,872 bastian.bello.c
   215. $11,882 Kowely
@@ -355,7 +355,7 @@ Updated 2022-07-05T00:38:21.063Z
  *351. $14,033 2heavy2carry
   352. $14,040 Shirley Urjokin
  *353. $14,054 Bootreet
-  354. $14,065 Offspec
+ *354. $14,065 Offspec
   355. $14,199 s08hasegawa
   356. $14,211 Conni0808
   357. $14,256 GoombaNL
@@ -441,7 +441,7 @@ Updated 2022-07-05T00:38:21.063Z
   437. $16,156 WeTz
   438. $16,158 Jormungandr
  *439. $16,217 cb2151ja
-  440. $16,253 Oddysen
+ *440. $16,253 Oddysen
   441. $16,266 worm
   442. $16,272 melphel
   443. $16,284 markkazmierowicz
@@ -459,8 +459,8 @@ Updated 2022-07-05T00:38:21.063Z
  *455. $16,514 Boat
   456. $16,519 J_Hodgie
  *457. $16,589 NanoCE
- *458. $16,597 The All-Powerful Qwan
- *459. $16,597 Hiby
+ *458. $16,597 Hiby
+ *459. $16,597 The All-Powerful Qwan
   460. $16,620 Dente
   461. $16,651 ScaredGolf
   462. $16,656 OiOiSavoy
@@ -848,10 +848,10 @@ Updated 2022-07-05T00:38:21.063Z
   844. $21,653 kev
   845. $21,665 Shark!!
   846. $21,670 ilban.sno
- *847. $21,670 Maironne
-  848. $21,670 Nobody
-  849. $21,670 HDF_Rockstar
-  850. $21,670 Liko Shepwolfox
+  847. $21,670 Nobody
+  848. $21,670 HDF_Rockstar
+  849. $21,670 Liko Shepwolfox
+  850. $21,670 Maironne
   851. $21,670 Coffe
   852. $21,670 Jelly-J
   853. $21,678 Elwin
@@ -935,8 +935,8 @@ Updated 2022-07-05T00:38:21.063Z
   931. $22,385 DerFyZoX_eZZ
   932. $22,392 bmeds328
   933. $22,393 YYX
- *934. $22,443 Lich
-  935. $22,443 Mini Panic
+  934. $22,443 Mini Panic
+ *935. $22,443 Lich
   936. $22,445 P1RV
   937. $22,447 JacoB
   938. $22,461 Boem
