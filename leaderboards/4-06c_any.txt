@@ -1,23 +1,23 @@
 Poly Bridge 2 - 4-06C "Safety Gap" any% leaderboard (* = breaks)
-Updated 2022-07-07T00:41:44.590Z
-1000/3010 unique ranks shown
+Updated 2022-07-08T00:42:15.584Z
+1000/3011 unique ranks shown
 
    *1. $349    9k5
    *2. $398    tonyz01234
-   *3. $399    Fathom
-   *4. $399    7777Alex7777
-   *5. $399    geroniberry
-   *6. $399    Cookieblues
-   *7. $399    MOD
-   *8. $399    Lagiiiie
-   *9. $399    Zen
-  *10. $399    Trygeve
+   *3. $399    geroniberry
+   *4. $399    MOD
+   *5. $399    7777Alex7777
+   *6. $399    Trygeve
+   *7. $399    Zen
+   *8. $399    Fathom
+   *9. $399    Cookieblues
+  *10. $399    Lagiiiie
   *11. $427    Shadow
-  *12. $555    minecat
-  *13. $555    palfly15
-  *14. $555    ~ Smithy ~
-  *15. $555    celesteal
-  *16. $555    somefakegamer
+  *12. $555    ~ Smithy ~
+  *13. $555    celesteal
+  *14. $555    palfly15
+  *15. $555    somefakegamer
+  *16. $555    minecat
    17. $15,954 Roevhaal
    18. $16,658 Bibbb
    19. $16,660 Sexy Boy Industries [woop]
@@ -25,7 +25,7 @@ Updated 2022-07-07T00:41:44.590Z
   *21. $16,699 jonaTHOT
    22. $16,699 Heater
   *23. $16,713 lancekro
-  *24. $16,722 aBacIdEe
+   24. $16,722 aBacIdEe
    25. $16,739 Trollhand
    26. $16,777 mills.regan
    27. $16,798 Honn
@@ -168,61 +168,61 @@ Updated 2022-07-07T00:41:44.590Z
   164. $32,452 baimin26
   165. $32,521 Momo ^,^
  *166. $32,558 Sixtails
-  167. $32,631 drjbananas
- *168. $32,718 Larry the Dota Guy
-  169. $32,742 brandbaria
-  170. $32,751 mrichstein169
- *171. $32,770 Jacowboy
-  172. $32,806 Krodis
-  173. $32,869 XPatt
- *174. $32,900 BlueFlame
-  175. $32,977 Mr.ThisGuy
-  176. $33,069 Dom
-  177. $33,078 ALTENO
-  178. $33,122 I Like Ugly Mammals.
-  179. $33,129 non victus
-  180. $33,231 Berixis
-  181. $33,329 KoolKev66
-  182. $33,333 DDx4
-  183. $33,364 jjones18
-  184. $33,373 luneclipsee
-  185. $33,422 ellisk1
-  186. $33,447 fatilla
-  187. $33,455 Slacker
-  188. $33,478 Mint-Berry Crunch
-  189. $33,512 Adjoint
-  190. $33,527 KickAssFarts
-  191. $33,534 randomalyzer
-  192. $33,623 Valnix
- *193. $33,640 TheHiv3_m1nd
-  194. $33,721 Maistas
-  195. $33,763 Baldur
-  196. $33,790 禾子
-  197. $33,893 Overwolf
-  198. $33,929 muniek86
-  199. $33,993 Maironne
-  200. $34,021 Sam
-  201. $34,090 leonid_krebs
-  202. $34,099 qiuqiuhulstrom
-  203. $34,110 The_Doge68
-  204. $34,149 fabian-elm
-  205. $34,172 WarrenAlee
-  206. $34,177 iressle
-  207. $34,268 lionale29ten
-  208. $34,320 DOOM MARINE
-  209. $34,409 Łery Handsom Men
-  210. $34,412 Cap'n
-  211. $34,416 abazibiz
-  212. $34,433 Pelbou
-  213. $34,454 popcorniosaurus
-  214. $34,480 menthaphile
-  215. $34,482 K9Claw
-  216. $34,513 Sonnenreiter100
-  217. $34,549 Tempest
-  218. $34,559 Spooky Ghost
-  219. $34,581 pesca1
-  220. $34,685 TJarsun
-  221. $34,721 samurekun
+  167. $32,618 samurekun
+  168. $32,631 drjbananas
+ *169. $32,718 Larry the Dota Guy
+  170. $32,742 brandbaria
+  171. $32,751 mrichstein169
+  172. $32,770 Jacowboy
+  173. $32,806 Krodis
+  174. $32,869 XPatt
+ *175. $32,900 BlueFlame
+  176. $32,977 Mr.ThisGuy
+  177. $33,069 Dom
+  178. $33,078 ALTENO
+  179. $33,122 I Like Ugly Mammals.
+  180. $33,129 non victus
+  181. $33,231 Berixis
+  182. $33,329 KoolKev66
+  183. $33,333 DDx4
+  184. $33,364 jjones18
+  185. $33,373 luneclipsee
+  186. $33,422 ellisk1
+  187. $33,447 fatilla
+  188. $33,455 Slacker
+  189. $33,478 Mint-Berry Crunch
+  190. $33,512 Adjoint
+  191. $33,527 KickAssFarts
+  192. $33,534 randomalyzer
+  193. $33,623 Valnix
+ *194. $33,640 TheHiv3_m1nd
+  195. $33,721 Maistas
+  196. $33,763 Baldur
+  197. $33,790 禾子
+  198. $33,893 Overwolf
+  199. $33,929 muniek86
+  200. $33,993 Maironne
+  201. $34,021 Sam
+  202. $34,090 leonid_krebs
+  203. $34,099 qiuqiuhulstrom
+  204. $34,110 The_Doge68
+  205. $34,149 fabian-elm
+  206. $34,172 WarrenAlee
+  207. $34,177 iressle
+  208. $34,268 lionale29ten
+  209. $34,320 DOOM MARINE
+  210. $34,409 Łery Handsom Men
+  211. $34,412 Cap'n
+  212. $34,416 abazibiz
+  213. $34,433 Pelbou
+  214. $34,454 popcorniosaurus
+  215. $34,480 menthaphile
+  216. $34,482 K9Claw
+  217. $34,513 Sonnenreiter100
+  218. $34,549 Tempest
+  219. $34,559 Spooky Ghost
+  220. $34,581 pesca1
+  221. $34,685 TJarsun
   222. $34,762 CeeJay
  *223. $34,783 Morgothor
   224. $34,791 tmfoo02
@@ -808,8 +808,8 @@ Updated 2022-07-07T00:41:44.590Z
  *804. $47,152 fasobrinho
   805. $47,204 lbrinkey01
   806. $47,213 TTV/fingeon27
-  807. $47,220 Kaan2007
- *808. $47,220 Alex
+ *807. $47,220 Alex
+  808. $47,220 Kaan2007
   809. $47,228 GyslexicDuy
   810. $47,251 keithfisch
   811. $47,271 majane
@@ -877,8 +877,8 @@ Updated 2022-07-07T00:41:44.590Z
   873. $48,291 Diropa
  *874. $48,302 Schnitzel
   875. $48,330 HappyPiggy
-  876. $48,339 Knooper
- *877. $48,339 Monkeymusic
+ *876. $48,339 Monkeymusic
+  877. $48,339 Knooper
   878. $48,347 Eeyore
   879. $48,363 JimothyCricket
   880. $48,409 adammethven37
