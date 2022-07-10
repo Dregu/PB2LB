@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-03 "Sloped Drawbridge" any% leaderboard (* = breaks)
-Updated 2022-07-09T00:32:20.752Z
-1000/53974 unique ranks shown
+Updated 2022-07-10T00:44:35.235Z
+1000/54034 unique ranks shown
 
    *1. $2,599  9k5
    *2. $2,999  Trygeve
@@ -11,13 +11,13 @@ Updated 2022-07-09T00:32:20.752Z
    *7. $4,662  somefakegamer
    *8. $4,724  ~ Smithy ~
    *9. $4,984  akkun_ouo
-  *10. $5,488  Pengujedi
-  *11. $5,488  mooseman0423
+  *10. $5,488  mooseman0423
+  *11. $5,488  Pengujedi
   *12. $5,493  Bibbb
-  *13. $5,494  palfly15
+  *13. $5,494  MOD
   *14. $5,494  geroniberry
-  *15. $5,494  FierceKitty131
-  *16. $5,494  MOD
+  *15. $5,494  palfly15
+  *16. $5,494  FierceKitty131
   *17. $6,969  minecat
   *18. $11,564 Yennefer
   *19. $12,246 Bellair08
@@ -91,7 +91,7 @@ Updated 2022-07-09T00:32:20.752Z
    87. $24,315 Krash129
    88. $24,321 local person
    89. $24,380 -mushinbush-
-   90. $24,381 abidhilmi403
+  *90. $24,381 abidhilmi403
    91. $24,448 Oubaas Kaksak
    92. $24,476 gthompson1129
    93. $24,659 Tryrik
@@ -293,7 +293,7 @@ Updated 2022-07-09T00:32:20.752Z
   289. $28,303 CaNeR's
   290. $28,309 Nuexx
   291. $28,315 g.pahls
-  292. $28,326 哎呦微
+ *292. $28,326 哎呦微
   293. $28,340 clownlord06
  *294. $28,345 TouchTheDog
   295. $28,353 Oh Shoot!
@@ -351,7 +351,7 @@ Updated 2022-07-09T00:32:20.752Z
   347. $28,719 Zedriv
   348. $28,721 sumpfkrautjunkie
   349. $28,742 BLERGHSTORM
-  350. $28,744 Road to beat Squishy
+ *350. $28,744 Road to beat Squishy
   351. $28,757 Cardboard Box Guy
   352. $28,765 Jack✫
   353. $28,772 Dildopolous69
@@ -457,7 +457,7 @@ Updated 2022-07-09T00:32:20.752Z
   453. $29,328 jimmyscully
   454. $29,329 j.westerbos
   455. $29,329 dorel_sofer_pe_glont69
- *456. $29,331 Mac
+  456. $29,331 Mac
   457. $29,339 Icy Unicorn
   458. $29,340 souldrain
   459. $29,341 evandennewitz
@@ -520,8 +520,8 @@ Updated 2022-07-09T00:32:20.752Z
   516. $29,588 MianMiao
   517. $29,589 Martin
   518. $29,603 the_flaps
-  519. $29,610 Karmiilla
- *520. $29,610 Helper_Monkey
+ *519. $29,610 Helper_Monkey
+  520. $29,610 Karmiilla
   521. $29,615 tom.brabbin
   522. $29,622 [DEA] Capt. N.Cross
   523. $29,624 Friar Laurence
