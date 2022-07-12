@@ -1,10 +1,10 @@
 Poly Bridge 2 - 4-15C "Twists and Turns" any% leaderboard (* = breaks)
-Updated 2022-07-10T00:44:35.389Z
-1000/2882 unique ranks shown
+Updated 2022-07-12T00:41:07.295Z
+1000/2884 unique ranks shown
 
-    1. $5,233  Cookieblues
-    2. $5,233  Bellair08
-   *3. $5,233  Trygeve
+   *1. $5,233  Trygeve
+    2. $5,233  Cookieblues
+    3. $5,233  Bellair08
     4. $5,427  Lagiiiie
     5. $5,429  minecat
    *6. $5,514  Enchanted Spider
@@ -81,7 +81,7 @@ Updated 2022-07-10T00:44:35.389Z
    77. $7,999  ginger
    78. $8,028  PROwill3
    79. $8,030  tetsu_yamamon
-   80. $8,036  weskg
+  *80. $8,036  weskg
    81. $8,037  DevilSquirrel
   *82. $8,040  Solus
    83. $8,047  BlorkBorkey
@@ -155,7 +155,7 @@ Updated 2022-07-10T00:44:35.389Z
   151. $8,821  bastian.bello.c
   152. $8,862  Offspec
   153. $8,882  antony.interlandi
-  154. $8,885  Drake84
+ *154. $8,885  Drake84
   155. $8,887  Whyit1
   156. $8,889  Mega Rayquaza
   157. $8,912  TheWisestGiraffe
@@ -443,7 +443,7 @@ Updated 2022-07-10T00:44:35.389Z
   439. $11,337 Sem Chance
  *440. $11,347 pkclark
   441. $11,349 mooseman0423
- *442. $11,351 ~ Smithy ~
+  442. $11,351 ~ Smithy ~
   443. $11,353 MaxOyaggi
   444. $11,365 alicele14
   445. $11,371 stpdsnrt
@@ -495,8 +495,8 @@ Updated 2022-07-10T00:44:35.389Z
   491. $11,696 brad.cogger
  *492. $11,707 bryce
   493. $11,708 抽象派桥梁设计师
-  494. $11,714 bellowey
- *495. $11,714 minecraftlegend1336
+ *494. $11,714 minecraftlegend1336
+  495. $11,714 bellowey
   496. $11,716 Sieko
   497. $11,717 504874975
   498. $11,719 JCworks
@@ -588,7 +588,7 @@ Updated 2022-07-10T00:44:35.389Z
   584. $12,210 willflipper
   585. $12,212 Tachizuu
   586. $12,230 FuegoN
-  587. $12,231 This isn't Valorant
+ *587. $12,231 This isn't Valorant
   588. $12,231 Gnister
   589. $12,253 Atomguy
   590. $12,263 bolong
@@ -669,7 +669,7 @@ Updated 2022-07-10T00:44:35.389Z
   665. $12,752 hjerppe
   666. $12,761 camtora
   667. $12,761 zeroEnter
-  668. $12,774 Valnix
+ *668. $12,774 Valnix
   669. $12,775 DOOM MARINE
   670. $12,775 Pam Plemousse
   671. $12,777 Stanian
@@ -723,8 +723,8 @@ Updated 2022-07-10T00:44:35.389Z
   719. $13,029 castigo
   720. $13,040 epiconnor101
   721. $13,041 dusmartijngames
-  722. $13,042 Loner
- *723. $13,042 GucciRolex
+ *722. $13,042 GucciRolex
+  723. $13,042 Loner
   724. $13,051 Tinghanmao
   725. $13,059 Joe
   726. $13,062 hunter_40
@@ -782,9 +782,9 @@ Updated 2022-07-10T00:44:35.389Z
  *778. $13,319 DeathPanda
   779. $13,320 MBS4444
   780. $13,323 PLYURSR
-  781. $13,348 archerboi14
-  782. $13,348 tntppap1
- *783. $13,348 Zxxy4
+ *781. $13,348 Zxxy4
+  782. $13,348 archerboi14
+  783. $13,348 tntppap1
  *784. $13,350 goosewhammy
   785. $13,351 ibims1rekCracker
   786. $13,358 Waddles
@@ -818,23 +818,23 @@ Updated 2022-07-10T00:44:35.389Z
   814. $13,498 Baldur
   815. $13,505 Ledaled
  *816. $13,508 LUCse MENSEN
- *817. $13,508 Not Dasher
-  818. $13,508 CANALETA
-  819. $13,508 Deathstroke
- *820. $13,508 Sir_Raven
-  821. $13,508 Hypikole
-  822. $13,508 VegitoRS
-  823. $13,508 Mønneren
- *824. $13,508 Nomix
-  825. $13,508 RafaelJR8
-  826. $13,508 Jrillr
-  827. $13,508 Psicodeli@
- *828. $13,508 Bambo
-  829. $13,508 Matty90509
-  830. $13,508 dylanjcoolguy
-  831. $13,508 BWKapp
-  832. $13,508 Goscinny Uderzo
-  833. $13,508 What_did_I_SAY_?
+  817. $13,508 CANALETA
+  818. $13,508 Deathstroke
+  819. $13,508 Hypikole
+ *820. $13,508 Nomix
+  821. $13,508 VegitoRS
+  822. $13,508 Mønneren
+  823. $13,508 RafaelJR8
+  824. $13,508 Jrillr
+  825. $13,508 Psicodeli@
+ *826. $13,508 BWKapp
+  827. $13,508 Matty90509
+  828. $13,508 dylanjcoolguy
+ *829. $13,508 Bambo
+  830. $13,508 Goscinny Uderzo
+ *831. $13,508 Not Dasher
+  832. $13,508 What_did_I_SAY_?
+ *833. $13,508 Sir_Raven
   834. $13,508 Luisjnc
   835. $13,508 out middle
   836. $13,512 burritobrown
@@ -881,12 +881,12 @@ Updated 2022-07-10T00:44:35.389Z
  *877. $13,762 raym55
   878. $13,764 Linuxx
   879. $13,778 ni.priess
- *880. $13,778 T0ast3dPoptart
-  881. $13,778 Iska74
-  882. $13,778 A Happy Bunny
-  883. $13,778 Merc249
-  884. $13,778 SWIGGITY SWOOTY
-  885. $13,778 markbriscoe2006
+  880. $13,778 Iska74
+  881. $13,778 A Happy Bunny
+  882. $13,778 Merc249
+  883. $13,778 SWIGGITY SWOOTY
+  884. $13,778 markbriscoe2006
+ *885. $13,778 T0ast3dPoptart
   886. $13,780 mcree
   887. $13,782 gotem_good
   888. $13,783 VKNG
@@ -957,7 +957,7 @@ Updated 2022-07-10T00:44:35.389Z
   953. $14,265 Cupar Guy
   954. $14,266 cornshitfuck
   955. $14,269 Xeetos
- *956. $14,276 piccolo_SPA
+  956. $14,276 piccolo_SPA
   957. $14,287 DrZobos
   958. $14,293 Shmangetron
   959. $14,296 315Lukas
