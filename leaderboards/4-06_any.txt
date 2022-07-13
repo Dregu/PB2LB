@@ -1,10 +1,10 @@
 Poly Bridge 2 - 4-06 "Safety Gap" any% leaderboard (* = breaks)
-Updated 2022-07-12T00:41:07.198Z
-1000/40675 unique ranks shown
+Updated 2022-07-13T00:37:40.059Z
+1000/40703 unique ranks shown
 
-   *1. $499    Cookieblues
-   *2. $499    Zen
-   *3. $499    9k5
+   *1. $499    9k5
+   *2. $499    Cookieblues
+   *3. $499    Zen
    *4. $525    Lagiiiie
    *5. $817    Trygeve
    *6. $817    minecat
@@ -39,8 +39,8 @@ Updated 2022-07-12T00:41:07.198Z
    35. $5,554  MrOp
    36. $5,750  GuacamoleLover27
    37. $5,772  Honn
-   38. $5,773  哎呦微
-   39. $5,773  Friar Laurence
+   38. $5,773  Friar Laurence
+   39. $5,773  哎呦微
    40. $5,847  Oubaas Kaksak
    41. $5,934  palfly15
    42. $5,982  Ace_Falken
@@ -96,7 +96,7 @@ Updated 2022-07-12T00:41:07.198Z
    92. $9,652  UkiArcticFox
    93. $9,656  damiandittmaier
   *94. $9,660  TheSadSlinky
-   95. $9,666  ph0
+  *95. $9,666  ph0
   *96. $9,677  ole.van.tiel
    97. $9,683  HappyPiggy
    98. $9,688  TKD
@@ -537,8 +537,8 @@ Updated 2022-07-12T00:41:07.198Z
   533. $17,642 mraow~
   534. $17,643 HeavyBalls
   535. $17,645 水印星空
-  536. $17,659 pumík
-  537. $17,659 字词融合模型
+  536. $17,659 字词融合模型
+  537. $17,659 pumík
   538. $17,662 lcyuen102
  *539. $17,676 Spazmaster
   540. $17,683 mars9601
@@ -690,8 +690,8 @@ Updated 2022-07-12T00:41:07.198Z
   686. $20,058 ernieee
   687. $20,084 k.skokna
   688. $20,097 alexis.ruelland
-  689. $20,101 Isosceles Triangle
-  690. $20,101 >STELS<LeadRaven
+  689. $20,101 >STELS<LeadRaven
+  690. $20,101 Isosceles Triangle
   691. $20,101 aaron
   692. $20,125 HollywoodJd
   693. $20,126 NullbsidianBlack
@@ -817,12 +817,12 @@ Updated 2022-07-12T00:41:07.198Z
   813. $21,420 Jazumojo
   814. $21,420 NappoBappo
   815. $21,420 KKLG
-  816. $21,420 cgraewer
-  817. $21,420 Dropmought
-  818. $21,420 exmirt
-  819. $21,420 근육런
-  820. $21,420 Sai_o
-  821. $21,420 neongrass
+  816. $21,420 Dropmought
+  817. $21,420 exmirt
+  818. $21,420 근육런
+  819. $21,420 Sai_o
+  820. $21,420 neongrass
+  821. $21,420 cgraewer
   822. $21,420 懒得起名
   823. $21,436 jang7220
   824. $21,442 laerling
@@ -844,8 +844,8 @@ Updated 2022-07-12T00:41:07.198Z
   840. $21,603 roby6298
   841. $21,609 MuscleMuscleDigDa
   842. $21,610 crazyLZ
-  843. $21,613 egeneus
-  844. $21,613 ashulato
+  843. $21,613 ashulato
+  844. $21,613 egeneus
   845. $21,614 Sakura Fuko
  *846. $21,619 Dashigos
   847. $21,632 RobotHouse88
@@ -853,11 +853,11 @@ Updated 2022-07-12T00:41:07.198Z
   849. $21,653 kev
   850. $21,665 Shark!!
   851. $21,670 ilban.sno
-  852. $21,670 Nobody
-  853. $21,670 HDF_Rockstar
- *854. $21,670 Maironne
-  855. $21,670 Liko Shepwolfox
-  856. $21,670 Coffe
+ *852. $21,670 Maironne
+  853. $21,670 Nobody
+  854. $21,670 Coffe
+  855. $21,670 HDF_Rockstar
+  856. $21,670 Liko Shepwolfox
   857. $21,670 Jelly-J
   858. $21,678 Elwin
   859. $21,681 Dean Gulbury
@@ -940,8 +940,8 @@ Updated 2022-07-12T00:41:07.198Z
   936. $22,385 DerFyZoX_eZZ
   937. $22,392 bmeds328
   938. $22,393 YYX
-  939. $22,443 Mini Panic
- *940. $22,443 Lich
+ *939. $22,443 Lich
+  940. $22,443 Mini Panic
   941. $22,445 P1RV
   942. $22,447 JacoB
   943. $22,461 Boem
@@ -962,8 +962,8 @@ Updated 2022-07-12T00:41:07.198Z
   958. $22,609 sburrou1
   959. $22,616 Kirby
   960. $22,636 rchaulk21
- *961. $22,636 Huno囧no
-  962. $22,636 1593599958
+  961. $22,636 1593599958
+ *962. $22,636 Huno囧no
  *963. $22,643 samatresco
   964. $22,644 kunihiko-dol
   965. $22,645 Andi
@@ -1000,5 +1000,5 @@ Updated 2022-07-12T00:41:07.198Z
   996. $22,898 gajiro240
   997. $22,913 adrianbarto832
   998. $22,920 leostoll99
-  999. $22,936 Temetias
- 1000. $22,938 ThiccZ
+  999. $22,934 LUGΞЯUИ
+ 1000. $22,936 Temetias
