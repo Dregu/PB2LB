@@ -1,11 +1,11 @@
 Poly Bridge 2 - 4-12 "Trailblazer" any% leaderboard (* = breaks)
-Updated 2022-07-14T00:43:38.081Z
-1000/39136 unique ranks shown
+Updated 2022-07-15T00:43:46.222Z
+1000/39167 unique ranks shown
 
-   *1. $2,652  Cookieblues
-   *2. $2,652  Zen
-   *3. $2,652  ~ Smithy ~
-   *4. $2,652  Trygeve
+   *1. $2,652  Zen
+   *2. $2,652  ~ Smithy ~
+   *3. $2,652  Trygeve
+   *4. $2,652  Cookieblues
    *5. $2,768  Lagiiiie
    *6. $2,769  somefakegamer
    *7. $2,776  Chris
@@ -25,8 +25,8 @@ Updated 2022-07-14T00:43:38.081Z
    21. $4,666  Shadow
    22. $4,714  M37
    23. $4,717  114623050
-   24. $4,849  local person
-  *25. $4,849  Bibbb
+  *24. $4,849  Bibbb
+   25. $4,849  local person
    26. $4,859  MOD
    27. $4,887  akkun_ouo
    28. $5,074  MistMech
@@ -417,8 +417,8 @@ Updated 2022-07-14T00:43:38.081Z
   413. $9,837  pipiscy5221
   414. $9,851  True SmolSir
   415. $9,860  Rocketman131
-  416. $9,862  ELES DERAM O PASSOU-BEM :O
- *417. $9,862  jfr77777
+ *416. $9,862  jfr77777
+  417. $9,862  ELES DERAM O PASSOU-BEM :O
   418. $9,870  Croissant
   419. $9,871  Shyiine
   420. $9,872  C.
@@ -453,8 +453,8 @@ Updated 2022-07-14T00:43:38.081Z
   449. $9,996  Fractyll
   450. $9,997  Kapo
   451. $9,998  bejank
- *452. $9,999  PrOxAnto
-  453. $9,999  Albinix
+  452. $9,999  Albinix
+ *453. $9,999  PrOxAnto
   454. $9,999  Farnworth
   455. $10,008 Iuuca
   456. $10,011 TimeDrifter
@@ -466,9 +466,9 @@ Updated 2022-07-14T00:43:38.081Z
   462. $10,062 Bupeldox
   463. $10,062 Ethan
   464. $10,063 jonathan
-  465. $10,073 J黑
-  466. $10,073 towelietrippin
- *467. $10,073 dylanwenger9
+ *465. $10,073 dylanwenger9
+  466. $10,073 J黑
+  467. $10,073 towelietrippin
   468. $10,087 Lanilor
   469. $10,098 ingerking
   470. $10,100 ultraroar101
@@ -620,7 +620,7 @@ Updated 2022-07-14T00:43:38.081Z
   616. $10,732 Zamyaza
   617. $10,748 Rocket Steve
   618. $10,750 robin
-  619. $10,755 sherry-hampton
+ *619. $10,755 sherry-hampton
   620. $10,758 Ion Storm
   621. $10,761 965510687
   622. $10,768 rbnsd
@@ -667,8 +667,8 @@ Updated 2022-07-14T00:43:38.081Z
   663. $10,941 Esgs
   664. $10,945 imcharnetski
   665. $10,946 Matt
-  666. $10,949 BOT.Looney
- *667. $10,949 Inferior Asian
+ *666. $10,949 Inferior Asian
+  667. $10,949 BOT.Looney
   668. $10,951 Meoist
   669. $10,954 holzingerphilip
   670. $10,960 clydesdalefan
@@ -978,27 +978,27 @@ Updated 2022-07-14T00:43:38.081Z
   974. $11,711 Flint Lockwood
   975. $11,719 Mr. Sketch Scented Markers
   976. $11,720 RK195
-  977. $11,722 Babou
-  978. $11,723 yuwenqi06
-  979. $11,724 Steven W
-  980. $11,725 simon.green
-  981. $11,729 kareki00
-  982. $11,730 impacty
-  983. $11,731 AgentEmpires
-  984. $11,732 kietze97
-  985. $11,733 0hMooncake
-  986. $11,735 Melldon - 赤川
-  987. $11,736 Yelnats
-  988. $11,737 wafflebomb1
-  989. $11,738 kepley.mcguire.mail
-  990. $11,739 Michael's Cousin
-  991. $11,740 Willcraft25
-  992. $11,744 Psychonaut
-  993. $11,744 RSK
-  994. $11,746 thomas.gut
-  995. $11,746 MintAgeStudios
-  996. $11,747 Netlore
-  997. $11,747 zbf539942737
-  998. $11,751 abirsak
-  999. $11,753 3rd.star.up
- 1000. $11,756 Kwinten85
+  977. $11,722 Zozo_destroyer
+  978. $11,722 Babou
+  979. $11,723 yuwenqi06
+  980. $11,724 Steven W
+  981. $11,725 simon.green
+  982. $11,729 kareki00
+  983. $11,730 impacty
+  984. $11,731 AgentEmpires
+  985. $11,732 kietze97
+  986. $11,733 0hMooncake
+  987. $11,735 Melldon - 赤川
+  988. $11,736 Yelnats
+  989. $11,737 wafflebomb1
+  990. $11,738 kepley.mcguire.mail
+  991. $11,739 Michael's Cousin
+  992. $11,740 Willcraft25
+  993. $11,744 Psychonaut
+  994. $11,744 RSK
+  995. $11,746 thomas.gut
+  996. $11,746 MintAgeStudios
+  997. $11,747 Netlore
+  998. $11,747 zbf539942737
+  999. $11,751 abirsak
+ 1000. $11,753 3rd.star.up
