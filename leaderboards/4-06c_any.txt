@@ -1,23 +1,23 @@
 Poly Bridge 2 - 4-06C "Safety Gap" any% leaderboard (* = breaks)
-Updated 2022-07-15T00:43:46.163Z
-1000/3022 unique ranks shown
+Updated 2022-07-16T00:42:12.013Z
+1000/3023 unique ranks shown
 
    *1. $349    9k5
    *2. $398    tonyz01234
-   *3. $399    Lagiiiie
-   *4. $399    7777Alex7777
-   *5. $399    Fathom
-   *6. $399    Trygeve
-   *7. $399    geroniberry
-   *8. $399    Cookieblues
-   *9. $399    Zen
-  *10. $399    MOD
+   *3. $399    Fathom
+   *4. $399    geroniberry
+   *5. $399    Zen
+   *6. $399    Lagiiiie
+   *7. $399    MOD
+   *8. $399    Trygeve
+   *9. $399    Cookieblues
+  *10. $399    7777Alex7777
   *11. $427    Shadow
-  *12. $555    celesteal
-  *13. $555    somefakegamer
-  *14. $555    ~ Smithy ~
-  *15. $555    minecat
-  *16. $555    palfly15
+  *12. $555    somefakegamer
+  *13. $555    ~ Smithy ~
+  *14. $555    minecat
+  *15. $555    palfly15
+  *16. $555    celesteal
    17. $15,954 Roevhaal
    18. $16,658 Bibbb
    19. $16,660 Sexy Boy Industries [woop]
@@ -35,7 +35,7 @@ Updated 2022-07-15T00:43:46.163Z
    31. $16,927 BaconPancakes
    32. $17,022 Luuroon
    33. $17,042 Bellair08
-  *34. $17,043 adambrianschmidt
+   34. $17,043 adambrianschmidt
    35. $17,085 XxTrollFacexX
    36. $17,102 lee731017
    37. $17,106 bastian.bello.c
@@ -97,8 +97,8 @@ Updated 2022-07-15T00:43:46.163Z
    93. $28,522 ado
    94. $28,532 Jeevus
    95. $28,585 hmx0311
-  *96. $28,637 Tracca
-   97. $28,637 snorkel_head
+   96. $28,637 snorkel_head
+  *97. $28,637 Tracca
   *98. $28,715 deniz.makul
    99. $28,727 Dad
   100. $28,749 climberpi
@@ -676,8 +676,8 @@ Updated 2022-07-15T00:43:46.163Z
   672. $45,182 beesman93
   673. $45,204 antony.interlandi
   674. $45,213 Bushy
-  675. $45,233 mggolden2001
- *676. $45,233 TheAzianHacker
+ *675. $45,233 TheAzianHacker
+  676. $45,233 mggolden2001
   677. $45,252 Woolyfrog
   678. $45,252 benburke810
   679. $45,268 archiebjones28
@@ -880,8 +880,8 @@ Updated 2022-07-15T00:43:46.163Z
   876. $48,291 Diropa
  *877. $48,302 Schnitzel
   878. $48,330 HappyPiggy
- *879. $48,339 Monkeymusic
-  880. $48,339 Knooper
+  879. $48,339 Knooper
+ *880. $48,339 Monkeymusic
   881. $48,347 Eeyore
   882. $48,363 JimothyCricket
   883. $48,409 adammethven37
@@ -964,41 +964,41 @@ Updated 2022-07-15T00:43:46.163Z
  *960. $49,318 OverTheTop423
   961. $49,342 noncycle
   962. $49,345 Lighty boiiii
-  963. $49,369 Pam Plemousse
-  964. $49,382 eriks5955
-  965. $49,397 WINTER
-  966. $49,402 Nexo
-  967. $49,410 XeroEffect
-  968. $49,423 MelodicFirelight
-  969. $49,444 [FE]zsquirrel29
-  970. $49,451 Bugisman
-  971. $49,452 Ronin6626
-  972. $49,480 PickyDogFish
-  973. $49,503 Mus_niro
-  974. $49,506 TreyBombay
-  975. $49,509 davidloh
-  976. $49,528 A_Person
-  977. $49,535 Monsieur Spock
-  978. $49,570 Yaky
-  979. $49,583 DrunkenFlamenc
-  980. $49,597 Kerkerino
-  981. $49,599 mikiethepenguin
-  982. $49,636 mic0325
-  983. $49,645 Banankakan
-  984. $49,674 DominatorACR
-  985. $49,675 stackofpancakes
-  986. $49,680 SirMan
-  987. $49,726 SimOet
-  988. $49,736 ferncrombie
-  989. $49,738 Thatman
-  990. $49,742 Malgotgame
-  991. $49,750 Herkenderr
-  992. $49,760 nickarnols
-  993. $49,762 TAMAN SHUD
-  994. $49,767 ilia.gureev
-  995. $49,787 KevKevOnFire
-  996. $49,791 xnfg.c o m
-  997. $49,805 elisholst
-  998. $49,817 markkazmierowicz
-  999. $49,824 Nexzeo
- 1000. $49,886 rinrin
+  963. $49,345 crow.brandon
+  964. $49,369 Pam Plemousse
+  965. $49,382 eriks5955
+  966. $49,397 WINTER
+  967. $49,402 Nexo
+  968. $49,410 XeroEffect
+  969. $49,423 MelodicFirelight
+  970. $49,444 [FE]zsquirrel29
+  971. $49,451 Bugisman
+  972. $49,452 Ronin6626
+  973. $49,480 PickyDogFish
+  974. $49,503 Mus_niro
+  975. $49,506 TreyBombay
+  976. $49,509 davidloh
+  977. $49,528 A_Person
+  978. $49,535 Monsieur Spock
+  979. $49,570 Yaky
+  980. $49,583 DrunkenFlamenc
+  981. $49,597 Kerkerino
+  982. $49,599 mikiethepenguin
+  983. $49,636 mic0325
+  984. $49,645 Banankakan
+  985. $49,674 DominatorACR
+  986. $49,675 stackofpancakes
+  987. $49,680 SirMan
+  988. $49,726 SimOet
+  989. $49,736 ferncrombie
+  990. $49,738 Thatman
+  991. $49,742 Malgotgame
+  992. $49,750 Herkenderr
+  993. $49,760 nickarnols
+  994. $49,762 TAMAN SHUD
+  995. $49,767 ilia.gureev
+  996. $49,787 KevKevOnFire
+  997. $49,791 xnfg.c o m
+  998. $49,805 elisholst
+  999. $49,817 markkazmierowicz
+ 1000. $49,824 Nexzeo
