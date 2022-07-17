@@ -1,12 +1,12 @@
 Poly Bridge 2 - 5-02 "Truck Way In" any% leaderboard (* = breaks)
-Updated 2022-07-16T00:42:12.115Z
-1000/18187 unique ranks shown
+Updated 2022-07-17T00:42:28.736Z
+1000/18203 unique ranks shown
 
-   *1. $11,998 Cookieblues
-   *2. $11,998 ~ Smithy ~
-   *3. $11,998 Trygeve
-   *4. $11,998 somefakegamer
-   *5. $11,998 minecat
+   *1. $11,998 somefakegamer
+   *2. $11,998 Cookieblues
+   *3. $11,998 minecat
+   *4. $11,998 Trygeve
+   *5. $11,998 ~ Smithy ~
    *6. $13,555 CursorCoercer
    *7. $13,699 9k5
    *8. $13,758 Fathom
@@ -921,84 +921,84 @@ Updated 2022-07-16T00:42:12.115Z
   917. $32,409 파이리(물 속성)
   918. $32,412 Bob
   919. $32,413 Xeeloth
-  920. $32,422 cara
-  921. $32,431 PhenylalaninMan
-  922. $32,434 Ax7ro
-  923. $32,453 polak1 -sz
-  924. $32,457 ESC_
-  925. $32,457 杯冰
-  926. $32,461 CANALETA
-  927. $32,466 Patate
-  928. $32,468 원군
-  929. $32,473 [SF3]^1Scott^0freee3
-  930. $32,477 问天之邪
-  931. $32,478 Gim
-  932. $32,481 McLoud
-  933. $32,486 MarcoDePollo
-  934. $32,488 LaRoso
-  935. $32,493 Patokiss
-  936. $32,493 Sweetplum123
-  937. $32,500 STEINSS
-  938. $32,500 egeneus
-  939. $32,514 HyperF1ex
-  940. $32,515 ErVin
-  941. $32,519 Ok
-  942. $32,521 jiaboy
-  943. $32,532 Elwin
-  944. $32,541 CombatWombat
-  945. $32,545 Tom lel
-  946. $32,545 TheGoldenShotgun
-  947. $32,560 RatSzczur
-  948. $32,571 leowyh172
-  949. $32,573 iGotPho
-  950. $32,573 LaserLinX
-  951. $32,578 thecormister
-  952. $32,579 Anorexic Fat
-  953. $32,579 amph
-  954. $32,582 john of arc
-  955. $32,585 Uevoz
-  956. $32,589 Zed
-  957. $32,592 gabriella
-  958. $32,594 ELTON1804
-  959. $32,594 ngregrichardson
-  960. $32,596 Fix
-  961. $32,596 Tough Gandhi
-  962. $32,600 saarabbit
-  963. $32,605 ういんどみる
-  964. $32,605 hino
-  965. $32,612 Mathshyun
-  966. $32,618 GalaxyNuke
-  967. $32,618 PurplePeeps
-  968. $32,625 williamaprabowo
-  969. $32,627 ida.g.hansson
-  970. $32,641 Tom Morello
-  971. $32,647 KLK2003
-  972. $32,657 Fönix
-  973. $32,663 gl_zhu
-  974. $32,668 randomstrange
-  975. $32,682 dnruddldi
-  976. $32,685 jerma985.ttv
-  977. $32,701 Marcel
-  978. $32,705 Fizzy
-  979. $32,710 Hampa
-  980. $32,717 Dobby
-  981. $32,722 johnmdaniels2401
-  982. $32,731 cnayuoraedtihs.1
-  983. $32,738 philipp
-  984. $32,744 Will
-  985. $32,752 _DaCoolOne_
-  986. $32,758 sw4x1-privat
-  987. $32,776 G1.HWANG
-  988. $32,777 Neitze
-  989. $32,785 Kerplowy
-  990. $32,785 M47145dg
-  991. $32,788 백규담
-  992. $32,803 tkismr
-  993. $32,804 marco617chan
-  994. $32,805 Queen Clabsos
-  995. $32,820 timeddilation
-  996. $32,824 bestRanar
-  997. $32,828 Moja
-  998. $32,832 MadDogMashy
-  999. $32,839 CS2100
- 1000. $32,843 AdmiralChu
+  920. $32,414 slippiN
+  921. $32,422 cara
+  922. $32,431 PhenylalaninMan
+  923. $32,434 Ax7ro
+  924. $32,453 polak1 -sz
+  925. $32,457 ESC_
+  926. $32,457 杯冰
+  927. $32,461 CANALETA
+  928. $32,466 Patate
+  929. $32,468 원군
+  930. $32,473 [SF3]^1Scott^0freee3
+  931. $32,477 问天之邪
+  932. $32,478 Gim
+  933. $32,481 McLoud
+  934. $32,486 MarcoDePollo
+  935. $32,488 LaRoso
+  936. $32,493 Patokiss
+  937. $32,493 Sweetplum123
+  938. $32,500 STEINSS
+  939. $32,500 egeneus
+  940. $32,514 HyperF1ex
+  941. $32,515 ErVin
+  942. $32,519 Ok
+  943. $32,521 jiaboy
+  944. $32,532 Elwin
+  945. $32,541 CombatWombat
+  946. $32,545 Tom lel
+  947. $32,545 TheGoldenShotgun
+  948. $32,560 RatSzczur
+  949. $32,571 leowyh172
+  950. $32,573 iGotPho
+  951. $32,573 LaserLinX
+  952. $32,578 thecormister
+  953. $32,579 Anorexic Fat
+  954. $32,579 amph
+  955. $32,582 john of arc
+  956. $32,585 Uevoz
+  957. $32,589 Zed
+  958. $32,592 gabriella
+  959. $32,594 ELTON1804
+  960. $32,594 ngregrichardson
+  961. $32,596 Fix
+  962. $32,596 Tough Gandhi
+  963. $32,600 saarabbit
+  964. $32,605 ういんどみる
+  965. $32,605 hino
+  966. $32,612 Mathshyun
+  967. $32,618 GalaxyNuke
+  968. $32,618 PurplePeeps
+  969. $32,625 williamaprabowo
+  970. $32,627 ida.g.hansson
+  971. $32,641 Tom Morello
+  972. $32,647 KLK2003
+  973. $32,657 Fönix
+  974. $32,663 gl_zhu
+  975. $32,668 randomstrange
+  976. $32,682 dnruddldi
+  977. $32,685 jerma985.ttv
+  978. $32,701 Marcel
+  979. $32,705 Fizzy
+  980. $32,710 Hampa
+  981. $32,717 Dobby
+  982. $32,722 johnmdaniels2401
+  983. $32,731 cnayuoraedtihs.1
+  984. $32,738 philipp
+  985. $32,744 Will
+  986. $32,752 _DaCoolOne_
+  987. $32,758 sw4x1-privat
+  988. $32,776 G1.HWANG
+  989. $32,777 Neitze
+  990. $32,785 Kerplowy
+  991. $32,785 M47145dg
+  992. $32,788 백규담
+  993. $32,803 tkismr
+  994. $32,804 marco617chan
+  995. $32,805 Queen Clabsos
+  996. $32,820 timeddilation
+  997. $32,824 bestRanar
+  998. $32,828 Moja
+  999. $32,832 MadDogMashy
+ 1000. $32,839 CS2100
