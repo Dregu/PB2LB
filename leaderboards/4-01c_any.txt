@@ -1,19 +1,19 @@
 Poly Bridge 2 - 4-01C "Edgy" any% leaderboard (* = breaks)
-Updated 2022-07-26T00:40:48.432Z
-1000/4236 unique ranks shown
+Updated 2022-07-27T00:43:25.260Z
+1000/4240 unique ranks shown
 
-   *1. $2,999  Fathom
-   *2. $2,999  Cookieblues
-   *3. $2,999  minecat
-   *4. $2,999  9k5
-    5. $2,999  Lagiiiie
-   *6. $3,579  somefakegamer
-   *7. $3,579  7777Alex7777
+   *1. $2,999  9k5
+   *2. $2,999  minecat
+    3. $2,999  Lagiiiie
+   *4. $2,999  Fathom
+   *5. $2,999  Cookieblues
+   *6. $3,579  7777Alex7777
+   *7. $3,579  somefakegamer
     8. $11,320 Trygeve
     9. $11,666 Soba
    10. $11,763 Enchanted Spider
    11. $12,269 Zen
-   12. $12,347 Larry the Dota Guy
+  *12. $12,347 Larry the Dota Guy
    13. $12,382 Bellair08
    14. $12,527 Go Seigen
    15. $12,997 geroniberry
@@ -334,7 +334,7 @@ Updated 2022-07-26T00:40:48.432Z
   330. $23,956 Megadar
   331. $23,958 ivwaurt
   332. $23,961 MR_Mose_
-  333. $23,965 tttttttttt
+ *333. $23,965 tttttttttt
   334. $23,972 simon.green
   335. $23,980 Burnt Toast
   336. $23,991 Wizzy-chan
@@ -367,7 +367,7 @@ Updated 2022-07-26T00:40:48.432Z
   363. $24,143 Foxyrenard
   364. $24,144 The Great Pretender
   365. $24,144 Teywer
- *366. $24,153 piccolo_SPA
+  366. $24,153 piccolo_SPA
   367. $24,179 Shieber
  *368. $24,181 Cs2O2
   369. $24,186 Quantum
@@ -472,9 +472,9 @@ Updated 2022-07-26T00:40:48.432Z
   468. $24,977 ose
   469. $24,978 LFB
  *470. $24,980 keshigom
-  471. $24,987 maxjmiles
-  472. $24,987 johnsonofdonut
- *473. $24,987 jtrimbl3
+ *471. $24,987 jtrimbl3
+  472. $24,987 maxjmiles
+  473. $24,987 johnsonofdonut
   474. $24,991 CaptainHutcho
   475. $25,020 Kyle
   476. $25,036 guaranteed_whales
@@ -519,8 +519,8 @@ Updated 2022-07-26T00:40:48.432Z
   515. $25,313 720 Foam Cuts
   516. $25,315 ZeldaPlay
   517. $25,315 domagoj960
- *518. $25,317 SwagMiester
-  519. $25,317 Moffitt
+  518. $25,317 Moffitt
+ *519. $25,317 SwagMiester
  *520. $25,328 snowmaniac
   521. $25,332 duncanwerner
   522. $25,335 TheSuperNR
@@ -800,8 +800,8 @@ Updated 2022-07-26T00:40:48.432Z
   796. $26,818 Yaky
   797. $26,818 Sith Phil Less
   798. $26,820 Patfou
- *799. $26,831 Gzuz
-  800. $26,831 Frotty
+  799. $26,831 Frotty
+ *800. $26,831 Gzuz
   801. $26,834 joel.rspence
   802. $26,840 das fat catov
   803. $26,840 Exapithicus
@@ -853,10 +853,10 @@ Updated 2022-07-26T00:40:48.432Z
  *849. $27,061 RENAULT12
   850. $27,063 readerh7
   851. $27,064 Scrimps
-  852. $27,078 harryald6
+ *852. $27,078 harryald6
   853. $27,079 Moritzstz
- *854. $27,082 DrSoepbal
-  855. $27,082 Sir_Raven
+  854. $27,082 Sir_Raven
+ *855. $27,082 DrSoepbal
   856. $27,084 逗比的熊大
   857. $27,096 gullej
   858. $27,100 security_bot
@@ -917,7 +917,7 @@ Updated 2022-07-26T00:40:48.432Z
   913. $27,407 hobz [REG]
   914. $27,408 skya774005
   915. $27,408 adikprokop
- *916. $27,413 The Toasted Marshmallow
+  916. $27,413 The Toasted Marshmallow
   917. $27,415 cjmin0924
   918. $27,430 LarsIngo
   919. $27,441 Bachlead
