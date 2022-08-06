@@ -1,10 +1,10 @@
 Poly Bridge 2 - 3-04C "Double Down" any% leaderboard (* = breaks)
-Updated 2022-08-05T00:45:42.641Z
-1000/5325 unique ranks shown
+Updated 2022-08-06T00:40:07.390Z
+1000/5327 unique ranks shown
 
    *1. $6,399  Lagiiiie
-   *2. $7,450  Cookieblues
-   *3. $7,450  Fathom
+   *2. $7,450  Fathom
+   *3. $7,450  Cookieblues
    *4. $7,669  somefakegamer
    *5. $8,352  MOD
    *6. $8,948  geroniberry
@@ -41,7 +41,7 @@ Updated 2022-08-05T00:45:42.641Z
   *37. $16,819 Whyit1
   *38. $16,964 DildoBike
    39. $16,966 lancekro
-  *40. $16,991 Linuxx
+   40. $16,991 Linuxx
    41. $17,028 Geert wilders
   *42. $17,161 Jazzy
    43. $17,205 TucLTU
@@ -185,7 +185,7 @@ Updated 2022-08-05T00:45:42.641Z
  *181. $24,374 고등어
   182. $24,399 Agent Toasty
  *183. $24,419 leicht gesalzener Kabeljaurogen
-  184. $24,425 Dorno
+ *184. $24,425 Dorno
  *185. $24,455 yoavr123
   186. $24,489 No problem.
  *187. $24,505 Quality
@@ -269,8 +269,8 @@ Updated 2022-08-05T00:45:42.641Z
  *265. $27,708 rolek2
   266. $27,751 [BT] Smithers
   267. $27,755 Floki_San
-  268. $27,802 Minnesota.Nice
- *269. $27,802 DisturbedData55
+ *268. $27,802 DisturbedData55
+  269. $27,802 Minnesota.Nice
   270. $27,819 mbutton15
   271. $27,832 gotem_good
   272. $27,833 VonOnagi
@@ -392,8 +392,8 @@ Updated 2022-08-05T00:45:42.641Z
   388. $29,760 j.bottomley87595
   389. $29,771 snowfire247
   390. $29,782 LENTObANAANI
- *391. $29,793 GonzoBlue
-  392. $29,793 ben.lovelock
+  391. $29,793 ben.lovelock
+ *392. $29,793 GonzoBlue
   393. $29,822 D.J. Explodicus
   394. $29,839 Enchanted Spider
   395. $29,843 andjo403
@@ -445,8 +445,8 @@ Updated 2022-08-05T00:45:42.641Z
   441. $30,368 Yaky
   442. $30,374 RafaelJR8
   443. $30,385 adikus
-  444. $30,389 Munchapop
- *445. $30,389 GoldTarget
+ *444. $30,389 GoldTarget
+  445. $30,389 Munchapop
   446. $30,393 Maj. Dude
   447. $30,401 Beep beep I'm a jeep
   448. $30,402 jsnvndnb
@@ -619,8 +619,8 @@ Updated 2022-08-05T00:45:42.641Z
   615. $31,884 Dr. Pepper MD
   616. $31,885 patrick.erasmus
   617. $31,886 kylelamar.rc
-  618. $31,890 s08hasegawa
- *619. $31,890 Nunleft
+ *618. $31,890 Nunleft
+  619. $31,890 s08hasegawa
   620. $31,899 1213176647
   621. $31,940 bizijang
   622. $31,950 MoltenCyclone
@@ -657,8 +657,8 @@ Updated 2022-08-05T00:45:42.641Z
   653. $32,102 jbishop10
   654. $32,103 Flartibartfast
   655. $32,108 jonas.beachy
-  656. $32,113 w00zy
- *657. $32,113 boristheboar
+ *656. $32,113 boristheboar
+  657. $32,113 w00zy
   658. $32,115 アルバトリオン
   659. $32,118 celesteal
   660. $32,119 bee0215
@@ -689,15 +689,15 @@ Updated 2022-08-05T00:45:42.641Z
   685. $32,147 floyddebarber
   686. $32,147 Mannor
   687. $32,148 Sentur
- *688. $32,151 sleepyy.
-  689. $32,151 TheMarksman232
-  690. $32,151 Simonx350
-  691. $32,151 toqlc4179
-  692. $32,151 Styoupeur
-  693. $32,151 Residual水闻
-  694. $32,151 ovadenko.alex
-  695. $32,151 FierceKitty131
-  696. $32,151 Stalemate
+  688. $32,151 TheMarksman232
+  689. $32,151 Simonx350
+  690. $32,151 toqlc4179
+  691. $32,151 Styoupeur
+  692. $32,151 Residual水闻
+  693. $32,151 ovadenko.alex
+  694. $32,151 FierceKitty131
+  695. $32,151 Stalemate
+ *696. $32,151 sleepyy.
   697. $32,151 OFS_Razgriz
   698. $32,165 Wolfelix123
   699. $32,179 samurekun
@@ -949,7 +949,7 @@ Updated 2022-08-05T00:45:42.641Z
   945. $33,421 パンプキンちゃん
  *946. $33,421 Acid RAIN
   947. $33,431 Holy Llama!
- *948. $33,434 The Worst
+  948. $33,434 The Worst
   949. $33,441 ButzeBongo
   950. $33,449 castigo
   951. $33,449 Treshaun420
