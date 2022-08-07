@@ -1,6 +1,6 @@
 Poly Bridge 2 - 5-09 "Springboard" any% leaderboard (* = breaks)
-Updated 2022-08-06T00:40:07.785Z
-1000/11953 unique ranks shown
+Updated 2022-08-07T00:43:27.919Z
+1000/11958 unique ranks shown
 
    *1. $5,369  Zen
    *2. $5,969  Cookieblues
@@ -10,7 +10,7 @@ Updated 2022-08-06T00:40:07.785Z
    *6. $5,999  somefakegamer
    *7. $6,035  2540515493
    *8. $6,094  geroniberry
-   *9. $6,169  Noahsorou
+    9. $6,169  Noahsorou
   *10. $6,599  Fathom
   *11. $6,799  palfly15
    12. $6,818  Trygeve
@@ -39,8 +39,8 @@ Updated 2022-08-06T00:40:07.785Z
    35. $11,087 bastian.bello.c
   *36. $11,286 Jhay80416
    37. $11,314 子涵是大大神
-   38. $11,352 umikhee3
-  *39. $11,352 FreeFull
+  *38. $11,352 FreeFull
+   39. $11,352 umikhee3
    40. $11,362 JakubBouska
    41. $11,827 The_Vaccine
    42. $11,857 BaconPancakes
@@ -84,7 +84,7 @@ Updated 2022-08-06T00:40:07.785Z
    80. $13,152 thoma7fglut6
    81. $13,181 ultimatedgambler
    82. $13,254 ⑨Beloved Tomboyish Girl⑨
-   83. $13,256 vivalarebellion
+  *83. $13,256 vivalarebellion
    84. $13,263 zbf539942737
    85. $13,333 Shadow
    86. $13,345 goldenpggie
@@ -220,14 +220,14 @@ Updated 2022-08-06T00:40:07.785Z
   216. $17,502 동규동규동규동
   217. $17,517 River
   218. $17,533 Arak'nae
-  219. $17,542 Wizzy-chan
+ *219. $17,542 Wizzy-chan
   220. $17,588 definitely_jai
   221. $17,614 Skretchii
   222. $17,621 로보크랩
   223. $17,622 DieselDaddy
  *224. $17,655 Clean
   225. $17,658 소구르빵
- *226. $17,696 andrew8hohm
+  226. $17,696 andrew8hohm
  *227. $17,786 sauensean420
  *228. $17,805 Mooshi
   229. $17,822 Jean Durcis
@@ -250,8 +250,8 @@ Updated 2022-08-06T00:40:07.785Z
  *246. $18,189 MeowArre
   247. $18,192 hanniballar
   248. $18,267 레이치
-  249. $18,267 gregakramer
- *250. $18,267 robd.lives
+ *249. $18,267 robd.lives
+  250. $18,267 gregakramer
   251. $18,269 holzingerphilip
   252. $18,314 Kikotsu Musou
   253. $18,314 ㄒᎶㄥㄖ尺乇几乙ㄖ
@@ -307,7 +307,7 @@ Updated 2022-08-06T00:40:07.785Z
  *303. $19,213 BoyAtHisDesk
  *304. $19,219 RompeshPL
   305. $19,225 小理kori
-  306. $19,241 Wollensokje
+ *306. $19,241 Wollensokje
  *307. $19,278 Mr. Impressive
   308. $19,278 Oops I Baked a Pie
   309. $19,303 chtty1010
@@ -364,7 +364,7 @@ Updated 2022-08-06T00:40:07.785Z
   360. $20,197 Spoodle
  *361. $20,230 MacDaCat
  *362. $20,235 mikiethepenguin
- *363. $20,236 DOOM MARINE
+  363. $20,236 DOOM MARINE
   364. $20,283 Sierain
   365. $20,285 Gaotosky10
   366. $20,302 Blotterhead
@@ -489,7 +489,7 @@ Updated 2022-08-06T00:40:07.785Z
   485. $22,226 Ma.U.S.
  *486. $22,244 Wolfcolach
   487. $22,262 PaliKai
-  488. $22,282 ivwaurt
+ *488. $22,282 ivwaurt
   489. $22,300 Xeoran
   490. $22,317 Man Mage
   491. $22,325 FuegoN
@@ -618,8 +618,8 @@ Updated 2022-08-06T00:40:07.785Z
  *614. $23,875 aaronkimbel2
   615. $23,896 cam
   616. $23,916 guaranteed_whales
- *617. $23,941 The suicide bomber
-  618. $23,941 Jack✫
+  617. $23,941 Jack✫
+ *618. $23,941 The suicide bomber
   619. $23,955 florpaco
  *620. $24,000 DarkyPlayz
   621. $24,001 BlakeBlack9
@@ -795,7 +795,7 @@ Updated 2022-08-06T00:40:07.785Z
   791. $25,840 PhoenixGold
   792. $25,847 marcusm0419
  *793. $25,860 bobbyp135
-  794. $25,864 XeroEffect
+ *794. $25,864 XeroEffect
   795. $25,890 I Like Pizza
   796. $25,898 7DeHond
   797. $25,903 SETSUNA
@@ -853,7 +853,7 @@ Updated 2022-08-06T00:40:07.785Z
   849. $26,456 Ruxari the Hyena
   850. $26,460 Light_MG
   851. $26,487 听冬岩尘开
-  852. $26,489 oooo1004
+ *852. $26,489 oooo1004
   853. $26,491 luneclipsee
   854. $26,511 HariBari
   855. $26,557 Gortalion
@@ -889,7 +889,7 @@ Updated 2022-08-06T00:40:07.785Z
  *885. $26,874 22612978
  *886. $26,874 A Used Grapefruit
   887. $26,875 2manyflags
- *888. $26,877 Mico el Microfono
+  888. $26,877 Mico el Microfono
  *889. $26,877 Pasta パスタ
   890. $26,881 VEX CHANGE UP 2020-2021
   891. $26,894 BOT Nadir
