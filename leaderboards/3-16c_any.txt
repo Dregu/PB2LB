@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-16C "Monster Truck Rally" any% leaderboard (* = breaks)
-Updated 2022-08-13T00:35:38.881Z
-1000/3446 unique ranks shown
+Updated 2022-08-14T00:40:27.957Z
+1000/3448 unique ranks shown
 
     1. $11,381 MOD
     2. $13,177 minecat
@@ -71,7 +71,7 @@ Updated 2022-08-13T00:35:38.881Z
    67. $28,122 cliff007
    68. $28,223 Teki
    69. $28,307 Zhus118
-   70. $28,331 CursorCoercer
+  *70. $28,331 CursorCoercer
    71. $28,391 connor.bray.ricks
    72. $28,508 Pitbull
    73. $28,511 motonari_
@@ -148,8 +148,8 @@ Updated 2022-08-13T00:35:38.881Z
   144. $32,673 QuantiumIm
   145. $32,768 6175804
   146. $32,866 mrhleask
- *147. $32,883 Arbeitsloser Trümmertürke
-  148. $32,883 The All-Powerful Qwan
+  147. $32,883 The All-Powerful Qwan
+ *148. $32,883 Arbeitsloser Trümmertürke
   149. $32,886 MuscleMuscleDigDa
   150. $32,914 shinoha
   151. $32,987 Anthill Bird
@@ -371,8 +371,8 @@ Updated 2022-08-13T00:35:38.881Z
   367. $38,262 Teh
   368. $38,271 Bram1999999
   369. $38,280 Jezre
- *370. $38,284 Sinblio
-  371. $38,284 parsodark
+  370. $38,284 parsodark
+ *371. $38,284 Sinblio
   372. $38,292 Shmojelfed
   373. $38,298 Adranium
   374. $38,332 mbutton15
@@ -584,7 +584,7 @@ Updated 2022-08-13T00:35:38.881Z
  *580. $40,947 Lachy579
   581. $40,948 hippolippo
  *582. $40,949 Kaesemann
- *583. $40,957 Jonas
+  583. $40,957 Jonas
   584. $40,957 Zuruckai
   585. $40,970 gashpot
   586. $40,984 Tiaga
@@ -655,9 +655,9 @@ Updated 2022-08-13T00:35:38.881Z
   651. $41,721 spacejam
   652. $41,724 j.bottomley87595
   653. $41,756 Stinodrak (KLITORYS)
-  654. $41,763 Tiuza 私の弟子になる
- *655. $41,770 Buh
-  656. $41,770 bennisweet582
+ *654. $41,763 Tiuza 私の弟子になる
+  655. $41,770 bennisweet582
+ *656. $41,770 Buh
   657. $41,779 Bush did Five-SeveN
  *658. $41,784 colin
   659. $41,799 Waddz781
@@ -810,7 +810,7 @@ Updated 2022-08-13T00:35:38.881Z
   806. $43,157 CTU_STIG
  *807. $43,168 Pickle Rick
   808. $43,182 fatilla
-  809. $43,188 CypherTault
+ *809. $43,188 CypherTault
   810. $43,217 grande précipitation du moment
   811. $43,245 Silvatos
   812. $43,250 Jabloňátor2000
@@ -990,7 +990,7 @@ Updated 2022-08-13T00:35:38.881Z
   986. $44,787 滑地上之小稽
   987. $44,796 christof
   988. $44,797 suzanne_heath
- *989. $44,806 tangynugget5x
+  989. $44,806 tangynugget5x
   990. $44,806 nboying4
   991. $44,817 JonathanM
  *992. $44,823 Kampfsau

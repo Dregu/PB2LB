@@ -1,15 +1,15 @@
 Poly Bridge 2 - 3-06C "Rock Skipping" any% leaderboard (* = breaks)
-Updated 2022-08-13T00:35:38.798Z
-1000/5598 unique ranks shown
+Updated 2022-08-14T00:40:27.836Z
+1000/5604 unique ranks shown
 
-   *1. $444    Lagiiiie
-   *2. $444    Trygeve
-   *3. $444    Cookieblues
-   *4. $444    Zen
-   *5. $444    9k5
-   *6. $799    geroniberry
+   *1. $444    Cookieblues
+   *2. $444    Zen
+   *3. $444    Lagiiiie
+   *4. $444    9k5
+   *5. $444    Trygeve
+   *6. $799    minecat
    *7. $799    MOD
-   *8. $799    minecat
+   *8. $799    geroniberry
    *9. $999    Fathom
    10. $2,068  somefakegamer
    11. $2,068  Bellair08
@@ -40,7 +40,7 @@ Updated 2022-08-13T00:35:38.798Z
    36. $4,588  Luuroon
    37. $4,617  Hamel
   *38. $4,633  celesteal
-   39. $4,690  nhaven14
+  *39. $4,690  nhaven14
    40. $4,723  BlockBreaker
    41. $4,792  Weirdone
    42. $4,799  Heater
@@ -84,8 +84,8 @@ Updated 2022-08-13T00:35:38.798Z
    80. $5,492  XxTrollFacexX
    81. $5,534  Lemon cubes
    82. $5,545  chani1623
-   83. $5,594  i.have.aids
-  *84. $5,594  POLAR
+  *83. $5,594  POLAR
+   84. $5,594  i.have.aids
   *85. $5,595  Cix
    86. $5,610  lancekro
    87. $5,620  Ogremor
@@ -193,8 +193,8 @@ Updated 2022-08-13T00:35:38.798Z
   189. $7,163  toga
   190. $7,165  Conqu3red
  *191. $7,172  Jacosama
- *192. $7,186  LassDasMal
- *193. $7,186  Alison
+ *192. $7,186  Alison
+ *193. $7,186  LassDasMal
   194. $7,189  UnsanityLIVE
   195. $7,205  Drnoob0208
  *196. $7,224  instant karma
@@ -225,8 +225,8 @@ Updated 2022-08-13T00:35:38.798Z
   221. $7,538  drizzitdudden
   222. $7,538  skya774005
   223. $7,551  True SmolSir
- *224. $7,556  a_nutter
-  225. $7,556  CamA
+  224. $7,556  CamA
+ *225. $7,556  a_nutter
   226. $7,557  dotoru80
  *227. $7,625  DeFiZe
   228. $7,633  Jonne
@@ -275,7 +275,7 @@ Updated 2022-08-13T00:35:38.798Z
   271. $8,058  Time Kitt
   272. $8,110  sauensean420
   273. $8,112  Jemkat
- *274. $8,150  Pengujedi
+  274. $8,150  Pengujedi
   275. $8,178  peng_yun1205
   276. $8,181  jamiegbreault
   277. $8,184  dhartwell
@@ -287,10 +287,10 @@ Updated 2022-08-13T00:35:38.798Z
   283. $8,258  BeljihnWahfl
   284. $8,273  GamingLike_A_Pro
  *285. $8,281  jbe22
- *286. $8,286  Kotto4Ever
-  287. $8,286  CantTouchDis
-  288. $8,287  Daybou
- *289. $8,287  yoavr123
+  286. $8,286  CantTouchDis
+ *287. $8,286  Kotto4Ever
+ *288. $8,287  yoavr123
+  289. $8,287  Daybou
  *290. $8,290  leicht gesalzener Kabeljaurogen
   291. $8,298  malubis
  *292. $8,301  Teque5
@@ -403,8 +403,8 @@ Updated 2022-08-13T00:35:38.798Z
   399. $9,029  Face7
  *400. $9,031  Jaxson
  *401. $9,038  AroraXD
- *402. $9,051  popcorniosaurus
-  403. $9,051  uninstall
+  402. $9,051  uninstall
+ *403. $9,051  popcorniosaurus
   404. $9,053  torc
   405. $9,058  AZ-LT
   406. $9,069  Juspe
@@ -427,8 +427,8 @@ Updated 2022-08-13T00:35:38.798Z
   423. $9,180  Kedini
   424. $9,181  Luna Kampling
   425. $9,181  hippolippo
- *426. $9,181  The Magic Taco Truck
-  427. $9,181  [ok.] Teaksanny
+  426. $9,181  [ok.] Teaksanny
+ *427. $9,181  The Magic Taco Truck
   428. $9,191  schaufan
   429. $9,200  CWYO
  *430. $9,216  ChalmersSantiago
@@ -544,8 +544,8 @@ Updated 2022-08-13T00:35:38.798Z
   540. $9,919  Lima
  *541. $9,927  Mathias
   542. $9,934  xDeathSlinger
-  543. $9,942  Thisisdumb41
- *544. $9,942  Delta_Mage
+ *543. $9,942  Delta_Mage
+  544. $9,942  Thisisdumb41
  *545. $9,956  Idsl29
   546. $9,961  StackBabber
   547. $9,962  snorkel_head
@@ -659,8 +659,8 @@ Updated 2022-08-13T00:35:38.798Z
   655. $10,622 Anders
   656. $10,622 polak1 -sz
   657. $10,633 MyGameIsLagging26
-  658. $10,646 pegarneau
- *659. $10,646 LucasOriginal
+ *658. $10,646 LucasOriginal
+  659. $10,646 pegarneau
   660. $10,649 DanielBK
   661. $10,660 david.veit
   662. $10,667 Lupo
@@ -804,8 +804,8 @@ Updated 2022-08-13T00:35:38.798Z
   800. $11,379 Jonathanos
   801. $11,395 Jakobs
   802. $11,406 johannes
- *803. $11,413 pete
- *804. $11,413 Noisyboy
+ *803. $11,413 Noisyboy
+ *804. $11,413 pete
  *805. $11,437 Flashmiester205
   806. $11,437 Allanb
  *807. $11,442 Shrek
@@ -816,14 +816,14 @@ Updated 2022-08-13T00:35:38.798Z
   812. $11,459 MechanicalPencil
   813. $11,459 Supernye
   814. $11,464 n00bdax
- *815. $11,473 spottypeas
-  816. $11,473 Igloo
+  815. $11,473 Igloo
+ *816. $11,473 spottypeas
  *817. $11,474 LinkinBark-
   818. $11,476 Epik_Unifish
   819. $11,478 traemine7
   820. $11,480 Ranneko
- *821. $11,489 Bakerboyo
-  822. $11,489 Nuclear
+  821. $11,489 Nuclear
+ *822. $11,489 Bakerboyo
   823. $11,493 Delta
   824. $11,500 AL GAMARD MOUNRAGIS
   825. $11,500 aRandomFinn
@@ -841,8 +841,8 @@ Updated 2022-08-13T00:35:38.798Z
   837. $11,542 Tusk
   838. $11,545 markkazmierowicz
   839. $11,548 Vortexx03
-  840. $11,551 tiomiya
- *841. $11,551 chessy_nose_juice
+ *840. $11,551 chessy_nose_juice
+  841. $11,551 tiomiya
   842. $11,552 ShadowMirrorzZ
   843. $11,553 395462456
   844. $11,565 T0ast3dPoptart
@@ -884,7 +884,7 @@ Updated 2022-08-13T00:35:38.798Z
   880. $11,758 Yangnyeom Chicken
   881. $11,760 Jezre
   882. $11,761 PNT_88
-  883. $11,780 omdidit
+ *883. $11,780 omdidit
   884. $11,787 TheWisestGiraffe
   885. $11,791 Masonator
   886. $11,791 whatever
