@@ -1,17 +1,17 @@
 Poly Bridge 2 - 3-08 "Crossed Paths" any% leaderboard (* = breaks)
-Updated 2022-08-14T00:40:27.853Z
-1000/76480 unique ranks shown
+Updated 2022-08-16T00:47:09.936Z
+1000/76577 unique ranks shown
 
-   *1. $2,153  Zen
+   *1. $2,153  Cookieblues
    *2. $2,153  minecat
-   *3. $2,153  Lagiiiie
-   *4. $2,153  Cookieblues
+   *3. $2,153  Zen
+   *4. $2,153  Lagiiiie
    *5. $2,969  9k5
    *6. $3,276  somefakegamer
-   *7. $3,662  MOD
-   *8. $3,662  Trygeve
-   *9. $3,662  palfly15
-  *10. $3,662  Fathom
+   *7. $3,662  Fathom
+   *8. $3,662  palfly15
+   *9. $3,662  Trygeve
+  *10. $3,662  MOD
   *11. $4,218  tonyz01234
   *12. $4,246  akkun_ouo
    13. $7,283  7777Alex7777
@@ -77,7 +77,7 @@ Updated 2022-08-14T00:40:27.853Z
    73. $11,997 jimmyscully
   *74. $12,047 theo.louesdon
    75. $12,080 Frogn
-   76. $12,099 SaltySeal
+  *76. $12,099 SaltySeal
    77. $12,203 1226875104
    78. $12,430 Aklhys
    79. $12,455 Red Charge
@@ -86,7 +86,7 @@ Updated 2022-08-14T00:40:27.853Z
    82. $12,608 BaconPancakes
   *83. $12,705 TechFrizzy
    84. $12,759 Land Shark
-   85. $12,778 HappyPiggy
+  *85. $12,778 HappyPiggy
    86. $12,953 Cix
    87. $12,957 Supernye
    88. $12,971 Lana Del Rey
@@ -350,8 +350,8 @@ Updated 2022-08-14T00:40:27.853Z
   346. $17,641 Z.A.C.H.
   347. $17,642 smokedscrod
  *348. $17,644 saker1
-  349. $17,656 Revolves
-  350. $17,656 simon.drlink
+ *349. $17,656 simon.drlink
+  350. $17,656 Revolves
  *351. $17,675 nigile
   352. $17,683 UkiArcticFox
   353. $17,689 matt1255555
@@ -387,26 +387,26 @@ Updated 2022-08-14T00:40:27.853Z
  *383. $17,884 Peppermaster
   384. $17,902 Haphazard
   385. $17,915 Count Ronin
- *386. $17,923 Bushy2700
- *387. $17,923 gengi ninga
+ *386. $17,923 gengi ninga
+ *387. $17,923 Bushy2700
   388. $17,927 Newgreen
- *389. $17,935 Sheler
-  390. $17,935 NADMaster
-  391. $17,935 JamieCook
+  389. $17,935 NADMaster
+  390. $17,935 JamieCook
+ *391. $17,935 Sheler
   392. $17,936 caioswfr
   393. $17,952 TheSadSlinky
  *394. $17,960 rx7man
   395. $17,960 Phloofy
-  396. $17,963 Anesthetics.
- *397. $17,963 joshuak1899
+ *396. $17,963 joshuak1899
+  397. $17,963 Anesthetics.
   398. $17,980 romyk
  *399. $17,981 mikisnice
   400. $17,983 nhaven14
   401. $17,991 17uu
   402. $17,992 alex
   403. $17,996 liwo255
- *404. $17,997 Debz
-  405. $17,997 erik.jacobsson88
+  404. $17,997 erik.jacobsson88
+ *405. $17,997 Debz
   406. $17,999 enya
   407. $17,999 Pokii
   408. $18,000 UgandaKnocles
@@ -756,8 +756,8 @@ Updated 2022-08-14T00:40:27.853Z
   752. $19,432 spennystrings
   753. $19,442 Pippin2026
   754. $19,443 Arloten
- *755. $19,446 barryreichphd
-  756. $19,446 Ocmerr
+  755. $19,446 Ocmerr
+ *756. $19,446 barryreichphd
   757. $19,448 Bambino
   758. $19,453 LLCoolDave
   759. $19,458 Zelbinian
@@ -785,8 +785,8 @@ Updated 2022-08-14T00:40:27.853Z
   781. $19,526 silverSeb
   782. $19,526 Toastbrot
   783. $19,531 toomas
-  784. $19,533 vissy
- *785. $19,533 Ima pineapple
+ *784. $19,533 Ima pineapple
+  785. $19,533 vissy
   786. $19,534 SheQ
  *787. $19,540 testicles of obsidian
   788. $19,541 Grimforse
@@ -824,8 +824,8 @@ Updated 2022-08-14T00:40:27.853Z
   820. $19,605 Geert wilders
  *821. $19,610 Bayerbond
   822. $19,616 Commie Slotter
- *823. $19,619 Eric
-  824. $19,619 French
+  823. $19,619 French
+ *824. $19,619 Eric
   825. $19,620 Gomëlz
   826. $19,629 AERO
   827. $19,631 KahlanDragonblood
@@ -847,8 +847,8 @@ Updated 2022-08-14T00:40:27.853Z
   843. $19,669 Caim
   844. $19,669 Bucketofnubbins
   845. $19,670 Salamandre
-  846. $19,676 BamseBæst
- *847. $19,676 nathan.spend
+ *846. $19,676 nathan.spend
+  847. $19,676 BamseBæst
   848. $19,677 FaulTigger
   849. $19,678 ruslan.195
   850. $19,681 Oops I Baked a Pie
@@ -894,8 +894,8 @@ Updated 2022-08-14T00:40:27.853Z
   890. $19,775 Nec
   891. $19,778 Terrigible
   892. $19,780 Beziinator
- *893. $19,781 lllzzflll
-  894. $19,781 koen
+  893. $19,781 koen
+ *894. $19,781 lllzzflll
  *895. $19,785 Space Shark
   896. $19,786 新科弟Official
   897. $19,787 KynQ
@@ -914,91 +914,91 @@ Updated 2022-08-14T00:40:27.853Z
   910. $19,819 UrGreat
   911. $19,819 Skrublord
  *912. $19,823 hmay98
- *913. $19,825 23f8nryk3
-  914. $19,825 Μην παροχής συμβουλών
+  913. $19,825 Μην παροχής συμβουλών
+ *914. $19,825 23f8nryk3
   915. $19,828 Grinar
   916. $19,831 イミコズ
   917. $19,841 5-2-Shore_NoPort
   918. $19,843 Forte_
-  919. $19,849 bumper3d
-  920. $19,849 samuelpeden
-  921. $19,851 omg
-  922. $19,852 Cspar
-  923. $19,852 Phoetaim
-  924. $19,852 KaffeeSatz
-  925. $19,852 cooperjramos
-  926. $19,853 lospin12345
-  927. $19,854 AMDHome
-  928. $19,855 myungs
-  929. $19,857 ♪swiggity
-  930. $19,859 Aunt Jemima
-  931. $19,867 Mu Huang
-  932. $19,869 Awesome
-  933. $19,880 bandits650
-  934. $19,881 Lars_s
-  935. $19,882 Thunderbird9
-  936. $19,884 JayEnfield
-  937. $19,885 matteopaol88
-  938. $19,891 chenail.liam
-  939. $19,891 sim1manson
-  940. $19,892 zac121165
-  941. $19,898 cguillaume
-  942. $19,900 jongunzerg
-  943. $19,901 h.lahdelma
-  944. $19,902 Nova_
-  945. $19,906 gicHan
- *946. $19,909 Skywalkertrem
-  947. $19,909 eric03
-  948. $19,910 stab-anders
-  949. $19,912 Dwdzijó
-  950. $19,914 SSSSilencee
-  951. $19,914 nyasfa02
-  952. $19,920 roc12
-  953. $19,921 Divine
-  954. $19,922 Shane
-  955. $19,922 Turnip
-  956. $19,923 Wulrus
-  957. $19,923 robd.lives
-  958. $19,923 Glithicus
-  959. $19,927 Ashton Clutcher
-  960. $19,928 驹队长
-  961. $19,933 BadJujumagumbo
-  962. $19,933 rawr
-  963. $19,943 iso Compass
- *964. $19,944 a trained kitten
-  965. $19,949 canat
-  966. $19,953 King_of_Hertz
- *967. $19,956 Arapscal
-  968. $19,956 WhiskeySix
- *969. $19,956 FuegoN
-  970. $19,958 NitroMonkey
- *971. $19,960 [TAC] KAPER-GAME
- *972. $19,963 beriangratian
-  973. $19,967 posict
-  974. $19,968 ItMe404
-  975. $19,969 382845377
-  976. $19,969 BrianTho2010
-  977. $19,969 Mesmerize
-  978. $19,971 swag.otis
-  979. $19,973 dooodlebugg
-  980. $19,973 baimin26
-  981. $19,977 Capybara
- *982. $19,981 jdog33340
-  983. $19,982 Ewok
-  984. $19,983 roger29590393
-  985. $19,987 tristanfogt1418
-  986. $19,987 Pit
-  987. $19,988 1940168104
-  988. $19,988 透明膠帶
-  989. $19,990 spirit9
-  990. $19,990 CapSora
-  991. $19,992 taechuK
-  992. $19,995 nbonaparte105
-  993. $19,995 de5k1o1
-  994. $19,995 mooj
- *995. $19,997 whykingr
-  996. $19,998 DieselJN
-  997. $19,998 Xylated
-  998. $19,999 iqi_znan
-  999. $19,999 DarkHawk106
- 1000. $19,999 caldermarshall
+  919. $19,843 hawaiian snack bar
+  920. $19,849 bumper3d
+  921. $19,849 samuelpeden
+  922. $19,851 omg
+  923. $19,852 Cspar
+  924. $19,852 Phoetaim
+  925. $19,852 KaffeeSatz
+  926. $19,852 cooperjramos
+  927. $19,853 lospin12345
+  928. $19,854 AMDHome
+  929. $19,855 myungs
+  930. $19,857 ♪swiggity
+  931. $19,859 Aunt Jemima
+  932. $19,867 Mu Huang
+  933. $19,869 Awesome
+  934. $19,880 bandits650
+  935. $19,881 Lars_s
+  936. $19,882 Thunderbird9
+  937. $19,884 JayEnfield
+  938. $19,885 matteopaol88
+  939. $19,891 chenail.liam
+  940. $19,891 sim1manson
+  941. $19,892 zac121165
+  942. $19,898 cguillaume
+  943. $19,900 jongunzerg
+  944. $19,901 h.lahdelma
+  945. $19,902 Nova_
+  946. $19,906 gicHan
+ *947. $19,909 Skywalkertrem
+  948. $19,909 eric03
+  949. $19,910 stab-anders
+  950. $19,912 Dwdzijó
+  951. $19,914 SSSSilencee
+  952. $19,914 nyasfa02
+  953. $19,920 roc12
+  954. $19,921 Divine
+  955. $19,922 Shane
+  956. $19,922 Turnip
+  957. $19,923 Wulrus
+  958. $19,923 robd.lives
+  959. $19,923 Glithicus
+  960. $19,927 Ashton Clutcher
+  961. $19,928 驹队长
+  962. $19,933 BadJujumagumbo
+  963. $19,933 rawr
+  964. $19,943 iso Compass
+ *965. $19,944 a trained kitten
+  966. $19,949 canat
+  967. $19,953 King_of_Hertz
+ *968. $19,956 FuegoN
+ *969. $19,956 Arapscal
+  970. $19,956 WhiskeySix
+  971. $19,958 NitroMonkey
+ *972. $19,960 [TAC] KAPER-GAME
+ *973. $19,963 beriangratian
+  974. $19,967 posict
+  975. $19,968 ItMe404
+  976. $19,969 382845377
+  977. $19,969 BrianTho2010
+  978. $19,969 Mesmerize
+  979. $19,971 swag.otis
+  980. $19,973 dooodlebugg
+  981. $19,973 baimin26
+ *982. $19,977 Rey
+  983. $19,977 Capybara
+ *984. $19,981 jdog33340
+  985. $19,982 Ewok
+  986. $19,983 roger29590393
+  987. $19,987 tristanfogt1418
+  988. $19,987 Pit
+  989. $19,988 1940168104
+  990. $19,988 透明膠帶
+  991. $19,990 spirit9
+  992. $19,990 CapSora
+  993. $19,992 taechuK
+  994. $19,995 nbonaparte105
+  995. $19,995 de5k1o1
+  996. $19,995 mooj
+ *997. $19,997 whykingr
+  998. $19,998 DieselJN
+  999. $19,998 Xylated
+ 1000. $19,999 iqi_znan
