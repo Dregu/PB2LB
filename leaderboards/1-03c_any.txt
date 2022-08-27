@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-03C "Bridge of Steel" any% leaderboard (* = breaks)
-Updated 2022-08-26T00:43:28.602Z
-1000/20158 unique ranks shown
+Updated 2022-08-27T00:36:27.678Z
+1000/20164 unique ranks shown
 
     1. $5,123  Cookieblues
     2. $5,123  Bellair08
@@ -11,9 +11,9 @@ Updated 2022-08-26T00:43:28.602Z
     7. $5,147  MOD
     8. $5,150  Crimson
     9. $5,158  Trygeve
-  *10. $5,163  Astrodaly
-   11. $5,163  DaveMcW
-   12. $5,163  zztop03
+   10. $5,163  DaveMcW
+   11. $5,163  zztop03
+  *12. $5,163  Astrodaly
    13. $5,168  MeeepTheUnique
    14. $5,176  Flubbles
    15. $5,180  Fathom
@@ -21,7 +21,7 @@ Updated 2022-08-26T00:43:28.602Z
    17. $5,182  Roevhaal
    18. $5,185  popcorniosaurus
    19. $5,193  iCameTheRainbow
-   20. $5,194  Tiaga
+  *20. $5,194  Tiaga
    21. $5,201  luykzim14
    22. $5,201  notdocq
    23. $5,206  9k5
@@ -48,12 +48,12 @@ Updated 2022-08-26T00:43:28.602Z
    44. $5,237  GF——LONGWU
    45. $5,238  MYCRAFTisbest
    46. $5,238  Morgothor
-   47. $5,238  TucLTU
-  *48. $5,238  zinc
+  *47. $5,238  zinc
+   48. $5,238  TucLTU
    49. $5,239  delightfulgiraffe
    50. $5,239  Cypheri
-  *51. $5,240  CasualSanta
-  *52. $5,240  kiwiz
+  *51. $5,240  kiwiz
+  *52. $5,240  CasualSanta
    53. $5,241  hsphere
    54. $5,241  maash
    55. $5,241  metatropic
@@ -228,7 +228,7 @@ Updated 2022-08-26T00:43:28.602Z
   224. $8,679  Rhiom
   225. $8,922  moonrid3r
   226. $8,924  >> EviLLegolaS <<
- *227. $8,984  bolt986
+  227. $8,984  bolt986
   228. $9,173  RippeR
   229. $9,225  francois.brand
   230. $9,269  cyko
@@ -414,8 +414,8 @@ Updated 2022-08-26T00:43:28.602Z
  *410. $10,487 BigMommyGames
   411. $10,492 Aiferion
   412. $10,493 CPrimex
- *413. $10,500 St1ngm
-  414. $10,500 BolerPear
+  413. $10,500 BolerPear
+ *414. $10,500 St1ngm
  *415. $10,501 Richard
   416. $10,503 NetEng
  *417. $10,503 curvi0815
@@ -538,7 +538,7 @@ Updated 2022-08-26T00:43:28.602Z
   534. $10,887 squashbros
   535. $10,899 blakewmeyer
   536. $10,908 听冬岩尘开
- *537. $10,915 lancekro
+  537. $10,915 lancekro
   538. $10,916 Steph.
   539. $10,917 neochen1972
   540. $10,918 -=Skriem=-
@@ -577,8 +577,8 @@ Updated 2022-08-26T00:43:28.602Z
   573. $10,999 cvk
   574. $11,000 Freedom_IT
   575. $11,004 dan.bailey
-  576. $11,004 Popy6978
- *577. $11,004 YALDY
+ *576. $11,004 YALDY
+  577. $11,004 Popy6978
   578. $11,006 Tamerch
   579. $11,009 mdocod
  *580. $11,012 Toddy
@@ -732,8 +732,8 @@ Updated 2022-08-26T00:43:28.602Z
   728. $11,353 Mr. Emo
   729. $11,364 JCC
   730. $11,364 andrew
-  731. $11,366 SillyStrungSabbatical
- *732. $11,366 Moederkoekje
+ *731. $11,366 Moederkoekje
+  732. $11,366 SillyStrungSabbatical
   733. $11,371 connor.bray.ricks
   734. $11,372 matt1255555
   735. $11,372 Arty NL
@@ -819,9 +819,9 @@ Updated 2022-08-26T00:43:28.602Z
   815. $11,518 thomas.vdlf
   816. $11,522 Alita
   817. $11,524 BioHazard
-  818. $11,526 Qwertz
-  819. $11,526 Terkey
- *820. $11,526 Piglet
+ *818. $11,526 Piglet
+  819. $11,526 Qwertz
+  820. $11,526 Terkey
   821. $11,526 ePrime
   822. $11,528 philimnorden
   823. $11,532 Minty
@@ -935,8 +935,8 @@ Updated 2022-08-26T00:43:28.602Z
   931. $11,738 ⑨Beloved Tomboyish Girl⑨
   932. $11,738 Enredar1457
   933. $11,741 fearless_77777
-  934. $11,743 max_broch
- *935. $11,743 zig2003zak
+ *934. $11,743 zig2003zak
+  935. $11,743 max_broch
   936. $11,744 wSky
   937. $11,745 ProchyY!
   938. $11,746 Enderaan
