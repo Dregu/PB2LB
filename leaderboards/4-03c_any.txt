@@ -1,10 +1,10 @@
 Poly Bridge 2 - 4-03C "Sloped Drawbridge" any% leaderboard (* = breaks)
-Updated 2022-09-06T00:45:09.953Z
-1000/3567 unique ranks shown
+Updated 2022-09-07T00:44:57.883Z
+1000/3568 unique ranks shown
 
    *1. $2,599  Cookieblues
-   *2. $2,599  Lagiiiie
-   *3. $2,599  9k5
+   *2. $2,599  9k5
+   *3. $2,599  Lagiiiie
    *4. $2,999  Trygeve
    *5. $3,333  Zen
    *6. $3,999  Fathom
@@ -13,9 +13,9 @@ Updated 2022-09-06T00:45:09.953Z
    *9. $4,927  ~ Smithy ~
   *10. $5,488  Pengujedi
   *11. $5,493  Bibbb
-  *12. $5,494  MOD
-  *13. $5,494  Icysnowman
-  *14. $5,494  geroniberry
+  *12. $5,494  geroniberry
+  *13. $5,494  MOD
+  *14. $5,494  Icysnowman
   *15. $6,969  minecat
   *16. $12,246 Bellair08
   *17. $12,670 7777Alex7777
@@ -126,8 +126,8 @@ Updated 2022-09-06T00:45:09.953Z
   122. $29,486 W@rri0r
  *123. $29,487 Seldaphar
   124. $29,519 sim1manson
-  125. $29,600 Seiho2659
- *126. $29,600 Anders
+ *125. $29,600 Anders
+  126. $29,600 Seiho2659
  *127. $29,702 Katamari (old)
   128. $29,735 CR7
   129. $29,739 DrodeL
@@ -230,7 +230,7 @@ Updated 2022-09-06T00:45:09.953Z
  *226. $32,663 _player52
   227. $32,680 takeoff
   228. $32,714 oof
-  229. $32,895 SilentStorm
+ *229. $32,895 SilentStorm
  *230. $32,899 stinod2
   231. $32,900 xyianide
   232. $32,925 Epik_Unifish
@@ -463,7 +463,7 @@ Updated 2022-09-06T00:45:09.953Z
   459. $37,558 Arloten
   460. $37,602 Mokif
   461. $37,621 ꧁꧂꧁꧂꧁꧂
-  462. $37,675 SPR4YnPRAY
+ *462. $37,675 SPR4YnPRAY
   463. $37,693 Pempa
  *464. $37,703 Teque5
   465. $37,711 NewYearNoob
@@ -477,7 +477,7 @@ Updated 2022-09-06T00:45:09.953Z
   473. $37,840 EnigmaticFox
   474. $37,845 knightRider0xD
   475. $37,854 sus
- *476. $37,883 Jakke
+  476. $37,883 Jakke
   477. $37,884 Literal Vampire Potbelly Goblins
   478. $37,896 Strawman
   479. $37,908 OhmsAreFutile
@@ -634,8 +634,8 @@ Updated 2022-09-06T00:45:09.953Z
   630. $39,898 ajar
   631. $39,898 FireMuffins | RIP Yomps
   632. $39,900 Dr. Pepper MD
- *633. $39,911 acmorar9
-  634. $39,911 figpicker
+  633. $39,911 figpicker
+ *634. $39,911 acmorar9
   635. $39,920 Thudios
  *636. $39,927 zinon2
   637. $39,938 檸檬
@@ -680,7 +680,7 @@ Updated 2022-09-06T00:45:09.953Z
   676. $40,336 Ozzy
   677. $40,336 -1-1-
   678. $40,341 drizzitdudden
- *679. $40,342 Cherubael
+  679. $40,342 Cherubael
   680. $40,343 Gromit
   681. $40,348 冉宝
   682. $40,371 yellowmastodon
@@ -811,11 +811,11 @@ Updated 2022-09-06T00:45:09.953Z
   807. $41,814 tomaschonnie
   808. $41,831 Wolfelix123
   809. $41,831 dridhaswana2
- *810. $41,831 Pickle Rick
-  811. $41,831 WTYan
-  812. $41,831 Ħasħɇđ ⱣøŧȺŧøɇs
-  813. $41,831 Pasky
-  814. $41,831 Crimson
+  810. $41,831 WTYan
+  811. $41,831 Ħasħɇđ ⱣøŧȺŧøɇs
+  812. $41,831 Pasky
+  813. $41,831 Crimson
+ *814. $41,831 Pickle Rick
   815. $41,831 twilighttoes
   816. $41,831 Snail's nipple
   817. $41,831 alanrea1980
@@ -837,7 +837,7 @@ Updated 2022-09-06T00:45:09.953Z
   833. $41,945 KevKevOnFire
  *834. $41,965 Mikkulf
   835. $41,983 Sir Doom Nooble
-  836. $42,001 AngryGinger
+ *836. $42,001 AngryGinger
   837. $42,005 Marcel
   838. $42,008 Eugene Freeman
   839. $42,040 InfinityPilz
