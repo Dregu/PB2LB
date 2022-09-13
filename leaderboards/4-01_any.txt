@@ -1,10 +1,10 @@
 Poly Bridge 2 - 4-01 "Edgy" any% leaderboard (* = breaks)
-Updated 2022-09-11T00:41:55.369Z
-1000/62678 unique ranks shown
+Updated 2022-09-13T00:44:12.630Z
+1000/62740 unique ranks shown
 
    *1. $2,799  Lagiiiie
-   *2. $2,799  9k5
-   *3. $2,799  Cookieblues
+   *2. $2,799  Cookieblues
+   *3. $2,799  9k5
    *4. $2,999  Fathom
    *5. $2,999  minecat
    *6. $3,599  7777Alex7777
@@ -149,7 +149,7 @@ Updated 2022-09-11T00:41:55.369Z
   145. $15,511 SilentStorm
   146. $15,527 dorschloch
   147. $15,527 Odd Man
-  148. $15,535 abidhilmi403
+ *148. $15,535 abidhilmi403
   149. $15,553 MaxOyaggi
   150. $15,564 Player
   151. $15,564 zinc
@@ -229,8 +229,8 @@ Updated 2022-09-11T00:41:55.369Z
   225. $16,203 Holy Llama!
   226. $16,204 George Von Fergz
  *227. $16,208 MiloXR
- *228. $16,210 Martin
- *229. $16,210 haWk
+ *228. $16,210 haWk
+ *229. $16,210 Martin
   230. $16,214 hyominxy
   231. $16,224 gamespilgame
   232. $16,239 ado
@@ -297,8 +297,8 @@ Updated 2022-09-11T00:41:55.369Z
   293. $16,553 Squog
   294. $16,557 to915
   295. $16,559 Beziinator
-  296. $16,565 maxyisfast
- *297. $16,565 BuffDove
+ *296. $16,565 BuffDove
+  297. $16,565 maxyisfast
   298. $16,567 CS2100
   299. $16,571 Tehninza
   300. $16,572 samuelpierog
@@ -312,14 +312,14 @@ Updated 2022-09-11T00:41:55.369Z
   308. $16,597 gijshomminga7
   309. $16,599 mikiethepenguin
   310. $16,603 gajiro240
- *311. $16,607 Malvin
-  312. $16,607 M47145dg
+ *311. $16,607 M47145dg
+ *312. $16,607 Malvin
   313. $16,610 nick
   314. $16,613 Uevoz
   315. $16,614 Ix
   316. $16,619 marek7pawelec
- *317. $16,619 i.have.aids
-  318. $16,619 N3cro
+  317. $16,619 N3cro
+ *318. $16,619 i.have.aids
   319. $16,625 Deathtal
   320. $16,626 Shadow Blades
   321. $16,633 kasper.kjos
@@ -342,7 +342,7 @@ Updated 2022-09-11T00:41:55.369Z
   338. $16,688 Maky_(HUN)
   339. $16,694 ImThatOrphan
   340. $16,695 Baked Cheese
- *341. $16,698 poptart
+  341. $16,698 poptart
  *342. $16,699 Chris_Cookies8
   343. $16,705 Norsk Pass
   344. $16,708 vivalarebellion
@@ -394,44 +394,44 @@ Updated 2022-09-11T00:41:55.369Z
   390. $16,797 Pink_
  *391. $16,797 cvk
   392. $16,797 instant karma
-  393. $16,800 Mourning.Fathers
-  394. $16,801 GETSOOOMMMEEEE
-  395. $16,806 tmoore1o
-  396. $16,808 dcox
-  397. $16,809 PRNDL
-  398. $16,810 Flaking Fox
-  399. $16,813 ydakilux
-  400. $16,820 hebgeennaam1
-  401. $16,820 nickarnols
-  402. $16,820 Tecno-Geek
-  403. $16,821 itsiques2x
-  404. $16,822 cheesybunghole
-  405. $16,825 Stabhole
-  406. $16,826 MrOp
-  407. $16,826 Ava
-  408. $16,828 bennatwil
-  409. $16,828 holyTyu
-  410. $16,828 RS-53
-  411. $16,830 小k
-  412. $16,833 isakstep
-  413. $16,834 Jonas_H1307
-  414. $16,834 SbBetterThanU
-  415. $16,836 ellisk1
-  416. $16,839 HappyPiggy
-  417. $16,839 masek
-  418. $16,840 MKBridger
-  419. $16,842 dbeallor
-  420. $16,845 Minnesota.Nice
-  421. $16,847 hbdutch
-  422. $16,862 Baderkles
-  423. $16,863 oiiaa77
-  424. $16,863 cliff007
-  425. $16,864 Nile
-  426. $16,865 jellelagerweij
-  427. $16,866 Erythron
-  428. $16,867 maxblue456
-  429. $16,867 Nigi9002.
-  430. $16,867 BladedEye
+  393. $16,799 Nigi9002.
+  394. $16,800 Mourning.Fathers
+  395. $16,801 GETSOOOMMMEEEE
+  396. $16,806 tmoore1o
+  397. $16,808 dcox
+  398. $16,809 PRNDL
+  399. $16,810 Flaking Fox
+  400. $16,813 ydakilux
+  401. $16,820 hebgeennaam1
+  402. $16,820 nickarnols
+  403. $16,820 Tecno-Geek
+  404. $16,821 itsiques2x
+  405. $16,822 cheesybunghole
+  406. $16,825 Stabhole
+  407. $16,826 MrOp
+  408. $16,826 Ava
+  409. $16,828 bennatwil
+  410. $16,828 holyTyu
+  411. $16,828 RS-53
+  412. $16,830 小k
+  413. $16,833 isakstep
+  414. $16,834 Jonas_H1307
+  415. $16,834 SbBetterThanU
+  416. $16,836 ellisk1
+  417. $16,839 HappyPiggy
+  418. $16,839 masek
+  419. $16,840 MKBridger
+  420. $16,842 dbeallor
+  421. $16,845 Minnesota.Nice
+  422. $16,847 hbdutch
+  423. $16,862 Baderkles
+  424. $16,863 oiiaa77
+  425. $16,863 cliff007
+  426. $16,864 Nile
+  427. $16,865 jellelagerweij
+  428. $16,866 Erythron
+  429. $16,867 BladedEye
+  430. $16,867 maxblue456
   431. $16,867 Jimbo77
   432. $16,872 kevinobrien112
   433. $16,873 Galactaga
@@ -449,8 +449,8 @@ Updated 2022-09-11T00:41:55.369Z
   445. $16,915 Whyit1
  *446. $16,916 Mal_Havok
  *447. $16,917 romrj470
-  448. $16,920 chupa71
- *449. $16,920 jason.fritsch18
+ *448. $16,920 jason.fritsch18
+  449. $16,920 chupa71
   450. $16,929 coersed
   451. $16,933 DG_37
   452. $16,934 bayaofclannet
@@ -627,8 +627,8 @@ Updated 2022-09-11T00:41:55.369Z
   623. $17,302 Fagrid
   624. $17,303 Alexey
   625. $17,306 helmetman
-  626. $17,307 jwis
-  627. $17,307 Thomas
+  626. $17,307 Thomas
+  627. $17,307 jwis
   628. $17,310 powan
   629. $17,310 Marijn
   630. $17,311 Stavis
@@ -855,7 +855,7 @@ Updated 2022-09-11T00:41:55.369Z
   851. $17,699 Blauwal
   852. $17,699 Halligator
   853. $17,700 mr_hyde_
- *854. $17,701 Bram2323
+  854. $17,701 Bram2323
   855. $17,701 ✪ Eto♪
   856. $17,705 robd.lives
   857. $17,708 alvaroblazquez78
@@ -867,8 +867,8 @@ Updated 2022-09-11T00:41:55.369Z
   863. $17,715 FantasticPhil
   864. $17,715 Bertje333
   865. $17,716 thurbercat
-  866. $17,719 mohammadnassar
-  867. $17,719 Hey all you cool cats n kittens
+  866. $17,719 Hey all you cool cats n kittens
+  867. $17,719 mohammadnassar
   868. $17,723 KnightWalker
   869. $17,724 Larry
   870. $17,726 badweathers
@@ -880,8 +880,8 @@ Updated 2022-09-11T00:41:55.369Z
   876. $17,733 Beast
  *877. $17,733 Nöten
   878. $17,735 Goats'N'Oats
-  879. $17,737 kuroscino
- *880. $17,737 Hawkwing
+ *879. $17,737 Hawkwing
+  880. $17,737 kuroscino
   881. $17,738 kurtistkurt
   882. $17,739 _Slomor
   883. $17,740 andrew
@@ -910,8 +910,8 @@ Updated 2022-09-11T00:41:55.369Z
   906. $17,772 lpizquierda
   907. $17,773 TitanMushroom
   908. $17,776 SirBigGuy
-  909. $17,777 SkeptikBlaze
- *910. $17,777 toonijn
+ *909. $17,777 toonijn
+  910. $17,777 SkeptikBlaze
   911. $17,780 IanSar
   912. $17,782 wandorgen
   913. $17,785 petrov
@@ -929,8 +929,8 @@ Updated 2022-09-11T00:41:55.369Z
   925. $17,806 JapPlonk
   926. $17,810 zeus
   927. $17,813 Heeben
- *928. $17,813 htN
-  929. $17,813 egeneus
+  928. $17,813 egeneus
+ *929. $17,813 htN
   930. $17,814 Komment#1352
   931. $17,815 silverSeb
   932. $17,817 arsoron
