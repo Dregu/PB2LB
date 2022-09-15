@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-11C "Stop N' Go" any% leaderboard (* = breaks)
-Updated 2022-09-14T00:42:00.336Z
-1000/17930 unique ranks shown
+Updated 2022-09-15T00:45:45.964Z
+1000/17937 unique ranks shown
 
    *1. $5,399  Zen
    *2. $5,399  9k5
@@ -127,7 +127,7 @@ Updated 2022-09-14T00:42:00.336Z
   123. $7,833  starbikeperson
   124. $7,836  zeller-alex
   125. $7,836  gamespilgame
-  126. $7,851  ultimatedgambler
+ *126. $7,851  ultimatedgambler
   127. $7,861  Wadusher
   128. $7,862  DG_37
  *129. $7,875  FallingDoorFail
@@ -138,7 +138,7 @@ Updated 2022-09-14T00:42:00.336Z
   134. $7,896  Jormungandr
   135. $7,899  maash
   136. $7,899  Kapo
-  137. $7,905  sherry-hampton
+ *137. $7,905  sherry-hampton
   138. $7,910  ProfessorBiddle
  *139. $7,915  orinfc
   140. $7,924  hyominxy
@@ -423,10 +423,10 @@ Updated 2022-09-14T00:42:00.336Z
   419. $8,991  Welin
   420. $8,991  Vendetta
   421. $8,992  Grorious Reader
-  422. $8,994  lee731017
+ *422. $8,994  lee731017
   423. $8,994  BoomZillo
- *424. $8,995  Part 3 Wu Tang Forever
-  425. $8,995  griffinb55555
+  424. $8,995  griffinb55555
+ *425. $8,995  Part 3 Wu Tang Forever
   426. $8,996  Ryepizor
   427. $8,998  ᠌
   428. $8,998  LeonardRodriguez
@@ -530,8 +530,8 @@ Updated 2022-09-14T00:42:00.336Z
  *526. $9,221  smsimonson
   527. $9,223  PeaHead
  *528. $9,226  thatrandomtoad
-  529. $9,233  gaming.gaming
- *530. $9,233  Asherville
+ *529. $9,233  Asherville
+  530. $9,233  gaming.gaming
   531. $9,237  firebolt181
   532. $9,247  Dejv
  *533. $9,247  dan
@@ -601,8 +601,8 @@ Updated 2022-09-14T00:42:00.336Z
   597. $9,383  JustRodo
   598. $9,388  truworld
   599. $9,391  wovencanvas
- *600. $9,392  k.a.huckshold
-  601. $9,392  Seanbot
+  600. $9,392  Seanbot
+ *601. $9,392  k.a.huckshold
   602. $9,393  Daman17 YT
   603. $9,394  tianmingzhou1995
   604. $9,396  andjo403
@@ -649,8 +649,8 @@ Updated 2022-09-14T00:42:00.336Z
   645. $9,476  neochen1972
   646. $9,485  david
   647. $9,487  snowfire247
-  648. $9,487  Nufik
- *649. $9,487  Teh
+ *648. $9,487  Teh
+  649. $9,487  Nufik
   650. $9,489  Kosher Karambwan
   651. $9,490  bindai66
   652. $9,491  ericj824
@@ -714,8 +714,8 @@ Updated 2022-09-14T00:42:00.336Z
   710. $9,592  bjorn
   711. $9,595  𐂃𐂃
   712. $9,596  Jambo
-  713. $9,598  Gumii
- *714. $9,598  lukeredfern
+ *713. $9,598  lukeredfern
+  714. $9,598  Gumii
   715. $9,598  buzzkillo
   716. $9,604  vkelloku
   717. $9,606  thompsje
@@ -737,8 +737,8 @@ Updated 2022-09-14T00:42:00.336Z
   733. $9,631  Okoye's #1
   734. $9,632  Gorby
  *735. $9,632  j.westerbos
- *736. $9,633  Ash Kerwood
-  737. $9,633  40019481
+  736. $9,633  40019481
+ *737. $9,633  Ash Kerwood
   738. $9,634  h4mateuszp
   739. $9,635  Graceful97
   740. $9,636  FoXi
@@ -759,8 +759,8 @@ Updated 2022-09-14T00:42:00.336Z
   755. $9,681  adwagner89
   756. $9,682  Glow 77
   757. $9,683  Boi...
-  758. $9,688  Sanic
- *759. $9,688  SlewedPack546
+ *758. $9,688  SlewedPack546
+  759. $9,688  Sanic
   760. $9,691  RubbarDuckie
   761. $9,695  - Academus -
  *762. $9,696  A Bunny
@@ -984,8 +984,8 @@ Updated 2022-09-14T00:42:00.336Z
   980. $10,172 Mister Goldminer|Skilledn't
   981. $10,175 Jan_Niek
   982. $10,176 zeusphd13
-  983. $10,179 Mimbrone
- *984. $10,179 coclet.francois
+ *983. $10,179 coclet.francois
+  984. $10,179 Mimbrone
   985. $10,181 WirJun
   986. $10,185 Keks
   987. $10,187 Jeff
@@ -1001,4 +1001,4 @@ Updated 2022-09-14T00:42:00.336Z
   997. $10,208 samuelpierog
   998. $10,208 Acid RAIN
   999. $10,210 gurch
- 1000. $10,211 Tedisimus
+*1000. $10,211 narib00
