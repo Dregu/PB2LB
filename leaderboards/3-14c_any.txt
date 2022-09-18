@@ -1,18 +1,18 @@
 Poly Bridge 2 - 3-14C "Low Flyer" any% leaderboard (* = breaks)
-Updated 2022-09-17T00:41:54.768Z
-1000/3280 unique ranks shown
+Updated 2022-09-18T00:45:53.128Z
+1000/3282 unique ranks shown
 
-   *1. $288    Cookieblues
-   *2. $288    Lagiiiie
-   *3. $288    Bibbb
+   *1. $288    Bibbb
+   *2. $288    Cookieblues
+   *3. $288    Lagiiiie
    *4. $289    Fathom
    *5. $290    Zen
    *6. $292    Sexy Boy Industries [woop]
    *7. $305    mooseman0423
    *8. $314    akkun_ouo
    *9. $319    9k5
-  *10. $320    Trygeve
-  *11. $320    geroniberry
+  *10. $320    geroniberry
+  *11. $320    Trygeve
   *12. $321    Icysnowman
   *13. $326    minecat
   *14. $359    Gaotosky10
@@ -89,7 +89,7 @@ Updated 2022-09-17T00:41:54.768Z
    85. $44,601 ~ Smithy ~
    86. $44,785 StreamGames
   *87. $44,975 Staviette
-  *88. $45,000 Freedom_IT
+   88. $45,000 Freedom_IT
   *89. $45,540 Haze
    90. $45,583 TheSadSlinky
   *91. $45,635 TheHiv3_m1nd
@@ -472,7 +472,7 @@ Updated 2022-09-17T00:41:54.768Z
   468. $61,818 Con-Man Moran
  *469. $61,832 Rusty Shackleford
   470. $61,833 Thorge
-  471. $61,846 Ex gon give it to ya
+ *471. $61,846 Ex gon give it to ya
   472. $61,856 slartybarfast
   473. $61,884 Jezre
  *474. $61,904 Lonk
@@ -604,9 +604,9 @@ Updated 2022-09-17T00:41:54.768Z
   600. $63,969 brandonstitt64
   601. $63,984 Andre
  *602. $64,039 liamjwaller
-  603. $64,048 bellowey
- *604. $64,048 Salty Snail
- *605. $64,048 jsnvndnb
+ *603. $64,048 jsnvndnb
+  604. $64,048 bellowey
+ *605. $64,048 Salty Snail
   606. $64,062 gajiro240
   607. $64,100 Dr_Geo
   608. $64,120 Mr_Robot
@@ -878,8 +878,8 @@ Updated 2022-09-17T00:41:54.768Z
   874. $66,613 Falcon
   875. $66,613 Ineffabilis
   876. $66,616 Sketchzi
- *877. $66,635 snowmaniac
-  878. $66,635 Jamesu
+  877. $66,635 Jamesu
+ *878. $66,635 snowmaniac
  *879. $66,656 shasta.pete
   880. $66,666 LegendOfLinq
   881. $66,686 LavaMagnet
@@ -941,8 +941,8 @@ Updated 2022-09-17T00:41:54.768Z
   937. $67,014 Lion Eating Hummus
  *938. $67,015 mopure33266
   939. $67,016 ruby
- *940. $67,023 Stick
-  941. $67,023 Dodddo2
+  940. $67,023 Dodddo2
+ *941. $67,023 Stick
   942. $67,028 Brubby
   943. $67,033 Alison
   944. $67,034 Adre69pw
@@ -979,26 +979,26 @@ Updated 2022-09-17T00:41:54.768Z
   975. $67,228 tomtom070
   976. $67,237 InfinitySay
   977. $67,237 zbf539942737
-  978. $67,240 Astronerd
-  979. $67,248 Picman2042
-  980. $67,252 alexmoreno524
-  981. $67,257 SuperComboGamer
-  982. $67,262 santiago.caceres
-  983. $67,263 TypicalBailey
-  984. $67,266 BRAiDEN_2OO5
-  985. $67,273 Luna Kampling
-  986. $67,276 Woolyfrog
-  987. $67,288 knightRider0xD
-  988. $67,292 ThømAz
-  989. $67,294 Nannerpuss!
- *990. $67,294 alec.mitchellthomson
-  991. $67,308 ViVi
-  992. $67,310 AsKalas
-  993. $67,318 Child Snatcher
-  994. $67,319 『　　』
-  995. $67,322 BorkFanBoy
-  996. $67,326 beautifulletter
-  997. $67,326 ski-s:go
-  998. $67,344 loicduchiron
-  999. $67,345 shinoha
- 1000. $67,347 Cr42yC4r1
+  978. $67,239 OwO
+  979. $67,240 Astronerd
+  980. $67,248 Picman2042
+  981. $67,252 alexmoreno524
+  982. $67,257 SuperComboGamer
+  983. $67,262 santiago.caceres
+  984. $67,263 TypicalBailey
+  985. $67,266 BRAiDEN_2OO5
+  986. $67,273 Luna Kampling
+  987. $67,276 Woolyfrog
+  988. $67,288 knightRider0xD
+  989. $67,292 ThømAz
+  990. $67,294 Nannerpuss!
+ *991. $67,294 alec.mitchellthomson
+  992. $67,308 ViVi
+  993. $67,310 AsKalas
+  994. $67,318 Child Snatcher
+  995. $67,319 『　　』
+  996. $67,322 BorkFanBoy
+  997. $67,326 beautifulletter
+  998. $67,326 ski-s:go
+  999. $67,344 loicduchiron
+ 1000. $67,345 shinoha
