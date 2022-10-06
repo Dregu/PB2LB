@@ -1,20 +1,20 @@
 Poly Bridge 2 - 4-08C "Thread the Needle" any% leaderboard (* = breaks)
-Updated 2022-10-05T00:55:50.806Z
-1000/4360 unique ranks shown
+Updated 2022-10-06T00:49:48.428Z
+1000/4361 unique ranks shown
 
    *1. $829    9k5
    *2. $829    Lagiiiie
-   *3. $1,088  minecat
-   *4. $1,088  akkun_ouo
-   *5. $1,088  Cookieblues
+   *3. $1,088  akkun_ouo
+   *4. $1,088  Cookieblues
+   *5. $1,088  minecat
    *6. $1,088  somefakegamer
    *7. $1,088  MOD
    *8. $1,142  Zen
    *9. $1,142  Trygeve
-   10. $1,466  notdocq
+   10. $1,444  notdocq
   *11. $1,531  BaconPancakes
   *12. $1,672  nVentex
-   13. $1,878  BEEF
+  *13. $1,878  BEEF
   *14. $1,984  Bellair08
   *15. $1,992  Fathom
   *16. $1,997  Bibbb
@@ -40,7 +40,7 @@ Updated 2022-10-05T00:55:50.806Z
    36. $2,837  Zhus118
    37. $2,959  Soba
   *38. $3,050  Cix
-   39. $3,057  adambrianschmidt
+  *39. $3,057  adambrianschmidt
    40. $3,077  Me 10 Jin
   *41. $3,145  Loner
   *42. $3,186  BushySushi
@@ -123,8 +123,8 @@ Updated 2022-10-05T00:55:50.806Z
   119. $5,413  Craigor
   120. $5,418  bellowey
  *121. $5,443  Carole Fuggin Baskin
- *122. $5,465  alexmoreno524
-  123. $5,465  MoscaTonta
+  122. $5,465  MoscaTonta
+ *123. $5,465  alexmoreno524
  *124. $5,472  jason.fritsch18
  *125. $5,473  ultimatedgambler
  *126. $5,487  Fractal
@@ -166,7 +166,7 @@ Updated 2022-10-05T00:55:50.806Z
  *162. $6,194  Katamari (old)
  *163. $6,223  Panic
  *164. $6,234  paulwrathcsgo
-  165. $6,240  lancekro
+ *165. $6,240  lancekro
  *166. $6,241  skepular
  *167. $6,255  420 FaZe it
  *168. $6,258  Zawza
@@ -212,7 +212,7 @@ Updated 2022-10-05T00:55:50.806Z
   208. $6,985  Kint
   209. $6,986  NetEng
  *210. $7,038  piccolo_SPA
-  211. $7,078  nhaven14
+ *211. $7,078  nhaven14
  *212. $7,137  GoodMath
  *213. $7,147  theo.louesdon
  *214. $7,212  123hibye321
@@ -248,7 +248,7 @@ Updated 2022-10-05T00:55:50.806Z
   244. $7,535  SRA
   245. $7,544  inv > Smesh
   246. $7,555  Reo
-  247. $7,560  sherry-hampton
+ *247. $7,560  sherry-hampton
   248. $7,561  little gamer
   249. $7,570  Martdogg3000
  *250. $7,596  Dad
@@ -260,7 +260,7 @@ Updated 2022-10-05T00:55:50.806Z
   256. $7,670  Bandwidth Bandit
   257. $7,738  kb_z
   258. $7,741  tuftoark
- *259. $7,772  ~ Smithy ~
+  259. $7,772  ~ Smithy ~
   260. $7,782  DARN
  *261. $7,788  Larger Than Average Brain Player
  *262. $7,807  jonas.beachy
@@ -311,8 +311,8 @@ Updated 2022-10-05T00:55:50.806Z
   307. $8,324  Erik the best
   308. $8,334  Shadowygrave
   309. $8,344  opfa 4 you
-  310. $8,356  Cremefraiche
- *311. $8,356  kraal
+ *310. $8,356  kraal
+  311. $8,356  Cremefraiche
   312. $8,366  pesca1
  *313. $8,369  bysscorre
  *314. $8,370  ellisk1
@@ -407,8 +407,8 @@ Updated 2022-10-05T00:55:50.806Z
   403. $9,095  Rico The Saboteur
   404. $9,099  shock_block
   405. $9,100  Hiquake
- *406. $9,103  The Shire
-  407. $9,103  sirchance2002
+  406. $9,103  sirchance2002
+ *407. $9,103  The Shire
   408. $9,111  FlexSeal
   409. $9,115  TAMAN SHUD
   410. $9,135  Paintchip
@@ -487,7 +487,7 @@ Updated 2022-10-05T00:55:50.806Z
  *483. $9,779  Fiku121
  *484. $9,794  Lavisch
   485. $9,802  Ground15
- *486. $9,809  OverTheTop423
+  486. $9,809  OverTheTop423
   487. $9,818  Volardin
   488. $9,819  ShadowMirrorzZ
   489. $9,820  sidschurgin
