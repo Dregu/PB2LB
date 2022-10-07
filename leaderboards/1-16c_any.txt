@@ -1,28 +1,28 @@
 Poly Bridge 2 - 1-16C "Large Bridge" any% leaderboard (* = breaks)
-Updated 2022-10-06T00:49:48.130Z
-1000/15284 unique ranks shown
+Updated 2022-10-07T01:01:52.880Z
+1000/15291 unique ranks shown
 
-   *1. $1,222  akkun_ouo
-   *2. $1,222  Cookieblues
-   *3. $1,222  からず
+   *1. $1,222  Cookieblues
+   *2. $1,222  からず
+   *3. $1,222  akkun_ouo
    *4. $1,230  Zen
    *5. $1,239  Lagiiiie
    *6. $1,299  7777Alex7777
    *7. $1,399  somefakegamer
    *8. $1,399  notdocq
    *9. $1,436  da.jake06
-  *10. $5,851  Trygeve
-  *11. $5,851  9k5
-  *12. $5,851  geroniberry
-  *13. $5,851  minecat
-  *14. $5,851  MOD
+  *10. $5,851  MOD
+  *11. $5,851  geroniberry
+  *12. $5,851  Trygeve
+  *13. $5,851  9k5
+  *14. $5,851  minecat
    15. $11,141 Roevhaal
    16. $11,370 Bellair08
    17. $11,399 GuacamoleLover27
    18. $11,403 Icysnowman
   *19. $11,405 Crimson
    20. $11,764 Bibbb
-   21. $11,786 coxsta
+  *21. $11,786 coxsta
    22. $11,871 Heater
    23. $11,899 Fathom
    24. $11,911 caldermarshall
@@ -74,7 +74,7 @@ Updated 2022-10-06T00:49:48.130Z
    70. $18,218 Solus
    71. $18,236 Marco
    72. $18,238 loganstephensmith
-   73. $18,245 popcorniosaurus
+  *73. $18,245 popcorniosaurus
    74. $18,264 1541397267
    75. $18,267 Soba
    76. $18,297 Noahsorou
@@ -148,7 +148,7 @@ Updated 2022-10-06T00:49:48.130Z
   144. $19,923 Luuroon
   145. $19,929 Nigi9002.
   146. $19,931 Snorflof
-  147. $19,933 henpenben
+ *147. $19,933 henpenben
   148. $19,936 Oubaas Kaksak
  *149. $19,953 Handsome man
  *150. $19,960 Master Squid
@@ -321,8 +321,8 @@ Updated 2022-10-06T00:49:48.130Z
   317. $21,552 HappyPiggy
  *318. $21,561 Linx
  *319. $21,568 Fuzzums
-  320. $21,583 jcas
-  321. $21,583 Siberian Simians
+  320. $21,583 Siberian Simians
+  321. $21,583 jcas
   322. $21,594 Legenda.
   323. $21,596 MOTEL F. ALVA
   324. $21,600 Resilience
@@ -376,8 +376,8 @@ Updated 2022-10-06T00:49:48.130Z
   372. $21,951 generalrabopalma
   373. $21,953 gryzor420
   374. $21,956 B E S T B A B Y
-  375. $21,968 ✪ Eto♪
-  376. $21,968 morgan.harmer
+  375. $21,968 morgan.harmer
+  376. $21,968 ✪ Eto♪
  *377. $21,972 CS2100
   378. $21,983 Chappy
   379. $21,984 I'm a Window Pane
@@ -496,8 +496,8 @@ Updated 2022-10-06T00:49:48.130Z
   492. $22,520 Artilleryfire
   493. $22,522 J_Hodgie
   494. $22,526 prestonmburgess
-  495. $22,533 redskanto331
- *496. $22,533 West
+ *495. $22,533 West
+  496. $22,533 redskanto331
   497. $22,539 mdocod
   498. $22,541 CorneliousCrowe
   499. $22,545 ersint87
@@ -529,8 +529,8 @@ Updated 2022-10-06T00:49:48.130Z
   525. $22,676 w00zy
   526. $22,682 Leumas
   527. $22,682 noobskinninja
-  528. $22,685 adammethven37
-  529. $22,685 TakenoAki
+  528. $22,685 TakenoAki
+  529. $22,685 adammethven37
   530. $22,686 mikko.suomalainen
   531. $22,692 What_did_I_SAY_?
   532. $22,704 Steph.
@@ -548,8 +548,8 @@ Updated 2022-10-06T00:49:48.130Z
  *544. $22,747 i.have.aids
   545. $22,749 Toffen00
   546. $22,762 Yahqoob
-  547. $22,764 Acid RAIN
-  548. $22,764 Riktor
+  547. $22,764 Riktor
+  548. $22,764 Acid RAIN
   549. $22,766 Combustion_
   550. $22,768 Kapo
   551. $22,772 32
@@ -558,7 +558,7 @@ Updated 2022-10-06T00:49:48.130Z
   554. $22,782 Samlauderuel
   555. $22,788 自由闊達
  *556. $22,789 JimothyCricket
-  557. $22,792 lollyH2O
+ *557. $22,792 lollyH2O
   558. $22,799 The Magic Taco Truck
   559. $22,806 MrAztecL
   560. $22,807 Face7
@@ -591,8 +591,8 @@ Updated 2022-10-06T00:49:48.130Z
   587. $22,909 weisserkaffee
   588. $22,915 VisdethLatgehr
   589. $22,917 EEvanCC
-  590. $22,930 Henne
- *591. $22,930 noahford2203
+ *590. $22,930 noahford2203
+  591. $22,930 Henne
   592. $22,936 hot cereal
   593. $22,938 glowingcobra
   594. $22,938 leopold.schamal
@@ -611,22 +611,22 @@ Updated 2022-10-06T00:49:48.130Z
   607. $22,985 Oragif
   608. $22,993 jimit1982
   609. $22,993 kb_z
-  610. $22,994 ose
-  611. $22,994 Pátriárka
+  610. $22,994 Pátriárka
+  611. $22,994 ose
   612. $22,995 Stavis
   613. $22,999 SamaraCZ pvpro.com
-  614. $23,007 Baked Cheese
-  615. $23,007 Slacker
+  614. $23,007 Slacker
+  615. $23,007 Baked Cheese
   616. $23,010 Haime_rej
   617. $23,011 Vasilis
-  618. $23,016 taxmaxgoodman
-  619. $23,016 Patrick the Pure
+  618. $23,016 Patrick the Pure
+  619. $23,016 taxmaxgoodman
   620. $23,026 wcopeland25
   621. $23,028 Deleterium
   622. $23,031 revolutuionflame
   623. $23,035 thatchickenyouknow
-  624. $23,044 yammaboo
-  625. $23,044 Bobcheez ✔
+  624. $23,044 Bobcheez ✔
+  625. $23,044 yammaboo
   626. $23,044 FoonTheRaccoon
   627. $23,045 Grand
   628. $23,046 BOSCH SABRE RECIPROCATING SAW
@@ -676,15 +676,15 @@ Updated 2022-10-06T00:49:48.130Z
   672. $23,210 Thagnar
   673. $23,217 classix75
   674. $23,220 Novaii
-  675. $23,222 Tinymight
-  676. $23,222 CrizBN
+  675. $23,222 CrizBN
+  676. $23,222 Tinymight
  *677. $23,225 tony65536
   678. $23,237 Super Audric
   679. $23,241 JetAttorney7159
   680. $23,241 Dave
   681. $23,250 Nightbladez
-  682. $23,254 Colteor
-  683. $23,254 Alores
+  682. $23,254 Alores
+  683. $23,254 Colteor
   684. $23,255 jobrundige
  *685. $23,263 Nenshō
   686. $23,267 jakobpalsson
@@ -705,8 +705,8 @@ Updated 2022-10-06T00:49:48.130Z
   701. $23,327 3DbunnMan
   702. $23,327 ichinowanan
   703. $23,331 Dany
- *704. $23,331 jonesraisor
-  705. $23,331 anijoker
+  704. $23,331 anijoker
+ *705. $23,331 jonesraisor
   706. $23,334 Coffe is Evil
   707. $23,337 invictus0x0
   708. $23,337 Kedrak
@@ -785,8 +785,8 @@ Updated 2022-10-06T00:49:48.130Z
   781. $23,534 SilverStone2020
   782. $23,535 Gutterman2010
   783. $23,537 alex
-  784. $23,538 ma23
-  785. $23,538 B3NJ4MIN
+  784. $23,538 B3NJ4MIN
+  785. $23,538 ma23
  *786. $23,541 Haphazard
   787. $23,541 speedclash
   788. $23,544 simonder3te
@@ -840,8 +840,8 @@ Updated 2022-10-06T00:49:48.130Z
   836. $23,685 PotatoSavage3
   837. $23,685 Argontic
   838. $23,689 nboying4
-  839. $23,690 Jakke
-  840. $23,690 beanie
+  839. $23,690 beanie
+  840. $23,690 Jakke
   841. $23,692 artur.platzek
  *842. $23,692 dadda
   843. $23,695 Quicksilver
@@ -919,17 +919,17 @@ Updated 2022-10-06T00:49:48.130Z
   915. $23,850 radimaulicky
   916. $23,853 《细胞生物学》
   917. $23,855 Hugojacksteve
-  918. $23,863 jiufeng1983124
-  919. $23,863 Edgy Meme Meister
-  920. $23,864 Infi Latro
-  921. $23,864 Mafoo
+  918. $23,863 Edgy Meme Meister
+  919. $23,863 jiufeng1983124
+  920. $23,864 Mafoo
+  921. $23,864 Infi Latro
   922. $23,869 Mopar Madness
   923. $23,875 Cytobit
   924. $23,875 theo.louesdon
   925. $23,878 Aslan
   926. $23,879 Shinpitek
-  927. $23,880 Leaky
-  928. $23,880 Xeoran
+  927. $23,880 Xeoran
+  928. $23,880 Leaky
   929. $23,881 JYOUNG1234
  *930. $23,881 GrimmLogger
   931. $23,889 Scotty
@@ -945,8 +945,8 @@ Updated 2022-10-06T00:49:48.130Z
   941. $23,914 AxeHead45
   942. $23,914 TheCherry
   943. $23,917 rolled
-  944. $23,925 PiratJack13
-  945. $23,925 vroot
+  944. $23,925 vroot
+  945. $23,925 PiratJack13
   946. $23,926 WizardWandering
   947. $23,927 🆂🅺🅰🆁🅼🅸🅽🅳
   948. $23,928 Krumca
@@ -956,11 +956,11 @@ Updated 2022-10-06T00:49:48.130Z
   952. $23,936 AngelofDeath720
   953. $23,939 [SF3]^1Scott^0freee3
   954. $23,947 highducheck
- *955. $23,948 TBNinja
-  956. $23,948 Chipmonkey
+  955. $23,948 Chipmonkey
+ *956. $23,948 TBNinja
   957. $23,948 jlowell
- *958. $23,949 Duke Jukem
-  959. $23,949 SuperTeam546
+  958. $23,949 SuperTeam546
+ *959. $23,949 Duke Jukem
   960. $23,951 I am the Liquor
   961. $23,952 Sith Phil Less
   962. $23,953 SpandexN00dle
@@ -969,8 +969,8 @@ Updated 2022-10-06T00:49:48.130Z
   965. $23,957 天边的云
   966. $23,961 mester
  *967. $23,963 Ados
- *968. $23,966 LateNation
-  969. $23,966 Fugukichi
+  968. $23,966 Fugukichi
+ *969. $23,966 LateNation
   970. $23,967 Mal
   971. $23,969 _DaCoolOne_
   972. $23,973 forestho1
@@ -993,12 +993,12 @@ Updated 2022-10-06T00:49:48.130Z
   989. $24,008 ElProndi
   990. $24,008 SmileEdge
   991. $24,010 alstrup.jan
-  992. $24,012 captaintoader2000
-  993. $24,012 tetu i_s
+  992. $24,012 tetu i_s
+  993. $24,012 captaintoader2000
   994. $24,013 CroissantWithCheese
-  995. $24,014 Asphyxia
-  996. $24,014 提莫队长、
-  997. $24,014 REDundant.'
-  998. $24,014 IceelfLuo
-  999. $24,014 米国刘后
- 1000. $24,014 zaneistheman94
+  995. $24,014 REDundant.'
+  996. $24,014 米国刘后
+  997. $24,014 zaneistheman94
+  998. $24,014 Asphyxia
+  999. $24,014 Proud
+ 1000. $24,014 RafaelJR8

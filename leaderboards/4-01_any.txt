@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-01 "Edgy" any% leaderboard (* = breaks)
-Updated 2022-10-06T00:49:48.375Z
-1000/63621 unique ranks shown
+Updated 2022-10-07T01:01:53.127Z
+1000/63678 unique ranks shown
 
    *1. $2,799  Cookieblues
    *2. $2,799  Lagiiiie
@@ -47,7 +47,7 @@ Updated 2022-10-06T00:49:48.375Z
    43. $11,096 Beast 101
    44. $11,170 popcorniosaurus
    45. $11,530 Heater
-   46. $11,554 GoldTarget
+  *46. $11,554 GoldTarget
    47. $11,598 Herneerius
   *48. $11,662 BaconPancakes
    49. $11,775 Eb1toad
@@ -61,7 +61,7 @@ Updated 2022-10-06T00:49:48.375Z
    57. $12,661 boski04
    58. $12,753 lcmbo
    59. $12,859 Magma
-  *60. $12,933 cfloyd2002
+   60. $12,933 cfloyd2002
    61. $12,986 ahrixnidalee
    62. $13,114 『　　』
    63. $13,152 dmanthomas17
@@ -192,8 +192,8 @@ Updated 2022-10-06T00:49:48.375Z
   188. $15,888 nyasfa02
   189. $15,895 Bronson
   190. $15,896 DarkAndromeda31
- *191. $15,908 knarkuz91
-  192. $15,908 Jhay80416
+  191. $15,908 Jhay80416
+ *192. $15,908 knarkuz91
   193. $15,914 j.westerbos
   194. $15,914 Tuners
   195. $15,916 ohson92
@@ -297,8 +297,8 @@ Updated 2022-10-06T00:49:48.375Z
   293. $16,553 Squog
   294. $16,557 to915
   295. $16,559 Beziinator
- *296. $16,565 BuffDove
-  297. $16,565 maxyisfast
+  296. $16,565 maxyisfast
+ *297. $16,565 BuffDove
   298. $16,567 CS2100
   299. $16,571 Tehninza
   300. $16,572 samuelpierog
@@ -318,8 +318,8 @@ Updated 2022-10-06T00:49:48.375Z
   314. $16,613 Uevoz
   315. $16,614 Ix
   316. $16,619 N3cro
-  317. $16,619 marek7pawelec
- *318. $16,619 i.have.aids
+ *317. $16,619 i.have.aids
+  318. $16,619 marek7pawelec
   319. $16,625 Deathtal
   320. $16,626 Shadow Blades
   321. $16,633 kasper.kjos
@@ -449,7 +449,7 @@ Updated 2022-10-06T00:49:48.375Z
   445. $16,915 Whyit1
  *446. $16,916 Mal_Havok
  *447. $16,917 romrj470
-  448. $16,920 jason.fritsch18
+ *448. $16,920 jason.fritsch18
   449. $16,920 chupa71
   450. $16,929 coersed
   451. $16,933 DG_37
@@ -489,8 +489,8 @@ Updated 2022-10-06T00:49:48.375Z
   485. $16,999 September
   486. $16,999 JukeLones15
   487. $16,999 Steele
-  488. $17,000 Thunderbird9
- *489. $17,000 Turd Ferguson
+ *488. $17,000 Turd Ferguson
+  489. $17,000 Thunderbird9
   490. $17,004 枯守一扇门
   491. $17,006 Tapperij
   492. $17,011 RafaelJR8
@@ -710,8 +710,8 @@ Updated 2022-10-06T00:49:48.375Z
   706. $17,452 5alexbouoliete
   707. $17,453 Baumschubser03
   708. $17,458 Altonefry
- *709. $17,459 The Good Goomba
-  710. $17,459 rafaelwarkotsch
+  709. $17,459 rafaelwarkotsch
+ *710. $17,459 The Good Goomba
   711. $17,462 Jadinen
   712. $17,462 itsXavier
   713. $17,465 SRA
@@ -940,9 +940,9 @@ Updated 2022-10-06T00:49:48.375Z
   936. $17,817 xDerAlmanPanzer
   937. $17,817 arsoron
   938. $17,819 aidanparshall
-  939. $17,820 Rugs
-  940. $17,820 Chris
- *941. $17,820 neuuish
+ *939. $17,820 neuuish
+  940. $17,820 Rugs
+  941. $17,820 Chris
   942. $17,824 Tasty Toast
   943. $17,827 Skjote
   944. $17,828 FATTY BO Idh kgjoan
