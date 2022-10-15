@@ -1,6 +1,6 @@
 Poly Bridge 2 - 6-15 "Special Delivery" any% leaderboard (* = breaks)
-Updated 2022-10-14T01:00:13.886Z
-840/1120 unique ranks shown
+Updated 2022-10-15T00:52:01.202Z
+841/1121 unique ranks shown
 
    *1. $27,887  Trygeve
    *2. $27,887  minecat
@@ -8,9 +8,9 @@ Updated 2022-10-14T01:00:13.886Z
    *4. $30,739  Cookieblues
    *5. $30,870  Bellair08
     6. $32,614  Roevhaal
-    7. $33,998  akkun_ouo
-    8. $34,369  9k5
-    9. $34,369  Lagiiiie
+    7. $33,869  Lagiiiie
+    8. $33,998  akkun_ouo
+    9. $34,369  9k5
    10. $34,370  Alexey
    11. $34,374  Fathom
    12. $34,521  Sexy Boy Industries [woop]
@@ -765,80 +765,81 @@ Updated 2022-10-14T01:00:13.886Z
   761. $99,891  Cleverson
   762. $99,891  Solus
   763. $99,891  Thurlow
-  764. $99,893  LAslug
-  765. $99,894  Daybou
-  766. $99,894  Jmk5704
-  767. $99,896  xXSIRNOOBXx
-  768. $99,897  lollyH2O
-  769. $99,900  Ma.U.S.
-  770. $99,910  12ohkay
-  771. $99,912  米国刘后
-  772. $99,913  1000crystal
-  773. $99,915  felix_immer
-  774. $99,920  Teywer
-  775. $99,920  WiadrOrbaiW
-  776. $99,921  TheBaby
-  777. $99,921  Nobody
-  778. $99,928  Kaiser
-  779. $99,934  Yennefer
-  780. $99,938  yuna12527
-  781. $99,942  Gra[C]er
-  782. $99,946  湊あくあ
-  783. $99,947  samwilli1121
-  784. $99,948  Calisthenics4ever
-  785. $99,951  alexander
-  786. $99,951  SpandexN00dle
-  787. $99,953  No problem.
-  788. $99,954  Obsidianic
-  789. $99,959  Peanut Hater
-  790. $99,961  TobyDog
-  791. $99,961  CJ7771000
-  792. $99,966  matttinalily
-  793. $99,970  oiughiuzg
-  794. $99,971  Jacky McJackFace
-  795. $99,973  Bot Zket
-  796. $99,973  wcopeland25
-  797. $99,975  opperser
-  798. $99,980  Samurai Gamer
-  799. $99,981  CertifiedHappy
-  800. $99,982  Souths
-  801. $99,983  sarp01
-  802. $99,984  InfinitySay
-  803. $99,984  Kasykmi
-  804. $99,987  Knoxy
-  805. $99,987  LevoRey
-  806. $99,987  sponge
-  807. $99,987  Shaken Martini
-  808. $99,988  andrewzhang927
-  809. $99,989  Robokop
-  810. $99,992  ☼ ☼ ☼
-  811. $99,993  Yaky
-  812. $99,995  Aklhys
-  813. $99,995  DEVerdier
-  814. $99,997  Godlard
-  815. $99,997  SM2086
-  816. $99,997  skymax80
-  817. $99,999  getShooked
-  818. $100,000 Soba
-  819. $100,000 Max Galingumas
-  820. $100,000 Superwave
-  821. $100,000 info
-  822. $100,000 Waddles
-  823. $100,526 *****
- *824. $100,579 ultimatedgambler
-  825. $104,054 PLIER
- *826. $106,172 willgundee
-  827. $109,019 Teh
-  828. $109,020 Chico Escobar
-  829. $109,830 Kris2603
-  830. $111,934 adamladam484
- *831. $113,558 keithfisch
- *832. $122,210 Alexander barbarinko
- *833. $126,797 crazyjonnyblaze
- *834. $130,326 timohoogendoorn2
- *835. $132,762 Orbifold
- *836. $140,937 The Camp One 007
- *837. $144,363 KingIceCream
-  838. $176,547 maineah75
-  839. $187,007 Dexow
- *840. $200,000 ebrotherto
+  764. $99,891  Static.
+  765. $99,893  LAslug
+  766. $99,894  Daybou
+  767. $99,894  Jmk5704
+  768. $99,896  xXSIRNOOBXx
+  769. $99,897  lollyH2O
+  770. $99,900  Ma.U.S.
+  771. $99,910  12ohkay
+  772. $99,912  米国刘后
+  773. $99,913  1000crystal
+  774. $99,915  felix_immer
+  775. $99,920  Teywer
+  776. $99,920  WiadrOrbaiW
+  777. $99,921  TheBaby
+  778. $99,921  Nobody
+  779. $99,928  Kaiser
+  780. $99,934  Yennefer
+  781. $99,938  yuna12527
+  782. $99,942  Gra[C]er
+  783. $99,946  湊あくあ
+  784. $99,947  samwilli1121
+  785. $99,948  Calisthenics4ever
+  786. $99,951  alexander
+  787. $99,951  SpandexN00dle
+  788. $99,953  No problem.
+  789. $99,954  Obsidianic
+  790. $99,959  Peanut Hater
+  791. $99,961  TobyDog
+  792. $99,961  CJ7771000
+  793. $99,966  matttinalily
+  794. $99,970  oiughiuzg
+  795. $99,971  Jacky McJackFace
+  796. $99,973  Bot Zket
+  797. $99,973  wcopeland25
+  798. $99,975  opperser
+  799. $99,980  Samurai Gamer
+  800. $99,981  CertifiedHappy
+  801. $99,982  Souths
+  802. $99,983  sarp01
+  803. $99,984  InfinitySay
+  804. $99,984  Kasykmi
+  805. $99,987  Knoxy
+  806. $99,987  LevoRey
+  807. $99,987  sponge
+  808. $99,987  Shaken Martini
+  809. $99,988  andrewzhang927
+  810. $99,989  Robokop
+  811. $99,992  ☼ ☼ ☼
+  812. $99,993  Yaky
+  813. $99,995  Aklhys
+  814. $99,995  DEVerdier
+  815. $99,997  Godlard
+  816. $99,997  SM2086
+  817. $99,997  skymax80
+  818. $99,999  getShooked
+  819. $100,000 Soba
+  820. $100,000 Max Galingumas
+  821. $100,000 Superwave
+  822. $100,000 info
+  823. $100,000 Waddles
+  824. $100,526 *****
+ *825. $100,579 ultimatedgambler
+  826. $104,054 PLIER
+ *827. $106,172 willgundee
+  828. $109,019 Teh
+  829. $109,020 Chico Escobar
+  830. $109,830 Kris2603
+  831. $111,934 adamladam484
+ *832. $113,558 keithfisch
+ *833. $122,210 Alexander barbarinko
+ *834. $126,797 crazyjonnyblaze
+ *835. $130,326 timohoogendoorn2
+ *836. $132,762 Orbifold
+ *837. $140,937 The Camp One 007
+ *838. $144,363 KingIceCream
+  839. $176,547 maineah75
+  840. $187,007 Dexow
+ *841. $200,000 ebrotherto

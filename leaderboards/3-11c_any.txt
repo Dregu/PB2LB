@@ -1,5 +1,5 @@
 Poly Bridge 2 - 3-11C "Cross Jump" any% leaderboard (* = breaks)
-Updated 2022-10-14T01:00:13.442Z
+Updated 2022-10-15T00:52:00.885Z
 1000/4804 unique ranks shown
 
    *1. $3,491  Anders
@@ -8,10 +8,10 @@ Updated 2022-10-14T01:00:13.442Z
    *4. $4,621  GuacamoleLover27
    *5. $4,724  Trygeve
    *6. $4,830  minecat
-   *7. $4,922  9k5
+    7. $4,922  MOD
     8. $4,922  Lagiiiie
    *9. $4,922  palfly15
-   10. $4,922  MOD
+  *10. $4,922  9k5
   *11. $5,233  DrSoepbal
   *12. $5,304  BaconPancakes
   *13. $5,452  Zen
@@ -196,8 +196,8 @@ Updated 2022-10-14T01:00:13.442Z
   192. $15,639 joel.rspence
   193. $15,641 GamingLike_A_Pro
   194. $15,643 Calen Jai
- *195. $15,650 Diana (Kitty)
-  196. $15,650 Mikie
+  195. $15,650 Mikie
+ *196. $15,650 Diana (Kitty)
  *197. $15,700 jeremywinick
   198. $15,708 Immabird
  *199. $15,740 DAS!
@@ -223,7 +223,7 @@ Updated 2022-10-14T01:00:13.442Z
  *219. $16,171 Jrillr
   220. $16,197 vkelloku
   221. $16,208 Chappy
-  222. $16,260 alec.mitchellthomson
+ *222. $16,260 alec.mitchellthomson
   223. $16,277 bastian.bello.c
   224. $16,278 littleboluonb
   225. $16,282 Solus
@@ -406,8 +406,8 @@ Updated 2022-10-14T01:00:13.442Z
  *402. $18,360 xzeng
  *403. $18,367 Smiggie Balls O.O
   404. $18,397 everydaystranger
-  405. $18,405 iressle
- *406. $18,405 GREENMAN
+ *405. $18,405 GREENMAN
+  406. $18,405 iressle
   407. $18,410 Igloo
   408. $18,430 Cydrosil
   409. $18,432 Sir Cuddles
@@ -451,8 +451,8 @@ Updated 2022-10-14T01:00:13.442Z
   447. $18,770 Craigor
   448. $18,771 Natme
   449. $18,776 Retrolith
-  450. $18,781 aRandomFinn
- *451. $18,781 vladic99
+ *450. $18,781 vladic99
+  451. $18,781 aRandomFinn
   452. $18,788 Mulalu
  *453. $18,802 Sonnenreiter100
   454. $18,805 FrostedChainInc
@@ -500,10 +500,10 @@ Updated 2022-10-14T01:00:13.442Z
   496. $18,972 Snail's nipple
   497. $18,973 floyddebarber
   498. $18,974 LazerTurtle7
- *499. $18,975 M A V R I
+  499. $18,975 Wolfelix123
   500. $18,975 Vecchi
   501. $18,975 HiCanIKillYou
-  502. $18,975 Wolfelix123
+ *502. $18,975 M A V R I
   503. $18,976 Styoupeur
  *504. $18,976 Maine
   505. $18,978 Macronigrill
@@ -512,29 +512,29 @@ Updated 2022-10-14T01:00:13.442Z
   508. $18,979 Shadowygrave
   509. $18,980 ST4K3RS
   510. $18,980 WTYan
-  511. $18,982 jbishop10
-  512. $18,982 Sonic Destiny
+  511. $18,982 Sonic Destiny
+  512. $18,982 jbishop10
  *513. $18,985 Radowan
   514. $18,985 CeeJay
-  515. $18,987 dridhaswana2
-  516. $18,987 FortusHD
-  517. $18,990 stoudemire17
-  518. $18,990 Stalemate
+  515. $18,987 FortusHD
+  516. $18,987 dridhaswana2
+  517. $18,990 Stalemate
+  518. $18,990 stoudemire17
  *519. $18,991 UnlimitedFrames
   520. $18,991 hippolippo
   521. $18,993 C_liuc23
  *522. $18,994 goldenpggie
   523. $18,996 Mr.ThisGuy
-  524. $18,997 tylerhbateman
-  525. $18,997 Will2875
-  526. $18,997 jaweshoe
+  524. $18,997 Will2875
+  525. $18,997 jaweshoe
+  526. $18,997 tylerhbateman
   527. $18,998 Rastapoulpe
   528. $18,999 elli_rynbw
   529. $19,001 gonzomenden
   530. $19,004 Lukian
-  531. $19,007 Meffy
+  531. $19,007 Kerkerino
   532. $19,007 cjbowlsby
-  533. $19,007 Kerkerino
+  533. $19,007 Meffy
   534. $19,009 Paul Codio
  *535. $19,018 Jaxson
  *536. $19,029 Katamari (old)
@@ -565,8 +565,8 @@ Updated 2022-10-14T01:00:13.442Z
   561. $19,189 gregthearchitect
  *562. $19,203 Mr. Swaggity McHolmes
   563. $19,205 Atomguy
- *564. $19,244 Patrick the Pure
-  565. $19,244 stpdsnrt
+  564. $19,244 stpdsnrt
+ *565. $19,244 Patrick the Pure
  *566. $19,248 アルバトリオン
   567. $19,252 NeoDog
  *568. $19,253 Titanium
@@ -577,8 +577,8 @@ Updated 2022-10-14T01:00:13.442Z
   573. $19,269 mbutton15
  *574. $19,279 Captain_M53
  *575. $19,280 Banankakan
- *576. $19,292 Entsel
-  577. $19,292 OCTDUMPUS
+  576. $19,292 OCTDUMPUS
+ *577. $19,292 Entsel
  *578. $19,300 djbjonik
  *579. $19,313 jorkrohn
   580. $19,316 Hugh Neutron
@@ -608,8 +608,8 @@ Updated 2022-10-14T01:00:13.442Z
   604. $19,449 poncho067
  *605. $19,457 spesonen
   606. $19,458 Blue_subzero
- *607. $19,459 davidhaugsoen
-  608. $19,459 Siberian Simians
+  607. $19,459 Siberian Simians
+ *608. $19,459 davidhaugsoen
   609. $19,467 florianhinse1904
   610. $19,471 Fontanellen
   611. $19,474 Paintchip
@@ -703,7 +703,7 @@ Updated 2022-10-14T01:00:13.442Z
  *699. $19,951 2949257186
  *700. $19,963 Examinator
   701. $19,979 onewayfunction
- *702. $19,988 pete
+  702. $19,988 pete
  *703. $19,992 我是你超哥
   704. $19,996 dog
   705. $19,999 ScreechyNutz
@@ -715,8 +715,8 @@ Updated 2022-10-14T01:00:13.442Z
  *711. $20,036 KevKevOnFire
  *712. $20,038 mark
   713. $20,042 Michael
- *714. $20,043 MageGeraint
- *715. $20,043 skepular
+ *714. $20,043 skepular
+ *715. $20,043 MageGeraint
  *716. $20,046 BadZombie99
   717. $20,053 Noel
   718. $20,054 bee0215
@@ -768,8 +768,8 @@ Updated 2022-10-14T01:00:13.442Z
  *764. $20,257 export Psyonix.rl.me
  *765. $20,259 CubingCubinator
   766. $20,262 DeFiZe
-  767. $20,265 Elgufikun
-  768. $20,265 ALTENO
+  767. $20,265 ALTENO
+  768. $20,265 Elgufikun
  *769. $20,272 uWu - furgamer
  *770. $20,282 michi.janke
   771. $20,295 Joe
@@ -874,20 +874,20 @@ Updated 2022-10-14T01:00:13.442Z
  *870. $20,769 MacinTorsk
   871. $20,769 Craze
   872. $20,769 YottaCat
-  873. $20,776 Lil Pepe
- *874. $20,776 sureshotcam
+ *873. $20,776 sureshotcam
+  874. $20,776 Lil Pepe
  *875. $20,780 emailonthefly
  *876. $20,788 Sparks
   877. $20,790 Lll Xx_notYevvi._xX llL
   878. $20,791 Timmy Turnup
   879. $20,794 Kevin
- *880. $20,806 magius33
- *881. $20,806 Thomas33y
+ *880. $20,806 Thomas33y
+ *881. $20,806 magius33
   882. $20,809 이삭
   883. $20,814 tylerdg22
   884. $20,821 luanyu
-  885. $20,821 Lampy
- *886. $20,821 cmikaiti
+ *885. $20,821 cmikaiti
+  886. $20,821 Lampy
   887. $20,823 Ymeisnot
   888. $20,829 Noob Shot
   889. $20,843 AdmiralChu
@@ -906,9 +906,9 @@ Updated 2022-10-14T01:00:13.442Z
  *902. $20,884 DABESTJ06
  *903. $20,887 RileyDotJPG
   904. $20,888 Rainey Lovers ❤
-  905. $20,889 Seiho2659
-  906. $20,889 Zurli
-  907. $20,889 Uniquepotatoes
+  905. $20,889 Zurli
+  906. $20,889 Uniquepotatoes
+  907. $20,889 Seiho2659
   908. $20,892 Zachi
  *909. $20,896 SSSALCHIPAPAAA
   910. $20,896 Jeff
@@ -935,8 +935,8 @@ Updated 2022-10-14T01:00:13.442Z
  *931. $20,971 ZigsSolo
   932. $20,982 XeroEffect
   933. $20,990 Man Mage
- *934. $20,999 gpisthebest
- *935. $20,999 marcelvalize
+ *934. $20,999 marcelvalize
+ *935. $20,999 gpisthebest
  *936. $21,006 Cammy
   937. $21,009 Arbeitsloser Trümmertürke
   938. $21,011 christof
@@ -949,8 +949,8 @@ Updated 2022-10-14T01:00:13.442Z
  *945. $21,038 TuttuT Les Rageux
   946. $21,043 TheBennyKenna
   947. $21,044 IanSar
- *948. $21,047 OldFashiond
-  949. $21,047 bcowburn
+  948. $21,047 bcowburn
+ *949. $21,047 OldFashiond
   950. $21,054 mrichstein169
  *951. $21,061 n2it
   952. $21,061 harryschaefer
