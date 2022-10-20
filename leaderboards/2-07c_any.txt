@@ -1,13 +1,13 @@
 Poly Bridge 2 - 2-07C "Double Decker Highway" any% leaderboard (* = breaks)
-Updated 2022-10-19T00:55:35.166Z
-1000/8005 unique ranks shown
+Updated 2022-10-20T00:47:21.173Z
+1000/8006 unique ranks shown
 
-   *1. $1,999  MOD
+   *1. $1,999  notdocq
    *2. $1,999  Trygeve
-   *3. $1,999  somefakegamer
-   *4. $1,999  notdocq
-   *5. $1,999  9k5
-   *6. $1,999  Cookieblues
+   *3. $1,999  Cookieblues
+   *4. $1,999  9k5
+   *5. $1,999  MOD
+   *6. $1,999  somefakegamer
    *7. $1,999  akkun_ouo
    *8. $1,999  Lagiiiie
    *9. $2,204  7777Alex7777
@@ -23,7 +23,7 @@ Updated 2022-10-19T00:55:35.166Z
   *19. $36,274 Bellair08
    20. $43,423 lee731017
    21. $45,262 Thunder McKing
-   22. $45,502 Go Seigen
+  *22. $45,502 Go Seigen
    23. $46,424 XxTrollFacexX
    24. $46,540 Boeing 737 MAX
    25. $47,319 BaconPancakes
@@ -60,7 +60,7 @@ Updated 2022-10-19T00:55:35.166Z
    56. $50,992 olivapaa
    57. $50,998 Whyit1
    58. $51,050 Shifter Serif
-  *59. $51,059 Pengujedi
+   59. $51,059 Pengujedi
   *60. $51,122 kraal
    61. $51,201 palfly15
   *62. $51,208 UltimateDuck
@@ -380,7 +380,7 @@ Updated 2022-10-19T00:55:35.166Z
   376. $63,126 Herneerius
   377. $63,133 *Lyx*
   378. $63,144 Gravitron
- *379. $63,145 Chavra
+  379. $63,145 Chavra
   380. $63,152 Treshaun420
   381. $63,156 BOOST
   382. $63,168 Leftclick
@@ -413,8 +413,8 @@ Updated 2022-10-19T00:55:35.166Z
   409. $63,714 DARN
   410. $63,714 cara
   411. $63,746 klobásaomáčka
-  412. $63,767 khodis2002
- *413. $63,767 Ayson
+ *412. $63,767 Ayson
+  413. $63,767 khodis2002
   414. $63,796 snova0112
   415. $63,819 GoodMath
   416. $63,825 fantakilla
@@ -440,7 +440,7 @@ Updated 2022-10-19T00:55:35.166Z
   436. $64,355 ZydraG
   437. $64,366 CavoX5
   438. $64,437 nathanK
- *439. $64,509 Hi
+  439. $64,509 Hi
   440. $64,516 ThatOneChap
   441. $64,577 adambrianschmidt
   442. $64,581 john
@@ -475,7 +475,7 @@ Updated 2022-10-19T00:55:35.166Z
   471. $65,256 KommunistaShpion
   472. $65,314 master5
   473. $65,346 copalillo
-  474. $65,347 anijoker
+ *474. $65,347 anijoker
   475. $65,366 ToasterovenX
   476. $65,383 alexkajan
   477. $65,418 Slubstitute
@@ -768,7 +768,7 @@ Updated 2022-10-19T00:55:35.166Z
   764. $71,174 Elidir_Fawr
   765. $71,187 eternal suffering
   766. $71,190 Ju571n_0n6
-  767. $71,226 k.a.huckshold
+ *767. $71,226 k.a.huckshold
  *768. $71,258 Auxryn
   769. $71,265 Drakomire
   770. $71,286 TheSadSlinky
@@ -1001,4 +1001,4 @@ Updated 2022-10-19T00:55:35.166Z
  *997. $74,257 T0mW5
   998. $74,260 No T
   999. $74,272 edchri
- 1000. $74,273 Stanley Scott
+*1000. $74,273 Marcus4

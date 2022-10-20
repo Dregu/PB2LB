@@ -1,12 +1,12 @@
 Poly Bridge 2 - 5-07 "Passing By" any% leaderboard (* = breaks)
-Updated 2022-10-19T00:55:35.659Z
-1000/13291 unique ranks shown
+Updated 2022-10-20T00:47:21.649Z
+1000/13299 unique ranks shown
 
     1. $5,283  Roevhaal
-   *2. $6,884  akkun_ouo
-   *3. $6,884  Cookieblues
-    4. $6,884  Lagiiiie
-   *5. $6,884  minecat
+   *2. $6,884  Cookieblues
+   *3. $6,884  minecat
+   *4. $6,884  akkun_ouo
+    5. $6,884  Lagiiiie
    *6. $7,055  9k5
     7. $7,218  7777Alex7777
    *8. $7,488  Zen
@@ -22,8 +22,8 @@ Updated 2022-10-19T00:55:35.659Z
    18. $7,777  Shadow
    19. $7,804  notdocq
    20. $7,806  Alison
-   21. $7,806  ~ Smithy ~
-   22. $7,806  palfly15
+   21. $7,806  palfly15
+   22. $7,806  ~ Smithy ~
    23. $7,806  Fathom
    24. $7,806  Pengujedi
   *25. $10,121 dwyoung205
@@ -225,42 +225,42 @@ Updated 2022-10-19T00:55:35.659Z
   221. $20,669 Eamon
   222. $20,670 lance.mcmullan
   223. $20,705 你鸡太美
-  224. $20,736 Valnix
-  225. $20,739 ellisk1
-  226. $20,752 rabidus
-  227. $20,786 Exabyte
-  228. $20,802 rfrederico
-  229. $20,810 hippi
-  230. $20,837 vojtech_holub
-  231. $20,843 Foxtrot
-  232. $20,866 Marcel
-  233. $20,957 The DummyHandler()
- *234. $20,973 BornStellar
-  235. $20,979 coclet.francois
-  236. $20,990 Lorezhno
-  237. $21,024 Jackaroo
-  238. $21,027 jikennosamurai
-  239. $21,036 Minnesota.Nice
-  240. $21,043 ummm idk
-  241. $21,052 bluewingrider3365
-  242. $21,058 Jimbo77
-  243. $21,125 Key
-  244. $21,125 chupa71
- *245. $21,126 bastisas
-  246. $21,137 Skriban
- *247. $21,158 Brap Nation
-  248. $21,207 zero
-  249. $21,246 marr
-  250. $21,253 小理kori
-  251. $21,275 JakubBouska
-  252. $21,278 CaNeR's
-  253. $21,291 theblackcat81
- *254. $21,306 h.lahdelma
-  255. $21,316 Reivilon
- *256. $21,318 leonard
- *257. $21,335 connor.bray.ricks
- *258. $21,336 tkismr
-  259. $21,337 Galactical-Z
+  224. $20,726 Galactical-Z
+  225. $20,736 Valnix
+  226. $20,739 ellisk1
+  227. $20,752 rabidus
+  228. $20,786 Exabyte
+  229. $20,802 rfrederico
+  230. $20,810 hippi
+  231. $20,837 vojtech_holub
+  232. $20,843 Foxtrot
+  233. $20,866 Marcel
+  234. $20,957 The DummyHandler()
+ *235. $20,973 BornStellar
+  236. $20,979 coclet.francois
+  237. $20,990 Lorezhno
+  238. $21,024 Jackaroo
+  239. $21,027 jikennosamurai
+  240. $21,036 Minnesota.Nice
+  241. $21,043 ummm idk
+  242. $21,052 bluewingrider3365
+  243. $21,058 Jimbo77
+  244. $21,125 Key
+  245. $21,125 chupa71
+ *246. $21,126 bastisas
+  247. $21,137 Skriban
+ *248. $21,158 Brap Nation
+  249. $21,207 zero
+  250. $21,246 marr
+  251. $21,253 小理kori
+  252. $21,275 JakubBouska
+  253. $21,278 CaNeR's
+  254. $21,291 theblackcat81
+ *255. $21,306 h.lahdelma
+  256. $21,316 Reivilon
+ *257. $21,318 leonard
+ *258. $21,335 connor.bray.ricks
+ *259. $21,336 tkismr
  *260. $21,345 glupi idiot dinosaurus
  *261. $21,359 zbf539942737
   262. $21,395 221344
@@ -404,8 +404,8 @@ Updated 2022-10-19T00:55:35.659Z
   400. $23,262 chewbacca's family
   401. $23,277 Anjinho01
   402. $23,278 Serene Quiet
- *403. $23,279 Larry Boy
-  404. $23,279 sky
+  403. $23,279 sky
+ *404. $23,279 Larry Boy
  *405. $23,282 hakejb1
   406. $23,284 Loch-Boch
   407. $23,295 Icysnowman
@@ -505,7 +505,7 @@ Updated 2022-10-19T00:55:35.659Z
   501. $24,258 Bubi
   502. $24,289 olivapaa
   503. $24,315 sherry-hampton
- *504. $24,351 N8_Gamer
+  504. $24,351 N8_Gamer
  *505. $24,359 mattreed09
   506. $24,359 L-Care
   507. $24,360 Tempest
@@ -655,8 +655,8 @@ Updated 2022-10-19T00:55:35.659Z
   651. $25,480 KanusaK
   652. $25,485 Kreap
   653. $25,485 christof
-  654. $25,494 Veritas
-  655. $25,494 w00zy
+  654. $25,494 w00zy
+  655. $25,494 Veritas
   656. $25,496 kephran
  *657. $25,510 Flan
   658. $25,513 KSY
@@ -783,8 +783,8 @@ Updated 2022-10-19T00:55:35.659Z
   779. $26,310 zimmi
   780. $26,314 Schmee323
   781. $26,321 Riachuxgamer
-  782. $26,329 TheUnbeatableFrog
- *783. $26,329 armancjuma
+ *782. $26,329 armancjuma
+  783. $26,329 TheUnbeatableFrog
   784. $26,332 heradani04
   785. $26,347 rmkilc
   786. $26,354 Vulcan9000
@@ -835,8 +835,8 @@ Updated 2022-10-19T00:55:35.659Z
   831. $26,612 That Guy
   832. $26,618 tris
   833. $26,619 ArizaSanz
-  834. $26,624 r3de𝕏
- *835. $26,624 MacDaCat
+ *834. $26,624 MacDaCat
+  835. $26,624 r3de𝕏
   836. $26,629 yujc12
   837. $26,632 Lol
   838. $26,632 Dijon Mustache
@@ -917,8 +917,8 @@ Updated 2022-10-19T00:55:35.659Z
  *913. $27,071 Joelisstillhere
  *914. $27,089 bitnick78
   915. $27,090 Dim
-  916. $27,100 deoxify
-  917. $27,100 Saleen
+  916. $27,100 Saleen
+  917. $27,100 deoxify
  *918. $27,101 Syd4r
   919. $27,103 theslaad
  *920. $27,116 eran.mrg
