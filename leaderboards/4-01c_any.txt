@@ -1,20 +1,20 @@
 Poly Bridge 2 - 4-01C "Edgy" any% leaderboard (* = breaks)
-Updated 2022-10-21T00:47:23.705Z
-1000/4381 unique ranks shown
+Updated 2022-10-22T00:57:09.101Z
+1000/4384 unique ranks shown
 
-   *1. $2,999  Fathom
-    2. $2,999  Lagiiiie
+    1. $2,999  Lagiiiie
+   *2. $2,999  minecat
    *3. $2,999  9k5
-   *4. $2,999  Cookieblues
-   *5. $2,999  minecat
-   *6. $3,579  somefakegamer
-   *7. $3,579  7777Alex7777
+   *4. $2,999  Fathom
+   *5. $2,999  Cookieblues
+   *6. $3,579  7777Alex7777
+   *7. $3,579  somefakegamer
    *8. $6,697  akkun_ouo
     9. $11,320 Trygeve
    10. $11,666 Soba
    11. $11,763 Enchanted Spider
    12. $12,269 Zen
-   13. $12,347 Larry the Dota Guy
+  *13. $12,347 Larry the Dota Guy
    14. $12,382 Bellair08
    15. $12,527 Go Seigen
    16. $12,997 geroniberry
@@ -29,7 +29,7 @@ Updated 2022-10-21T00:47:23.705Z
    25. $15,303 Heater
    26. $15,999 lukas.bornheim
    27. $16,622 BaconPancakes
-  *28. $16,789 jonaTHOT
+   28. $16,789 jonaTHOT
    29. $16,838 lee731017
   *30. $16,902 nhaven14
    31. $17,244 ZiuTinyat
@@ -143,7 +143,7 @@ Updated 2022-10-21T00:47:23.705Z
   139. $21,977 Mourning.Fathers
   140. $21,977 samuelpierog
  *141. $21,998 sim1manson
-  142. $22,060 Jacowboy
+ *142. $22,060 Jacowboy
   143. $22,065 Iska74
  *144. $22,103 jason.fritsch18
   145. $22,109 lensman00
@@ -353,7 +353,7 @@ Updated 2022-10-21T00:47:23.705Z
   349. $23,998 BOT Alisec
   350. $23,999 >:(
   351. $23,999 jordivenema.jv
-  352. $24,000 k.a.huckshold
+ *352. $24,000 k.a.huckshold
   353. $24,010 HeManu
   354. $24,028 ThePietro06
   355. $24,049 Durek
@@ -370,8 +370,8 @@ Updated 2022-10-21T00:47:23.705Z
   366. $24,079 jakob.infuehr
   367. $24,083 cody
  *368. $24,106 desti
- *369. $24,109 Chickenzilla
-  370. $24,109 veggie stix
+  369. $24,109 veggie stix
+ *370. $24,109 Chickenzilla
   371. $24,114 FrzMtrsprt
  *372. $24,128 Spug
   373. $24,131 anijoker
@@ -487,9 +487,9 @@ Updated 2022-10-21T00:47:23.705Z
   483. $24,977 ose
   484. $24,978 LFB
  *485. $24,980 keshigom
- *486. $24,987 jtrimbl3
-  487. $24,987 johnsonofdonut
-  488. $24,987 maxjmiles
+  486. $24,987 johnsonofdonut
+  487. $24,987 maxjmiles
+ *488. $24,987 jtrimbl3
   489. $24,991 CaptainHutcho
   490. $25,020 Kyle
   491. $25,036 guaranteed_whales
@@ -539,7 +539,7 @@ Updated 2022-10-21T00:47:23.705Z
  *535. $25,328 snowmaniac
   536. $25,332 duncanwerner
   537. $25,335 TheSuperNR
-  538. $25,341 Muen47
+ *538. $25,341 Muen47
   539. $25,341 TheBaby
   540. $25,350 MechanicalPencil
   541. $25,352 obsidious
@@ -578,8 +578,8 @@ Updated 2022-10-21T00:47:23.705Z
   574. $25,574 AngryFungus
   575. $25,576 Sketchzi
   576. $25,602 Tiznadete
-  577. $25,620 mcj201
- *578. $25,620 Krazy Koi Fish
+ *577. $25,620 Krazy Koi Fish
+  578. $25,620 mcj201
   579. $25,623 oiughiuzg
   580. $25,624 jimloafer
   581. $25,626 Immabird
@@ -706,8 +706,8 @@ Updated 2022-10-21T00:47:23.705Z
   702. $26,226 tough_guy_toby
   703. $26,235 theodore.k.liu
   704. $26,236 ben.prange116
- *705. $26,237 arronon
-  706. $26,237 simonder3te
+  705. $26,237 simonder3te
+ *706. $26,237 arronon
  *707. $26,237 zip.png
   708. $26,251 Bram2323
   709. $26,258 tnafkaj
@@ -779,8 +779,8 @@ Updated 2022-10-21T00:47:23.705Z
   775. $26,615 garcia4you
   776. $26,616 elisholst
   777. $26,619 Johannes652
- *778. $26,620 tao
- *779. $26,620 Delta_Mage
+ *778. $26,620 Delta_Mage
+ *779. $26,620 tao
   780. $26,629 hendrick
   781. $26,630 willows1979
   782. $26,634 Mixthos
@@ -823,8 +823,8 @@ Updated 2022-10-21T00:47:23.705Z
   819. $26,818 Yaky
   820. $26,818 Sith Phil Less
   821. $26,820 Patfou
-  822. $26,831 Frotty
- *823. $26,831 Gzuz
+ *822. $26,831 Gzuz
+  823. $26,831 Frotty
   824. $26,834 joel.rspence
   825. $26,840 das fat catov
   826. $26,840 Exapithicus
@@ -941,7 +941,7 @@ Updated 2022-10-21T00:47:23.705Z
   937. $27,407 andrewfundo
   938. $27,408 adikprokop
   939. $27,408 skya774005
- *940. $27,413 The Toasted Marshmallow
+  940. $27,413 The Toasted Marshmallow
   941. $27,415 cjmin0924
   942. $27,430 LarsIngo
   943. $27,441 Bachlead
