@@ -1,12 +1,12 @@
 Poly Bridge 2 - 6-03 "Parkade Elevator" any% leaderboard (* = breaks)
-Updated 2022-10-23T00:54:45.363Z
-1000/2226 unique ranks shown
+Updated 2022-10-25T00:58:40.361Z
+1000/2229 unique ranks shown
 
-   *1. $4,726  minecat
+   *1. $4,726  akkun_ouo
    *2. $4,726  somefakegamer
-   *3. $4,726  9k5
-   *4. $4,726  Cookieblues
-   *5. $4,726  akkun_ouo
+   *3. $4,726  minecat
+   *4. $4,726  9k5
+   *5. $4,726  Cookieblues
    *6. $4,825  7777Alex7777
    *7. $4,986  Yennefer
    *8. $5,115  Bellair08
@@ -16,35 +16,35 @@ Updated 2022-10-23T00:54:45.363Z
   *12. $6,546  MOD
    13. $6,969  palfly15
   *14. $7,238  geroniberry
-  *15. $7,363  dmanthomas17
-  *16. $7,369  ReaperZ
+  *15. $7,238  Crimson
+  *16. $7,363  dmanthomas17
   *17. $7,369  Icysnowman
-   18. $7,422  Burning Curtains
-  *19. $7,463  ginger
+  *18. $7,369  ReaperZ
+   19. $7,422  Burning Curtains
   *20. $7,463  ~ Smithy ~
-   21. $7,464  Alexey
-   22. $7,796  Zen
-   23. $7,837  Bibbb
-   24. $7,963  gamespilgame
-   25. $7,966  FierceKitty131
-   26. $7,966  Sexy Boy Industries [woop]
-   27. $8,007  metatropic
-   28. $8,007  zeller-alex
-   29. $8,007  Pengujedi
-   30. $8,216  Resilia_
-   31. $9,472  GuacamoleLover27
-   32. $9,508  max29
-   33. $9,726  chenail.liam
-   34. $12,911 SAM45!!!
-   35. $12,999 notdocq
-   36. $13,092 azukiekun
-  *37. $13,226 adambrianschmidt
-   38. $13,330 Friar Laurence
-   39. $13,439 clydesdalefan
-   40. $13,576 3rdkindpark
-   41. $13,630 seutimsyab
-   42. $13,712 万吨匿名信
-   43. $13,719 Crimson
+  *21. $7,463  ginger
+   22. $7,464  Alexey
+   23. $7,796  Zen
+   24. $7,837  Bibbb
+   25. $7,963  gamespilgame
+   26. $7,966  FierceKitty131
+   27. $7,966  Sexy Boy Industries [woop]
+   28. $8,007  metatropic
+   29. $8,007  zeller-alex
+   30. $8,007  Pengujedi
+   31. $8,216  Resilia_
+   32. $9,472  GuacamoleLover27
+   33. $9,508  max29
+   34. $9,726  chenail.liam
+   35. $12,911 SAM45!!!
+   36. $12,999 notdocq
+   37. $13,092 azukiekun
+  *38. $13,226 adambrianschmidt
+   39. $13,330 Friar Laurence
+   40. $13,439 clydesdalefan
+   41. $13,576 3rdkindpark
+   42. $13,630 seutimsyab
+   43. $13,712 万吨匿名信
    44. $13,754 thecco
    45. $13,809 olivapaa
    46. $13,823 가온
@@ -800,7 +800,7 @@ Updated 2022-10-23T00:54:45.363Z
   796. $28,264 Dad
   797. $28,292 Sabr350z
   798. $28,304 MBS4444
-  799. $28,306 BOC
+ *799. $28,306 BOC
   800. $28,330 BestPaulEver
   801. $28,332 The Good Goomba
   802. $28,333 Saiek
@@ -877,8 +877,8 @@ Updated 2022-10-23T00:54:45.363Z
   873. $29,095 Nawe876
   874. $29,096 ghkim0568
   875. $29,097 gundu_001
- *876. $29,129 davidwiederholt
-  877. $29,129 UkiArcticFox
+  876. $29,129 UkiArcticFox
+ *877. $29,129 davidwiederholt
   878. $29,133 MobyDew
   879. $29,152 LazyMan
   880. $29,154 1553872201
