@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-14 "Low Flyer" any% leaderboard (* = breaks)
-Updated 2022-10-25T00:58:39.992Z
-1000/70555 unique ranks shown
+Updated 2022-10-26T00:43:05.151Z
+1000/70594 unique ranks shown
 
    *1. $288    Lagiiiie
    *2. $288    Cookieblues
@@ -15,9 +15,9 @@ Updated 2022-10-25T00:58:39.992Z
   *11. $318    Fawzi
   *12. $320    geroniberry
   *13. $320    Trygeve
-  *14. $321    Bellair08
-  *15. $321    Icysnowman
-  *16. $321    Crimson
+  *14. $321    Icysnowman
+  *15. $321    Crimson
+  *16. $321    Bellair08
   *17. $326    minecat
   *18. $360    Gaotosky10
   *19. $369    ~ Smithy ~
@@ -64,7 +64,7 @@ Updated 2022-10-25T00:58:39.992Z
    60. $19,054 iRaS
    61. $19,106 liam
    62. $19,121 Cyrion
-   63. $19,394 Valnix
+  *63. $19,394 Valnix
   *64. $19,426 XxTrollFacexX
    65. $19,462 ScamMeister
    66. $19,493 Wamphyri
@@ -97,7 +97,7 @@ Updated 2022-10-25T00:58:39.992Z
    93. $22,841 bluecollarbunny
    94. $22,846 qsjvwomy
    95. $22,848 marian
-   96. $22,862 Jazzy
+  *96. $22,862 Jazzy
    97. $22,878 Luuroon
    98. $22,878 olivapaa
    99. $22,878 brycecroucher
@@ -479,8 +479,8 @@ Updated 2022-10-25T00:58:39.992Z
   475. $28,561 zezetel
   476. $28,564 G3NTs
   477. $28,564 funplayer
-  478. $28,564 Waytoogo-[ROT]
- *479. $28,564 すみ
+ *478. $28,564 すみ
+  479. $28,564 Waytoogo-[ROT]
  *480. $28,564 WITNESS ME
   481. $28,564 TheBehaim
   482. $28,564 RockHardSponge
@@ -590,17 +590,17 @@ Updated 2022-10-25T00:58:39.992Z
   586. $29,145 Quadley
  *587. $29,145 sky
   588. $29,146 Spitz
-  589. $29,146 Cyratos
-  590. $29,146 Jarocks
-  591. $29,146 dk10837
-  592. $29,146 delp
-  593. $29,146 Jabloňátor2000
-  594. $29,146 danielharrington06
-  595. $29,146 Jakobs
-  596. $29,146 ruclikn
- *597. $29,146 Maironne
- *598. $29,146 titisee5
- *599. $29,146 Hnnter
+ *589. $29,146 Hnnter
+  590. $29,146 Cyratos
+  591. $29,146 Jarocks
+  592. $29,146 dk10837
+  593. $29,146 delp
+  594. $29,146 Jabloňátor2000
+  595. $29,146 danielharrington06
+  596. $29,146 Jakobs
+  597. $29,146 ruclikn
+ *598. $29,146 Maironne
+ *599. $29,146 titisee5
   600. $29,146 Soya 소야
   601. $29,146 Rikkert
   602. $29,146 bakuhyouzann
@@ -609,11 +609,11 @@ Updated 2022-10-25T00:58:39.992Z
   605. $29,146 KATSUKi D
   606. $29,146 lobito
   607. $29,146 Skywalkertrem
- *608. $29,146 Eevee
-  609. $29,146 damjan455
-  610. $29,146 zangl1
-  611. $29,146 soki
-  612. $29,146 Lou
+  608. $29,146 damjan455
+  609. $29,146 zangl1
+  610. $29,146 soki
+  611. $29,146 Lou
+ *612. $29,146 Eevee
   613. $29,146 miner_pig1
   614. $29,146 Phlil774
   615. $29,146 TANSTAAFL
@@ -884,7 +884,7 @@ Updated 2022-10-25T00:58:39.992Z
   880. $30,570 Pure_Radiance
   881. $30,577 GameRacer_FIVE [Trigger]
   882. $30,580 xPrqj
-  883. $30,586 123
+ *883. $30,586 123
   884. $30,590 Dobbler
   885. $30,592 badweathers
   886. $30,593 mihej
