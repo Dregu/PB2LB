@@ -1,16 +1,16 @@
 Poly Bridge 2 - 5-15 "Double Duty" any% leaderboard (* = breaks)
-Updated 2022-11-09T00:40:41.817Z
-1000/8816 unique ranks shown
+Updated 2022-11-10T00:40:54.665Z
+1000/8825 unique ranks shown
 
-   *1. $4,939  Trygeve
+   *1. $4,939  tonyz01234
    *2. $4,939  Cookieblues
-   *3. $4,939  minecat
-   *4. $4,939  tonyz01234
-   *5. $4,939  MOD
-   *6. $4,939  Zen
-   *7. $4,939  Lagiiiie
-   *8. $4,939  7777Alex7777
-   *9. $4,939  9k5
+   *3. $4,939  9k5
+   *4. $4,939  Lagiiiie
+   *5. $4,939  Zen
+   *6. $4,939  Trygeve
+   *7. $4,939  7777Alex7777
+   *8. $4,939  MOD
+   *9. $4,939  minecat
   *10. $5,685  Alexey
   *11. $5,999  Fathom
    12. $14,999 Roevhaal
@@ -154,8 +154,8 @@ Updated 2022-11-09T00:40:41.817Z
   150. $43,997 Kieselmeister
   151. $44,012 1794982934
   152. $44,036 tmfoo02
- *153. $44,056 adambrianschmidt
-  154. $44,056 gashpot
+  153. $44,056 gashpot
+ *154. $44,056 adambrianschmidt
   155. $44,072 GalahadRounds
   156. $44,199 tylerdg22
  *157. $44,277 Zen Ti
@@ -271,8 +271,8 @@ Updated 2022-11-09T00:40:41.817Z
   267. $49,443 nhaven14
   268. $49,470 RafaelJR8
   269. $49,477 kahko
- *270. $49,497 RetroFX
-  271. $49,497 AZ-LT
+  270. $49,497 AZ-LT
+ *271. $49,497 RetroFX
   272. $49,500 Pinio
   273. $49,533 Zocka
   274. $49,544 YaMa
@@ -912,8 +912,8 @@ Updated 2022-11-09T00:40:41.817Z
   908. $63,698 mpmanikas
  *909. $63,699 bitomarci
  *910. $63,744 chixenlegjo
- *911. $63,793 Cheesus
- *912. $63,793 zia
+ *911. $63,793 zia
+ *912. $63,793 Cheesus
   913. $63,801 Me 10 Jin
  *914. $63,807 tmg2
   915. $63,808 Derpy
@@ -966,8 +966,8 @@ Updated 2022-11-09T00:40:41.817Z
   962. $64,695 +25 Only
   963. $64,702 AshBill
   964. $64,723 Orzulak_
-  965. $64,727 GarlicChives
- *966. $64,727 ellisk1
+ *965. $64,727 ellisk1
+  966. $64,727 GarlicChives
  *967. $64,732 PROwill3
   968. $64,736 Maistas
   969. $64,739 lbrinkey01
@@ -978,27 +978,27 @@ Updated 2022-11-09T00:40:41.817Z
   974. $64,787 まちかど
   975. $64,789 hundidit
   976. $64,791 Semp3rfi
- *977. $64,810 qiuqiuhulstrom
- *978. $64,812 Fockey15
-  979. $64,855 Space Tank
- *980. $64,875 Iced Evolved
-  981. $64,887 DTUSC
-  982. $64,895 AqlCaraMsm
-  983. $64,902 VeggieBurrito
-  984. $64,902 alexmoreno524
-  985. $64,909 Unholy
-  986. $64,911 3MidgetsInATrenchcoat
-  987. $64,935 wickes
-  988. $64,951 Wada Bueno
-  989. $64,984 DragonTamer98
-  990. $64,990 Way_of_Cows
- *991. $65,010 Lafmano
- *992. $65,012 zezetel
- *993. $65,026 Luisinho
-  994. $65,027 LFB
-  995. $65,032 Dansta2106
-  996. $65,064 gotem_good
- *997. $65,083 Biwabik
-  998. $65,113 Andrew
- *999. $65,118 BOYAR
- 1000. $65,139 alexe500
+  977. $64,808 pixelpug0930
+ *978. $64,810 qiuqiuhulstrom
+ *979. $64,812 Fockey15
+  980. $64,855 Space Tank
+ *981. $64,875 Iced Evolved
+  982. $64,887 DTUSC
+  983. $64,895 AqlCaraMsm
+  984. $64,902 VeggieBurrito
+  985. $64,902 alexmoreno524
+  986. $64,909 Unholy
+  987. $64,911 3MidgetsInATrenchcoat
+  988. $64,935 wickes
+ *989. $64,951 Wada Bueno
+  990. $64,984 DragonTamer98
+  991. $64,990 Way_of_Cows
+ *992. $65,010 Lafmano
+ *993. $65,012 zezetel
+ *994. $65,026 Luisinho
+  995. $65,027 LFB
+  996. $65,032 Dansta2106
+  997. $65,064 gotem_good
+ *998. $65,083 Biwabik
+  999. $65,113 Andrew
+*1000. $65,118 BOYAR
