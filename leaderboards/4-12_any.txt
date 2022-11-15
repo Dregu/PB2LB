@@ -1,10 +1,10 @@
 Poly Bridge 2 - 4-12 "Trailblazer" any% leaderboard (* = breaks)
-Updated 2022-11-13T00:38:27.314Z
-1000/42313 unique ranks shown
+Updated 2022-11-15T00:39:25.930Z
+1000/42397 unique ranks shown
 
-   *1. $2,652  Zen
-   *2. $2,652  Trygeve
-   *3. $2,652  Cookieblues
+   *1. $2,652  Cookieblues
+   *2. $2,652  Zen
+   *3. $2,652  Trygeve
    *4. $2,652  ~ Smithy ~
    *5. $2,766  Chris
    *6. $2,768  Lagiiiie
@@ -14,9 +14,9 @@ Updated 2022-11-13T00:38:27.314Z
   *10. $2,783  geroniberry2
   *11. $2,791  minecat
   *12. $2,796  9k5
-  *13. $2,821  Shadow
+  *13. $2,821  Crimson
   *14. $2,821  Baldi
-  *15. $2,821  Crimson
+  *15. $2,821  Shadow
   *16. $2,945  Dusty
   *17. $2,947  CursorCoercer
   *18. $3,140  Alexey
@@ -29,8 +29,8 @@ Updated 2022-11-13T00:38:27.314Z
    25. $4,714  M37
    26. $4,717  114623050
    27. $4,743  notdocq
-  *28. $4,849  Bibbb
-   29. $4,849  local person
+   28. $4,849  local person
+  *29. $4,849  Bibbb
    30. $4,859  MOD
    31. $5,074  MistMech
    32. $5,098  Luuroon
@@ -394,8 +394,8 @@ Updated 2022-11-13T00:38:27.314Z
   390. $9,656  liquor snurf
   391. $9,660  SurgeUnleashed
   392. $9,668  Garrett M
- *393. $9,670  Bull Moose
-  394. $9,670  barryreichphd
+  393. $9,670  barryreichphd
+ *394. $9,670  Bull Moose
   395. $9,682  哎呦微
   396. $9,690  Sqmue1
   397. $9,698  dog
@@ -474,9 +474,9 @@ Updated 2022-11-13T00:38:27.314Z
   470. $9,996  Fractyll
   471. $9,997  Kapo
   472. $9,998  bejank
- *473. $9,999  PrOxAnto
-  474. $9,999  Farnworth
-  475. $9,999  Albinix
+  473. $9,999  Farnworth
+  474. $9,999  Albinix
+ *475. $9,999  PrOxAnto
   476. $10,008 Iuuca
  *477. $10,011 BSan
   478. $10,011 TimeDrifter
@@ -488,8 +488,8 @@ Updated 2022-11-13T00:38:27.314Z
   484. $10,062 Bupeldox
   485. $10,062 Ethan
   486. $10,063 jonathan
-  487. $10,073 J黑
- *488. $10,073 dylanwenger9
+ *487. $10,073 dylanwenger9
+  488. $10,073 J黑
   489. $10,073 towelietrippin
   490. $10,087 Lanilor
   491. $10,098 ingerking
@@ -687,9 +687,9 @@ Updated 2022-11-13T00:38:27.314Z
   683. $10,920 Sev
  *684. $10,923 KAPPPS
   685. $10,927 Wagyourtail
- *686. $10,927 CBoA15
-  687. $10,927 i.have.aids
-  688. $10,927 PUGGYBOI21
+  686. $10,927 i.have.aids
+  687. $10,927 PUGGYBOI21
+ *688. $10,927 CBoA15
   689. $10,930 Kieselmeister
   690. $10,936 Oluoloou
   691. $10,937 jlteunissen
@@ -699,8 +699,8 @@ Updated 2022-11-13T00:38:27.314Z
   695. $10,941 Esgs
   696. $10,945 imcharnetski
   697. $10,946 Matt
-  698. $10,949 BOT.Looney
- *699. $10,949 Inferior Asian
+ *698. $10,949 Inferior Asian
+  699. $10,949 BOT.Looney
   700. $10,951 Meoist
   701. $10,954 holzingerphilip
   702. $10,960 clydesdalefan
@@ -731,8 +731,8 @@ Updated 2022-11-13T00:38:27.314Z
   727. $11,008 成绩列入总分
   728. $11,012 Vellt
   729. $11,015 vissy
-  730. $11,023 alex
-  731. $11,023 .
+ *730. $11,023 .
+  731. $11,023 alex
   732. $11,030 chubby
   733. $11,031 zachhodes
   734. $11,031 silverSeb
@@ -771,8 +771,8 @@ Updated 2022-11-13T00:38:27.314Z
   767. $11,120 Dexus
   768. $11,120 simonhann
   769. $11,120 fusselraupe
- *770. $11,124 Navinate
-  771. $11,124 Zed
+  770. $11,124 Zed
+ *771. $11,124 Navinate
   772. $11,124 joseph07gaming
   773. $11,125 Kosepose
   774. $11,126 ThatThirdNovak
