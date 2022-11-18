@@ -1,23 +1,23 @@
 Poly Bridge 2 - 5-03 "Trading Places" any% leaderboard (* = breaks)
-Updated 2022-11-17T00:38:46.285Z
-1000/18551 unique ranks shown
+Updated 2022-11-18T00:44:44.461Z
+1000/18571 unique ranks shown
 
-   *1. $2,690  7777Alex7777
-   *2. $2,690  Dusty
-   *3. $2,690  akkun_ouo
-   *4. $2,690  palfly15
-   *5. $2,690  Lagiiiie
+   *1. $2,690  Dusty
+   *2. $2,690  Lagiiiie
+   *3. $2,690  palfly15
+   *4. $2,690  7777Alex7777
+   *5. $2,690  akkun_ouo
    *6. $2,999  minecat
-   *7. $2,999  9k5
-   *8. $2,999  Cookieblues
-   *9. $2,999  ~ Smithy ~
+   *7. $2,999  Cookieblues
+   *8. $2,999  ~ Smithy ~
+   *9. $2,999  9k5
   *10. $3,073  Zen
   *11. $3,150  geroniberry2
-  *12. $3,256  Crimson
-  *13. $3,299  MOD
-  *14. $3,327  Shadow
-  *15. $3,589  Fathom
-  *16. $3,714  Chris
+  *12. $3,255  Chris
+  *13. $3,256  Crimson
+  *14. $3,299  MOD
+  *15. $3,327  Shadow
+  *16. $3,589  Fathom
   *17. $3,798  somefakegamer
   *18. $3,833  tonyz01234
   *19. $4,221  Trygeve
@@ -31,8 +31,8 @@ Updated 2022-11-17T00:38:46.285Z
    27. $5,610  Enchanted Spider
   *28. $5,618  imcharnetski
    29. $5,623  SaltySeal
-  *30. $5,715  Ren Otonashi
-  *31. $5,715  Megoman16
+  *30. $5,715  Megoman16
+  *31. $5,715  Ren Otonashi
   *32. $5,735  Noahsorou
    33. $5,745  The Worst
    34. $5,782  GuacamoleLover27
@@ -78,10 +78,10 @@ Updated 2022-11-17T00:38:46.285Z
   *74. $7,306  gamespilgame
   *75. $7,319  delightfulgiraffe
    76. $7,371  Commie Slotter
-  *77. $7,408  zeller-alex
-  *78. $7,408  cavetroll
+  *77. $7,408  cavetroll
+  *78. $7,408  metatropic
   *79. $7,408  Alison
-  *80. $7,408  metatropic
+  *80. $7,408  zeller-alex
   *81. $7,429  j.bottomley87595
    82. $7,704  The_Vaccine
    83. $7,714  ValerioFaccina
@@ -89,7 +89,7 @@ Updated 2022-11-17T00:38:46.285Z
    85. $7,774  dazamy79
    86. $7,826  Icysnowman
    87. $7,836  dmanthomas17
-  *88. $7,925  -mushinbush-
+   88. $7,925  -mushinbush-
    89. $8,165  Sir Horse
    90. $8,229  snowhugger7
    91. $8,336  Buddermario7
@@ -149,30 +149,30 @@ Updated 2022-11-17T00:38:46.285Z
   145. $9,689  dog
   146. $9,707  chrisi-12er
   147. $9,735  ydakilux
- *148. $9,773  piccolo_SPA
- *149. $9,794  ComaVN
-  150. $9,797  gajisai
-  151. $9,820  jeremywinick
-  152. $9,824  zinc
-  153. $9,841  Agent 69
-  154. $9,846  Frost
-  155. $9,850  Ace_Falken
-  156. $9,882  SoulWager
-  157. $9,896  Chaot 312
-  158. $9,898  W_Lettuce
-  159. $9,920  15596840605
-  160. $9,921  BrianTho2010
-  161. $9,924  paulface12
-  162. $9,928  Ogremor
-  163. $9,937  TrakDah
-  164. $9,938  Swag Master
-  165. $9,977  382845377
-  166. $9,981  jason.fritsch18
-  167. $9,984  mbutton15
-  168. $9,987  KIKIMANGUS
-  169. $9,988  成绩列入总分
-  170. $9,991  Inaudiblekick
-  171. $9,994  zepmorrow
+  148. $9,773  zepmorrow
+ *149. $9,773  piccolo_SPA
+ *150. $9,794  ComaVN
+  151. $9,797  gajisai
+  152. $9,820  jeremywinick
+  153. $9,824  zinc
+  154. $9,841  Agent 69
+  155. $9,846  Frost
+  156. $9,850  Ace_Falken
+  157. $9,882  SoulWager
+  158. $9,896  Chaot 312
+  159. $9,898  W_Lettuce
+  160. $9,920  15596840605
+  161. $9,921  BrianTho2010
+  162. $9,924  paulface12
+  163. $9,928  Ogremor
+  164. $9,937  TrakDah
+  165. $9,938  Swag Master
+  166. $9,977  382845377
+  167. $9,981  jason.fritsch18
+  168. $9,984  mbutton15
+  169. $9,987  KIKIMANGUS
+  170. $9,988  成绩列入总分
+  171. $9,991  Inaudiblekick
   172. $9,996  Bobby Boi
   173. $9,996  Man
   174. $10,000 Eb1toad
@@ -479,7 +479,7 @@ Updated 2022-11-17T00:38:46.285Z
   475. $12,973 thelastprime
   476. $12,977 Smile
   477. $12,978 Zeru-el
-  478. $12,978 craftingtacos
+ *478. $12,978 craftingtacos
   479. $12,986 水印星空
   480. $12,987 The_Darebear
   481. $12,989 senpanten
@@ -535,8 +535,8 @@ Updated 2022-11-17T00:38:46.285Z
   531. $13,466 Oshimia
   532. $13,472 Underooze
  *533. $13,488 Lofull
- *534. $13,489 basdold
-  535. $13,489 SilentKnight
+  534. $13,489 SilentKnight
+ *535. $13,489 basdold
   536. $13,492 Miku
   537. $13,492 player1
   538. $13,500 ernet[KSF]
@@ -668,8 +668,8 @@ Updated 2022-11-17T00:38:46.285Z
   664. $14,257 ice bear
   665. $14,262 Pasi
  *666. $14,267 로보크랩
-  667. $14,278 Wheels
- *668. $14,278 KillSwitch
+ *667. $14,278 KillSwitch
+  668. $14,278 Wheels
   669. $14,282 ManTheMister
   670. $14,286 blockychief89
   671. $14,287 tony65536
@@ -745,8 +745,8 @@ Updated 2022-11-17T00:38:46.285Z
   741. $14,621 CheesyGamer201
   742. $14,626 sandiem
   743. $14,627 Mega Rayquaza
- *744. $14,638 ultimatedgambler
- *745. $14,638 hangaari0214
+ *744. $14,638 hangaari0214
+ *745. $14,638 ultimatedgambler
   746. $14,642 Fiku121
   747. $14,664 흑냥B612
   748. $14,667 psychonumber1
@@ -780,8 +780,8 @@ Updated 2022-11-17T00:38:46.285Z
   776. $14,784 sdfrancis.boyscout
   777. $14,788 mushroboy
   778. $14,789 babyso3889
-  779. $14,792 Leooo
- *780. $14,792 jwseok95
+ *779. $14,792 jwseok95
+  780. $14,792 Leooo
   781. $14,794 LEts GO build
   782. $14,795 tmoore1o
   783. $14,796 iceyfox3
@@ -952,8 +952,8 @@ Updated 2022-11-17T00:38:46.285Z
   948. $15,440 ratafiarodrigez
   949. $15,446 owlby09
   950. $15,448 mhg0709
-  951. $15,449 Zounius
- *952. $15,449 Derpy
+ *951. $15,449 Derpy
+  952. $15,449 Zounius
   953. $15,451 erconzaymu1973
   954. $15,456 Vandassar
   955. $15,460 Sir Brother Dragonov
@@ -1000,5 +1000,5 @@ Updated 2022-11-17T00:38:46.285Z
   996. $15,620 rocket_powered
   997. $15,624 |FAQ-YU| Fishezzz
   998. $15,632 Sofie
- *999. $15,636 enderquest
-*1000. $15,636 lunavy
+ *999. $15,636 lunavy
+*1000. $15,636 enderquest
