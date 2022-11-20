@@ -1,11 +1,11 @@
 Poly Bridge 2 - 4-12 "Trailblazer" any% leaderboard (* = breaks)
-Updated 2022-11-19T00:40:37.304Z
-1000/42545 unique ranks shown
+Updated 2022-11-20T00:43:30.597Z
+1000/42587 unique ranks shown
 
-   *1. $2,652  Trygeve
-   *2. $2,652  ~ Smithy ~
-   *3. $2,652  Cookieblues
-   *4. $2,652  Zen
+   *1. $2,652  Zen
+   *2. $2,652  Cookieblues
+   *3. $2,652  Trygeve
+   *4. $2,652  ~ Smithy ~
    *5. $2,766  Chris
    *6. $2,768  Lagiiiie
    *7. $2,769  somefakegamer
@@ -29,8 +29,8 @@ Updated 2022-11-19T00:40:37.304Z
    25. $4,714  M37
    26. $4,717  114623050
    27. $4,743  notdocq
-   28. $4,849  local person
-  *29. $4,849  Bibbb
+  *28. $4,849  Bibbb
+   29. $4,849  local person
    30. $4,859  MOD
    31. $5,074  MistMech
    32. $5,098  Luuroon
@@ -55,7 +55,7 @@ Updated 2022-11-19T00:40:37.304Z
    51. $5,999  Sral2510
    52. $6,067  Kimnet328
    53. $6,076  Heater
-   54. $6,078  4hud
+  *54. $6,078  4hud
    55. $6,095  ksju1232
   *56. $6,120  david_r_baker
    57. $6,128  torry
@@ -88,8 +88,8 @@ Updated 2022-11-19T00:40:37.304Z
   *84. $6,530  XxTrollFacexX
    85. $6,536  melonmilkis
    86. $6,539  dotoru80
-   87. $6,547  tpghks0201
-   88. $6,547  ledgend
+   87. $6,547  ledgend
+   88. $6,547  tpghks0201
    89. $6,556  transvana
   *90. $6,560  teamschray
    91. $6,566  gajisai
@@ -147,7 +147,7 @@ Updated 2022-11-19T00:40:37.304Z
   143. $7,161  EAMoney97
   144. $7,164  somogyi91
   145. $7,165  兩羊
- *146. $7,166  Bram2323
+  146. $7,166  Bram2323
   147. $7,185  harti_77
   148. $7,198  doandchan
   149. $7,201  Connor
@@ -224,8 +224,8 @@ Updated 2022-11-19T00:40:37.304Z
   220. $8,430  kevinobrien112
   221. $8,439  lensman00
   222. $8,441  max0307
-  223. $8,460  Gideon ZA
-  224. $8,460  Shikto
+  223. $8,460  Shikto
+  224. $8,460  Gideon ZA
   225. $8,462  macatumbas
   226. $8,466  Hannah
   227. $8,494  Smuc Muck
@@ -259,8 +259,8 @@ Updated 2022-11-19T00:40:37.304Z
  *255. $8,757  TouchTheDog
   256. $8,764  hiferb
  *257. $8,765  HappyFishboy
-  258. $8,766  Minnesota.Nice
-  259. $8,766  Cremefraiche
+  258. $8,766  Cremefraiche
+  259. $8,766  Minnesota.Nice
   260. $8,780  anwsnyder
   261. $8,783  injuzxy0423
   262. $8,792  Lucky Luke
@@ -280,8 +280,8 @@ Updated 2022-11-19T00:40:37.304Z
   276. $8,880  Kjell
   277. $8,881  alex
   278. $8,883  ⎛⎝A Fennec Fox⎠⎞
-  279. $8,883  Towo617
-  280. $8,883  *****
+  279. $8,883  *****
+  280. $8,883  Towo617
   281. $8,885  BigPig2PointO
   282. $8,890  MagnusTagMus
   283. $8,897  382845377
@@ -309,8 +309,8 @@ Updated 2022-11-19T00:40:37.304Z
  *305. $9,065  saxom143
   306. $9,090  joshuak1899
   307. $9,108  Jale
-  308. $9,111  zMg
-  309. $9,111  cioris
+  308. $9,111  cioris
+  309. $9,111  zMg
   310. $9,118  Space Shark
   311. $9,128  Stabhole
   312. $9,151  POLAR
@@ -359,8 +359,8 @@ Updated 2022-11-19T00:40:37.304Z
   355. $9,468  conveere
   356. $9,472  Dandy Fandango
  *357. $9,473  Samlauderuel
-  358. $9,478  ✪ Eto♪
-  359. $9,478  Smalls4400
+  358. $9,478  Smalls4400
+  359. $9,478  ✪ Eto♪
   360. $9,488  rocketman1701e
   361. $9,499  Xylated
   362. $9,502  Jeff
@@ -413,16 +413,16 @@ Updated 2022-11-19T00:40:37.304Z
   409. $9,767  BearsAndSuff
   410. $9,769  mathieuvanrossum
   411. $9,770  8 wheels good
-  412. $9,771  Qcrist
-  413. $9,771  myself757
-  414. $9,771  passivemodding
+  412. $9,771  passivemodding
+  413. $9,771  Qcrist
+  414. $9,771  myself757
   415. $9,774  schmier
  *416. $9,776  random_chimp_event
   417. $9,782  StackBabber
   418. $9,782  Martin
   419. $9,791  Anton
-  420. $9,794  Fagrid
-  421. $9,794  Acero
+  420. $9,794  Acero
+  421. $9,794  Fagrid
  *422. $9,798  s0mmer
   423. $9,812  SuperMidget_99
   424. $9,816  olivapaa
@@ -482,9 +482,9 @@ Updated 2022-11-19T00:40:37.304Z
   478. $10,011 TimeDrifter
   479. $10,023 lance.mcmullan
   480. $10,034 jay_stephenson2
-  481. $10,054 guitar4jon
-  482. $10,054 slicedtoad
-  483. $10,054 CHICKENFACE97
+  481. $10,054 CHICKENFACE97
+  482. $10,054 guitar4jon
+  483. $10,054 slicedtoad
   484. $10,062 Bupeldox
   485. $10,062 Ethan
   486. $10,063 jonathan
@@ -611,8 +611,8 @@ Updated 2022-11-19T00:40:37.304Z
   607. $10,605 n2it
   608. $10,614 Mr Tickle
   609. $10,614 Dim
-  610. $10,615 dvanhinthum
-  611. $10,615 LikelyChoke
+  610. $10,615 LikelyChoke
+  611. $10,615 dvanhinthum
  *612. $10,616 Buzz Lightsaber
   613. $10,622 MechaPenguin
   614. $10,624 Orion
@@ -770,8 +770,8 @@ Updated 2022-11-19T00:40:37.304Z
   766. $11,113 Legi4os
   767. $11,119 alex.schultink
   768. $11,120 fusselraupe
-  769. $11,120 Dexus
-  770. $11,120 simonhann
+  769. $11,120 simonhann
+  770. $11,120 Dexus
  *771. $11,124 Navinate
   772. $11,124 Zed
   773. $11,124 joseph07gaming
@@ -781,16 +781,16 @@ Updated 2022-11-19T00:40:37.304Z
   777. $11,130 Erikaze
   778. $11,131 pacifist0rz
  *779. $11,144 Nigbor
-  780. $11,145 jazzlevi
-  781. $11,145 Low
+  780. $11,145 Low
+  781. $11,145 jazzlevi
   782. $11,149 ItBeCharlie
   783. $11,149 autismo
   784. $11,150 damose
   785. $11,151 =D3S= Delta_V
  *786. $11,160 TheShinyWizard
-  787. $11,161 tom_bc
-  788. $11,161 IamEduard
-  789. $11,161 Hazzmania
+  787. $11,161 IamEduard
+  788. $11,161 Hazzmania
+  789. $11,161 tom_bc
   790. $11,162 80schneider80
   791. $11,173 McLoud
   792. $11,177 deshikaze
@@ -826,8 +826,8 @@ Updated 2022-11-19T00:40:37.304Z
   822. $11,226 brendandecicio
   823. $11,230 hendrick
   824. $11,231 lul
-  825. $11,232 Howphile
-  826. $11,232 Sothyl
+  825. $11,232 Sothyl
+  826. $11,232 Howphile
   827. $11,232 davidecappa1999
   828. $11,236 TheSch00ter
   829. $11,237 dtee3
@@ -863,8 +863,8 @@ Updated 2022-11-19T00:40:37.304Z
   859. $11,328 piaseknadmorski
   860. $11,330 Μην παροχής συμβουλών
   861. $11,330 LeonardRodriguez
-  862. $11,333 I-Apmo-Iツ
-  863. $11,333 Quake
+  862. $11,333 Quake
+  863. $11,333 I-Apmo-Iツ
   864. $11,338 TangoWango
   865. $11,339 samuellush
   866. $11,340 RyanCampbell
@@ -872,8 +872,8 @@ Updated 2022-11-19T00:40:37.304Z
   868. $11,342 Captain Jones
   869. $11,347 Westaint
   870. $11,350 TheDentist618
-  871. $11,364 Delta_Mage
-  872. $11,364 jimmyscully
+  871. $11,364 jimmyscully
+  872. $11,364 Delta_Mage
   873. $11,365 Kabuco
   874. $11,365 Dom
   875. $11,367 fLeX oN yOu In My MiNi CoPpErU
@@ -882,8 +882,8 @@ Updated 2022-11-19T00:40:37.304Z
   878. $11,377 Niklas_Raaa
   879. $11,380 孤舟
   880. $11,383 Maruka
-  881. $11,384 Cheese Diablo
- *882. $11,384 King Hippo
+ *881. $11,384 King Hippo
+  882. $11,384 Cheese Diablo
   883. $11,385 Blue Rose
   884. $11,389 .
   885. $11,389 Sexy Boy Industries [woop]
@@ -895,8 +895,8 @@ Updated 2022-11-19T00:40:37.304Z
   891. $11,394 KyloRen773
  *892. $11,396 mplewniok
   893. $11,398 Maelstrom
-  894. $11,399 Salad
-  895. $11,399 duri0517
+  894. $11,399 duri0517
+  895. $11,399 Salad
   896. $11,400 Fryd_Chicken
   897. $11,404 LegitGopnik
   898. $11,406 sim1manson
@@ -924,8 +924,8 @@ Updated 2022-11-19T00:40:37.304Z
   920. $11,459 schwiftyking
   921. $11,464 -mushinbush-
   922. $11,464 Maheilu
-  923. $11,465 enrico93
-  924. $11,465 hayden.pugh
+  923. $11,465 hayden.pugh
+  924. $11,465 enrico93
   925. $11,468 Alias_Fakename
   926. $11,469 Connie~
   927. $11,471 epicalex4444
@@ -934,12 +934,12 @@ Updated 2022-11-19T00:40:37.304Z
   930. $11,481 supremechalupa
   931. $11,486 Suzoko
   932. $11,487 [Villain Chuckle] You Fool...
-  933. $11,491 Kernalcorn82
-  934. $11,491 FlyinFoxtrot
+  933. $11,491 FlyinFoxtrot
+  934. $11,491 Kernalcorn82
   935. $11,493 hycutype
   936. $11,493 FriedTomato
- *937. $11,495 firep_erik
-  938. $11,495 raikki
+  937. $11,495 raikki
+ *938. $11,495 firep_erik
   939. $11,496 danshafaker1
   940. $11,497 AZ-LT
   941. $11,502 HappyPiggy
@@ -993,8 +993,8 @@ Updated 2022-11-19T00:40:37.304Z
   989. $11,618 m1kkelm1n1
   990. $11,624 wescaple
   991. $11,628 Chris
-  992. $11,629 FYI I'm a spy... or am I?
-  993. $11,629 Twococos
+  992. $11,629 Twococos
+  993. $11,629 FYI I'm a spy... or am I?
   994. $11,629 Seraphis
   995. $11,635 jeppi
   996. $11,635 en-su
