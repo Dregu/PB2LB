@@ -1,6 +1,6 @@
 Poly Bridge 2 - 4-13 "Diagonal Drawbridge" any% leaderboard (* = breaks)
-Updated 2023-01-25T00:34:22.485Z
-1000/47137 unique ranks shown
+Updated 2023-01-26T00:34:17.419Z
+1000/47156 unique ranks shown
 
    *1. $2,426  somefakegamer
    *2. $2,426  7777Alex7777
@@ -51,7 +51,7 @@ Updated 2023-01-25T00:34:22.485Z
   *47. $14,337 Valnix
   *48. $14,392 GuacamoleLover27
   *49. $14,484 kmsq5004
-   50. $14,664 notdocq
+   50. $14,594 notdocq
   *51. $16,154 BeljihnWahfl
    52. $17,929 Sev
   *53. $17,975 goldenpggie
@@ -332,8 +332,8 @@ Updated 2023-01-25T00:34:22.485Z
   328. $24,630 hkkjyob76
  *329. $24,633 jwis
   330. $24,670 TheRocket
- *331. $24,678 ki1law
- *332. $24,678 1723945294
+ *331. $24,678 1723945294
+ *332. $24,678 ki1law
   333. $24,680 lee731017
   334. $24,682 zig2003zak
   335. $24,697 Linus
@@ -948,57 +948,57 @@ Updated 2023-01-25T00:34:22.485Z
  *944. $29,643 39205090
   945. $29,655 pesty
  *946. $29,680 Koka
-  947. $29,693 AresDarkNight
-  948. $29,694 SilverStone2020
-  949. $29,696 Ludvagn
- *950. $29,696 I'M YOUR FATHER
-  951. $29,699 jakobpalsson
- *952. $29,701 hideki.saito
- *953. $29,723 CoopssE
-  954. $29,727 Vatle
- *955. $29,728 TheWykeham
-  956. $29,735 catperfect2008
- *957. $29,736 sinter
-  958. $29,741 FumbieNumbie
- *959. $29,755 Piratrik
-  960. $29,765 Moffitt
-  961. $29,766 Rantanplan
- *962. $29,766 MartyS
- *963. $29,767 Vasax
- *964. $29,787 caetanorocha1113
-  965. $29,803 Gundrilla Kenya [Flat 54]
- *966. $29,804 CptWilly
-  967. $29,831 Xela Loivar
- *968. $29,848 vmana
- *969. $29,849 1666802855
-  970. $29,857 hacarpm
- *971. $29,864 SANDOS
-  972. $29,869 Tayaress
- *973. $29,870 Skekzi
-  974. $29,893 desti
-  975. $29,894 Neill
-  976. $29,900 Lemon Sorbet
- *977. $29,907 Mr. Booqie
-  978. $29,918 laexom
-  979. $29,921 jkarran
- *980. $29,925 NeverMind
-  981. $29,927 brendandecicio
-  982. $29,928 Doble Jota
-  983. $29,938 Paul_VB
-  984. $29,940 pallas11235
-  985. $29,945 GoalieGames
-  986. $29,951 𝓱𝓮𝓷𝓽𝓪𝓲
-  987. $29,952 grubrev
-  988. $29,957 Lil' Thermostat
-  989. $29,966 Mal
-  990. $29,966 kareki00
-  991. $29,968 iso Compass
- *992. $29,972 [FH]Death
-  993. $29,978 Apicedda
-  994. $29,983 brutae
-  995. $29,988 zafrocto
- *996. $29,989 Smalls4400
-  997. $29,990 mania35
-  998. $29,990 evanjdavies2018
- *999. $29,990 gmlwhdtjd
- 1000. $29,993 yoshiannihilatron
+  947. $29,687 Acheror
+  948. $29,693 AresDarkNight
+  949. $29,694 SilverStone2020
+  950. $29,696 Ludvagn
+ *951. $29,696 I'M YOUR FATHER
+  952. $29,699 jakobpalsson
+ *953. $29,701 hideki.saito
+ *954. $29,723 CoopssE
+  955. $29,727 Vatle
+ *956. $29,728 TheWykeham
+  957. $29,735 catperfect2008
+ *958. $29,736 sinter
+  959. $29,741 FumbieNumbie
+ *960. $29,755 Piratrik
+  961. $29,765 Moffitt
+  962. $29,766 Rantanplan
+ *963. $29,766 MartyS
+ *964. $29,767 Vasax
+ *965. $29,787 caetanorocha1113
+  966. $29,803 Gundrilla Kenya [Flat 54]
+ *967. $29,804 CptWilly
+  968. $29,831 Xela Loivar
+ *969. $29,848 vmana
+ *970. $29,849 1666802855
+  971. $29,857 hacarpm
+ *972. $29,864 SANDOS
+  973. $29,869 Tayaress
+ *974. $29,870 Skekzi
+  975. $29,893 desti
+  976. $29,894 Neill
+  977. $29,900 Lemon Sorbet
+ *978. $29,907 Mr. Booqie
+  979. $29,918 laexom
+  980. $29,921 jkarran
+ *981. $29,925 NeverMind
+  982. $29,927 brendandecicio
+  983. $29,928 Doble Jota
+  984. $29,938 Paul_VB
+  985. $29,940 pallas11235
+  986. $29,945 GoalieGames
+  987. $29,951 𝓱𝓮𝓷𝓽𝓪𝓲
+  988. $29,952 grubrev
+  989. $29,957 Lil' Thermostat
+  990. $29,966 Mal
+  991. $29,966 kareki00
+  992. $29,968 iso Compass
+ *993. $29,972 [FH]Death
+  994. $29,978 Apicedda
+  995. $29,983 brutae
+  996. $29,988 zafrocto
+ *997. $29,989 Smalls4400
+  998. $29,990 mania35
+  999. $29,990 evanjdavies2018
+*1000. $29,990 gmlwhdtjd
