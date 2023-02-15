@@ -1,80 +1,114 @@
 Poly Bridge 2 - W0129 "Weekly Challenge #129" unbreaking leaderboard
-Updated 2023-02-14T00:37:07.209Z
-76/76 unique ranks shown
+Updated 2023-02-15T00:36:50.379Z
+110/110 unique ranks shown
 
-    1. $7,227  Nebula_Bebula
-    2. $7,481  9k5
-    3. $7,481  Chris
-    4. $7,481  Zen
+    1. $3,569  Zen
+    2. $7,227  Nebula_Bebula
+    3. $7,481  9k5
+    4. $7,481  Chris
     5. $8,267  notdocq
     6. $8,547  No problem.
     7. $9,260  mbutton15
-    8. $9,735  R
-    9. $9,750  Stabhole
-   10. $11,901 lensman00
-   11. $14,171 gajiro240
-   12. $14,556 杯冰
-   13. $15,633 cliff007
-   14. $16,000 auntratty
-   15. $16,314 cirwo
-   16. $16,766 kareki00
-   17. $17,080 Thoomor
-   18. $17,981 ldy5572
-   19. $18,360 kärmeeS
-   20. $18,458 Luisjnc
-   21. $18,479 DHmeow
-   22. $19,903 mhelsley
-   23. $19,909 Max Williams
-   24. $19,990 SneakySnake
-   25. $20,144 Lemon Grenadine
-   26. $23,536 robertgty0305
-   27. $23,889 bendaehyunlee
-   28. $24,280 Scare_crow
-   29. $24,305 jun828_2000
-   30. $24,413 pork_cake
-   31. $25,137 leiberich
-   32. $26,153 DoubleRocks
-   33. $26,885 Calloumi05
-   34. $27,293 buksan4
-   35. $27,475 dolfyn.t
-   36. $28,249 jereceter
-   37. $29,660 Rat Bastard
-   38. $30,536 gallantry
-   39. $30,576 mggolden2001
-   40. $31,003 笑靥
-   41. $31,581 MaGnEtO2.0
-   42. $31,637 scout_2001
-   43. $31,744 therk360
-   44. $31,986 buldokman
-   45. $32,549 geroniberry2
-   46. $32,600 S13
-   47. $32,950 MoltenRock
-   48. $32,992 pyrop
-   49. $34,375 brookeylou
-   50. $35,546 goncalo
-   51. $35,627 lillian918416
-   52. $35,871 Your_TypeOfMan
-   53. $36,178 jeremywinick
-   54. $36,642 michaelniklas85
-   55. $36,663 joshuawansell
-   56. $37,004 Jeevus
-   57. $37,999 palfly15
-   58. $39,640 martin_kirn
-   59. $40,456 killofki
-   60. $41,455 BuildingDR
-   61. $42,678 LENTObANAANI
-   62. $43,291 That Random Dude
-   63. $43,347 nikola.radivoj1
-   64. $43,667 betty-leo
-   65. $43,916 Co-Jirou
-   66. $44,371 JustFaz
-   67. $44,772 kids2
-   68. $45,838 AGENT_BLARPY0009
-   69. $46,208 Anton180906
-   70. $46,661 Toast Tobi 212
-   71. $48,080 GOZZ
-   72. $48,501 摸鱼-老手
-   73. $48,584 t.katzenberger
-   74. $51,184 crash1340
-   75. $67,798 indiamap
-   76. $98,967 mr.alki
+    8. $9,445  R
+    9. $9,549  kareki00
+   10. $9,750  Stabhole
+   11. $10,592 lensman00
+   12. $12,322 dolfyn.t
+   13. $14,171 gajiro240
+   14. $14,556 杯冰
+   15. $15,186 wcopeland25
+   16. $15,633 cliff007
+   17. $16,000 auntratty
+   18. $16,314 cirwo
+   19. $17,080 Thoomor
+   20. $17,184 Pat-Rikki
+   21. $17,198 lillian918416
+   22. $17,981 ldy5572
+   23. $18,218 antony.interlandi
+   24. $18,360 kärmeeS
+   25. $18,458 Luisjnc
+   26. $18,479 DHmeow
+   27. $19,881 Max Williams
+   28. $19,903 mhelsley
+   29. $19,990 SneakySnake
+   30. $20,002 maxblue456
+   31. $20,144 Lemon Grenadine
+   32. $20,394 114957
+   33. $20,814 Valnix
+   34. $21,332 HowieFTW
+   35. $21,759 liampdooley
+   36. $22,221 bitjjaru
+   37. $22,493 Bubi
+   38. $22,683 nikola.radivoj1
+   39. $23,279 OeTTINGER
+   40. $23,536 robertgty0305
+   41. $23,889 bendaehyunlee
+   42. $24,280 Scare_crow
+   43. $24,305 jun828_2000
+   44. $24,391 SoulWager
+   45. $24,413 pork_cake
+   46. $25,137 leiberich
+   47. $26,153 DoubleRocks
+   48. $26,524 jan-luca
+   49. $26,885 Calloumi05
+   50. $27,293 buksan4
+   51. $28,249 jereceter
+   52. $28,392 Ayamdut
+   53. $29,660 Rat Bastard
+   54. $29,863 lobengula.matabele
+   55. $30,404 Zurli
+   56. $30,455 benburke810
+   57. $30,536 gallantry
+   58. $30,576 mggolden2001
+   59. $31,003 笑靥
+   60. $31,581 MaGnEtO2.0
+   61. $31,637 scout_2001
+   62. $31,744 therk360
+   63. $31,986 buldokman
+   64. $32,050 Fireel
+   65. $32,549 geroniberry2
+   66. $32,600 S13
+   67. $32,950 MoltenRock
+   68. $32,992 pyrop
+   69. $33,167 MxJr
+   70. $33,934 Lerin
+   71. $34,375 brookeylou
+   72. $34,679 Exiled Prince
+   73. $35,245 hhlcherry
+   74. $35,546 goncalo
+   75. $35,871 Your_TypeOfMan
+   76. $36,178 jeremywinick
+   77. $36,642 michaelniklas85
+   78. $36,663 joshuawansell
+   79. $37,004 Jeevus
+   80. $37,105 MiniMeMuffin
+   81. $37,316 killofki
+   82. $37,999 palfly15
+   83. $39,640 martin_kirn
+   84. $39,713 Powerbanane23
+   85. $40,667 Big Joe
+   86. $41,455 BuildingDR
+   87. $42,678 LENTObANAANI
+   88. $43,291 That Random Dude
+   89. $43,667 betty-leo
+   90. $43,916 Co-Jirou
+   91. $44,371 JustFaz
+   92. $44,489 Asool
+   93. $44,772 kids2
+   94. $45,838 AGENT_BLARPY0009
+   95. $46,208 Anton180906
+   96. $46,661 Toast Tobi 212
+   97. $48,080 GOZZ
+   98. $48,306 ratta3000
+   99. $48,501 摸鱼-老手
+  100. $48,584 t.katzenberger
+  101. $48,650 KSstateofmind
+  102. $49,821 XDcop
+  103. $50,754 bboyrasmus
+  104. $50,969 Pimp Daddy Long Legs
+  105. $51,029 compej
+  106. $51,184 crash1340
+  107. $57,487 gustavo_rank
+  108. $67,798 indiamap
+  109. $77,294 noparadigms
+  110. $98,967 mr.alki
