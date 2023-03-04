@@ -1,6 +1,6 @@
 Poly Bridge 2 - 5-15 "Double Duty" unbreaking leaderboard
-Updated 2023-03-03T02:30:35.287Z
-1000/6036 unique ranks shown
+Updated 2023-03-04T00:35:52.204Z
+1000/6040 unique ranks shown
 
     1. $14,999 Roevhaal
     2. $16,268 notdocq
@@ -926,79 +926,79 @@ Updated 2023-03-03T02:30:35.287Z
   922. $63,995 robd.lives
   923. $64,005 stkoso
   924. $64,021 DefintelyNotSean
-  925. $64,056 kjell.kaiser
-  926. $64,114 Smiggie Balls O.O
-  927. $64,123 ann907
-  928. $64,132 Kirby
-  929. $64,141 alex
-  930. $64,143 향로봉대대
-  931. $64,151 jwseok95
-  932. $64,166 wikizera ♛
-  933. $64,181 maissilierer
-  934. $64,199 Graceful97
-  935. $64,207 tmg2
-  936. $64,217 gsuxywnxu16
-  937. $64,258 tqqq3
-  938. $64,278 (sensei) 先生
-  939. $64,349 Error Unknown
-  940. $64,362 slartybarfast
-  941. $64,373 mrichstein169
-  942. $64,380 Kennetsu
-  943. $64,383 d41d8cd90
-  944. $64,418 DrZobos
-  945. $64,432 19vladis97
-  946. $64,443 SilverShadow
-  947. $64,449 Selsenay
-  948. $64,520 piewilldie
-  949. $64,559 adammethven37
-  950. $64,563 fifito
-  951. $64,583 SimOet
-  952. $64,586 微笑小香香丶
-  953. $64,601 Lechy901
-  954. $64,610 joe
-  955. $64,621 Meilo
-  956. $64,625 BMO
-  957. $64,627 Anarchist Panda
-  958. $64,666 Lloyd_Himself
-  959. $64,670 njits23
-  960. $64,695 +25 Only
-  961. $64,702 AshBill
-  962. $64,723 Orzulak_
-  963. $64,727 GarlicChives
-  964. $64,736 Maistas
-  965. $64,739 lbrinkey01
-  966. $64,748 nina.tammelander
-  967. $64,752 ellisk1
-  968. $64,754 Knecker
-  969. $64,770 chupa71
-  970. $64,782 West13thNation
-  971. $64,787 まちかど
-  972. $64,789 hundidit
-  973. $64,791 Semp3rfi
-  974. $64,808 pixelpug0930
-  975. $64,851 Seymoore
-  976. $64,855 Space Tank
-  977. $64,871 원군
-  978. $64,887 DTUSC
-  979. $64,895 AqlCaraMsm
-  980. $64,902 VeggieBurrito
-  981. $64,902 alexmoreno524
-  982. $64,909 Unholy
-  983. $64,911 3MidgetsInATrenchcoat
-  984. $64,935 wickes
-  985. $64,951 Wada Bueno
-  986. $64,982 2irtys2
-  987. $64,984 DragonTamer98
-  988. $64,990 Way_of_Cows
-  989. $65,023 D.K.
-  990. $65,027 LFB
-  991. $65,032 Dansta2106
-  992. $65,045 purple
-  993. $65,064 gotem_good
-  994. $65,113 Andrew
-  995. $65,139 alexe500
-  996. $65,144 Lll Xx_notYevvi._xX llL
-  997. $65,157 nochnoj
-  998. $65,158 근육런
-  999. $65,215 randomalyzer
- 1000. $65,226 sondret5
+  925. $64,032 EventHorizon
+  926. $64,056 kjell.kaiser
+  927. $64,114 Smiggie Balls O.O
+  928. $64,123 ann907
+  929. $64,132 Kirby
+  930. $64,141 alex
+  931. $64,143 향로봉대대
+  932. $64,151 jwseok95
+  933. $64,166 wikizera ♛
+  934. $64,181 maissilierer
+  935. $64,199 Graceful97
+  936. $64,207 tmg2
+  937. $64,217 gsuxywnxu16
+  938. $64,258 tqqq3
+  939. $64,278 (sensei) 先生
+  940. $64,349 Error Unknown
+  941. $64,362 slartybarfast
+  942. $64,373 mrichstein169
+  943. $64,380 Kennetsu
+  944. $64,383 d41d8cd90
+  945. $64,418 DrZobos
+  946. $64,432 19vladis97
+  947. $64,443 SilverShadow
+  948. $64,449 Selsenay
+  949. $64,520 piewilldie
+  950. $64,559 adammethven37
+  951. $64,563 fifito
+  952. $64,583 SimOet
+  953. $64,586 微笑小香香丶
+  954. $64,601 Lechy901
+  955. $64,610 joe
+  956. $64,621 Meilo
+  957. $64,625 BMO
+  958. $64,627 Anarchist Panda
+  959. $64,666 Lloyd_Himself
+  960. $64,670 njits23
+  961. $64,695 +25 Only
+  962. $64,702 AshBill
+  963. $64,723 Orzulak_
+  964. $64,727 GarlicChives
+  965. $64,736 Maistas
+  966. $64,739 lbrinkey01
+  967. $64,748 nina.tammelander
+  968. $64,752 ellisk1
+  969. $64,754 Knecker
+  970. $64,770 chupa71
+  971. $64,782 West13thNation
+  972. $64,787 まちかど
+  973. $64,789 hundidit
+  974. $64,791 Semp3rfi
+  975. $64,808 pixelpug0930
+  976. $64,851 Seymoore
+  977. $64,855 Space Tank
+  978. $64,871 원군
+  979. $64,887 DTUSC
+  980. $64,895 AqlCaraMsm
+  981. $64,902 VeggieBurrito
+  982. $64,902 alexmoreno524
+  983. $64,909 Unholy
+  984. $64,911 3MidgetsInATrenchcoat
+  985. $64,935 wickes
+  986. $64,951 Wada Bueno
+  987. $64,982 2irtys2
+  988. $64,984 DragonTamer98
+  989. $64,990 Way_of_Cows
+  990. $65,023 D.K.
+  991. $65,027 LFB
+  992. $65,032 Dansta2106
+  993. $65,045 purple
+  994. $65,064 gotem_good
+  995. $65,113 Andrew
+  996. $65,139 alexe500
+  997. $65,144 Lll Xx_notYevvi._xX llL
+  998. $65,157 nochnoj
+  999. $65,158 근육런
+ 1000. $65,215 randomalyzer
