@@ -1,6 +1,6 @@
 Poly Bridge 2 - 5-08C "Bus Routes" any% leaderboard (* = breaks)
-Updated 2023-05-30T00:36:18.243Z
-949/1216 unique ranks shown
+Updated 2023-05-31T00:40:14.017Z
+951/1220 unique ranks shown
 
    *1. $8,480   ~ Smithy ~
    *2. $8,480   Lagiiiie
@@ -871,83 +871,85 @@ Updated 2023-05-30T00:36:18.243Z
   867. $71,976  heogeon5
   868. $71,976  Imthe8ball
   869. $71,978  精神小伙
-  870. $71,979  jakers0011
-  871. $71,979  Kertelik (✿◠‿◠)
-  872. $71,979  Aucious
-  873. $71,980  tbc.codrin
-  874. $71,980  Evilen Froggen
-  875. $71,982  ferd
-  876. $71,982  rosenrotxiii
-  877. $71,984  Atomguy
-  878. $71,984  TugBoatGames
-  879. $71,984  Static.
-  880. $71,985  Day
-  881. $71,985  Zaqwedi
-  882. $71,986  HenryDan2018
-  883. $71,986  elisholst
-  884. $71,987  The Worst
-  885. $71,989  Hyppis
-  886. $71,990  you like my bullet [CH]
-  887. $71,990  matteo.dolcin
-  888. $71,991  Sloane
-  889. $71,992  791837327
-  890. $71,992  Lerin
- *891. $71,993  SilverShadow
-  892. $71,995  I Like Ugly Mammals.
-  893. $71,995  PlebMaster69
-  894. $71,995  kevin.
-  895. $71,995  Obsidianic
-  896. $71,997  vkelloku
-  897. $71,997  GolEden
-  898. $71,997  aizenshtadt
-  899. $71,997  kei_1
-  900. $71,998  Mulalu
-  901. $71,998  ragin_asian247
-  902. $71,998  操盘大师奏秃秃
-  903. $71,999  Kastrull
-  904. $71,999  Doggo
-  905. $71,999  Bram2323
-  906. $71,999  Loaded
-  907. $71,999  Bram1999999
-  908. $71,999  Jakesparky
-  909. $71,999  Souths
-  910. $71,999  ahudakone
-  911. $72,000  antioxidanti
-  912. $72,000  Gaotosky10
-  913. $72,000  AwesomeHolden6
-  914. $72,000  jorkrohn
-  915. $72,000  wesleyvh
-  916. $72,000  theinvisiblecarrot
- *917. $74,550  afunguy2121
-  918. $75,876  Get There Plane
-  919. $76,775  Sebarooo
- *920. $76,780  PeculiarKnot
-  921. $76,969  MIIchael
-  922. $77,737  jtfutbol
-  923. $79,028  mi3le4
- *924. $79,247  call me uncle daddy
-  925. $79,421  Adranium
- *926. $79,471  yadielruiz823
-  927. $80,679  DubNubDub
- *928. $81,999  Night_Walker_Z
-  929. $82,354  Waity5
-  930. $82,554  sirchance2002
- *931. $84,269  Gibby
-  932. $84,610  Nynjaspark
- *933. $84,821  Cix
-  934. $86,934  Not a Toaster
-  935. $87,023  andrew
- *936. $88,290  dylanwenger9
-  937. $89,199  antony.interlandi
- *938. $100,932 Existence is Pain
- *939. $102,052 Navet
- *940. $102,571 blossi2408
-  941. $103,307 Salamandre
-  942. $108,390 oiiaa77
- *943. $108,709 gregory.gainey
-  944. $109,972 Fritösenfett Fred
- *945. $110,943 twistedsister86
-  946. $112,899 Dynamic
- *947. $121,733 kerridodds
-  948. $176,832 Associationant
-  949. $226,656 insel-spieler
+  870. $71,978  jamesng323
+  871. $71,979  jakers0011
+  872. $71,979  Kertelik (✿◠‿◠)
+  873. $71,979  Aucious
+  874. $71,980  tbc.codrin
+  875. $71,980  Evilen Froggen
+  876. $71,982  ferd
+  877. $71,982  rosenrotxiii
+  878. $71,984  Atomguy
+  879. $71,984  TugBoatGames
+  880. $71,984  Static.
+  881. $71,984  A Wild Mongoose
+  882. $71,985  Day
+  883. $71,985  Zaqwedi
+  884. $71,986  HenryDan2018
+  885. $71,986  elisholst
+  886. $71,987  The Worst
+  887. $71,989  Hyppis
+  888. $71,990  you like my bullet [CH]
+  889. $71,990  matteo.dolcin
+  890. $71,991  Sloane
+  891. $71,992  791837327
+  892. $71,992  Lerin
+ *893. $71,993  SilverShadow
+  894. $71,995  I Like Ugly Mammals.
+  895. $71,995  PlebMaster69
+  896. $71,995  kevin.
+  897. $71,995  Obsidianic
+  898. $71,997  vkelloku
+  899. $71,997  GolEden
+  900. $71,997  aizenshtadt
+  901. $71,997  kei_1
+  902. $71,998  Mulalu
+  903. $71,998  ragin_asian247
+  904. $71,998  操盘大师奏秃秃
+  905. $71,999  Kastrull
+  906. $71,999  Doggo
+  907. $71,999  Bram2323
+  908. $71,999  Loaded
+  909. $71,999  Bram1999999
+  910. $71,999  Jakesparky
+  911. $71,999  Souths
+  912. $71,999  ahudakone
+  913. $72,000  antioxidanti
+  914. $72,000  Gaotosky10
+  915. $72,000  AwesomeHolden6
+  916. $72,000  jorkrohn
+  917. $72,000  wesleyvh
+  918. $72,000  theinvisiblecarrot
+ *919. $74,550  afunguy2121
+  920. $75,876  Get There Plane
+  921. $76,775  Sebarooo
+ *922. $76,780  PeculiarKnot
+  923. $76,969  MIIchael
+  924. $77,737  jtfutbol
+  925. $79,028  mi3le4
+ *926. $79,247  call me uncle daddy
+  927. $79,421  Adranium
+ *928. $79,471  yadielruiz823
+  929. $80,679  DubNubDub
+ *930. $81,999  Night_Walker_Z
+  931. $82,354  Waity5
+  932. $82,554  sirchance2002
+ *933. $84,269  Gibby
+  934. $84,610  Nynjaspark
+ *935. $84,821  Cix
+  936. $86,934  Not a Toaster
+  937. $87,023  andrew
+ *938. $88,290  dylanwenger9
+  939. $89,199  antony.interlandi
+ *940. $100,932 Existence is Pain
+ *941. $102,052 Navet
+ *942. $102,571 blossi2408
+  943. $103,307 Salamandre
+  944. $108,390 oiiaa77
+ *945. $108,709 gregory.gainey
+  946. $109,972 Fritösenfett Fred
+ *947. $110,943 twistedsister86
+  948. $112,899 Dynamic
+ *949. $121,733 kerridodds
+  950. $176,832 Associationant
+  951. $226,656 insel-spieler
