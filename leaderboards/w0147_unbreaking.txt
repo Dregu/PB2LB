@@ -1,20 +1,20 @@
 Poly Bridge 2 - W0147 "Weekly Challenge #147" unbreaking leaderboard
-Updated 2023-06-23T00:40:44.484Z
-85/85 unique ranks shown
+Updated 2023-06-24T00:42:10.215Z
+97/97 unique ranks shown
 
     1. $35,524  Quillslash
     2. $38,834  cliff007
-    3. $39,826  dayuanxian
-    4. $40,000  yc云城
-    5. $40,488  whale
-    6. $41,500  nikola.radivoj1
-    7. $43,870  timothypurves
-    8. $44,495  kids2
-    9. $45,314  hoizklezl
-   10. $47,168  MiddleOrder321
-   11. $47,552  axel.c.sch
-   12. $47,730  Thomas The Dog
-   13. $47,777  BS
+    3. $39,599  Thomas The Dog
+    4. $39,826  dayuanxian
+    5. $39,898  kids2
+    6. $40,000  yc云城
+    7. $40,488  whale
+    8. $41,500  nikola.radivoj1
+    9. $43,870  timothypurves
+   10. $45,314  hoizklezl
+   11. $47,168  MiddleOrder321
+   12. $47,471  BS
+   13. $47,552  axel.c.sch
    14. $49,513  antony.interlandi
    15. $50,806  BeiTAlaska
    16. $53,071  buksan4
@@ -28,62 +28,74 @@ Updated 2023-06-23T00:40:44.484Z
    24. $63,879  R
    25. $64,294  meow
    26. $64,321  takayoshi_0111
-   27. $65,844  3281914590
-   28. $65,876  niff-Tea_UK
-   29. $68,221  Niall
-   30. $68,222  Bubi
-   31. $69,435  kferber2002
-   32. $69,696  depoorter_kevin
-   33. $73,118  Zurli
-   34. $74,091  wcopeland25
-   35. $75,791  maash
-   36. $76,604  1620bx0301
-   37. $77,038  Wholesome Bober | Road2DMG
-   38. $77,260  byron.tory
-   39. $78,671  ShandownS
-   40. $78,818  Natebaquero
-   41. $80,892  Kyubey /人◕ ‿‿ ◕人\
-   42. $81,181  tanyidoor
-   43. $81,530  OeTTINGER
-   44. $82,065  plush
-   45. $82,818  limit2000.yo
-   46. $82,889  leuo
-   47. $83,238  Thoomor
-   48. $89,338  okgogo
-   49. $89,886  MiKubaMa
-   50. $90,990  F0T0F0T
-   51. $92,243  jojodong1983
-   52. $94,143  Lerin
-   53. $94,251  Fusion64
-   54. $94,329  petroz19
-   55. $94,723  manguedro
-   56. $95,116  XDcop
-   57. $96,088  𝕿𝖔𝖒𝖊𝖈𝖆𝕶
-   58. $96,197  Fireel
-   59. $96,461  顶真测你码
-   60. $96,727  MageGeraint
-   61. $96,891  nunr8j2l
-   62. $96,953  somefakegamer
-   63. $97,186  m3rl1n4
-   64. $97,378  eli.p
-   65. $97,516  bradleepalmer108
-   66. $97,884  damy020
-   67. $98,701  Uncommon Rat
-   68. $98,766  RNG_lil_liam
-   69. $99,249  dolfyn.t
-   70. $99,441  SimplySmiley
-   71. $99,483  APPLE_0934
-   72. $99,596  Fugimos
-   73. $99,637  jmalferrari
-   74. $99,790  говновоз мего про
-   75. $99,995  lukasantonie
-   76. $102,785 Magissa
-   77. $117,642 S13
-   78. $122,564 SuperMidget_99
-   79. $123,736 $H0CKWAV3 <:><:> thepurge.xyz
-   80. $123,777 Asool
-   81. $126,085 vacolts
-   82. $139,114 jpjang
-   83. $146,914 teomatic
-   84. $163,375 xLunaParkx
-   85. $193,708 oleksobocinski2011
+   27. $64,825  Reaper Slayer
+   28. $65,694  antoHuman
+   29. $65,844  3281914590
+   30. $65,876  niff-Tea_UK
+   31. $68,221  Niall
+   32. $68,222  Bubi
+   33. $69,435  kferber2002
+   34. $69,696  depoorter_kevin
+   35. $73,118  Zurli
+   36. $73,695  matthewpruner
+   37. $74,091  wcopeland25
+   38. $75,791  maash
+   39. $76,604  1620bx0301
+   40. $77,038  Wholesome Bober | Road2DMG
+   41. $77,260  byron.tory
+   42. $78,671  ShandownS
+   43. $78,818  Natebaquero
+   44. $80,892  Kyubey /人◕ ‿‿ ◕人\
+   45. $81,181  tanyidoor
+   46. $81,530  OeTTINGER
+   47. $82,065  plush
+   48. $82,818  limit2000.yo
+   49. $82,889  leuo
+   50. $83,238  Thoomor
+   51. $86,647  Mini Necro
+   52. $89,338  okgogo
+   53. $89,632  pat_1998
+   54. $89,886  MiKubaMa
+   55. $90,990  F0T0F0T
+   56. $92,243  jojodong1983
+   57. $94,143  Lerin
+   58. $94,251  Fusion64
+   59. $94,329  petroz19
+   60. $94,723  manguedro
+   61. $95,116  XDcop
+   62. $96,088  𝕿𝖔𝖒𝖊𝖈𝖆𝕶
+   63. $96,197  Fireel
+   64. $96,244  Markrosoft Word
+   65. $96,461  顶真测你码
+   66. $96,727  MageGeraint
+   67. $96,891  nunr8j2l
+   68. $96,953  somefakegamer
+   69. $97,186  m3rl1n4
+   70. $97,378  eli.p
+   71. $97,516  bradleepalmer108
+   72. $97,884  damy020
+   73. $98,074  haojunbo19881104
+   74. $98,701  Uncommon Rat
+   75. $98,766  RNG_lil_liam
+   76. $99,249  dolfyn.t
+   77. $99,289  Powerbanane23
+   78. $99,441  SimplySmiley
+   79. $99,483  APPLE_0934
+   80. $99,596  Fugimos
+   81. $99,637  jmalferrari
+   82. $99,790  говновоз мего про
+   83. $99,922  kiki
+   84. $99,995  lukasantonie
+   85. $102,785 Magissa
+   86. $117,642 S13
+   87. $120,999 罅隙
+   88. $122,564 SuperMidget_99
+   89. $123,736 $H0CKWAV3 <:><:> thepurge.xyz
+   90. $123,777 Asool
+   91. $126,085 vacolts
+   92. $139,114 jpjang
+   93. $146,914 teomatic
+   94. $163,375 xLunaParkx
+   95. $186,711 n.tramsim2022
+   96. $193,708 oleksobocinski2011
+   97. $194,034 hans consume un ekmek
