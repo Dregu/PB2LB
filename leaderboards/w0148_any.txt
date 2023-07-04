@@ -1,6 +1,6 @@
 Poly Bridge 2 - W0148 "Weekly Challenge #148" any% leaderboard (* = breaks)
-Updated 2023-07-02T00:46:11.546Z
-111/128 unique ranks shown
+Updated 2023-07-04T00:43:16.650Z
+125/146 unique ranks shown
 
     1. $56,483  kids2
     2. $58,030  R
@@ -14,102 +14,116 @@ Updated 2023-07-02T00:46:11.546Z
    10. $74,618  byron.tory
    11. $76,185  MiddleOrder321
    12. $76,436  S13
-   13. $79,730  amandas-bate
-   14. $80,299  dayuanxian
-   15. $83,205  maxblue456
-  *16. $84,046  awesome8679
-  *17. $85,158  tingwei_li0830
-   18. $86,166  Wholesome Bober | Road2DMG
-   19. $87,147  BruhBeast13
-   20. $87,500  BS
-   21. $89,416  Bubi
-   22. $90,710  leff.yashin2015
-   23. $91,506  Thoomor
-   24. $93,169  drwatsonlosen
-   25. $93,542  Abitos
-   26. $93,896  Batata0608
-   27. $94,721  not exist
-   28. $95,510  Xerterus
-   29. $97,279  Melody💜
-   30. $99,775  jojodong1983
-   31. $100,538 CptSilver
-   32. $104,746 SoulWager
-   33. $105,062 Tensa
-   34. $105,384 julius.dehnel
-   35. $106,056 白泽
-   36. $107,051 sqrt123
-   37. $107,631 ben.kodde
-  *38. $108,835 Richie
-   39. $109,371 wozniak
-   40. $109,527 smartizM
-   41. $112,403 Plsdontkillme16
-   42. $112,853 Jeevus
-   43. $112,996 Barppy
-   44. $113,362 RisudayoTV
-   45. $115,758 asdgantz
-   46. $115,897 Overly Burnt Toast -  OBT
-   47. $116,040 WhatIfIDie
-   48. $118,637 killofki
-   49. $118,918 [KR]건희1025
-   50. $119,509 buksan4
-   51. $119,683 KOKOSEY24
-   52. $119,881 timothypurves
-   53. $121,207 ZimollPro
-   54. $121,475 takayoshi_0111
-  *55. $122,001 Powerbanane23
-   56. $122,495 Yegqh_80626
-   57. $123,070 BeiTAlaska
-   58. $123,210 leuo
-   59. $123,227 edwardtedward
-  *60. $123,353 bAb*Y ︻芫=一一
-   61. $123,602 charlietbork
-   62. $123,788 Lerin
-   63. $123,804 ThePiterroles
-   64. $124,095 Fusion64
-   65. $124,167 ronihenrik
-   66. $124,209 XDcop
-  *67. $124,448 plush
-   68. $124,451 nunr8j2l
-   69. $124,491 WengH
-   70. $124,493 damy020
-  *71. $124,603 jubster7.0
-   72. $124,643 SuchADude
-   73. $124,903 marcdurieu87
-   74. $124,910 vaprol
-   75. $124,910 Grzybek_74
-   76. $124,963 rucklet
-   77. $124,963 Henry Elvis
-   78. $124,976 Reuvan16
-  *79. $125,926 hokikent12
-   80. $131,110 nils
-   81. $131,303 FenrisOokami
-  *82. $132,104 Bivrox_
-   83. $137,053 loganwmnn14
-   84. $151,625 SgtBluntman
-  *85. $153,284 528178575
-   86. $154,121 Zurli
-   87. $156,366 flammalexander
-   88. $159,446 Dammel
-  *89. $167,931 1620bx0301
-  *90. $168,749 nicolasmaximo2008
-   91. $169,247 johannes.greis
-  *92. $175,535 Lovingsniper
-   93. $176,045 Bowertowner
-   94. $176,850 gustavo_rank
-   95. $178,545 mewsito
-   96. $178,845 jamesng323
-   97. $179,495 clapped by .
-   98. $186,649 grayson.woolf
-   99. $191,559 dixiemansouth
-  100. $191,585 Valnare
- *101. $193,394 xLunaParkx
- *102. $193,621 45T Abelouken
-  103. $201,157 3256201730
- *104. $202,667 Ricky
- *105. $210,837 Neverknow247
- *106. $217,287 Gep
- *107. $223,727 emioceane
- *108. $243,617 marco617chan
-  109. $245,046 bluefox
-  110. $249,427 Fillemuont
- *111. $454,010 StryckNyne
+   13. $79,462  TheBestProShot
+   14. $79,730  amandas-bate
+   15. $80,299  dayuanxian
+   16. $83,205  maxblue456
+  *17. $84,046  awesome8679
+   18. $84,430  Hyperslice
+  *19. $85,158  tingwei_li0830
+   20. $86,166  Wholesome Bober | Road2DMG
+   21. $87,147  BruhBeast13
+   22. $87,500  BS
+   23. $89,416  Bubi
+   24. $90,710  leff.yashin2015
+   25. $91,506  Thoomor
+   26. $93,169  drwatsonlosen
+   27. $93,542  Abitos
+   28. $93,896  Batata0608
+   29. $94,721  not exist
+   30. $95,510  Xerterus
+   31. $96,846  MgORhCn
+   32. $97,279  Melody💜
+   33. $99,775  jojodong1983
+   34. $100,538 CptSilver
+   35. $101,328 if($result -> num_rows >0){}
+   36. $104,746 SoulWager
+   37. $105,062 Tensa
+   38. $105,384 julius.dehnel
+   39. $106,056 白泽
+   40. $107,051 sqrt123
+   41. $107,187 whale
+   42. $107,631 ben.kodde
+  *43. $108,835 Richie
+   44. $108,897 Peeze
+   45. $109,371 wozniak
+   46. $109,527 smartizM
+   47. $112,060 T-Rex_Block
+   48. $112,403 Plsdontkillme16
+   49. $112,853 Jeevus
+   50. $112,996 Barppy
+   51. $113,362 RisudayoTV
+   52. $115,758 asdgantz
+   53. $115,897 Overly Burnt Toast -  OBT
+   54. $116,040 WhatIfIDie
+   55. $117,283 itamarmendelevich
+   56. $118,637 killofki
+   57. $118,918 [KR]건희1025
+   58. $119,509 buksan4
+   59. $119,683 KOKOSEY24
+   60. $119,881 timothypurves
+   61. $121,207 ZimollPro
+   62. $121,342 hokeypokeypanda
+   63. $121,475 takayoshi_0111
+  *64. $122,001 Powerbanane23
+   65. $122,495 Yegqh_80626
+   66. $123,070 BeiTAlaska
+   67. $123,210 leuo
+   68. $123,227 edwardtedward
+  *69. $123,353 bAb*Y ︻芫=一一
+   70. $123,602 charlietbork
+   71. $123,788 Lerin
+   72. $123,804 ThePiterroles
+   73. $124,095 Fusion64
+   74. $124,167 ronihenrik
+   75. $124,209 XDcop
+  *76. $124,448 plush
+   77. $124,451 nunr8j2l
+   78. $124,491 WengH
+   79. $124,493 damy020
+  *80. $124,603 jubster7.0
+   81. $124,617 Blue_paproninja
+   82. $124,643 SuchADude
+   83. $124,903 marcdurieu87
+   84. $124,910 vaprol
+   85. $124,910 Grzybek_74
+   86. $124,963 rucklet
+   87. $124,963 Henry Elvis
+   88. $124,976 Reuvan16
+  *89. $125,926 hokikent12
+   90. $131,110 nils
+   91. $131,303 FenrisOokami
+  *92. $132,104 Bivrox_
+   93. $137,053 loganwmnn14
+  *94. $146,760 Role_Playing_Lotus
+   95. $146,909 lhivernant
+   96. $151,625 SgtBluntman
+  *97. $153,284 528178575
+   98. $154,121 Zurli
+   99. $156,366 flammalexander
+  100. $159,446 Dammel
+  101. $162,901 TheTilito22
+ *102. $167,931 1620bx0301
+ *103. $168,749 nicolasmaximo2008
+  104. $169,247 johannes.greis
+ *105. $175,535 Lovingsniper
+  106. $176,045 Bowertowner
+  107. $176,850 gustavo_rank
+  108. $178,545 mewsito
+  109. $178,845 jamesng323
+  110. $179,495 clapped by .
+  111. $186,649 grayson.woolf
+  112. $191,559 dixiemansouth
+  113. $191,585 Valnare
+ *114. $193,394 xLunaParkx
+ *115. $193,621 45T Abelouken
+  116. $201,157 3256201730
+ *117. $202,667 Ricky
+ *118. $209,579 Hitchhock
+ *119. $210,837 Neverknow247
+ *120. $217,287 Gep
+ *121. $223,727 emioceane
+ *122. $243,617 marco617chan
+  123. $245,046 bluefox
+  124. $249,427 Fillemuont
+ *125. $454,010 StryckNyne
