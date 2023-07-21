@@ -1,15 +1,15 @@
 Poly Bridge 2 - W0151 "Weekly Challenge #151" unbreaking leaderboard
-Updated 2023-07-20T00:37:52.260Z
-81/81 unique ranks shown
+Updated 2023-07-21T00:37:06.086Z
+95/95 unique ranks shown
 
     1. $45,994  kids2
     2. $47,680  Thomas The Dog
-    3. $62,500  sebastian.d.higgins
-    4. $63,754  MiddleOrder321
+    3. $61,112  MiddleOrder321
+    4. $62,500  sebastian.d.higgins
     5. $64,954  antony.interlandi
     6. $65,254  mbutton15
-    7. $69,420  Powerbanane23
-    8. $70,727  buksan4
+    7. $66,892  buksan4
+    8. $69,420  Powerbanane23
     9. $71,578  nshulstad
    10. $71,899  Reuvan16
    11. $72,278  Jeevus
@@ -24,62 +24,76 @@ Updated 2023-07-20T00:37:52.260Z
    20. $80,726  dayuanxian
    21. $81,484  hjerppe
    22. $85,960  leiberich
-   23. $90,292  Stechus Kaktus
-   24. $91,869  xuxu
-   25. $94,439  timothypurves
-   26. $95,104  xLunaParkx
-   27. $96,979  lebbis10
-   28. $98,040  Bubi
-   29. $100,646 ddhliu89
-   30. $101,364 awesome8679
-   31. $103,390 magaly_mondaca
-   32. $104,783 Kokoladebboy
-   33. $109,104 Daniel Protec 9
-   34. $109,905 stijn.voermans
-   35. $110,601 wcopeland25
-   36. $110,933 Nerve.yt
-   37. $112,214 joonafritz
-   38. $113,484 wildsurf2003
-   39. $114,947 leuo
-   40. $115,455 alyssa.tory
-   41. $115,659 Tomox
-   42. $117,684 Asool
-   43. $118,744 Diebuluo
-   44. $121,432 felvunator
-   45. $121,548 esha wg
-   46. $121,736 crash1340
-   47. $121,817 BiggieHunt
-   48. $121,845 ewkanr2
-   49. $123,155 Overly Burnt Toast -  OBT
-   50. $123,294 takayoshi_0111
-   51. $123,367 fudunk69
-   52. $123,491 jjj
-   53. $123,507 Quantomonkey
-   54. $123,565 whale
-   55. $123,586 Lerin
-   56. $123,825 ryosuke6131
-   57. $124,221 alaincorbe55
-   58. $124,414 bayo7849
-   59. $124,490 Jumal Sappe
-   60. $124,527 Blue_paproninja
-   61. $124,793 zemlya3939
-   62. $124,837 frostburn
-   63. $124,944 kferber2002
-   64. $124,992 Granno
-   65. $130,236 blueblondebear
-   66. $146,729 killofki
-   67. $149,710 realcyanboy
-   68. $157,400 flexorwon
-   69. $158,416 GMendu
-   70. $160,886 warum金枪劣人
-   71. $165,307 3256201730
-   72. $167,676 nori3qtok
-   73. $176,890 JRgammer
-   74. $191,458 charlton.mdc
-   75. $198,091 American Boot
-   76. $215,589 ivanhoe.hatte
-   77. $238,928 j6168
-   78. $244,303 dubkovec
-   79. $245,888 RubenRijkens00
-   80. $248,615 joellekernen00
-   81. $249,506 huffton
+   23. $86,081  timothypurves
+   24. $87,320  Demvmed
+   25. $90,292  Stechus Kaktus
+   26. $91,869  xuxu
+   27. $93,232  Garnishgod
+   28. $95,104  xLunaParkx
+   29. $95,572  Nerve.yt
+   30. $96,979  lebbis10
+   31. $97,878  sodaprince79
+   32. $98,040  Bubi
+   33. $99,210  Danimal
+   34. $100,646 ddhliu89
+   35. $101,364 awesome8679
+   36. $103,390 magaly_mondaca
+   37. $104,783 Kokoladebboy
+   38. $109,104 Daniel Protec 9
+   39. $109,239 cristobaalandre
+   40. $109,891 Fusion64
+   41. $109,905 stijn.voermans
+   42. $110,601 wcopeland25
+   43. $112,214 joonafritz
+   44. $113,484 wildsurf2003
+   45. $114,947 leuo
+   46. $115,065 Natebaquero
+   47. $115,455 alyssa.tory
+   48. $115,659 Tomox
+   49. $117,209 hugominecraft1109
+   50. $117,684 Asool
+   51. $118,744 Diebuluo
+   52. $118,979 Fabifiamma
+   53. $119,046 [KR]건희1025
+   54. $121,432 felvunator
+   55. $121,548 esha wg
+   56. $121,736 crash1340
+   57. $121,817 BiggieHunt
+   58. $121,845 ewkanr2
+   59. $123,155 Overly Burnt Toast -  OBT
+   60. $123,294 takayoshi_0111
+   61. $123,367 fudunk69
+   62. $123,491 jjj
+   63. $123,507 Quantomonkey
+   64. $123,565 whale
+   65. $123,586 Lerin
+   66. $123,825 ryosuke6131
+   67. $124,221 alaincorbe55
+   68. $124,414 bayo7849
+   69. $124,490 Jumal Sappe
+   70. $124,527 Blue_paproninja
+   71. $124,793 zemlya3939
+   72. $124,837 frostburn
+   73. $124,944 kferber2002
+   74. $124,992 Granno
+   75. $124,999 science1126
+   76. $130,236 blueblondebear
+   77. $146,729 killofki
+   78. $148,008 GUS_BOY44
+   79. $149,710 realcyanboy
+   80. $152,618 Air8730
+   81. $157,400 flexorwon
+   82. $158,416 GMendu
+   83. $160,886 warum金枪劣人
+   84. $165,307 3256201730
+   85. $167,676 nori3qtok
+   86. $175,041 胸不平何以平天下
+   87. $176,890 JRgammer
+   88. $191,458 charlton.mdc
+   89. $198,091 American Boot
+   90. $215,589 ivanhoe.hatte
+   91. $238,928 j6168
+   92. $244,303 dubkovec
+   93. $245,888 RubenRijkens00
+   94. $248,615 joellekernen00
+   95. $249,506 huffton
