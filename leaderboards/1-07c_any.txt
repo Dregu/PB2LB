@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-07C "Taxi Task" any% leaderboard (* = breaks)
-Updated 2023-07-23T00:39:57.389Z
-1000/25200 unique ranks shown
+Updated 2023-07-25T00:39:31.545Z
+1000/25238 unique ranks shown
 
    *1. $1,424 Lagiiiie
    *2. $1,545 somefakegamer
@@ -9,12 +9,12 @@ Updated 2023-07-23T00:39:57.389Z
    *5. $2,590 Fathom
    *6. $2,653 CursorCoercer
    *7. $2,819 geroniberry2
-   *8. $2,882 からず
-   *9. $2,882 notdocq
+   *8. $2,882 notdocq
+   *9. $2,882 からず
   *10. $3,154 Trygeve
   *11. $3,281 Shadow
-  *12. $3,281 Crimson
-  *13. $3,281 MOD
+  *12. $3,281 MOD
+  *13. $3,281 Crimson
   *14. $3,474 ScamMeister
   *15. $3,728 minecat
   *16. $3,744 Bibbb
@@ -204,8 +204,8 @@ Updated 2023-07-23T00:39:57.389Z
   200. $5,883 cataclysm
   201. $5,883 dan
   202. $5,883 Lampy
- *203. $5,883 Sofie
- *204. $5,883 Frits
+ *203. $5,883 Frits
+ *204. $5,883 Sofie
   205. $5,884 DildoBike
   206. $5,884 NetEng
   207. $5,884 Papi Gelapi
@@ -940,65 +940,65 @@ Updated 2023-07-23T00:39:57.389Z
   936. $8,223 No problem.
   937. $8,223 tinypenguin000
   938. $8,223 Fraiker
- *939. $8,223 woooowamazingplayerplayingshit
-  940. $8,224 N1234
-  941. $8,225 Geojams
-  942. $8,225 ZachJam
-  943. $8,226 KingMario
-  944. $8,226 nmcconn3
-  945. $8,226 Rasmus L
- *946. $8,226 Andoot
-  947. $8,227 Bot#21
-  948. $8,227 MossyLog
-  949. $8,228 Pigglyjuff
-  950. $8,230 DC
-  951. $8,230 jteckerle
-  952. $8,231 ModedYT
-  953. $8,231 alpoth
-  954. $8,232 Ethire
-  955. $8,232 Nicohero11
-  956. $8,232 Shorty
-  957. $8,232 jurgenherre
-  958. $8,233 Clean Baguette
-  959. $8,233 Afro_Dodo
-  960. $8,234 altrocket115
-  961. $8,234 Shieber
-  962. $8,235 basambora
-  963. $8,235 s_congdon
-  964. $8,236 Lemon Grenadine
-  965. $8,236 urmomyeetdab
-  966. $8,236 oxSar1517
-  967. $8,237 alec.mitchellthomson
-  968. $8,238 Walbyoff
-  969. $8,238 Rela
-  970. $8,238 simonder3te
-  971. $8,238 dwp
-  972. $8,238 Rondo
- *973. $8,238 Corgle
-  974. $8,239 Jarg Salt
-  975. $8,240 sky
-  976. $8,240 Kneecapper
-  977. $8,240 Seven
-  978. $8,241 lukejamesswain
-  979. $8,241 jinhojsk515
-  980. $8,241 Pioryl
-  981. $8,242 hp5
-  982. $8,242 Ondas
-  983. $8,243 Ridge
-  984. $8,243 manghant
-  985. $8,244 Darkwing
-  986. $8,244 garcia4you
-  987. $8,244 AstroSloth
-  988. $8,245 myself757
-  989. $8,245 chrischen94
-  990. $8,245 tmfoo02
-  991. $8,246 MGC
-  992. $8,247 samurekun
-  993. $8,247 Strawman
-  994. $8,247 bighboi
-  995. $8,247 invictus0x0
-  996. $8,248 L94
-  997. $8,248 matheweastman2006
-  998. $8,248 StinkySockz99
-  999. $8,248 questionmark
- 1000. $8,249 moritz.brandtner
+  939. $8,223 jaakkom
+ *940. $8,223 woooowamazingplayerplayingshit
+  941. $8,224 N1234
+  942. $8,225 Geojams
+  943. $8,225 ZachJam
+  944. $8,226 KingMario
+  945. $8,226 nmcconn3
+  946. $8,226 Rasmus L
+ *947. $8,226 Andoot
+  948. $8,227 Bot#21
+  949. $8,227 MossyLog
+  950. $8,228 Pigglyjuff
+  951. $8,230 DC
+  952. $8,230 jteckerle
+  953. $8,231 ModedYT
+  954. $8,231 alpoth
+  955. $8,232 Ethire
+  956. $8,232 Nicohero11
+  957. $8,232 Shorty
+  958. $8,232 jurgenherre
+  959. $8,233 Clean Baguette
+  960. $8,233 Afro_Dodo
+  961. $8,234 altrocket115
+  962. $8,234 Shieber
+  963. $8,235 basambora
+  964. $8,235 s_congdon
+  965. $8,236 Lemon Grenadine
+  966. $8,236 urmomyeetdab
+  967. $8,236 oxSar1517
+  968. $8,237 alec.mitchellthomson
+  969. $8,238 Walbyoff
+  970. $8,238 Rela
+  971. $8,238 simonder3te
+  972. $8,238 dwp
+  973. $8,238 Rondo
+ *974. $8,238 Corgle
+  975. $8,239 Jarg Salt
+  976. $8,240 sky
+  977. $8,240 Kneecapper
+  978. $8,240 Seven
+  979. $8,241 lukejamesswain
+  980. $8,241 jinhojsk515
+  981. $8,241 Pioryl
+  982. $8,242 hp5
+  983. $8,242 Ondas
+  984. $8,243 Ridge
+  985. $8,243 manghant
+  986. $8,244 Darkwing
+  987. $8,244 garcia4you
+  988. $8,244 AstroSloth
+  989. $8,245 myself757
+  990. $8,245 chrischen94
+  991. $8,245 tmfoo02
+  992. $8,246 MGC
+  993. $8,247 samurekun
+  994. $8,247 Strawman
+  995. $8,247 bighboi
+  996. $8,247 invictus0x0
+  997. $8,248 L94
+  998. $8,248 matheweastman2006
+  999. $8,248 StinkySockz99
+ 1000. $8,248 questionmark
