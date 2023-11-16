@@ -1,80 +1,98 @@
 Poly Bridge 2 - W0168 "Weekly Challenge #168" unbreaking leaderboard
-Updated 2023-11-15T00:32:04.847Z
-76/76 unique ranks shown
+Updated 2023-11-16T00:34:59.273Z
+94/94 unique ranks shown
 
     1. $2,559  Zen
     2. $9,222  Thomas The Dog
     3. $10,469 nils
     4. $13,487 Klaus Jiang
-    5. $15,929 Novato
-    6. $15,969 Thoomor
-    7. $17,222 alaincorbe55
-    8. $17,293 CrowK
-    9. $17,450 chiwon97
-   10. $17,599 BenjaminCat
-   11. $17,697 RoDoX
-   12. $18,401 Trickz
-   13. $18,424 roycyn_01
-   14. $18,957 awesome8679
-   15. $19,425 Ilquiler
-   16. $19,684 bar3ann
-   17. $19,897 HowieFTW
-   18. $20,115 meow
-   19. $20,383 AL_0O
-   20. $20,410 redminecrafter101
-   21. $21,129 Simon08
-   22. $21,971 Bubi
-   23. $21,991 Jeevus
-   24. $22,128 Grumpy Wisecrack
-   25. $22,425 jannbisch
-   26. $22,799 bd8799
-   27. $23,959 독룡
-   28. $24,181 WizardChunk
-   29. $24,344 canevarijp
-   30. $24,660 s.j.kenbeek
-   31. $25,324 Z-zh
-   32. $25,434 carol_mulhall
-   33. $25,983 egzoteka
-   34. $26,227 mikeytickey
-   35. $26,243 niff-Tea_UK
-   36. $26,390 Fimausa
-   37. $29,012 pit der zocker
-   38. $29,300 凌青辨
-   39. $29,388 Markrosoft Word
-   40. $29,849 Solemont25
-   41. $29,896 sjaebong
-   42. $29,908 valter
-   43. $29,943 Nyxirian
-   44. $31,197 Tom
-   45. $31,636 Big boi magie
-   46. $31,888 Ripper_Apprentice
-   47. $31,948 3256201730
-   48. $33,182 chopper1114sora1208
-   49. $33,515 georgepat59
-   50. $33,618 maybeapizzatrophy
-   51. $33,778 хомяк болашников
-   52. $35,100 leuo
-   53. $35,294 [KR]건희1025
-   54. $35,592 鹿目原
-   55. $36,120 niukecat
-   56. $36,689 gertk64
-   57. $36,831 K-DAWG
-   58. $37,199 kaspervanderven
-   59. $37,608 Skuti
-   60. $37,850 鹹蝦燦「調位好唔好」
-   61. $37,915 flow00a
-   62. $38,054 SentireNecesse
-   63. $38,250 david.franken
-   64. $38,371 Holy Fish
-   65. $39,104 ErmActually
-   66. $39,370 tjmurray2008
-   67. $39,479 mewsito
-   68. $39,547 sinding3103
-   69. $39,710 TedTheKing
-   70. $39,947 alinarfucha
-   71. $45,153 matthewnjohansen
-   72. $47,223 lexadorogov
-   73. $52,076 175279614
-   74. $52,783 killofki
-   75. $78,754 cartoonmc
-   76. $78,928 ulrich.vollmer
+    5. $14,815 honky
+    6. $15,929 Novato
+    7. $15,969 Thoomor
+    8. $17,006 Rémi Doré
+    9. $17,222 alaincorbe55
+   10. $17,286 Luisjnc
+   11. $17,293 CrowK
+   12. $17,450 chiwon97
+   13. $17,599 BenjaminCat
+   14. $17,697 RoDoX
+   15. $18,401 Trickz
+   16. $18,424 roycyn_01
+   17. $18,957 awesome8679
+   18. $19,110 RaFiKi
+   19. $19,425 Ilquiler
+   20. $19,684 bar3ann
+   21. $19,897 HowieFTW
+   22. $20,115 meow
+   23. $20,383 AL_0O
+   24. $20,410 redminecrafter101
+   25. $21,129 Simon08
+   26. $21,836 josiah738
+   27. $21,971 Bubi
+   28. $21,991 Jeevus
+   29. $22,128 Grumpy Wisecrack
+   30. $22,425 jannbisch
+   31. $22,799 bd8799
+   32. $23,959 독룡
+   33. $24,181 WizardChunk
+   34. $24,344 canevarijp
+   35. $24,660 s.j.kenbeek
+   36. $24,697 niukecat
+   37. $24,838 connorkylebingham
+   38. $25,005 fencedog75
+   39. $25,324 Z-zh
+   40. $25,434 carol_mulhall
+   41. $25,983 egzoteka
+   42. $26,227 mikeytickey
+   43. $26,243 niff-Tea_UK
+   44. $26,390 Fimausa
+   45. $26,596 marterking
+   46. $27,900 jakubjo123
+   47. $28,809 Stormdom
+   48. $29,012 pit der zocker
+   49. $29,090 cold milk
+   50. $29,291 antonizyg5
+   51. $29,300 凌青辨
+   52. $29,388 Markrosoft Word
+   53. $29,849 Solemont25
+   54. $29,896 sjaebong
+   55. $29,908 valter
+   56. $29,943 Nyxirian
+   57. $30,057 鹹蝦燦「調位好唔好」
+   58. $31,197 Tom
+   59. $31,636 Big boi magie
+   60. $31,888 Ripper_Apprentice
+   61. $31,948 3256201730
+   62. $32,306 chinazzi
+   63. $33,182 chopper1114sora1208
+   64. $33,515 georgepat59
+   65. $33,618 maybeapizzatrophy
+   66. $33,778 хомяк болашников
+   67. $34,007 Quexx_
+   68. $35,100 leuo
+   69. $35,294 [KR]건희1025
+   70. $35,592 鹿目原
+   71. $36,689 gertk64
+   72. $36,831 K-DAWG
+   73. $37,199 kaspervanderven
+   74. $37,331 Arthurdent99
+   75. $37,608 Skuti
+   76. $37,688 Obsidian_Seal
+   77. $37,915 flow00a
+   78. $38,054 SentireNecesse
+   79. $38,250 david.franken
+   80. $38,371 Holy Fish
+   81. $39,104 ErmActually
+   82. $39,360 Solar_Flare_Voyager
+   83. $39,370 tjmurray2008
+   84. $39,479 mewsito
+   85. $39,547 sinding3103
+   86. $39,710 TedTheKing
+   87. $39,947 alinarfucha
+   88. $39,955 z12111715
+   89. $45,153 matthewnjohansen
+   90. $47,223 lexadorogov
+   91. $52,076 175279614
+   92. $52,783 killofki
+   93. $78,754 cartoonmc
+   94. $78,928 ulrich.vollmer
