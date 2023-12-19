@@ -1,6 +1,6 @@
 Poly Bridge 2 - W0172 "Weekly Challenge #172" any% leaderboard (* = breaks)
-Updated 2023-12-17T00:38:11.312Z
-89/116 unique ranks shown
+Updated 2023-12-19T00:32:59.344Z
+101/134 unique ranks shown
 
    *1. $1,172   Lagiiiie
    *2. $1,287   akkun_ouo
@@ -9,15 +9,15 @@ Updated 2023-12-17T00:38:11.312Z
    *5. $2,400   ♂同竟是我自己
     6. $2,936   TrashBag
    *7. $3,632   91453128aa
-    8. $5,444   BenjaminCat
-    9. $5,923   honky
-   10. $6,601   crash90
-   11. $6,774   ChromaKey
-   12. $6,790   Blåhaj
-   13. $7,138   Rémi Doré
-   14. $7,313   kaemmerpeter18
-   15. $8,270   alaincorbe55
-  *16. $8,984   Epeso
+    8. $4,986   Epeso
+    9. $5,444   BenjaminCat
+   10. $5,923   honky
+   11. $6,601   crash90
+   12. $6,774   ChromaKey
+   13. $6,790   Blåhaj
+   14. $7,138   Rémi Doré
+   15. $7,313   kaemmerpeter18
+   16. $8,270   alaincorbe55
    17. $9,259   Solemont25
   *18. $10,142  wenchuang5202022
    19. $10,309  RoDoX
@@ -30,64 +30,76 @@ Updated 2023-12-17T00:38:11.312Z
   *26. $16,162  flexorwon
    27. $17,123  Dizzyjjshoe
    28. $17,606  nils
-  *29. $18,695  Z0m13butl3r
-   30. $18,970  Kili
-   31. $19,017  byeongyeolu849
+   29. $18,362  byeongyeolu849
+  *30. $18,695  Z0m13butl3r
+   31. $18,970  Kili
    32. $19,697  CrowK
    33. $19,737  jon.wolf
   *34. $20,598  potatoninja32
   *35. $21,082  LCucai
   *36. $21,536  awesome8679
-  *37. $23,614  litmat500
-   38. $24,422  tracywrig
-  *39. $26,029  chiwon97
-   40. $26,685  AL_0O
-  *41. $26,903  gaonashi239
-  *42. $27,081  派蒙神之嘴
-   43. $27,728  Siameseguns
-  *44. $30,483  I AM KRAX
-   45. $30,506  ryosuke6131
-  *46. $32,096  gr111111
-   47. $34,288  joe_lofty
-  *48. $34,789  lildyno6
-   49. $35,177  crash1340
-  *50. $35,273  Boss_Omelette153
-  *51. $36,087  mysteryshi
-   52. $36,195  j0hn33y
-  *53. $36,336  n.tramsim2022
-  *54. $38,809  drk8ball
-  *55. $40,652  antonizyg5
-  *56. $42,853  wylie5cents
-   57. $43,611  nori3qtok
-   58. $43,973  Sher32
-  *59. $44,039  bendharris
-   60. $44,317  canevarijp
-   61. $46,970  Arthurdent99
-   62. $48,478  Bubi
-  *63. $51,159  KingaZBoeinga
-  *64. $51,582  原始人，起洞！
-   65. $51,690  meow
-   66. $55,724  Trickz
-   67. $57,635  redminecrafter101
-   68. $63,720  mewsito
-  *69. $64,282  Renoro
-  *70. $65,340  Mautschim1
-  *71. $68,037  Zurli
-  *72. $70,568  scrapmechanic56
-   73. $70,688  killofki
-  *74. $72,692  kinkin
-   75. $73,125  sodaprince79
-   76. $76,880  Happydi66
-  *77. $77,351  olaf.verburg
-  *78. $81,106  martintymoszuk
-   79. $81,966  Asool
-   80. $82,288  michaelniklas85
-  *81. $85,113  larry9876
-   82. $89,995  3256201730
-   83. $96,957  Granno
-   84. $97,519  JUNIOR_ZAIASKOSKI
-  *85. $106,371 ToxicGurke1071
-  *86. $108,493 denisa.aguirre
-   87. $109,325 Bobson Dugnutt
-  *88. $131,909 joshua--klootwijk
-   89. $155,838 mrbrianpalmer
+   37. $23,069  rbarryyoung
+  *38. $23,614  litmat500
+   39. $24,422  tracywrig
+  *40. $26,029  chiwon97
+  *41. $26,190  edwardtedward
+   42. $26,685  AL_0O
+  *43. $26,903  gaonashi239
+  *44. $27,081  派蒙神之嘴
+   45. $27,728  Siameseguns
+  *46. $30,483  I AM KRAX
+   47. $30,506  ryosuke6131
+   48. $30,805  SovietUnionRepublic
+  *49. $32,096  gr111111
+   50. $34,288  joe_lofty
+  *51. $34,789  lildyno6
+   52. $35,177  crash1340
+  *53. $35,273  Boss_Omelette153
+  *54. $36,087  mysteryshi
+   55. $36,195  j0hn33y
+  *56. $36,336  n.tramsim2022
+  *57. $38,809  drk8ball
+  *58. $40,652  antonizyg5
+  *59. $42,853  wylie5cents
+   60. $43,611  nori3qtok
+   61. $43,973  Sher32
+  *62. $44,039  bendharris
+   63. $44,317  canevarijp
+   64. $46,970  Arthurdent99
+   65. $48,478  Bubi
+   66. $48,923  denisa.aguirre
+   67. $50,933  Alvin Skywalter
+  *68. $51,159  KingaZBoeinga
+  *69. $51,582  原始人，起洞！
+   70. $51,690  meow
+   71. $55,724  Trickz
+  *72. $56,659  susanlee228
+   73. $57,635  redminecrafter101
+  *74. $59,866  Schlumpfine17
+  *75. $60,995  hirkkak
+   76. $63,720  mewsito
+  *77. $64,282  Renoro
+  *78. $65,340  Mautschim1
+  *79. $67,171  BananaMonke
+  *80. $68,037  Zurli
+  *81. $70,568  scrapmechanic56
+   82. $70,688  killofki
+  *83. $72,692  kinkin
+  *84. $72,926  Mark.Ho
+   85. $73,125  sodaprince79
+  *86. $75,414  Skuti
+   87. $76,880  Happydi66
+  *88. $77,351  olaf.verburg
+  *89. $81,106  martintymoszuk
+   90. $81,966  Asool
+   91. $82,288  michaelniklas85
+  *92. $85,113  larry9876
+   93. $89,995  3256201730
+   94. $91,927  bar3ann
+  *95. $95,793  emoeabc2010
+   96. $96,957  Granno
+   97. $97,519  JUNIOR_ZAIASKOSKI
+  *98. $106,371 ToxicGurke1071
+   99. $109,325 Bobson Dugnutt
+ *100. $131,909 joshua--klootwijk
+  101. $155,838 mrbrianpalmer
