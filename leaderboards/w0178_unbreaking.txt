@@ -1,6 +1,6 @@
 Poly Bridge 2 - W0178 "Weekly Challenge #178" unbreaking leaderboard
-Updated 2024-01-28T00:33:41.948Z
-96/96 unique ranks shown
+Updated 2024-01-30T00:31:12.679Z
+105/105 unique ranks shown
 
     1. $88,888  akkun_ouo
     2. $108,801 Thomas The Dog
@@ -10,8 +10,8 @@ Updated 2024-01-28T00:33:41.948Z
     6. $122,800 MiddleOrder321
     7. $126,383 Bot0871
     8. $127,518 TrashBag
-    9. $130,115 操盘大师奏秃秃
-   10. $130,378 Monlig-滑地上之小稽
+    9. $130,018 Monlig-滑地上之小稽
+   10. $130,115 操盘大师奏秃秃
    11. $132,133 awesome8679
    12. $139,737 ♂同竟是我自己
    13. $140,264 zurchty
@@ -22,79 +22,88 @@ Updated 2024-01-28T00:33:41.948Z
    18. $149,813 nori3qtok
    19. $151,547 小法克了
    20. $154,031 gr111111
-   21. $154,371 raphael.kreutzer
-   22. $159,519 Arthurdent99
-   23. $159,985 Zurli
-   24. $161,433 TaoLing
-   25. $162,376 JustLittleKraTom
-   26. $164,327 Novato
-   27. $165,003 EricCoon
-   28. $167,910 Shishko Gaming
-   29. $169,231 killofki
-   30. $169,998 frogman
-   31. $170,042 Bubi
-   32. $171,802 Thoomor
-   33. $171,928 wvwvww
-   34. $173,665 Lord Šakatula
-   35. $177,306 PandaBear
-   36. $179,472 SRSpencer247
-   37. $180,564 jofrebosch04
-   38. $183,573 3256201730
-   39. $184,296 DayAtNight
-   40. $184,323 valter
-   41. $185,040 kaz
-   42. $185,881 sodaprince79
-   43. $186,015 erben.rekswinkel
-   44. $186,302 EpicBagels
-   45. $187,328 MariusS.F
-   46. $188,347 TheIrid
-   47. $189,195 chuck
-   48. $189,249 roccom3
-   49. $189,553 Burnt Toast
-   50. $190,436 IZB08
-   51. $190,995 Evergreen_Knight
-   52. $192,306 Hodson
-   53. $193,288 TeamGames
-   54. $193,288 CK4R9
-   55. $194,063 STREETMACHINO
-   56. $194,444 Der zerstreute Professor!
-   57. $195,247 future player
-   58. $195,810 lordpterin
-   59. $196,038 elias.brakemeier
-   60. $196,995 jannbisch
-   61. $197,239 niku_bac
-   62. $198,716 ckw9211
-   63. $198,716 eggetsbergeremil
-   64. $198,779 Lipfilli
-   65. $199,308 jacksondosch5
-   66. $199,553 BerryMAN256
-   67. $199,623 chiwon97
-   68. $199,923 TryDisGuy
-   69. $207,744 W1rekX
-   70. $207,924 ITACOA
-   71. $209,973 hbhari1212
-   72. $211,788 kaktus
-   73. $223,739 rwargala
-   74. $232,331 haas.riedering
-   75. $271,474 JumpinJ
-   76. $273,246 kinkin
-   77. $279,708 therk360
-   78. $280,609 B.C_25t
-   79. $281,654 scarleteagle16
-   80. $284,018 bonniezollinger
-   81. $284,322 Jumal Sappe
-   82. $286,750 benjamin.blanco
-   83. $294,327 kieranadams2020
-   84. $301,577 Hirwilja
-   85. $317,608 grzestar2020
-   86. $334,797 CEN
-   87. $337,673 tkostandyan
-   88. $347,570 경우
-   89. $350,686 wenchuang5202022
-   90. $362,322 SamLam3
-   91. $383,708 poly sosuke
-   92. $389,693 nisha.bharti2020
-   93. $392,402 Crush
-   94. $395,457 jamianish8
-   95. $398,098 BananaMonke
-   96. $398,480 LZF
+   21. $154,113 antony.interlandi
+   22. $154,371 raphael.kreutzer
+   23. $159,519 Arthurdent99
+   24. $159,985 Zurli
+   25. $161,433 TaoLing
+   26. $162,376 JustLittleKraTom
+   27. $164,327 Novato
+   28. $165,003 EricCoon
+   29. $167,910 Shishko Gaming
+   30. $169,231 killofki
+   31. $169,998 frogman
+   32. $170,042 Bubi
+   33. $171,802 Thoomor
+   34. $171,928 wvwvww
+   35. $172,324 kujmmy
+   36. $173,665 Lord Šakatula
+   37. $177,306 PandaBear
+   38. $179,472 SRSpencer247
+   39. $180,564 jofrebosch04
+   40. $183,573 3256201730
+   41. $184,296 DayAtNight
+   42. $184,323 valter
+   43. $185,040 kaz
+   44. $185,881 sodaprince79
+   45. $186,015 erben.rekswinkel
+   46. $186,302 EpicBagels
+   47. $187,328 MariusS.F
+   48. $188,347 TheIrid
+   49. $189,195 chuck
+   50. $189,249 roccom3
+   51. $189,553 Burnt Toast
+   52. $190,436 IZB08
+   53. $190,995 Evergreen_Knight
+   54. $192,306 Hodson
+   55. $193,288 TeamGames
+   56. $193,288 CK4R9
+   57. $194,063 STREETMACHINO
+   58. $194,444 Der zerstreute Professor!
+   59. $195,247 future player
+   60. $195,810 lordpterin
+   61. $196,038 elias.brakemeier
+   62. $196,995 jannbisch
+   63. $197,239 niku_bac
+   64. $198,716 eggetsbergeremil
+   65. $198,716 ckw9211
+   66. $198,779 Lipfilli
+   67. $199,070 bxquint
+   68. $199,308 jacksondosch5
+   69. $199,553 BerryMAN256
+   70. $199,623 chiwon97
+   71. $199,923 TryDisGuy
+   72. $207,744 W1rekX
+   73. $207,924 ITACOA
+   74. $209,973 hbhari1212
+   75. $211,788 kaktus
+   76. $221,313 ✪Dimasito
+   77. $223,739 rwargala
+   78. $232,331 haas.riedering
+   79. $248,110 kutadgu.arslan
+   80. $261,267 Zozo_destroyer
+   81. $268,594 raphaelwoelk
+   82. $271,474 JumpinJ
+   83. $273,246 kinkin
+   84. $279,708 therk360
+   85. $280,609 B.C_25t
+   86. $281,654 scarleteagle16
+   87. $284,018 bonniezollinger
+   88. $284,322 Jumal Sappe
+   89. $286,750 benjamin.blanco
+   90. $294,327 kieranadams2020
+   91. $301,577 Hirwilja
+   92. $317,608 grzestar2020
+   93. $323,966 weber.mark
+   94. $334,797 CEN
+   95. $337,673 tkostandyan
+   96. $347,570 경우
+   97. $350,686 wenchuang5202022
+   98. $362,322 SamLam3
+   99. $383,708 poly sosuke
+  100. $389,693 nisha.bharti2020
+  101. $391,289 Nielsen
+  102. $392,402 Crush
+  103. $395,457 jamianish8
+  104. $398,098 BananaMonke
+  105. $398,480 LZF
