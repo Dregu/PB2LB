@@ -1,77 +1,90 @@
 Poly Bridge 2 - W0190 "Weekly Challenge #190" unbreaking leaderboard
-Updated 2024-04-18T00:34:13.565Z
-73/73 unique ranks shown
+Updated 2024-04-19T00:32:20.145Z
+86/86 unique ranks shown
 
     1. $26,090  akkun_ouo
-    2. $38,924  honky
-    3. $45,481  Cap'n
-    4. $45,813  drwatsonlosen
-    5. $45,947  3256201730
-    6. $46,289  Arthurdent99
-    7. $47,223  e
-    8. $49,979  Bot0871
-    9. $49,980  Thoomor
-   10. $52,495  mrluyibw
-   11. $56,891  luvnank
-   12. $57,007  takayoshi_0111
-   13. $57,270  SRSpencer247
-   14. $58,176  Markrosoft Word
-   15. $59,630  MiddleOrder321
-   16. $61,386  MiKubaMa
-   17. $63,829  triplenova10
-   18. $66,499  kracks08
-   19. $68,951  trapplogan722
-   20. $69,087  DeadN00b iwnl
-   21. $69,498  Zurli
-   22. $69,939  TrashBag
-   23. $71,837  proikan
-   24. $73,061  Hirwilja
-   25. $73,218  Luisjnc
-   26. $74,812  alaincorbe55
-   27. $74,960  Fusion64
-   28. $75,340  killofki
-   29. $75,371  elRander
-   30. $75,678  鹹蝦燦「調位好唔好」
-   31. $76,862  martin_kirn
-   32. $77,351  retok.94
-   33. $77,605  justinzhou73
-   34. $78,473  DOROGA
-   35. $78,953  Bubi
-   36. $78,991  sodaprince79
-   37. $79,589  kaspervanderven
-   38. $79,732  TrixieHap
-   39. $83,089  Bazzyrick
-   40. $83,447  JELCZ
-   41. $83,921  aydanjlogan
-   42. $84,357  if($result -> num_rows >0){}
-   43. $85,346  beckis_email
-   44. $87,208  xN3ptun
-   45. $88,874  boybartlett
-   46. $88,958  MiguelMM
-   47. $89,828  crash1340
-   48. $90,432  freddiebear771
-   49. $90,440  paul.mair.at
-   50. $91,363  jeremywinick
-   51. $91,428  Adolf Masha
-   52. $91,649  WizardChunk
-   53. $91,694  mewsito
-   54. $93,430  ne09042009
-   55. $93,806  the_meme_slayer
-   56. $94,801  AlbinoBoii
-   57. $95,479  Phitl
-   58. $95,556  Musty
-   59. $95,723  한강속
-   60. $95,998  carolin_koenig
-   61. $97,201  canevarijp
-   62. $98,143  michaelniklas85
-   63. $99,120  wedding0403
-   64. $99,200  zaptzed
-   65. $99,480  Memeharnessed
-   66. $99,523  chuck
-   67. $99,943  david
-   68. $99,969  Kenriquo
-   69. $119,455 mischmortikay
-   70. $119,465 Asool
-   71. $120,209 gscaparrotti
-   72. $136,728 pavlova0779
-   73. $139,041 DuskBlau
+    2. $38,883  Thomas The Dog
+    3. $38,924  honky
+    4. $45,481  Cap'n
+    5. $45,813  drwatsonlosen
+    6. $45,947  3256201730
+    7. $46,289  Arthurdent99
+    8. $47,223  e
+    9. $49,962  Bot0871
+   10. $49,980  Thoomor
+   11. $52,495  mrluyibw
+   12. $53,697  fmustang202
+   13. $56,891  luvnank
+   14. $57,007  takayoshi_0111
+   15. $57,270  SRSpencer247
+   16. $58,176  Markrosoft Word
+   17. $59,630  MiddleOrder321
+   18. $59,795  Dj Doof
+   19. $59,979  Katier
+   20. $60,623  Judas
+   21. $61,386  MiKubaMa
+   22. $63,829  triplenova10
+   23. $66,264  Dexow
+   24. $66,499  kracks08
+   25. $68,951  trapplogan722
+   26. $69,087  DeadN00b iwnl
+   27. $69,498  Zurli
+   28. $69,939  TrashBag
+   29. $71,804  xff2002712
+   30. $71,837  proikan
+   31. $73,061  Hirwilja
+   32. $73,218  Luisjnc
+   33. $74,812  alaincorbe55
+   34. $74,960  Fusion64
+   35. $75,340  killofki
+   36. $75,371  elRander
+   37. $75,678  鹹蝦燦「調位好唔好」
+   38. $75,747  orslaszlo
+   39. $76,862  martin_kirn
+   40. $77,351  retok.94
+   41. $77,605  justinzhou73
+   42. $78,473  DOROGA
+   43. $78,953  Bubi
+   44. $78,991  sodaprince79
+   45. $79,589  kaspervanderven
+   46. $79,732  TrixieHap
+   47. $83,089  Bazzyrick
+   48. $83,447  JELCZ
+   49. $83,921  aydanjlogan
+   50. $84,357  if($result -> num_rows >0){}
+   51. $85,346  beckis_email
+   52. $87,208  xN3ptun
+   53. $88,874  boybartlett
+   54. $88,958  MiguelMM
+   55. $89,245  MadScientistE13
+   56. $89,828  crash1340
+   57. $90,432  freddiebear771
+   58. $90,440  paul.mair.at
+   59. $91,363  jeremywinick
+   60. $91,428  Adolf Masha
+   61. $91,649  WizardChunk
+   62. $91,694  mewsito
+   63. $93,430  ne09042009
+   64. $93,806  the_meme_slayer
+   65. $94,226  loretan
+   66. $94,801  AlbinoBoii
+   67. $95,479  Phitl
+   68. $95,556  Musty
+   69. $95,723  한강속
+   70. $95,998  carolin_koenig
+   71. $97,201  canevarijp
+   72. $98,143  michaelniklas85
+   73. $98,488  Charles Caviar
+   74. $99,120  wedding0403
+   75. $99,200  zaptzed
+   76. $99,266  TheGodFather
+   77. $99,444  waiuwigi
+   78. $99,480  Memeharnessed
+   79. $99,523  chuck
+   80. $99,943  david
+   81. $99,969  Kenriquo
+   82. $119,455 mischmortikay
+   83. $119,465 Asool
+   84. $120,209 gscaparrotti
+   85. $136,728 pavlova0779
+   86. $139,041 DuskBlau
