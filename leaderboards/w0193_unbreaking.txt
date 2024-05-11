@@ -1,6 +1,6 @@
 Poly Bridge 2 - W0193 "Weekly Challenge #193" unbreaking leaderboard
-Updated 2024-05-10T00:32:46.546Z
-103/103 unique ranks shown
+Updated 2024-05-11T00:33:27.503Z
+118/118 unique ranks shown
 
     1. $9,478  akkun_ouo
     2. $20,555 Thomas The Dog
@@ -9,7 +9,7 @@ Updated 2024-05-10T00:32:46.546Z
     5. $22,639 honky
     6. $22,881 TrashBag
     7. $23,470 A Frightened Sloth
-    8. $23,800 Doom_Squirrel
+    8. $23,658 Doom_Squirrel
     9. $24,621 MiddleOrder321
    10. $24,686 SRSpencer247
    11. $25,466 uwe.spuler
@@ -28,80 +28,95 @@ Updated 2024-05-10T00:32:46.546Z
    24. $30,637 kryckmannen
    25. $30,780 melissathomas62003
    26. $31,251 McNuggets
-   27. $31,800 kaidenmarsh92
-   28. $31,894 George Curious
-   29. $32,285 alaincorbe55
-   30. $32,971 tim027.hahn11
-   31. $33,940 Cap'n
-   32. $34,233 The_Blue_Friend
-   33. $34,353 staubman1
-   34. $34,407 xcidip
-   35. $34,792 Bauer
-   36. $35,168 manojmact
-   37. $35,369 Ranger Plateado
-   38. $36,042 bendaehyunlee
-   39. $36,227 Minimi
-   40. $36,333 44932544
-   41. $36,553 retok.94
-   42. $36,957 frankervin202
-   43. $36,996 chuck
-   44. $37,281 HYDRO Wん
-   45. $37,409 jeremy.currie
-   46. $37,571 xiaofangcai57
-   47. $38,838 blossi2408
-   48. $39,016 Jochen_Rochen_456
-   49. $39,291 tractorman205
-   50. $39,374 The Rohankadank
-   51. $39,688 chadandkristifranklin
-   52. $39,703 Bazzyrick
-   53. $39,812 kaspervanderven
-   54. $40,652 Uncommon Rat
-   55. $41,256 nils
-   56. $41,547 killofki
-   57. $41,645 JustNeedCoffee
-   58. $42,075 Tyrunty
-   59. $42,630 Markrosoft Word
-   60. $42,649 justinzhou73
-   61. $42,836 VereoKnight
-   62. $43,051 おいちゃん
-   63. $43,646 JELCZ
-   64. $43,738 andrewmg77
-   65. $44,005 pepikalantzi
-   66. $44,309 hsfbc188
-   67. $44,649 felix_immer
-   68. $44,776 gertk64
-   69. $45,253 Hexagon
-   70. $46,070 Yankee
-   71. $47,588 Snakekiller51
-   72. $48,117 Bubi
-   73. $48,242 klutzybug
-   74. $48,739 jojo0714l
-   75. $48,739 teo9goodjob
-   76. $48,894 Confirm NotJonah
-   77. $49,478 mrtim
-   78. $49,604 tysonhowells
-   79. $49,625 byeongyeolu849
-   80. $49,645 Bacon
-   81. $49,741 rogccl
-   82. $49,903 haas.riedering
-   83. $49,918 LeoLolCool
-   84. $49,973 canevarijp
-   85. $49,979 crash1340
-   86. $49,992 ianv0310
-   87. $53,748 wedding0403
-   88. $55,741 Dfuzze
-   89. $62,898 g.fueloep
-   90. $63,492 MasterGlide
-   91. $65,434 Captain Krukks
-   92. $74,657 carbonat erol
-   93. $76,843 joshmellors61
-   94. $79,563 cuboid
-   95. $82,059 BananaMonke
-   96. $82,199 hanakuso1
-   97. $84,885 Cuyoloco_
-   98. $86,487 pete.bennett777
-   99. $87,595 Portal_Fanboy
-  100. $92,940 Michael
-  101. $93,477 ChaosRaphi
-  102. $96,389 mikab2305
-  103. $98,708 Guitarra Wawa
+   27. $31,298 TridentTank88
+   28. $31,800 kaidenmarsh92
+   29. $31,894 George Curious
+   30. $32,285 alaincorbe55
+   31. $32,971 tim027.hahn11
+   32. $33,794 martin_kirn
+   33. $33,940 Cap'n
+   34. $34,233 The_Blue_Friend
+   35. $34,353 staubman1
+   36. $34,407 xcidip
+   37. $34,545 markymark1182
+   38. $34,792 Bauer
+   39. $35,168 manojmact
+   40. $35,369 Ranger Plateado
+   41. $35,666 44932544
+   42. $36,042 bendaehyunlee
+   43. $36,227 Minimi
+   44. $36,553 retok.94
+   45. $36,957 frankervin202
+   46. $36,996 chuck
+   47. $37,281 HYDRO Wん
+   48. $37,409 jeremy.currie
+   49. $37,571 xiaofangcai57
+   50. $38,165 PeasantZilla
+   51. $38,838 blossi2408
+   52. $39,016 Jochen_Rochen_456
+   53. $39,291 tractorman205
+   54. $39,374 The Rohankadank
+   55. $39,688 chadandkristifranklin
+   56. $39,703 Bazzyrick
+   57. $39,812 kaspervanderven
+   58. $40,652 Uncommon Rat
+   59. $41,256 nils
+   60. $41,547 killofki
+   61. $41,645 JustNeedCoffee
+   62. $41,911 한강속
+   63. $42,075 Tyrunty
+   64. $42,630 Markrosoft Word
+   65. $42,649 justinzhou73
+   66. $42,836 VereoKnight
+   67. $43,051 おいちゃん
+   68. $43,646 JELCZ
+   69. $43,738 andrewmg77
+   70. $44,005 pepikalantzi
+   71. $44,309 hsfbc188
+   72. $44,556 sodaprince79
+   73. $44,649 felix_immer
+   74. $44,776 gertk64
+   75. $45,253 Hexagon
+   76. $46,070 Yankee
+   77. $47,343 ahudakone
+   78. $47,588 Snakekiller51
+   79. $48,117 Bubi
+   80. $48,242 klutzybug
+   81. $48,739 jojo0714l
+   82. $48,739 teo9goodjob
+   83. $48,894 Confirm NotJonah
+   84. $49,478 mrtim
+   85. $49,486 carolin_koenig
+   86. $49,604 tysonhowells
+   87. $49,625 byeongyeolu849
+   88. $49,645 Bacon
+   89. $49,741 rogccl
+   90. $49,753 sckroff
+   91. $49,903 haas.riedering
+   92. $49,918 LeoLolCool
+   93. $49,973 canevarijp
+   94. $49,979 crash1340
+   95. $49,992 ianv0310
+   96. $53,748 wedding0403
+   97. $55,385 Sesselhocker
+   98. $55,741 Dfuzze
+   99. $60,667 Mr. Scagnetti
+  100. $62,898 g.fueloep
+  101. $63,492 MasterGlide
+  102. $64,575 LetsplayKorbini
+  103. $65,434 Captain Krukks
+  104. $71,516 gscaparrotti
+  105. $74,657 carbonat erol
+  106. $76,843 joshmellors61
+  107. $79,563 cuboid
+  108. $82,059 BananaMonke
+  109. $82,199 hanakuso1
+  110. $84,885 Cuyoloco_
+  111. $86,487 pete.bennett777
+  112. $87,595 Portal_Fanboy
+  113. $88,505 Niklu1
+  114. $92,940 Michael
+  115. $93,477 ChaosRaphi
+  116. $96,389 mikab2305
+  117. $98,155 Ultraviolet36
+  118. $98,708 Guitarra Wawa
