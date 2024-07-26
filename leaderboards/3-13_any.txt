@@ -1,6 +1,6 @@
 Poly Bridge 2 - 3-13 "Diagonal Elevator" any% leaderboard (* = breaks)
-Updated 2024-07-21T00:39:55.739Z
-1000/88125 unique ranks shown
+Updated 2024-07-26T00:36:20.252Z
+1000/88141 unique ranks shown
 
    *1. $3,169 akkun_ouo
    *2. $3,789 Lagiiiie
@@ -67,8 +67,8 @@ Updated 2024-07-21T00:39:55.739Z
   *63. $4,326 吸~海龙王
   *64. $4,327 mikiethepenguin
   *65. $4,333 Heater
-  *66. $4,349 goldenpggie
-  *67. $4,349 Pigeon
+  *66. $4,349 Pigeon
+  *67. $4,349 goldenpggie
   *68. $4,353 Mister Doctor
    69. $4,362 Enchanted Spider
   *70. $4,367 pipiscy5221
@@ -149,8 +149,8 @@ Updated 2024-07-21T00:39:55.739Z
  *145. $4,573 1211232408
   146. $4,577 C5ongoR
   147. $4,580 TheCarrotGod
- *148. $4,581 svcb642868
- *149. $4,581 nikola.radivoj1
+ *148. $4,581 nikola.radivoj1
+ *149. $4,581 svcb642868
   150. $4,582 Honda
  *151. $4,583 Tbomber
   152. $4,584 BorkFanBoy
@@ -203,10 +203,10 @@ Updated 2024-07-21T00:39:55.739Z
   199. $4,648 Minecraft Bee
  *200. $4,652 AsteroidDelta
  *201. $4,653 FierceKitty131
- *202. $4,653 Gaotosky10
- *203. $4,653 MoonlitJolty
+ *202. $4,653 MoonlitJolty
+ *203. $4,653 palfly15
  *204. $4,653 gamespilgame
- *205. $4,653 palfly15
+ *205. $4,653 Gaotosky10
   206. $4,654 ole.van.tiel
  *207. $4,654 zinc
   208. $4,656 vojta931
@@ -628,8 +628,8 @@ Updated 2024-07-21T00:39:55.739Z
   624. $4,961 wylie5cents
   625. $4,961 Chronoate
   626. $4,963 水印星空
- *627. $4,963 Amtyi
- *628. $4,963 DB564
+ *627. $4,963 DB564
+ *628. $4,963 Amtyi
   629. $4,966 sombraala
   630. $4,966 mooseman0423
   631. $4,966 hiitann
@@ -963,42 +963,42 @@ Updated 2024-07-21T00:39:55.739Z
   959. $5,148 connor.bray.ricks
   960. $5,148 Alpaca
   961. $5,148 ThreeDMK
- *962. $5,149 Mc Lan
- *963. $5,150 B_K_night
-  964. $5,151 Special Noone
-  965. $5,152 Maxar1
-  966. $5,153 lj.siegmund
-  967. $5,155 Penders5
-  968. $5,156 涵某某
-  969. $5,156 ekard_drake
-  970. $5,156 Hydro
-  971. $5,156 dan.m.dury
-  972. $5,157 Yoshisapple
-  973. $5,157 theo
-  974. $5,157 AdamskiOfDoom
-  975. $5,157 alovadaworld00
-  976. $5,157 Knart
-  977. $5,158 The Medic
-  978. $5,158 Formica1
-  979. $5,158 neonblaze18
-  980. $5,159 Zachedmons
-  981. $5,159 QuilleyMonster
-  982. $5,160 Hubbely
-  983. $5,161 RayKingJrJr
-  984. $5,162 prefan21
-  985. $5,162 wes
-  986. $5,162 SSS
-  987. $5,162 stefan-jacke
-  988. $5,162 lovelydasher
-  989. $5,163 raggel_
-  990. $5,165 w00zy
- *991. $5,166 Dorno
-  992. $5,167 nmonks99
-  993. $5,167 Jale
-  994. $5,170 Muis193
-  995. $5,170 kraftkrazyjr
-  996. $5,172 martin.chabot
-  997. $5,172 Anoki
-  998. $5,172 AlexDetroit
-  999. $5,173 john of arc
- 1000. $5,176 Vollauro
+  962. $5,148 brauab
+ *963. $5,149 Mc Lan
+ *964. $5,150 B_K_night
+  965. $5,151 Special Noone
+  966. $5,152 Maxar1
+  967. $5,153 lj.siegmund
+  968. $5,155 Penders5
+  969. $5,156 涵某某
+  970. $5,156 ekard_drake
+  971. $5,156 Hydro
+  972. $5,156 dan.m.dury
+  973. $5,157 Yoshisapple
+  974. $5,157 theo
+  975. $5,157 AdamskiOfDoom
+  976. $5,157 alovadaworld00
+  977. $5,157 Knart
+  978. $5,158 The Medic
+  979. $5,158 Formica1
+  980. $5,158 neonblaze18
+  981. $5,159 Zachedmons
+  982. $5,159 QuilleyMonster
+  983. $5,160 Hubbely
+  984. $5,161 RayKingJrJr
+  985. $5,162 prefan21
+  986. $5,162 wes
+  987. $5,162 SSS
+  988. $5,162 stefan-jacke
+  989. $5,162 lovelydasher
+  990. $5,163 raggel_
+  991. $5,165 w00zy
+ *992. $5,166 Dorno
+  993. $5,167 nmonks99
+  994. $5,167 Jale
+  995. $5,170 Muis193
+  996. $5,170 kraftkrazyjr
+  997. $5,172 martin.chabot
+  998. $5,172 Anoki
+  999. $5,172 AlexDetroit
+ 1000. $5,173 john of arc
