@@ -1,85 +1,95 @@
 Poly Bridge 2 - W0216 "Weekly Challenge #216" unbreaking leaderboard
-Updated 2024-10-20T00:45:34.828Z
-81/81 unique ranks shown
+Updated 2024-10-22T00:42:27.925Z
+91/91 unique ranks shown
 
-    1. $21,478  akkun_ouo
-    2. $21,478  Zen
+    1. $21,478  Zen
+    2. $21,478  akkun_ouo
     3. $22,948  reecedylan329
     4. $35,627  MiKubaMa
     5. $35,718  OeTTINGER
-    6. $36,951  theskier9000
-    7. $37,986  alaincorbe55
-    8. $38,134  Menp23
-    9. $39,486  kryckmannen
-   10. $39,768  Facundo Caamano
-   11. $41,703  honky
-   12. $43,718  canevarijp
-   13. $44,713  Luisjnc
-   14. $45,104  BluD
-   15. $46,905  🐉 Ðŗąçø 🐉
-   16. $47,931  astro haha
-   17. $49,415  gscaparrotti
-   18. $50,235  KarisMa
-   19. $50,325  snowcat
-   20. $52,477  Ulysses97
-   21. $53,354  MiddleOrder321
-   22. $54,603  bossinator8000
-   23. $55,768  ABGGING0123
-   24. $56,207  不要急躁哟
-   25. $57,580  际晓
-   26. $58,014  Thoomor
-   27. $58,485  おいちゃん
-   28. $58,491  Victorious_Click
-   29. $61,195  Barabaszz
-   30. $62,271  Captain_Diesel
-   31. $64,488  eduardo_nagano
-   32. $64,606  micahhilton1234
-   33. $65,671  cornix
-   34. $66,559  AlbinoBoii
-   35. $66,909  Cheetahopossum
-   36. $66,938  e
-   37. $67,277  Arty NL
-   38. $69,104  hsfbc188
-   39. $69,608  TrashBag
-   40. $70,032  PAHTbE
-   41. $71,666  maybeapizzatrophy
-   42. $71,859  orp.chm
-   43. $73,341  SeaCat
-   44. $73,685  DogMansinho
-   45. $73,881  chochliq
-   46. $74,644  daniel.barber
-   47. $74,818  ephraim.malmstrom
-   48. $79,520  s.kohlbauer
-   49. $82,318  PedroPVL
-   50. $83,170  sodaprince79
-   51. $84,194  aydanjlogan
-   52. $86,275  clement.ting
-   53. $86,352  killofki
-   54. $87,166  crash1340
-   55. $87,461  disPUGmeansBIZ
-   56. $87,891  brettadc
-   57. $88,059  balasar
-   58. $88,933  9k5
-   59. $89,626  lUnsterbLich
-   60. $89,934  antonizyg5
-   61. $89,976  n.tramsim2022
-   62. $89,986  BOYAR
-   63. $100,353 Jochen
-   64. $102,268 BerryMAN256
-   65. $106,477 bluetony100
-   66. $109,698 arekdunski
-   67. $110,779 ha
-   68. $112,201 bidwellius
-   69. $112,235 TheGodFather
-   70. $114,791 Nighthawk
-   71. $120,394 414441527
-   72. $147,720 carol_mulhall
-   73. $148,357 FastBolt27
-   74. $148,987 xiaofu
-   75. $150,655 MadScientistE13
-   76. $159,080 Ginger Khan
-   77. $170,705 e.ullings
-   78. $173,140 TheMolester
-   79. $174,755 Gorlock the Destroyer
-   80. $175,212 janaschinowski
-   81. $179,527 jakeee02
+    6. $36,950  hoizklezl
+    7. $36,951  theskier9000
+    8. $37,877  kryckmannen
+    9. $37,986  alaincorbe55
+   10. $38,134  Menp23
+   11. $39,768  Facundo Caamano
+   12. $40,063  埃克塞勒
+   13. $41,282  honky
+   14. $43,718  canevarijp
+   15. $44,713  Luisjnc
+   16. $45,104  BluD
+   17. $46,140  beckscraw
+   18. $46,905  🐉 Ðŗąçø 🐉
+   19. $47,931  astro haha
+   20. $49,415  gscaparrotti
+   21. $50,235  KarisMa
+   22. $50,325  snowcat
+   23. $52,477  Ulysses97
+   24. $53,354  MiddleOrder321
+   25. $54,603  bossinator8000
+   26. $55,768  ABGGING0123
+   27. $56,207  不要急躁哟
+   28. $57,580  际晓
+   29. $58,014  Thoomor
+   30. $58,485  おいちゃん
+   31. $58,491  Victorious_Click
+   32. $61,195  Barabaszz
+   33. $62,242  513942169
+   34. $62,271  Captain_Diesel
+   35. $64,488  eduardo_nagano
+   36. $64,606  micahhilton1234
+   37. $65,671  cornix
+   38. $66,559  AlbinoBoii
+   39. $66,909  Cheetahopossum
+   40. $66,938  e
+   41. $67,277  Arty NL
+   42. $69,104  hsfbc188
+   43. $69,608  TrashBag
+   44. $70,032  PAHTbE
+   45. $71,666  maybeapizzatrophy
+   46. $71,859  orp.chm
+   47. $73,341  SeaCat
+   48. $73,685  DogMansinho
+   49. $73,881  chochliq
+   50. $74,644  daniel.barber
+   51. $74,818  ephraim.malmstrom
+   52. $79,520  s.kohlbauer
+   53. $80,567  Casteroid
+   54. $80,774  Mamoot Rahal
+   55. $82,318  PedroPVL
+   56. $83,170  sodaprince79
+   57. $84,194  aydanjlogan
+   58. $86,191  ƉrǐpMǻsŧҿґ
+   59. $86,275  clement.ting
+   60. $86,352  killofki
+   61. $87,166  crash1340
+   62. $87,461  disPUGmeansBIZ
+   63. $87,891  brettadc
+   64. $88,059  balasar
+   65. $88,933  9k5
+   66. $89,611  Hedgehog
+   67. $89,626  lUnsterbLich
+   68. $89,934  antonizyg5
+   69. $89,976  n.tramsim2022
+   70. $89,986  BOYAR
+   71. $100,353 Jochen
+   72. $102,268 BerryMAN256
+   73. $106,477 bluetony100
+   74. $109,698 arekdunski
+   75. $110,779 ha
+   76. $112,201 bidwellius
+   77. $112,235 TheGodFather
+   78. $114,791 Nighthawk
+   79. $120,394 414441527
+   80. $125,410 georgepat59
+   81. $147,720 carol_mulhall
+   82. $148,357 FastBolt27
+   83. $148,987 xiaofu
+   84. $150,655 MadScientistE13
+   85. $159,080 Ginger Khan
+   86. $170,705 e.ullings
+   87. $173,140 TheMolester
+   88. $174,755 Gorlock the Destroyer
+   89. $175,212 janaschinowski
+   90. $178,734 StormRyder
+   91. $179,527 jakeee02
