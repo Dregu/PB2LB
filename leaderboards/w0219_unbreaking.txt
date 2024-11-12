@@ -1,14 +1,14 @@
 Poly Bridge 2 - W0219 "Weekly Challenge #219" unbreaking leaderboard
-Updated 2024-11-10T00:44:51.357Z
-102/102 unique ranks shown
+Updated 2024-11-12T00:43:21.989Z
+108/108 unique ranks shown
 
     1. $8,283  reecedylan329
     2. $11,447 akkun_ouo
-    3. $15,583 BenjaminCat
-    4. $15,745 honky
-    5. $16,523 Luisjnc
-    6. $17,707 TrashBag
-    7. $17,778 OeTTINGER
+    3. $15,581 OeTTINGER
+    4. $15,583 BenjaminCat
+    5. $15,745 honky
+    6. $16,523 Luisjnc
+    7. $17,707 TrashBag
     8. $18,385 hjerppe
     9. $19,048 alaincorbe55
    10. $19,829 kryckmannen
@@ -28,79 +28,85 @@ Updated 2024-11-10T00:44:51.357Z
    24. $25,839 vikihou
    25. $25,966 Arthurdent99
    26. $26,165 joey dill
-   27. $27,999 nils
-   28. $28,225 iwantmore29
-   29. $28,483 Blaarg
-   30. $28,872 jharmon198513
-   31. $29,221 3327018890
-   32. $29,233 53nathans
-   33. $29,497 SDcube
-   34. $30,274 际晓
-   35. $30,977 MiddleOrder321
-   36. $31,481 Sammael
-   37. $31,514 sodaprince79
-   38. $31,632 体弱多病但吊硬
-   39. $31,772 MeowKat
-   40. $32,241 ebagnatori
-   41. $32,478 bar3ann
-   42. $32,697 Luca Fiorini
-   43. $32,805 BOSCH SABRE RECIPROCATING SAW
-   44. $33,257 Granno
-   45. $34,477 imok_imok
-   46. $34,987 おいちゃん
-   47. $36,362 Elerian
-   48. $36,456 larg3dong
-   49. $36,669 SeasaltUke_
-   50. $36,744 ronihenrik
-   51. $37,326 Dj Doof
-   52. $37,451 mike
-   53. $38,123 hsfbc188
-   54. $38,124 Mrlopaiz
-   55. $38,189 Instund
-   56. $39,328 Höyrypää
-   57. $39,791 KristN
-   58. $39,923 LetsplayKorbini
-   59. $40,023 Zero
-   60. $41,111 incockw
-   61. $41,197 Deflet
-   62. $41,312 LovelyChicken
-   63. $41,388 ha
-   64. $41,488 Gandalf
-   65. $41,500 Dark_Tundra
-   66. $41,863 Cleeeeeston
-   67. $42,505 vexfvl
-   68. $43,536 k_2005
-   69. $43,758 Bundeswehr_sho
-   70. $44,099 Bergo
-   71. $44,547 boo_wh0
-   72. $44,789 pisapop
-   73. $44,793 grhuner.wald
-   74. $44,800 xa
-   75. $45,169 gasstationbonerpills
-   76. $45,462 憨憨
-   77. $46,033 matthew.condit
-   78. $46,059 Pirigrin
-   79. $46,722 aydanjlogan
-   80. $47,265 Hirwilja
-   81. $47,316 cpetersen21
-   82. $47,845 hur3r
-   83. $48,563 lachlanquarrell
-   84. $48,755 antonizyg5
-   85. $48,818 brettadc
-   86. $48,935 Masa_sgjp
-   87. $49,342 beargibson3100
-   88. $49,366 jt14lego
-   89. $49,398 georgepat59
-   90. $49,448 cornix
-   91. $49,531 robintoren123
-   92. $49,560 Daniel Protec 9
-   93. $49,571 SuperBwahBwah76
-   94. $49,753 MinigamerXD08
-   95. $49,917 ABGGING0123
-   96. $49,956 carol_mulhall
-   97. $56,107 1601107246
-   98. $56,342 Tootin
-   99. $56,855 wolfguy423
-  100. $62,237 YouHavetheClap69
-  101. $80,336 ovencoder
-  102. $88,423 Octo_true
+   27. $27,277 Zurli
+   28. $27,999 nils
+   29. $28,225 iwantmore29
+   30. $28,483 Blaarg
+   31. $28,872 jharmon198513
+   32. $29,221 3327018890
+   33. $29,233 53nathans
+   34. $29,497 SDcube
+   35. $30,274 际晓
+   36. $30,977 MiddleOrder321
+   37. $31,481 Sammael
+   38. $31,514 sodaprince79
+   39. $31,632 体弱多病但吊硬
+   40. $31,772 MeowKat
+   41. $32,241 ebagnatori
+   42. $32,478 bar3ann
+   43. $32,697 Luca Fiorini
+   44. $32,805 BOSCH SABRE RECIPROCATING SAW
+   45. $33,257 Granno
+   46. $34,477 imok_imok
+   47. $34,987 おいちゃん
+   48. $36,261 MoscaTonta
+   49. $36,362 Elerian
+   50. $36,456 larg3dong
+   51. $36,669 SeasaltUke_
+   52. $36,744 ronihenrik
+   53. $37,326 Dj Doof
+   54. $37,451 mike
+   55. $38,123 hsfbc188
+   56. $38,124 Mrlopaiz
+   57. $38,189 Instund
+   58. $38,641 Brake To Drift
+   59. $39,328 Höyrypää
+   60. $39,791 KristN
+   61. $39,923 LetsplayKorbini
+   62. $40,023 Zero
+   63. $41,036 noname
+   64. $41,111 incockw
+   65. $41,197 Deflet
+   66. $41,312 LovelyChicken
+   67. $41,388 ha
+   68. $41,488 Gandalf
+   69. $41,500 Dark_Tundra
+   70. $41,863 Cleeeeeston
+   71. $42,505 vexfvl
+   72. $43,536 k_2005
+   73. $43,758 Bundeswehr_sho
+   74. $44,099 Bergo
+   75. $44,547 boo_wh0
+   76. $44,789 pisapop
+   77. $44,793 grhuner.wald
+   78. $44,800 xa
+   79. $45,169 gasstationbonerpills
+   80. $45,462 憨憨
+   81. $45,613 hkz114514
+   82. $46,033 matthew.condit
+   83. $46,059 Pirigrin
+   84. $46,722 aydanjlogan
+   85. $47,265 Hirwilja
+   86. $47,316 cpetersen21
+   87. $47,845 hur3r
+   88. $48,563 lachlanquarrell
+   89. $48,755 antonizyg5
+   90. $48,818 brettadc
+   91. $48,935 Masa_sgjp
+   92. $49,342 beargibson3100
+   93. $49,366 jt14lego
+   94. $49,398 georgepat59
+   95. $49,448 cornix
+   96. $49,531 robintoren123
+   97. $49,560 Daniel Protec 9
+   98. $49,571 SuperBwahBwah76
+   99. $49,753 MinigamerXD08
+  100. $49,917 ABGGING0123
+  101. $49,956 carol_mulhall
+  102. $50,746 robman181
+  103. $56,107 1601107246
+  104. $56,342 Tootin
+  105. $56,855 wolfguy423
+  106. $62,237 YouHavetheClap69
+  107. $80,336 ovencoder
+  108. $88,423 Octo_true
