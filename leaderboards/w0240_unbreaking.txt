@@ -1,10 +1,10 @@
 Poly Bridge 2 - W0240 "Weekly Challenge #240" unbreaking leaderboard
-Updated 2025-04-02T00:46:45.994Z
-81/81 unique ranks shown
+Updated 2025-04-03T00:45:11.912Z
+103/103 unique ranks shown
 
-    1. $40,629  lairasan
-    2. $40,700  傻逼祖父
-    3. $42,232  Porcupinz
+    1. $40,400  傻逼祖父
+    2. $40,629  lairasan
+    3. $42,226  Porcupinz
     4. $44,124  nils
     5. $46,519  jussikka.veli
     6. $46,522  honky
@@ -14,72 +14,94 @@ Updated 2025-04-02T00:46:45.994Z
    10. $51,530  フールス
    11. $56,028  irciron
    12. $56,555  GreenScreener1
-   13. $59,326  buksan4
-   14. $66,094  alaincorbe55
-   15. $67,309  LomondoGaming
-   16. $69,999  Mineb7
-   17. $70,428  CELESTIAL
-   18. $73,196  joey dill
-   19. $76,361  sodaprince79
-   20. $79,511  killofki
-   21. $80,816  1983 Nissan Shitbox
-   22. $82,948  3256201730
-   23. $84,204  bart.eimers
-   24. $87,593  OKKUER
-   25. $90,756  おいちゃん
-   26. $91,297  valentinordannunzio
-   27. $93,411  niuyihang0707
-   28. $93,499  TheCubeN00B
-   29. $95,687  arvin.stahl
-   30. $96,169  Hetulii
-   31. $98,858  pallehoff
-   32. $99,406  TwBloodStar
-   33. $100,722 Subnation1
-   34. $103,383 dinsonchan
-   35. $103,428 Anton180906
-   36. $103,755 BiggieHunt
-   37. $108,941 joey
-   38. $111,149 hsfbc188
-   39. $111,221 thomas.oesterreicher
-   40. $111,671 Pathogen
-   41. $112,636 MiniRobbo1308
-   42. $113,672 RiceBallsPatrol
-   43. $113,709 TheGodFather
-   44. $114,016 thomasodrobina2019
-   45. $117,264 Ecdysiast #RoadTo0MMR
-   46. $121,062 stapletonryan67
-   47. $122,029 Hawkeye979
-   48. $122,166 染染
-   49. $124,041 yohello
-   50. $126,457 doparonie
-   51. $127,384 brettadc
-   52. $127,676 Ravenfire145
-   53. $128,526 wipe_kr
-   54. $128,779 Blake5
-   55. $131,811 antonizyg5
-   56. $131,953 daboss60412
-   57. $133,263 bar3ann
-   58. $133,780 Derpy
-   59. $137,443 jharmon198513
-   60. $137,527 3454
-   61. $137,841 smellesme
-   62. $138,752 jfr77777
-   63. $139,499 matthewpruner
-   64. $141,499 david
-   65. $142,214 crash1340
-   66. $142,471 alusiek
-   67. $143,960 wuffl84
-   68. $144,450 carol_mulhall
-   69. $144,463 Samu
-   70. $146,919 nieder.f
-   71. $148,167 GummyBoy3000
-   72. $148,409 pipederosa
-   73. $149,090 1136202430
-   74. $149,450 Whiskas 05
-   75. $149,471 Fabi
-   76. $149,497 debela_cigara
-   77. $149,825 Optimus Prime
-   78. $156,850 Togaf
-   79. $165,612 jeneral 0
-   80. $197,027 aliagahevin
-   81. $278,779 schwester_kirsten
+   13. $58,812  OeTTINGER
+   14. $59,326  buksan4
+   15. $59,480  gajisai
+   16. $66,094  alaincorbe55
+   17. $67,309  LomondoGaming
+   18. $67,699  angelsrule934
+   19. $69,999  Mineb7
+   20. $70,428  CELESTIAL
+   21. $72,194  Cruzer
+   22. $73,196  joey dill
+   23. $76,361  sodaprince79
+   24. $78,090  hsfbc188
+   25. $78,171  trickrip
+   26. $79,511  killofki
+   27. $80,816  1983 Nissan Shitbox
+   28. $82,948  3256201730
+   29. $84,204  bart.eimers
+   30. $87,593  OKKUER
+   31. $88,313  chiwon97
+   32. $89,468  Florian
+   33. $90,756  おいちゃん
+   34. $91,297  valentinordannunzio
+   35. $93,411  niuyihang0707
+   36. $93,499  TheCubeN00B
+   37. $94,318  冰粥升可乐
+   38. $95,277  CoolGuy43
+   39. $95,687  arvin.stahl
+   40. $96,169  Hetulii
+   41. $98,815  mileswessex
+   42. $98,858  pallehoff
+   43. $99,406  TwBloodStar
+   44. $100,722 Subnation1
+   45. $103,383 dinsonchan
+   46. $103,428 Anton180906
+   47. $103,755 BiggieHunt
+   48. $108,941 joey
+   49. $110,308 Bman9509
+   50. $111,013 gusjohnsen
+   51. $111,221 thomas.oesterreicher
+   52. $111,671 Pathogen
+   53. $112,602 josephoj2009
+   54. $112,636 MiniRobbo1308
+   55. $113,672 RiceBallsPatrol
+   56. $113,709 TheGodFather
+   57. $114,016 thomasodrobina2019
+   58. $116,788 lassewiesemann
+   59. $117,264 Ecdysiast #RoadTo0MMR
+   60. $121,062 stapletonryan67
+   61. $122,029 Hawkeye979
+   62. $122,166 染染
+   63. $124,041 yohello
+   64. $126,457 doparonie
+   65. $127,384 brettadc
+   66. $127,676 Ravenfire145
+   67. $128,526 wipe_kr
+   68. $128,779 Blake5
+   69. $131,124 ordiscus
+   70. $131,811 antonizyg5
+   71. $131,953 daboss60412
+   72. $133,263 bar3ann
+   73. $133,780 Derpy
+   74. $136,141 nicky
+   75. $137,356 isaacjchannells
+   76. $137,443 jharmon198513
+   77. $137,527 3454
+   78. $137,841 smellesme
+   79. $138,313 Mauizin
+   80. $138,752 jfr77777
+   81. $139,499 matthewpruner
+   82. $141,499 david
+   83. $142,214 crash1340
+   84. $142,471 alusiek
+   85. $143,572 takayoshi_0111
+   86. $143,960 wuffl84
+   87. $144,450 carol_mulhall
+   88. $144,463 Samu
+   89. $146,919 nieder.f
+   90. $147,811 didacfg12
+   91. $148,167 GummyBoy3000
+   92. $148,409 pipederosa
+   93. $149,090 1136202430
+   94. $149,127 jthong
+   95. $149,450 Whiskas 05
+   96. $149,471 Fabi
+   97. $149,497 debela_cigara
+   98. $149,825 Optimus Prime
+   99. $156,850 Togaf
+  100. $165,612 jeneral 0
+  101. $185,859 在追逐晴天
+  102. $197,027 aliagahevin
+  103. $278,779 schwester_kirsten
