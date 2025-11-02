@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-07C "Taxi Task" any% leaderboard (* = breaks)
-Updated 2025-11-01T00:53:22.499Z
-1000/29634 unique ranks shown
+Updated 2025-11-02T00:52:59.711Z
+1000/29640 unique ranks shown
 
    *1. $1,353 Lagiiiie
    *2. $1,353 akkun_ouo
@@ -10,20 +10,20 @@ Updated 2025-11-01T00:53:22.499Z
    *6. $2,590 Fathom
    *7. $2,653 CursorCoercer
    *8. $2,819 geroniberry2
-   *9. $2,882 notdocq
-  *10. $2,882 からず
+   *9. $2,882 からず
+  *10. $2,882 notdocq
   *11. $2,884 Quillslash
   *12. $3,154 Trygeve
-  *13. $3,281 MOD
+  *13. $3,281 Crimson
   *14. $3,281 Shadow
-  *15. $3,281 Crimson
+  *15. $3,281 MOD
   *16. $3,474 ScamMeister
   *17. $3,728 minecat
   *18. $3,744 Bibbb
-  *19. $3,810 palfly15
-  *20. $3,810 7777Alex7777
+  *19. $3,810 Cookieblues
+  *20. $3,810 palfly15
   *21. $3,810 Pengujedi
-  *22. $3,810 Cookieblues
+  *22. $3,810 7777Alex7777
   *23. $5,795 refi2002
    24. $5,799 Chipper
    25. $5,799 LUCse MENSEN
@@ -327,8 +327,8 @@ Updated 2025-11-01T00:53:22.499Z
   323. $6,904 peerbarth2007
   324. $6,909 Bandito dorito
   325. $6,923 HiredToKill_12
- *326. $6,928 A Doctor Pepper
- *327. $6,928 Friar Laurence
+ *326. $6,928 Friar Laurence
+ *327. $6,928 A Doctor Pepper
   328. $6,937 arnold.kroeger
   329. $6,938 ishikka5208
   330. $6,941 Dougman2
@@ -947,58 +947,58 @@ Updated 2025-11-01T00:53:22.499Z
   943. $8,175 FeralKatt
   944. $8,175 ollie
   945. $8,175 bennas
-  946. $8,176 waterleiding
-  947. $8,176 abevdv
-  948. $8,177 1lukefrey
-  949. $8,177 Roe Jogan
-  950. $8,178 CrystalSorcery
-  951. $8,178 The Frying Dutchpan
-  952. $8,178 Pyr0
-  953. $8,178 F3NR1R
-  954. $8,178 WitherPig145
-  955. $8,179 Ja1ng
-  956. $8,179 Thpetre
-  957. $8,179 Thoomor
-  958. $8,179 THEKILLER
-  959. $8,179 Cosmic
-  960. $8,180 xen0n
-  961. $8,180 Cypheri
-  962. $8,180 metalpimple
-  963. $8,180 Kasi
-  964. $8,180 LENTObANAANI
-  965. $8,180 Gile
-  966. $8,181 Fingeon27/TTV
-  967. $8,181 connor.bray.ricks
-  968. $8,181 Misty
-  969. $8,182 August_42nd
-  970. $8,182 TTV/fingeon27
-  971. $8,182 Niwel
-  972. $8,182 Lava Pototo
-  973. $8,182 False_Fantasy
-  974. $8,182 oslonitrate123
-  975. $8,183 dvanhinthum
-  976. $8,183 larsvanherrewegen
-  977. $8,183 Алексей
-  978. $8,184 Simpan
-  979. $8,184 MistMech
-  980. $8,184 TKBgamer
-  981. $8,185 Patches
-  982. $8,185 CoffeeMan
-  983. $8,186 The Ultimate Aura
-  984. $8,186 Pamani
-  985. $8,186 BusketMcChub
-  986. $8,186 chupapi
-  987. $8,187 ஜBigus Plebus
-  988. $8,187 Calibre13
-  989. $8,188 BruderTux
- *990. $8,189 Jimmy50
-  991. $8,190 armancjuma
-  992. $8,190 fox-chan
-  993. $8,191 Zhayde
-  994. $8,191 MH-91
-  995. $8,192 Sierain
-  996. $8,193 mooj
-  997. $8,193 SGT HAMMY III
-  998. $8,193 cilet
-  999. $8,194 xXItsYaBoiNinjaGuyXx
- 1000. $8,195 Mr. Aakje
+  946. $8,175 trust gamble
+  947. $8,176 waterleiding
+  948. $8,176 abevdv
+  949. $8,177 1lukefrey
+  950. $8,177 Roe Jogan
+  951. $8,178 CrystalSorcery
+  952. $8,178 The Frying Dutchpan
+  953. $8,178 Pyr0
+  954. $8,178 F3NR1R
+  955. $8,178 WitherPig145
+  956. $8,179 Ja1ng
+  957. $8,179 Thpetre
+  958. $8,179 Thoomor
+  959. $8,179 THEKILLER
+  960. $8,179 Cosmic
+  961. $8,180 xen0n
+  962. $8,180 Cypheri
+  963. $8,180 metalpimple
+  964. $8,180 Kasi
+  965. $8,180 LENTObANAANI
+  966. $8,180 Gile
+  967. $8,181 Fingeon27/TTV
+  968. $8,181 connor.bray.ricks
+  969. $8,181 Misty
+  970. $8,182 August_42nd
+  971. $8,182 TTV/fingeon27
+  972. $8,182 Niwel
+  973. $8,182 Lava Pototo
+  974. $8,182 False_Fantasy
+  975. $8,182 oslonitrate123
+  976. $8,183 dvanhinthum
+  977. $8,183 larsvanherrewegen
+  978. $8,183 Алексей
+  979. $8,184 Simpan
+  980. $8,184 MistMech
+  981. $8,184 TKBgamer
+  982. $8,185 Patches
+  983. $8,185 CoffeeMan
+  984. $8,186 The Ultimate Aura
+  985. $8,186 Pamani
+  986. $8,186 BusketMcChub
+  987. $8,186 chupapi
+  988. $8,187 ஜBigus Plebus
+  989. $8,187 Calibre13
+  990. $8,188 BruderTux
+ *991. $8,189 Jimmy50
+  992. $8,190 armancjuma
+  993. $8,190 fox-chan
+  994. $8,191 Zhayde
+  995. $8,191 MH-91
+  996. $8,192 Sierain
+  997. $8,193 mooj
+  998. $8,193 SGT HAMMY III
+  999. $8,193 cilet
+ 1000. $8,194 xXItsYaBoiNinjaGuyXx
