@@ -1,6 +1,6 @@
 Poly Bridge 2 - 1-13C "Redraw" any% leaderboard (* = breaks)
-Updated 2026-02-03T01:08:29.190Z
-1000/24678 unique ranks shown
+Updated 2026-02-04T01:02:57.910Z
+1000/24683 unique ranks shown
 
    *1. $2,069  akkun_ouo
    *2. $2,069  Zen
@@ -12,9 +12,9 @@ Updated 2026-02-03T01:08:29.190Z
    *8. $3,993  geroniberry2
    *9. $3,993  somefakegamer
   *10. $3,993  minecat
-  *11. $4,016  Icysnowman
+  *11. $4,016   
   *12. $4,016  TeamGames
-  *13. $4,016   
+  *13. $4,016  Icysnowman
   *14. $4,109  Herneerius
   *15. $4,810  a368787
   *16. $6,612  CertifiedHappy
@@ -548,8 +548,8 @@ Updated 2026-02-03T01:08:29.190Z
   544. $10,938 Martin
   545. $10,939 ✪Hek1✪
   546. $10,945 Kosepose
- *547. $10,947 Lord Of Beans
- *548. $10,947 MaxF1
+ *547. $10,947 MaxF1
+ *548. $10,947 Lord Of Beans
   549. $10,948 TKBgamer
   550. $10,949 SubZero2521
   551. $10,951 SilveryBeard
@@ -950,55 +950,55 @@ Updated 2026-02-03T01:08:29.190Z
   946. $11,564 Colin
   947. $11,565 Maky_(HUN)
   948. $11,565 cruxx
-  949. $11,568 RifleNotWings
-  950. $11,569 andjo403
-  951. $11,569 EnorIII
-  952. $11,578 Wupdeedo
-  953. $11,579 ZydraG
-  954. $11,582 rayoain
-  955. $11,582 龙年继续吃兔兔
-  956. $11,583 willbond007
-  957. $11,584 jannik.bischof
-  958. $11,586 BeerCake
-  959. $11,587 ONAL
-  960. $11,587 Chexbi
-  961. $11,589 Lord Orion
-  962. $11,590 Dregu
-  963. $11,590 WaLLz
- *964. $11,592 Cracklepappy
-  965. $11,593 Redneck3521
-  966. $11,594 pineapplebacon777
-  967. $11,594 BlueFox
-  968. $11,594 Moiré
-  969. $11,594 CommanderMidget
-  970. $11,594 bananerna3
-  971. $11,595 potato
-  972. $11,595 Blue
-  973. $11,595 tokkytokky8
-  974. $11,596 guilherme.gigeck
-  975. $11,597 Ludvagn
-  976. $11,597 tuxxyy
-  977. $11,598 HotelMotel
-  978. $11,599 Tuki
-  979. $11,599 rhdkenn
-  980. $11,605 Hnusný Slimák
-  981. $11,608 Diego Linares
-  982. $11,608 Trashman Kod
-  983. $11,609 ack321
-  984. $11,609 sleepyskater
- *985. $11,609 funkyd3000
-  986. $11,610 Kingam
-  987. $11,613 condie
-  988. $11,615 Gozza96
-  989. $11,615 hobz [REG]
-  990. $11,619 Dummy Thicc Watermelon
-  991. $11,620 Istas
-  992. $11,620 SoulWager
-  993. $11,620 appiekaufman
-  994. $11,620 saru
-  995. $11,622 davidantabi
-  996. $11,622 Supperman
- *997. $11,624 Dumbsnark
-  998. $11,625 抱歉不予顯示
-  999. $11,625 iN3krO
- 1000. $11,627 christof
+  949. $11,566 BORGIRPEEK mnlsls
+  950. $11,568 RifleNotWings
+  951. $11,569 andjo403
+  952. $11,569 EnorIII
+  953. $11,578 Wupdeedo
+  954. $11,579 ZydraG
+  955. $11,582 rayoain
+  956. $11,582 龙年继续吃兔兔
+  957. $11,583 willbond007
+  958. $11,584 jannik.bischof
+  959. $11,586 BeerCake
+  960. $11,587 ONAL
+  961. $11,587 Chexbi
+  962. $11,589 Lord Orion
+  963. $11,590 Dregu
+  964. $11,590 WaLLz
+ *965. $11,592 Cracklepappy
+  966. $11,593 Redneck3521
+  967. $11,594 pineapplebacon777
+  968. $11,594 BlueFox
+  969. $11,594 Moiré
+  970. $11,594 CommanderMidget
+  971. $11,594 bananerna3
+  972. $11,595 potato
+  973. $11,595 Blue
+  974. $11,595 tokkytokky8
+  975. $11,596 guilherme.gigeck
+  976. $11,597 Ludvagn
+  977. $11,597 tuxxyy
+  978. $11,598 HotelMotel
+  979. $11,599 Tuki
+  980. $11,599 rhdkenn
+  981. $11,605 Hnusný Slimák
+  982. $11,608 Diego Linares
+  983. $11,608 Trashman Kod
+  984. $11,609 ack321
+  985. $11,609 sleepyskater
+ *986. $11,609 funkyd3000
+  987. $11,610 Kingam
+  988. $11,613 condie
+  989. $11,615 Gozza96
+  990. $11,615 hobz [REG]
+  991. $11,619 Dummy Thicc Watermelon
+  992. $11,620 Istas
+  993. $11,620 SoulWager
+  994. $11,620 appiekaufman
+  995. $11,620 saru
+  996. $11,622 davidantabi
+  997. $11,622 Supperman
+ *998. $11,624 Dumbsnark
+  999. $11,625 抱歉不予顯示
+ 1000. $11,625 iN3krO
